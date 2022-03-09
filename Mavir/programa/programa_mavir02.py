@@ -1,6 +1,5 @@
 import funciones as f
 
-
 #Primero elimino los archivos existentes
 f.eliminar_archivos_existentes()
 
