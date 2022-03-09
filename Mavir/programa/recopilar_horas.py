@@ -16,27 +16,25 @@ def recopilar_hora(original,nuevo):
 			time = char
 			char2 = original.read(1)
 			if char2.isnumeric():
-				time = time + char2
+				time = char + char2
 				char3 = original.read(1)
 				if char3 == ':':
-					time = time + char3
+					time = char + char2 + char3
 					char4= original.read(1)
 					if char4.isnumeric():
-						time = time+char4
+						time = char + char2 + char3 +char4
 						char5 = original.read(1)
 						if char5.isnumeric():
-							time = time +char5
-							char6 = original.read(1)
-							if char6 == ':':
-								char7 = original.read(1)
-								char8 = original.read(1)
-								time = time + char7 + char8
-								nuevo.write(time+'\n')
-							else:
-								nuevo.write(time+'\n')
-
+							time = char + char2+ char3 + char4 +char5
+							nuevo.write(time+'\n')
+			elif char2 == ':':
+				time = char + char2
+				char3 = original.read(5)
+				time = time + char3
+				nuevo.write(time+'\n')
+			else:
+				pass
 
 recopilar_hora(original,nuevo)
-
 original.close()
 nuevo.close()
