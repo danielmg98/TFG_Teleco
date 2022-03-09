@@ -4,6 +4,7 @@ if os.path.isfile('./copia02.txt'):
 	os.remove('./copia02.txt')
 
 original = open('../nuevo/mavir02_new6.txt','r')
+
 nuevo = open('./copia02.txt','w')
 
 def recopilar_hora(original,nuevo):
