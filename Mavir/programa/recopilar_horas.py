@@ -36,6 +36,7 @@ def recopilar_hora(original,nuevo):
 				pass
 
 recopilar_hora(original,nuevo)
+
 original.close()
 
 nuevo.close()
