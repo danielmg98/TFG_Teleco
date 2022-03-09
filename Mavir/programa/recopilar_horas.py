@@ -37,4 +37,5 @@ def recopilar_hora(original,nuevo):
 
 recopilar_hora(original,nuevo)
 original.close()
+
 nuevo.close()
