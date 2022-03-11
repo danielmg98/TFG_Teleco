@@ -1,0 +1,961 @@
+COR muchas gracias  Julio  00:01
+
+COR buenos días  00:02
+
+COR &eh  Adolfo Corujo  León  Dilbert ...  00:05
+
+COR   para qué le diría que improvisara   00:07
+
+COR  podía haber sido más sencillo si le hubiera dado las líneas  00:09
+
+COR &eh  quiero agradecer a la UNED que   nos invite a participar en  en esta jornada MAVIR  00:15
+
+COR que además tiene un título  Tecnologías de la Lengua en  uve doble uve doble uve doble   {%act: laugh}  dos puntos  retos y mercados potenciales  00:24
+
+COR  para un chico de marketing  lo importante es eso de los mercados potenciales  00:28
+
+COR o sea  decir eso me ha captado {%alt: captao}  me ha atrapado {%alt: atrapao} la atención  en los últimos  en las últimas semanas  cuando estaba preparando esta charla  00:35
+
+COR y  ayer recordaba una cosa en cuanto a lo del tema del mercado potencial  que ahora hablando Isabel Aguilera   {%act: click}  me ha ayudado a cambiar  00:42
+
+COR y es  mercado potencial  00:44
+
+COR fijaos {%alt: fijaros}  00:45
+
+COR estaba hablando Isabel Aguilera  dos por ciento de inversión publicitaria  en España  veintisiete por ciento  de toda la audiencia  en Internet  y un medio que tiene el noventa y ocho por ciento  de esa audiencia  que es Google  00:59
+
+COR y aún así Larry Page  dice  long long way  from  that  01:04
+
+COR y lo planteaba dentro de sus objetivos  01:07
+
+COR dice  todavía nos queda muchísimo por recorrer  01:09
+
+COR pues  fijaos {%alt: fijaros} si hay mercado potencial  01:11
+
+COR tenemos un tremendo mercado potencial por delante  01:14
+
+COR y me acordaba al preparar la charla de un ejemplo  01:16
+
+COR que a lo mejor  no viene al caso  pero que os  pido que  que escuchéis  01:21
+
+COR y es  en  en una  en la historia de la música pop  de un escritor  que se llama Nick Cohn  a  finales de los  sesenta principios de los setenta  planteaba una tesis muy interesante  01:31
+
+COR decía  que todo lo que pasó en los sesenta en la música  fue debido  a un solo hecho  01:36
+
+COR al hecho de que un grupo  de desconocidos chavales  se fueron a la discográfica más importante  de  Inglaterra  intentaron venderles su música  01:45
+
+COR y  les denegó el contrato  01:47
+
+COR inmediatamente les fichó la competencia  y ese grupo se convirtió en The Fab Four  y fueron los Beatles  01:54
+
+COR y claro  inmediatamente todo el resto de las discográficas del país empezaron a escuchar a cualquier joven  que llegaba una  con una guitarra a la puerta de casa  y decía  grábame un disco  02:02
+
+COR dicen  a ver si estos son otros nuevos Beatles  02:04
+
+COR y me puedo forrar con ellos  02:06
+
+COR llevado al mercado  y al mundo de la tecnología hoy en día  cuando escuchas la venta de YouTube  te hablan de Skype  o te hablan de un Google que en cinco años ha creado un imperio  que supera   al gigante azul  por ejemplo  de IBM  pues entonces te planteas  hay mercado potencial  02:23
+
+COR hay mucho mercado potencial  02:24
+
+COR  y estamos en el momento de llamar a todas esas discográficas  para poder  desarrollar productos y servicios  porque están deseándolo hacer  y porque hay un clima muy favorable  para lanzar nuevas ideas  y apostar por el desarrollo tecnológico  02:37
+
+COR eso es lo que yo me planteaba  02:39
+
+COR hoy en  la pequeña charla que vamos a tener  os voy a hablar de  que la situación de España  el español  y los buscadores  precisamente ofrece  un importante mercado potencial  02:50
+
+COR y vamos a tener la posibilidad  de debatirlo  y charlar acerca de esas oportunidades  02:55
+
+COR yo trabajo en una empresa  el grupo ALMA  que cree que realmente hay  una oportunidad de negocio  02:59
+
+COR y además trabajo en una empresa  en el grupo ALMA  que por su perseverancia a lo largo de los últimos años  ha obtenido y ha conseguido  estar en el mercado  estar haciendo negocio  y estar creando la tecnología que nos gusta  03:10
+
+COR  así que  somos unos  absolutamente convencidos  de que ahora mismo estamos en un buen momento de mercado  y que además hay mercado potencial y oportunidad  para la tecnología  03:19
+
+COR  bien  vamos con la económica  03:24
+
+COR  hoy en día  cifras más o menos redondas  03:27
+
+COR el ocho por ciento  el siete coma nueve por ciento de los internautas del mundo  son hispanohablantes  03:32
+
+COR  unos ochenta millones  03:34
+
+COR pueden ser un  entre setenta y cinco  y ochenta y pico millones de  de internautas   son hispanohablantes  03:40
+
+COR  además  estamos por detrás de  el japonés  del chino  del inglés  03:46
+
+COR  pero se da una  una casuística  una casualidad  03:49
+
+COR  el japonés tiene hoy en día  los japoneses tienen una penetración  de Internet  del sesenta y siete por ciento  03:54
+
+COR  su capacidad de crecer  de incorporar nuevos usuarios a Internet  se ha ralentizado  03:59
+
+COR ya tienen una gran penetración de la tecnología  en su país  04:02
+
+COR   {%act: click}  04:03
+
+COR  la gente que habla inglés  en el mundo  ya tiene un grado de penetración del veintisiete por ciento  04:08
+
+COR que es un grado de penetración  todavía bajo  pero importante  04:11
+
+COR sin embargo los hispanohablantes tenemos una penetración del dieciocho por ciento de Internet  04:15
+
+COR  qué quiere decir   04:16
+
+COR  que tenemos  muchísimo terreno  muchísimos hispanohablantes que incorporar todavía a la red  para estar en ese grado de penetración del veintisiete por ciento  04:24
+
+COR si lo hiciéramos con una regla de tres  que es lo que Dilbert  nos deja a los de marketing  en las tiras cómicas  son las reglas de tres  como cálculo matemático  pues tenemos aproximadamente  ahora mismo  hasta llegar al veintisiete por ciento de penetración en nuestra población  un gap de entre ochenta millones  y ciento &mil  ciento veinte millones de hispanohablantes en el mundo  04:42
+
+COR  si incorporamos  a la gente que habla portugués  por ejemplo  tenemos un salto  muy parecido  04:47
+
+COR podemos pasar en el caso de los portugueses  estamos hablando de los  del catorce por ciento de penetración  04:52
+
+COR también tienen un salto por delante tremendo  a nivel idiomático  04:55
+
+COR  o sea que hay una capacidad de incorporación  &eh importante en esas lenguas  de nuevos internautas  05:00
+
+COR  el tema de los contenidos en español   05:04
+
+COR   quién  quién sabe cuántos contenidos hay en Internet en español   05:07
+
+COR  eso es  es un tema  que llevo un año  leyendo todos los informes que me llegan a mi mano  y es que no coincide ninguno  05:12
+
+COR  pero más o menos  más o menos  todo el mundo sitúa los contenidos del castellano en el mundo  en torno  a  entre el dos  y el cinco por ciento  05:23
+
+COR más o menos  más o menos  05:25
+
+COR  yo apuesto  por poner simplemente la cifra de Fundetec  que es el cuatro coma seis por ciento  que nos puede servir de base  05:31
+
+COR evidentemente hay otras lenguas  que tienen muchos más contenidos  en  en el mundo  05:37
+
+COR pues por ejemplo el inglés  el alemán  el francés  05:40
+
+COR  y ahora vayamos  a la representatividad en los motores de búsqueda  05:45
+
+COR  el noventa y ocho por ciento de las consultas que se realizan a motores de búsqueda en España  se hacen a un motor  05:50
+
+COR ha estado Isabel  es Google  el noventa y ocho o noventa y nueve  05:54
+
+COR somos el país del mundo  que más utiliza y que más fiel  es  en  en el uso de Google  06:00
+
+COR   es curioso   06:01
+
+COR  no quiere decir  que Google no sea un líder en el resto de los países  06:05
+
+COR es que en la mayoría de los países occidentales  los internautas  suelen utilizar dos  o tres buscadores  06:10
+
+COR siempre Google  y otros buscadores para hacer consulta  06:13
+
+COR sin embargo en España la mayoría de nosotros  yo el primero  utilizo  básicamente Google  06:18
+
+COR y pocas veces &u  utilizo una alternativa a Google cuando &ha  hago una búsqueda  06:22
+
+COR este año  en primavera  mi empresa  hizo un estudio  acerca de  cuál sería el porcentaje del índice de Google  que estaría en castellano  06:33
+
+COR  y estuvimos durante quince días haciéndole cargas de profundidad  &comparaciendo  comparando  diferentes idiomas  el inglés  el francés  el alemán ... 06:40
+
+COR  mediante tablas de comparación  de ponderación de frecuencias de términos  06:44
+
+COR unas pruebas  &buen  pues para saber  qué porcentaje aproximadamente  podrían tener de contenidos en castellano  06:49
+
+COR  nos salían  resultados que &va  que variaban  entre el uno coma cinco  y el tres por ciento  del índice  06:57
+
+COR  yo  he apostado en esta presentación por poner el dos  07:00
+
+COR  era una variación que se sigue manteniendo hoy en día  07:02
+
+COR  está aproximadamente  en esas cifras  07:04
+
+COR  claro  si decimos que tenemos el ocho por ciento de los  internautas del mundo  son hispanohablantes  07:11
+
+COR el cuatro coma seis por ciento de los contenidos  están en castellano  07:17
+
+COR y el dos por ciento del repositorio de Google  está en castellano  encontramos cierto nivel  de &eh  de no proporción  07:27
+
+COR parece que hay más hispanohablantes navegando por la red  que contenidos  a su disposición  07:32
+
+COR  y además  la cifra puede llegar a ser realmente dramática  cuando lo comparamos  por ejemplo  con las posibilidades que tiene  una persona que habla inglés  dentro  de Internet  07:42
+
+COR  voy a  ponemos un caso  07:45
+
+COR un caso  de un buen amigo que  cita muy a menudo  y que la verdad es que a mí me ayudó mucho a comprender lo que pasa en Internet  07:51
+
+COR  es el caso Picasso  07:53
+
+COR  Picasso es el primer icono cultural de nuestro país en la red  07:57
+
+COR  o sea  si echamos un vistazo al  WebTrends  la gente por el mundo  el término  ligado a la cultura hispana que más busca  es  Picasso  08:06
+
+COR   {%act: doubt} se supera    a cualquier otro icono cultural  08:10
+
+COR  es verdad que es un icono cultural muy ligado a Europa  08:12
+
+COR es   es verdad que es un  icono cultural muy significativo del siglo veinte  08:16
+
+COR y que además siempre está de actualidad  08:17
+
+COR  y de hecho  como os digo  es el icono más importante que nuestro país tiene en la red  08:22
+
+COR  cuando le preguntamos  vamos a coger el motor de búsqueda más representativo  esto nos pasa igual en  en Live  en Yahoo  vamos a poner Google porque  es el que uso habitualmente  08:31
+
+COR cuando le preguntamos a  a Google  cuántos documentos  contiene en su repositorio  en  español  que hablen de Picasso  nos contesta  o que tengan la palabra Picasso  nos contesta que tiene cuatrocientos setenta y cinco mil documentos  08:44
+
+COR  eh  vamos a ver  estoy en la universidad  08:46
+
+COR   {%act: laughs while he speaks}  esos documentos  los calculan mediante  una especie de estimación  que cada diez minutos más o menos varía  y que puede pasar a un millón  a cuatrocientos setenta y cinco mil  a doscientos mil   08:57
+
+COR  estas tres consultas fueron hechas en el mismo momento  09:01
+
+COR para más o menos conservar  la proporción  09:02
+
+COR cuatrocientos setenta y cinco mil documentos  09:04
+
+COR  si le preguntamos lo mismo a Google  de documentos que hablen de Picasso  y que te contengan la palabra  o sea  de que contengan la palabra Picasso  y que estén en francés  la respuesta es que contienen  dos millones seiscientos mil documentos  dos millones quinientos noventa mil  09:17
+
+COR  hay más documentos en francés  que hablan de Picasso  que en castellano  09:21
+
+COR  parece evidente  09:22
+
+COR  si hacemos la &pregun  la misma pregunta en inglés  son  cuatro millones seiscientos veinte mil  documentos que hablan de Picasso en inglés  frente  a los cuatrocientos setenta y cinco mil  que hablan  de Picasso en castellano  09:34
+
+COR la pregunta que nos tenemos que hacer  desde el punto de vista cultural como país  y desde el punto de vista  de  hispanohablantes  es   sólo hay cuatrocientos setenta y cinco mil documentos en Internet que  contengan la palabra Picasso   09:48
+
+COR  y hacíamos una pequeña prueba  09:50
+
+COR  dice  no  09:53
+
+COR un ejemplo  en el Instituto Cervantes  09:54
+
+COR cogemos  el portal web que tiene el Instituto Cervantes en Nueva York  y le preguntamos a Google    cuántos documentos tienes  en  el Instituto Cervantes  que  tengan la palabra Picasso   10:07
+
+COR   el Instituto Cervantes en Nueva York  en su portal  10:09
+
+COR  y Google nos contesta  ninguno  10:12
+
+COR  sin embargo  cuando le preguntamos al buscador del Instituto Cervantes de Nueva York  nos contesta que  ochenta y siete  10:20
+
+COR  así que  por lo menos  hay cuatrocientos setenta y cinco mil  ochenta y siete documentos  que hablan de Picasso en Internet  10:29
+
+COR que Google  no tenía reconocidos  10:32
+
+COR   es un problema de Google   10:33
+
+COR  no  qué va  10:33
+
+COR  es un problema  en primer lugar  del Instituto Cervantes  10:36
+
+COR y en segundo  de la estrategia país  que potencia nuestra cultura  dentro  del resto del mundo  porque necesitaríamos  que esos documentos estuvieran al alcance de todos los usuarios que buscan  contenidos acerca de Picasso  10:50
+
+COR que es nuestro icono cultural  que más podemos vender  del que más podemos extraer  10:54
+
+COR  imaginaos {%alt: imaginaros} lo que supone Picasso  o lo que podría suponer Picasso en términos de  &eh  ingresos por turismo en Málaga  11:03
+
+COR o en  o de viajes a la Costa del Sol  o al  Museo Picasso  si fuera el primer resultado que ofreciera Google  cuando  se busca Picasso por ejemplo en Nueva York  11:13
+
+COR  pero claro  una de nuestras principales herramientas de promoción  que es el Instituto Cervantes  ni siquiera tiene sus contenidos indexados por Google  11:18
+
+COR  esto es  un pequeño problema  11:20
+
+COR  por cierto  no los tenía  11:22
+
+COR  ya lo ha subsanado  11:23
+
+COR  esto era  un ejemplo tramposo  11:25
+
+COR   {%act: laugh}   11:26
+
+COR  esto está resuelto  11:28
+
+COR cuando nos planteamos cuáles son las razones del caso Picasso  podemos escuchar  un montón diferente de alternativas  11:35
+
+COR  yo ya he escuchado {%alt: escuchao}  vamos a mencionar  cuatro teorías fundamentales  11:39
+
+COR  dice  bueno  la &pri  la primera evidentemente es que el mayor motor del mundo  no alcanza a cubrir  más allá del cuarenta por ciento de los contenidos en castellano  11:49
+
+COR  yo soy de las personas que sostengo que no alcanza a cubrir  más allá del ocho por ciento de los contenidos en castellano  11:55
+
+COR  pero he sido rebatido  en un montón de foros  11:58
+
+COR  así que asumo la  teoría predominante  y ahora mismo estándar en el mundo  que dice que el cuarenta por ciento  12:03
+
+COR  bah  12:04
+
+COR vamos a quitarnos de ahí esas pajas  12:06
+
+COR  pues cuarenta por ciento  12:07
+
+COR no pasa nada  12:08
+
+COR  dice   por qué   12:10
+
+COR  en primer lugar  teorías  12:13
+
+COR  será por su capacidad tecnológica   12:14
+
+COR  dice  hombre  un buscador  un motor de búsqueda como  Google  o Yahoo  o Live  se enfrentan a un problema  importante  12:21
+
+COR en primer lugar  a la velocidad de crecimiento de los contenidos en Internet  12:24
+
+COR crecen a mucha velocidad  y es muy difícil que un motor de búsqueda  pueda seguir ese ritmo  12:28
+
+COR  aquí  os pongo un ejemplo como el que os decía antes de Nick Cohn  12:32
+
+COR  yo escuché de pequeño una frase  que me quedó absolutamente clavada  12:35
+
+COR  decía  siempre  podrá haber  un Cristóbal Colón en la galaxia  que descubra una nueva estrella  12:41
+
+COR pero es muy difícil que haya un Magallanes  que la circunde completa  12:44
+
+COR  y  yo dije  {%act: blow}  esto {%alt: to}  esto {%alt: to} tiene alcance  12:48
+
+COR  en Internet nos pasa lo mismo  12:49
+
+COR  es fácil que tengamos herramientas que descubran información todos los días  12:52
+
+COR  pero es difícil que una herramienta tenga  toda la información  de lo que se produce en Internet  12:56
+
+COR  es casi  es casi contrario a la filosofía del  propio movimiento de Internet  13:01
+
+COR  por no decir que es casi hasta peligroso  13:04
+
+COR  pero por lo menos contrario  13:05
+
+COR  así que un problema es el ritmo de crecimiento  13:09
+
+COR  el otro problema es la web visible e invisible  13:11
+
+COR  no toda la información que está publicada en Internet  es accesible para un motor de búsqueda  13:15
+
+COR  &ha  &ha  hacíais una pregunta que era muy interesante  13:18
+
+COR &eh  la  el posicionamiento SEO  13:20
+
+COR  puede que tú tengas una información  tremendamente útil  que sea  tremendamente interesante  y sin embargo que no sea accesible para la gente  13:26
+
+COR  se puede resolver  pero tú marcabas un  tema que era muy interesante  13:31
+
+COR  y es  se tiene que resolver  en este momento  y con el noventa y por ciento de las consultas hechas a Google  con el patrón de Google  13:36
+
+COR  porque como si te saltes ese patrón  no se resuelve tu problema  13:40
+
+COR y eso es verdad  13:41
+
+COR  han creado un estándar de facto  que hay que cumplir  13:44
+
+COR y si no lo cumples  estás fuera de juego  13:46
+
+COR  es un importante  tema  13:48
+
+COR  y luego está el spam  13:49
+
+COR  que es  &mm   ensucia muchísimo los repositorios de los motores de búsqueda y les hace gastar mucho tiempo  en eliminar esa estructura publicitaria que les intenta engañar  para posicionar mejor los contenidos  13:59
+
+COR  podemos seguir con factores tecnológicos  14:02
+
+COR  el hecho es que es verdad que un motor de búsqueda no puede aspirar a tener el cien por cien de los contenidos indexados  14:07
+
+COR  puede intentar conseguirlo pero paulatinamente  pero tiene  grandes retos tecnológicos  que superar para poder conseguirlo  14:13
+
+COR  la segunda  teoría  que hay para explicar lo de la penetración del   del idioma  esa me gusta mucho  14:21
+
+COR que es la facilidad lingüística  14:22
+
+COR  es cierto  que  el inglés  es el idioma preponderante {%alt: preporderante} en el mundo  no sólo porque sea la primera lengua más extendida  lo del chino nunca lo sé porque   está ahí   {%act: laugh}  la primera lengua más extendida  sino porque es la segunda  del resto del mundo  14:38
+
+COR  y claro  si yo soy un buscador  y sé que no puedo conseguir tener el cien por cien de los contenidos  que hay en Internet  por incapacidad tecnológica  y tengo que decidir  con cuáles me quedo  prefiero quedarme con los que están en inglés  antes de quedarme con los de los otros idiomas  14:53
+
+COR porque los de los ingleses  los de  inglés me permiten  tener una respuesta para &el  el internauta mayoritario  que habla como primera o como segunda lengua  el  inglés  15:01
+
+COR  son teorías apasionantes  15:02
+
+COR  no me digáis que no tiene miga  15:04
+
+COR  &in  intentad {%alt: intentar} discutir acerca de esto sobre si es cierto o no es cierto  15:08
+
+COR  la tercera teoría  muy  establecida  y ha habido una pregunta antes &Isa  a Isabel Aguilera  en esa línea  es razones de negocio  15:14
+
+COR  hay una cosa que es evidente  15:16
+
+COR  si Google tiene  a  a  Sudamérica  Latinoamérica  América Latina  como una región asociada a Asia Pacífico desde el punto de vista comercial  y sin embargo se está planteando dividir España y Portugal con intereses comerciales  imaginaros lo que piensa Google  de la capacidad de negocio que ahora mismo tiene en Latinoamérica  15:34
+
+COR  de momento la desprecia  15:36
+
+COR   por qué   15:38
+
+COR  vamos al caso de nuestro país  15:39
+
+COR  en nuestro país  sólo se invierte de ese dos por ciento  de inversión publicitaria online  sólo se invierte  el cero coma cinco por ciento en motores de búsqueda  15:50
+
+COR  en Estados Unidos  de todo el presupuesto &on  de  la publicidad  de todo lo que invierte Estados Unidos que es el país  que por &cap  por  per cápita  más invierte en publicidad online  de todo ese presupuesto  el siete por ciento va a medios online  16:05
+
+COR del cual  &de los  de cual  del  del volumen total de inversión el cincuenta por ciento  va a motores de búsqueda  16:12
+
+COR  es tremendamente rentable el mercado de la publicidad en motores de búsqueda en Estados Unidos  16:16
+
+COR  y sin embargo en nuestro país es paupérrimo  16:18
+
+COR  cuando hablas con una agencia de publicidad  vas a McCann Ericsson  y le dices  venga  vamos a hacer cosas en motores de búsqueda  16:24
+
+COR coge McCann y dice   chato  vamos a ver  una cosa  16:27
+
+COR  yo muevo  un volumen  de contratación publicitaria  que es  diez veces mayor  que lo que se invierte en motores de búsqueda en publicidad en España  en toda la inversión  16:38
+
+COR  &eh   que yo me voy a dedicar a venderle a mis clientes publicidad en motores   16:42
+
+COR  hombre  no fastidies  16:43
+
+COR  sólo si me lo piden  16:44
+
+COR  pero me lo tienen que pedir mucho  16:45
+
+COR  tengo que vender en  publicidad en televisión  16:48
+
+COR que es donde le saco  más dinero  16:50
+
+COR donde le tengo que vender las campañas  16:52
+
+COR  va por ahí el tema  16:53
+
+COR  claro  eso va a hacer  que la lengua española  bueno  pueda no ser tan estratégica desde el punto de vista del negocio  como es la lengua inglesa  17:02
+
+COR  otra teoría  que daría para discutir  mucho  17:05
+
+COR  porque claro  no casa  con la filosofía del don't be evil  &mm  que mantienen este tipo de motores  17:11
+
+COR  es verdad  17:12
+
+COR  le decía antes a Julio en  &mm  aparte  decía {%alt: cía}  qué  qué mal casa  un modelo de negocio publicitario  con la idea de  hay que intentar mejorar el mundo  17:22
+
+COR  es que a los publicistas  yo soy publicista de profesión  se nos ve fatal por ahí  17:25
+
+COR   para {%alt: pa} qué intentas engañarme   17:27
+
+COR  me estás vendiendo algo  17:28
+
+COR  me metes publicidad en  hasta en la sopa  17:31
+
+COR  la cuarta razón  es la que  más me preocupa a mí  17:35
+
+COR  que es la madurez de nuestro espacio  de nuestros espacios en Internet  17:39
+
+COR  desde luego  si nuestros espacios en Internet no logran tener  esos &ocho  ochenta y siete documentos que había de Picasso en el Instituto Cervantes  en Google  y todos los españoles financiamos el Instituto Cervantes  porque es nuestra herramienta de  promoción cultural  lo que nos debemos preocupar  de momento  que esté  17:57
+
+COR  porque si no  no es accesible  17:59
+
+COR puede que esté en la  en Internet  pero no va a ser visible para ningún usuario  18:02
+
+COR  es cierto que en nuestro país hay una inmadurez en Internet importante  18:07
+
+COR  en SEO  lo tienes que estar viendo  18:09
+
+COR  los pasos que se dan  se dan muy atrás  18:12
+
+COR  la web hoy en día española está como tres  cuatro años por detrás de la web en el resto de los países occidentales  18:17
+
+COR  y este es un problema  18:18
+
+COR  porque los motores de búsqueda no les indexan  porque no les pueden indexar  18:22
+
+COR  porque nos &em  empeñamos en tener webs  que son muy bonitas  pero muy poco útiles  18:26
+
+COR  muy poco rastreables ...  18:28
+
+COR   {%act: grumbles incomprehensible words}  escuchaba  a  el día de la presentación del día de Internet  escuchaba a Emilio Ontiveros decir una cosa que es que a mí me  me  me tuvo una semana pensando  18:36
+
+COR  dice   pero cómo van  a tener las empresas web corporativos útiles  e interesantes  si  noventa y cinco de cada cien grandes directores de empresa que visito  no tiene ni un ordenador en su despacho   18:51
+
+COR  claro  en esos despachos suele haber una televisión  suele haber un vídeo  suele haber todo tipo de revistas  suele haber  resúmenes de prensa  pero no tienen ordenador  19:03
+
+COR  explícale tú a ese presidente de compañía lo importante que es tener una web corporativa útil y rastreable ...  19:09
+
+COR  je   si es casi imposible   19:11
+
+COR  el otro día me decía un presidente de una empresa de alto nivel  una cosa que era muy curiosa  19:15
+
+COR  me decía  la killer application en Internet  es la información bursátil  19:20
+
+COR    {%act: laugh}  decía   {%act: laugh}  claro  debe ser la que tú consultas porque   {%act: laugh}  si te voy a explicar que  los chats  llevan rompiendo la pana  desde hace diez años  pues ...  19:29
+
+COR   probablemente no lo veas  no  19:31
+
+COR  así que  lo que más me preocupa es  la madurez de nuestro &espa  nuestros espacios en Internet  19:36
+
+COR   qué significa el caso Picasso   19:39
+
+COR  bueno  el primero y el más fácil es que para los ochenta millones de internautas hispanohablantes  el sesenta por ciento de la información  está oculta  19:46
+
+COR  no  no  no tenemos acceso a ella  19:47
+
+COR  cuando buscamos en nuestra herramienta de consulta habitual  que es Google  esa información no está rastreada  19:52
+
+COR como no está rastreada  no nos la devuelven como resultado  y por tanto nunca podemos acceder a ella  19:56
+
+COR  esto  en el mundo empresarial  se traduce  en que  cuando las empresas invierten  doce mil millones de euros en tecnologías de la información al año en España  y el cuarenta por ciento de las empresas disponen  de su web  corporativa  resulta  que  la inversión para estar presente en Internet que realizan  que es de mil millones de euros  se va al garete  20:21
+
+COR  porque no les vale para nada  20:23
+
+COR  porque no logran estar indexados  20:25
+
+COR  os pongo un caso  muy de SEO  del mundo SEO  20:28
+
+COR  &eh  haciendo una &esta  un estudio comparativo de la presencia de EON  y Gas Natural en Internet  y &o  haciendo consultas a los motores de búsqueda  encontrábamos en nuestra empresa una cosa  muy curiosa  20:38
+
+COR y es que  preguntando en castellano  en inglés  o en alemán  sobre la &epo  sobre la opa  de Endesa  no aparecía entre los cien primeros resultados en ninguno de los tres idiomas ningún documento de Gas Natural  hablando de la opa  20:53
+
+COR  aunque en su espacio web lo  tenían documentos hablando de la opa  20:56
+
+COR  y sin embargo  EON  estaba situado siempre entre los cinco primeros resultados  en los tres idiomas  21:02
+
+COR  EON estaba exprimiendo  su apuesta en Internet  21:06
+
+COR  y sin embargo Gas Natural estaba perdiendo una gran oportunidad  21:10
+
+COR  también es cierto que inmediatamente comprobamos  que es que Gas Natural  a pesar de tener catorce mil documentos en su página web  sólo tenía indexados cincuenta y seis por Google  21:18
+
+COR  un problema de rastreabilidad  claro  de su web  21:21
+
+COR  por cierto  un flash precioso {%com: everybody laughs}  21:23
+
+COR  una cosa  preciosa  21:27
+
+COR  España hoy en día  y el mercado en España  tiene una oportunidad de oro en Internet  21:32
+
+COR  la tiene  porque  puede posicionarse como una auténtica potencia mundial  en este espacio  21:39
+
+COR  si yo tuviera que citaros  qué países pueden tener más oportunidades que España dentro del mundo de Internet  de verdad que excepto el crecimiento  obvio de China  y la potencia que ya tienen países consolidados  los que deberíamos experimentar un importante incremento somos nosotros  21:55
+
+COR  &nos  tenemos un potencial  sólo por el ámbito de la  vinculación del idioma  de ciento &millone  de ciento veinte millones de internautas  que además van a nuestro ritmo de incorporación en Internet  somos el tercer grupo asociado después del chino y el inglés  y además tiene un horizonte de crecimiento tremendo por delante  22:13
+
+COR   sabes quién se está aprovechando de este mercado   22:14
+
+COR  los mexicanos  22:16
+
+COR   qué tíos   22:17
+
+COR  han visto tener una oportunidad  con Estados Unidos en la generación de contenidos  y su ritmo de crecimiento tecnológico en Internet es mucho más alto que el español  22:25
+
+COR  se han dado {%alt: dao} cuenta  22:27
+
+COR  es cierto que tienen la demanda muy cercana  la frontera  22:30
+
+COR pero ahora separada por un muro  22:32
+
+COR  es que no me podía resistir   {%act: laugh} {%com: everybody laughs}  22:33
+
+COR  también además tenemos la posibilidad de aprovechar  nuestra oferta  en los mercados electrónicos de mayor  &mm  consumo  en contenidos  22:46
+
+COR  la cultura y el ocio suponen hoy en día el ocho por ciento  de acuerdo  de lo que han adquirido los europeos en el último año  22:53
+
+COR y en el ámbito de turismo   qué os voy a decir del turismo   22:56
+
+COR  si todos hemos reservado este verano alguna cosita en  en Internet  22:59
+
+COR  pues España es una potencia turística  23:02
+
+COR  y es una potencia cultural  23:03
+
+COR  deberíamos a lo mejor poder aprovecharlo  23:08
+
+COR   cómo podemos aprovechar este escenario   23:11
+
+COR  en primer lugar  yo creo que lo primero que deberíamos hacer es abrir nuevas vías de acceso a los contenidos  23:19
+
+COR tanto los contenidos que están en nuestras lenguas oficiales  como aquellos que tratan de nuestros iconos culturales y sociales  23:27
+
+COR  debemos mejorar en ese ámbito nuestra presencia en Internet  23:30
+
+COR  debemos abrir nuevas vías  nuevos caminos  nuevos accesos  a través de mejorar  evidentemente nuestra rastreabilidad en los grandes motores  pero a través de otro montón de herramientas que permiten hoy en día la web social  23:40
+
+COR  es verdad que debemos también potenciar la creación de esa comunidad virtual en torno a nuestros idiomas de referencia  23:48
+
+COR  tenemos la posibilidad  en ese sentido  de ser un referente  y debemos explotar esa posibilidad  23:53
+
+COR  además  debemos tener herramientas que nos permitan tener información de primera mano acerca de los internautas  24:03
+
+COR  esto lo he discutido  de verdad  me  me preguntaban al principio   podemos grabar la ...   24:08
+
+COR  jope  pues ya verás cuando lo difundáis  24:11
+
+COR  porque es verdad que nos acabamos metiendo con todo el mundo  24:13
+
+COR  esto lo estuvimos discutiendo con el director del observatorio de Red punto es  con Domingo Laborda  que además es buen amigo  24:19
+
+COR  Domingo  pregunta  Domingo   tenéis herramientas reales para saber  lo que quiere el usuario en Internet   24:27
+
+COR  o sea  hacemos encuestas ...  24:31
+
+COR  pero algo a lo que yo no mienta  de acuerdo {%com: laugh while speaking}  24:34
+
+COR  porque por defecto  miento sistemáticamente a esa encuesta  24:37
+
+COR  me preguntan   usted para qué quiere Internet   24:39
+
+COR  digo  para {%alt: pa} buscar información  24:41
+
+COR no  no  no  no  no  24:42
+
+COR para {%alt: pa} descargarme discos  24:43
+
+COR porque a mí me encanta SoulSeek  y soy un enamorado de la música  24:47
+
+COR estoy {%alt: toy} todo el día con el peer to peer para {%alt: pa} arriba y para {%alt: pa} abajo  24:49
+
+COR  &eh  pero no lo digo en la encuesta  {%act: blow}  24:52
+
+COR  no lo digo ni cuando me llama Jazztel por un problema técnico  24:55
+
+COR   no será que tiene usted un peer to peer   24:56
+
+COR  no   no  yo no  24:58
+
+COR yo no  24:59
+
+COR {%com: laughs while speaking} estaba {%alt: etaba} ahí navegando  y se ha {%alt: sa} roto  25:02
+
+COR   25:03
+
+COR pero yo no he hecho nada {%alt: na}   {%act: laugh}  25:04
+
+COR  eso  es verdad  25:07
+
+COR  hoy en día  a nivel país  no tenemos herramientas que nos permitan captar  qué están buscando los internautas  25:12
+
+COR   qué  qué  por qué Google hoy en día es el número uno   25:14
+
+COR  Google es el número uno  porque son unos tíos muy listos  pero sobre todo porque  saben lo que busca la gente  25:20
+
+COR  saben lo que quieren  25:21
+
+COR  Gmail  no es el fruto  de dos tíos que se sientan en una mesa y dicen   por qué no hacemos un correo electrónico   25:28
+
+COR  no  es el fruto de que en el WebTrends del año dos mil  era la aplicación más buscada en Internet  25:33
+
+COR como aplicación y servicio  25:35
+
+COR   chato   hay que ir por ahí  25:36
+
+COR lógico  25:38
+
+COR Google Maps  localizarse ...  25:40
+
+COR  pero   por qué   25:40
+
+COR  porque saben lo que busca la gente  25:42
+
+COR  y además ahora están perfeccionando las herramientas como buena empresa de venta de publicidad  para conocer mejor al usuario  25:47
+
+COR  bueno  pues cuando un país se plantea cómo explotar las posibilidades que tiene que tener en Internet  evidentemente  tiene que partir de estudiar  e investigar  y analizar  lo que quieren los internautas  25:57
+
+COR  pero no con herramientas sofisticadas  con herramientas sencillas # {%com: consults the laptop}  26:05
+
+COR también debemos contar con un modelo de conocimiento que nos permita que esa información  no radique  sólo  única y exclusivamente en la gente que la genera  26:13
+
+COR que se quede en el poso de la universidad  o que se quede en el poso de la administración pública  26:17
+
+COR sino que  rompa las barreras  y que llegue  a las empresas que tienen que desarrollar su página web  y tienen que saber cuáles son las palabras más buscadas  las claves  cómo construir una semántica razonable de su página web para que sea atractiva  26:30
+
+COR  eso tiene que saltar  26:31
+
+COR tiene que saltar a los cursos de emprendedores  a los cursos de cómo crear una pyme  26:36
+
+COR  &se  &se  señor  si usted va a crear una pyme  piense en el mercado virtual  26:39
+
+COR pero además  piense cómo tiene que estar en el mercado virtual  26:42
+
+COR  no piense que lo tiene que hacer es coger el letrero  de su papelería  poner papelería en Internet  y vender igual que lo vende en la calle  26:49
+
+COR no  no  la gente no busca papelería  26:51
+
+COR  me decía hace poco  un experto en SEO  que el  las webs de  oferta de  complementos tecnológicos o electrónicos en Internet  se empeñan en hablar de fotografía  cuando todos buscamos foto  27:04
+
+COR no ponemos fotografía  27:06
+
+COR &eh  ponemos foto  para todo {%alt: pa to}  27:08
+
+COR y ellos ponen  fotografía  27:10
+
+COR  pues ese es un problema  importante  de incoherencia a la hora de montar la estructura de una página web # {%com: consults the laptop}  27:18
+
+COR  y por último  esta frase me encanta  porque  tiene que ver mucho con nuestra empresa  apoyar a la industria tecnológica  27:24
+
+COR  &eh  es increíble  27:27
+
+COR  no creo que conozcáis ningún sector  de la actividad económica  que tenga  tal nivel  de penetración  de productos y servicios  de empresas  internacionales  extranjeras  de no capital español  como el mercado de las tecnologías de la información  27:41
+
+COR   {%act: grumbles incomprehensible words}  yo no soy un partidario de la intervención de ningún mercado  pero  imaginaros {%alt: imaginaros} que nos planteamos  que el noventa y ocho por ciento  de la &al  energía consumida en nuestro país  fuera de EON  27:51
+
+COR o que el noventa y ocho por ciento de la audiencia televisiva  fuera la CNN  27:56
+
+COR  bueno  pues os animo a hacer una prueba  27:58
+
+COR  durante un día completo  doce horas  todo lo que toquéis en tecnología  sacad {%alt: sacar} una lista de las marcas  de los productos que estáis utilizando  28:08
+
+COR  mirad {%alt: mirar} a ver qué nivel de penetración tiene la tecnología creada en nuestro país  28:13
+
+COR  es tremendo  28:15
+
+COR  esta misma pregunta se la hizo  el presidente de mi compañía  a un ministro  y le preguntó   cuánto software tienes en tu ministerio  era Ciencia y Tecnología   cuánto software tienes en tu ministerio que sea o creado por empresas españolas   28:28
+
+COR  ninguno  ninguno  28:31
+
+COR  y claro  le decía  no me des subvenciones  28:35
+
+COR   cómprame los productos   28:36
+
+COR   si me das subvenciones me las gasto y no hago nada {%alt: na}   28:40
+
+COR   si me compras los productos me obligas a tener que desarrollarlos y mejorarlos   28:43
+
+COR  esto es muy razonable  no  28:46
+
+COR  en ese sentido  hay tres grandes líneas  28:50
+
+COR  hay que acercar  las iniciativas universitarias  y las empresariales  28:55
+
+COR  a lo largo del último año  nuestra empresa ha tenido una muy buena experiencia en relación  con la gente de la UNED  29:01
+
+COR  hemos empezado a compartir ideas  conceptos ...  29:05
+
+COR  hemos descubierto  de que ni ellos están tan en las nubes  ni nosotros somos tan malos  29:09
+
+COR  pensábamos que ellos estaban en las nubes porque   qué estarán haciendo los universitarios   29:14
+
+COR  bah  cosas que no son útiles  29:16
+
+COR  ellos pensaban que eran malos porque estos tíos sólo piensan en ganar dinero  29:19
+
+COR  pues claro  29:20
+
+COR  tenemos que pagar los sueldos de todos los que estamos  29:23
+
+COR  pero eso es evidente  29:24
+
+COR  así que una de las cosas que es importante perder es el complejo entre las empresas y la universidad de la relación y en la colaboración mutua  29:31
+
+COR  tiene que ser beneficiaria para ambos dos  29:33
+
+COR  y beneficiaria para una empresa es ganar dinero  29:34
+
+COR  esto  suena mal  pero  es así  29:38
+
+COR  nosotros  no tenemos un mensaje  tan bonito de que  ALMA lo que persigue es la  el mejoramiento o la mejora  de la calidad de vida social de todos los que nos circundan  29:48
+
+COR  hombre  lo ponemos en la misión de la compañía  pero   pero  hombre  es una empresa pequeñita  &eh  buf  tenemos una capacidad de impacto muy baja  y nos importa más  mantener los salarios de nuestros trabajadores  y seguir creciendo como empresa  29:58
+
+COR  es una realidad  29:59
+
+COR el segundo ámbito  es estimular el lanzamiento de nuevos servicios y aplicaciones  30:04
+
+COR  creer en que hay que lanzar nuevas cosas  pero nuevas  nuevas  30:08
+
+COR  no  decir  &eh  Israel ha triunfado {%alt: triunfao} desarrollando  software de seguridad  30:14
+
+COR Irlanda es una potencia en el desarrollo  de  &o  &o  el outsourcing  de  pequeños desarrollos para terceros  30:20
+
+COR  hagamos lo mismo   30:21
+
+COR  hombre  no me fastidies  30:22
+
+COR  pero si  la seguridad ya la hace Israel  30:24
+
+COR  si hacemos seguridad nosotros  la llevamos clara  30:26
+
+COR  hay que intentar  que sean nuevas de verdad  30:30
+
+COR  y que igual que hubo un momento en que alguien entendió  que la tecnología del motor de búsqueda  podía ser  o podía significar un paso adelante  en el mundo de Internet  hoy en día ya no vale decir sólo motor de búsqueda  hay que decir más cosas  30:42
+
+COR no quedarnos sólo en ese concepto  30:44
+
+COR  y en tercer lugar  hay que reducir las trabas  al diseño y a la comercialización de productos en nuestro país  30:49
+
+COR  yo  esto  no suele  no lo suele saber la gente que no se enfrenta a la comercialización de productos en la administración pública  30:55
+
+COR  la administración pública en España  compra  mediante un catálogo de patrimonio  31:00
+
+COR   sabéis lo que es un catálogo de patrimonio   31:01
+
+COR  es 31:03
+
+VER desgraciadamente sí  31:03
+
+VER   {%act: laugh} {%com: everybody laughs}  31:03
+
+COR lo sabéis  31:04
+
+COR  un catálogo de patrimonio  es un catálogo de  objetos homologados o productos homologados  que se homologan previamente  para que luego cuando un funcionario quiere adquirir un producto  te dé el código de ese objeto o de ese producto  y  ya no tengan que entrar en un concurso público y la compra sea un poco más ágil  31:20
+
+COR un poco más ágil  31:21
+
+COR dos meses y medio  o  tres  {%act: laugh}  en la compra de un producto  31:25
+
+COR  bueno  pues hay una cosa muy curiosa  31:27
+
+COR   sabéis desde cuándo no se actualiza el catálogo de software  de patrimonio en nuestro país   31:31
+
+COR  desde el año dos mil  dos mil  31:35
+
+COR  o sea que cualquier empresa española desarrolladora de cualquier producto de software  que lo haya desarrollado a partir del año dos mil  no se lo puede vender a la administración pública española  31:46
+
+COR  se lo puede vender  pero con muchas dificultades  31:48
+
+COR  conozco  cientos de empresas   no sé  &mm  me recuerdo siempre las empresas del parque tecnológico de Boecilla  en Valladolid  31:55
+
+COR gente que trabaja sobre todo con temas de gestión de contenidos  31:58
+
+COR  se vuelven locos  para venderle a la administración  32:00
+
+COR  tienen que piratear  para poder vender sus productos  a la administración pública  32:06
+
+COR   y es curioso   32:07
+
+COR  el catálogo de patrimonio  es del Ministerio de Industria  32:10
+
+COR  el mismo que da la patente del software  32:13
+
+COR  &eh  podíamos  obtener la patente del software  y entrar en el catálogo de patrimonio  32:19
+
+COR  y así  cuando hago una patente de software en nuestro país  se lo puedo vender a la administración pública  32:23
+
+COR   {%act: click}  pues no  no pasa  32:26
+
+COR  esas trabas  evidentemente  impiden el desarrollo  de determinados sectores tecnológicos de nuestro país  32:33
+
+COR y hay que intentar  eliminar esas barreras  32:36
+
+COR  pero me he dejado una diapositiva  y dos  para aprovechar este escenario  que tiene que ver con MAVIR  creo  32:43
+
+COR  y es que hay que apostar por la lengua  como uno de los ejes de ese desarrollo  32:48
+
+COR  no es que haya que apostar por la lengua porque todo lo tenemos que poner en español  porque lo que tenemos son clientes que hablan en español  32:53
+
+COR  no  no  no  32:55
+
+COR  pero la lengua es un  excelente  escenario  de desarrollo tecnológico  33:00
+
+COR  y aquellos países que trabajen  en crear  aplicaciones  servicios  que mejoren la relación entre el humano  y la computadora  podrán luego beneficiarse de todo el impacto  tecnológico que ese desarrollo &tecno  que esos desarrollos  pueden tener en el mercado  33:16
+
+COR  y esa es una oportunidad  en el caso español  porque los grandes  en el ámbito de la tecnología  todavía el español no lo contemplan como un idioma  &mm  deseable  33:27
+
+COR  es un idioma  33:29
+
+COR pero todavía no es el primer objetivo  33:30
+
+COR  tienen todavía suficientes problemas en inglés como &plan  plantearse  otras cosas  33:34
+
+COR   {%act: click}  así que  no sólo se suma  la capacidad  hacer desarrollos tecnológicos en el mundo de la Lingüística  y de la Lengua  que fueran tremendamente potentes  sino que además se podrían centrar también en el castellano  que tiene un impacto muy importante y tiene un mercado  muy  claro y muy evidente  33:51
+
+COR y en ese sentido  lo que  desde el punto de vista  de esta charla quería transmitir  transmitiros es concienciarnos  de las tres oportunidades de las que disponemos  34:01
+
+COR  tenemos contenidos  y credibilidad  34:05
+
+COR  nadie discute a España desde el punto de vista de la credibilidad de los contenidos y de cómo los creamos  34:09
+
+COR  tenemos un público al que dirigirnos  ciento veinte millones de personas  34:14
+
+COR  &clar  &eh  pensad {%alt: pensar}  34:16
+
+COR nosotros no sólo nos &dedija  dedicamos  nos dirigimos a los cuarenta y cuatro millones que viven en nuestro país  34:20
+
+COR  tenemos mercado  natural  de expansión  34:23
+
+COR un mercado  absolutamente a nuestro alcance  34:26
+
+COR y además  un mercado en plena expansión  y que sabemos hacia dónde conduce  34:32
+
+COR  y esto  es que es genial  34:34
+
+COR  porque  muchas de las cosas que pasan aquí  pasaron en Estados Unidos hace tres años  34:39
+
+COR  a ver  voy a hacer de Nostradamus  34:41
+
+COR  este año el comercio electrónico en Navidades va a pegar un pepinazo  espectacular  34:47
+
+COR  acierto fijo  34:48
+
+COR  hace tres años en Estados Unidos se produjo el boom de la ruptura del comercio electrónico a través de unas navidades  34:54
+
+COR  si no es este será el año que viene  34:56
+
+COR  pero va a ocurrir  34:58
+
+COR   qué compraron los norteamericanos en la red   35:00
+
+COR  eso es lo que tendríamos a lo mejor que estar pensando  35:03
+
+COR  porque esos productos se van a comprar también en nuestro país  eh  35:05
+
+COR no  no lo dudemos  35:06
+
+COR con un  un matiz local  35:09
+
+COR  espero que sea morcilla de León y   embutido  y etcétera  por lo que cuenta con mi provincia  con ese matiz local  35:14
+
+COR  pero sin duda  se va a hacer en nuestro país  35:17
+
+COR  os pongo  sólo dos ejemplos de oportunidades de negocio  35:21
+
+COR hoy se ha hablado mucho de una  35:23
+
+COR  ha habido una pregunta  &eh  a  a la gente de Google  que ha ido en esa línea  35:27
+
+COR  la publicidad contextual  en el ámbito de la lengua  es un territorio extraordinario  para nuevos desarrollos y aplicaciones que nos ayuden  que ayuden  a empresas como los motores de búsqueda  y a las redes sociales  a exprimir  y a hacer mejores herramientas de publicidad contextual  35:43
+
+COR  estamos hablando de un mercado que va a pasar  del cero cinco por ciento  de la inversión total en España  publicitaria  al cinco por ciento  35:51
+
+COR y lo sabemos fijo  35:52
+
+COR va a pasar en cuatro años  35:53
+
+COR es que va a ocurrir sin ninguna duda  35:55
+
+COR  y ese mercado necesita  nuevos formatos  nuevas herramientas  nuevas interfaces  36:02
+
+COR necesita inteligencia lingüística  36:04
+
+COR  esa estructura contextual en castellano hay que desarrollarla más  36:07
+
+COR  yo no estoy satisfecho cómo funciona la estructura contextual  de análisis de palabras en el ámbito de la publicidad  en castellano  36:12
+
+COR  no funciona bien  36:14
+
+COR  o no sabemos &hace  a lo mejor utilizarla apropiadamente  36:18
+
+COR  y un segundo ámbito   {%act: click}  los propios buscadores  36:21
+
+COR  en un país  pensad {%alt: pensar} en un pueblo  en el que  una zapatería  vendiera el noventa y ocho por ciento de los zapatos  hubiera  otras tres zapaterías que no venden  nada  y además  esa que vende el noventa y ocho por ciento de los zapatos  crece  a ritmos  del cuarenta por ciento anual  36:42
+
+COR yo monto una zapatería  &eh  en ese sitio  36:46
+
+COR  lo que tengo que pensar es cómo lo vendo mejor  36:48
+
+COR  y aunque me quede con las migajas  de ese porcentaje que vende ese grande  ya estoy haciendo un  mercado que es interesante  36:54
+
+COR  pensad {%alt: pensar}  el espacio de buscadores verticales  el espacio de los buscadores en las redes sociales  y &pes  y pensad {%alt: pensar} en el concepto de los buscadores focalizados  37:04
+
+COR  ambos tres hablan de una cosa muy importante  37:07
+
+COR  hablan de explotar  esa cercanía del setenta por ciento de las consultas que se realizan a los grandes motores de búsqueda  37:13
+
+COR  y hablan  de una cosa que también es importante  de  especializar  mejorar  profundizar  esas herramientas  en la línea de obtener  ese objetivo  que el propio Larry Page  reconoce  que está todavía muy  muy  muy lejos  37:31
+
+COR  así que  &eh  un poco el contenido de esta charla iba en la línea de decir   mercado potencial   37:36
+
+COR  tenemos mercado potencial  37:38
+
+COR   en el ámbito de la lengua   37:40
+
+COR  es el ámbito en el que hay mercado potencial en tecnología para este país  sin ninguna duda  37:45
+
+COR  y ahora  vuelvo a como empecé  37:49
+
+COR  soy Nick Cohn  estoy hablando  probablemente  con los nuevos Rolling Stones  estoy hablando con  los Hollies  estoy hablando con los Animals  estoy hablando con   37:59
+
+COR  no sé  38:00
+
+COR   con Manfred Mann  38:01
+
+COR venga  38:02
+
+COR   vamos a vender discos   38:03
+
+COR  muchas gracias  38:06
