@@ -1,23 +1,32 @@
 import sys, os
 
-def eliminar_archivos_existentes():
-	if os.path.isfile('../nuevo/mavir02_new.txt'):
-		os.remove('../nuevo/mavir02_new.txt')
+def eliminar_archivos_existentes(i):
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new.txt')
 
-	if os.path.isfile('../nuevo/mavir02_new2.txt'):
-		os.remove('../nuevo/mavir02_new2.txt')
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new2.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new2.txt')
 
-	if os.path.isfile('../nuevo/mavir02_new3.txt'):
-		os.remove('../nuevo/mavir02_new3.txt')
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new3.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new3.txt')
 
-	if os.path.isfile('../nuevo/mavir02_new4.txt'):
-		os.remove('../nuevo/mavir02_new4.txt')
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new4.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new4.txt')
 
-	if os.path.isfile('../nuevo/mavir02_new5.txt'):
-		os.remove('../nuevo/mavir02_new5.txt')
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new5.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new5.txt')
 
-	if os.path.isfile('../nuevo/mavir02_new6.txt'):
-		os.remove('../nuevo/mavir02_new6.txt')
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new6.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new6.txt')
+
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new7.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new7.txt')
+
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new8.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new8.txt')
+
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt')
 
 
 def eliminar_especiales(original, nuevo):
@@ -78,13 +87,8 @@ def eliminar_amp(original, nuevo):
 			break
 		if char =='&':
 			char2 = original.read(1)
-			if char2 == ' ':
-				pass
-			elif char2 == 'a' or 'e' or 'u' or 'm':
-				char3 = original.read(1)
-				if char3:
-					pass
-			else:
+			while char2 != ' ':
+				char2 = original.read(1)
 				pass
 		else :
 			nuevo.write(char)
@@ -117,5 +121,51 @@ def eliminar_nombres(original, nuevo):
 			pass
 		else:
 			nuevo.write(line)
+
+def eliminar_espacios(original, nuevo):
+	while 1:
+		char = original.read(1)
+		if not char:
+			break
+		if char == ' ':
+			nuevo.write(char)
+			char2 = original.read(1)
+			while char2 == ' ':
+				char2 = original.read(1)
+				pass
+			nuevo.write(char2)
+		else:
+			nuevo.write(char)
+
+def eliminar_espacios_inicio(original, nuevo):
+	while 1:
+		line = original.readline()
+		if not line:
+			break
+		if line[0] == ' ':
+			newline = line[1:]
+			nuevo.write(newline)
+		else:
+			nuevo.write(line)
+
+def cambiar_espacios_lineas(original, nuevo):
+	while 1:
+		char = original.read(1)
+		if not char:
+			break
+		if char == ' ':
+			nuevo.write('\n')
+		else:
+			nuevo.write(char)
+
+
+
+
+
+
+
+
+
+
 
 
