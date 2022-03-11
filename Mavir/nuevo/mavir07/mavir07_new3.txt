@@ -1,0 +1,379 @@
+CON bueno  esta presentación no va a ser  no va a ser larga  00:03
+
+CON &eh lo queresmos contar un poco  primero situar lo que es el acceso &intelent  inteligente a contenidos  00:08
+
+CON y luego contaros el caso concreto de la empresa Once Ocho Once  como ellos  &eh pueden &eh aplicar esta tecnología a  a su  a su  modelo de negocio   {%act: interrogation}  00:19
+
+CON entonces  primero  definir lo que es el acceso a  a cliente   no   00:23
+
+CON  este mundo viene un poco del mundo de los buscadores  00:26
+
+CON hasta  hasta hoy en día  cuando hablábamos  &eh de acceso a información  acceso inteligente de información  todo el mundo tenía en la cabeza Google  un buscador  un indexador  sobre todo si es en web  00:36
+
+CON entonces  el año pasado Garner  que es una empresa de estrategia  de consultoría estratégica  ha cambiado el término de búsqueda  por  acceso a información  00:45
+
+CON o sea ya  amplía mucho más  lo que es el campo de  de  de empresas  o el campo de acción de  de esta tecnología  00:51
+
+CON y si os fijáis  &co  cómo es la situación de las empresas en el mercado  es  es  bestial  00:57
+
+CON o sea  es tan denso  tantas empresas que están intentando acceder a  a estos presupuestos que  que  que es un mercado en bullición  que se  que se está consolidando todavía  01:08
+
+CON &eh si lo comparais con otros  cuadrantes mágicos  que es como llama Garner estos  estos  estos diagramas  &vere  veréis que este es el  diez veces más denso que cualquier otro  01:17
+
+CON y eso que se están produciendo  fusiones y se están colocando empresas en  en  en  en  como  como líderes  no   01:24
+
+CON  Autonomy compra Verity  que son  era el número uno compra al número dos  01:28
+
+CON Google  está todavía muy lejos  aunque nos parece mentira  01:31
+
+CON las cifras crecen  01:34
+
+CON las cifras sobre todo en Estados Unidos  crecen  01:37
+
+CON y aunque a nosotros nos pueda parecer que el mercado de los  buscadores  o de acceso inteligente a &infemocion  información está maduro y está saturado  no es así  01:44
+
+CON las previsiones son  es que va a ir mucho más allá   {%act: interrogation}  01:47
+
+CON en cuanto  a  tecnologías que se usan aquí  01:52
+
+CON me voy a saltar esta {%com: related to the transparency}  01:53
+
+CON esto es  otro  otro diagrama que nos dice  cómo madura  la tecnología sobre todo en web  01:59
+
+CON cómo se ve  que estas tecnologías nos podrán ayudar en acceso a información  02:04
+
+CON entonces el caso concreto que os vamos a contar nosotros aquí &eh son tecnologías de la web semántica  02:09
+
+CON tiene mucho que ver con las fichas que  que habéis oído antes  02:12
+
+CON y tiene mucho que ver con  con estructurar información para mejorar el acceso a ella  02:17
+
+CON entonces  lo que dice  Garner otra vez  &eh la  la empresa de estrategia  dice que la  la tecnología de la web semántica  está entre cinco y diez años  antes de entrar en  en el mercado principal  antes de consolidarse y madurar como para que haya modelos de negocio  02:32
+
+CON o sea  todavía nos queda recorrido  para encontrar de verdad  cuál es la  el provecho y cuál es  la manera de usar  estas tecnologías para mejorar el acceso a la información  02:42
+
+CON lo que vais a ver hoy aquí es  una primera aplicación  la que se le ocurre a cualquier estudiante cuando se topa con la web semántica   para qué sirve esto   02:53
+
+CON  pues  es  &m  es la primera aplicación que se le puede ocurrir para  para mejorar el acceso a la información  03:00
+
+CON y es  entender  entre comillas lo pongo  lo que son las  las preguntas del usuario  para recuperar  información mejor  de lo que lo haría un buscador tradicional  un buscador &ba  basado en  secuencias de caracteres o en comparación léxica  03:14
+
+CON entonces &eh  Fermín nos lo contará  &eh luego  cómo es este caso de uso de aplicación en el  en el  portal Once Ocho Once  03:22
+
+CON  dónde vá todo esto   03:25
+
+CON   cuál sería la posible hoja de ruta  de aplicar  estas tecnologías a mejorar la experiencia del usuario  a mejorar el acceso  a mejorar la gestión  del contenido   03:34
+
+CON  entonces lo primero que se nos ocurre es  &eh buscar  03:38
+
+CON buscar información  porque está estructurada  porque  tendré una precisión del cien por cien  porque tendré una recuperación  perfecta  que todavía no  no estamos viendo  03:48
+
+CON siguiente paso sería  tener  un &eh respondedor  o un &o  un oráculo   no   03:53
+
+CON  de que  un buscador de respuestas  03:55
+
+CON no sé cuál es la traducción exacta al castellano de  de Questionanswering  pero  aquí lo &ga  hablamos de  de  buscador de respuestas  04:02
+
+CON o sea que yo le pueda preguntar  a mi sistema  cualquier cosa y me responda  04:07
+
+CON pero que no me responda con una lista de  de  de  de  diez mil documentos  &eh recuperados en cero coma cero un segundo  04:13
+
+CON yo quiero respuestas  04:15
+
+CON  cuál es el PIB de Portugal   04:16
+
+CON  el PIB de Portugal son tantos mil millones de euros  04:19
+
+CON  cuál es el   la población de no sé qué   04:22
+
+CON  pues quiero el número  04:23
+
+CON no quiero documentos que contengan estos títulos  04:25
+
+CON este sería el segundo paso  y este es el paso  que ya estamos viendo en  en institutos de investigación  que ya lo están sacando como prototipos  ya lo están sacando como  como  primeras aplicaciones  04:35
+
+CON el siguiente paso  son los  los sistemas  de  de gestión de diálogo  04:40
+
+CON o sea  yo quiero dialogar con el  con  con una máquina  04:43
+
+CON quiero &in  incluso superar el  la prueba de Turing  para que &m  pueda refinar  para que pueda  para que pueda &eh  llegar a la información que yo necesito  04:52
+
+CON eso sería el siguiente paso  04:53
+
+CON en paralelo a esto  no sé si estaría bien ordenado  es la  la personalización  04:59
+
+CON si habláis con las grandes entidades  lo que les interesa es llegar a sus clientes  o a sus  a sus  a los ciudadanos de manera  personalizada  05:07
+
+CON o sea  todo  todas las {%alt: todos los} iniciativas dentro de publicidad  todas las iniciativas dentro de &entida  &en  entidades financieras es  colocar el producto adecuado  a la persona adecuada  en el momento adecuado  05:17
+
+CON entonces hablamos de personalidad extrema  donde necesitamos saber en qué situación está  y  darle  justo la información que necesita  05:26
+
+CON y ya por último  pues la  &eh los agentes inteligentes  que lo llevamos oyendo desde hace  años  y nadie entendemos &o  nadie sabemos muy bien lo que  lo que quiere decir pero  hacía allá vamos  05:36
+
+CON queremos software que trabaje por nosotros de manera inteligente  que hable  con nosotros cuando sea  y haga la información que   por nosotros  05:42
+
+CON ejemplos  ejemplos que os puedo contar sobre  sobre buscadores semánticos  que hay por ahí  05:49
+
+CON pasaré muy rápido sobre  sobre ellos  porque luego  Fermín contará  el  el buscador suyo en  en particular  05:55
+
+CON uno es  el Ayuntamiento de Zaragoza  que es  &eh  aquí  sí que hay  problemas  entre el vocabulario que tiene un ciudadano  y el vocabulario que tienen un funcionario  de  la administración local  06:06
+
+CON o sea  parecen dos idiomas distintos  06:08
+
+CON si uno quisiera  tirar  bueno  esto pasaba hace un año  queríais tirar un armario de  en Madrid capital  y queríais buscar el trámite que solicita  lo que es la  &eh la retirada de la  grandes objetos  en la web de madrid punto o erre ge  eran diez minutos  06:25
+
+CON diez minutos hasta que  os dabais cuenta que  es un trámite de la Consejería Medioambiente  06:29
+
+CON entrabais a la web suya  y ahí encontrabais el trámite de recogida de grandes objetos  06:35
+
+CON entonces  sí que con tecnologías semánticas se pueden hacer  una especie de traductores de vocabularios  de uno a otro  06:42
+
+CON o sea  yo quiero tirar una nevera  06:43
+
+CON para el Ayuntamiento es una recogida de un objeto grande  06:46
+
+CON siguiente tipo de  de  de estructuración de información  y esto sí que se está viendo hoy en día  es  usar estructura de información para geoposicionar recursos  06:57
+
+CON Flicker  &eh   bueno  un montón de  de &aplicaci  Web 2.0 nos permiten  geoposicionar nuestras fotos  y subirlas  y  navegar  en una estructura &eh  en una estructura geográfica  07:11
+
+CON otro tipo de  de búsquedas  que ya incluye  una especie de diálogo  07:17
+
+CON esto viene dado porque  primero se hizo un buscador en  en  en el ámbito geopolítico  donde uno podía preguntar el PIB de Portugal  o los países que tienen frontera con Serbia  o cuál es  el número de tanques  que tiene no sé qué  no sé qué  país  07:32
+
+CON esto todo es información pública  que está estructurada en la CIA  está estructurada en el Ministerio de Exterior  o sea  se puede utilizar  07:39
+
+CON y esto lo  lo pusimos como experiencia a  para que cualquiera pueda entrar y pueda probar  07:46
+
+CON no os imaginais cuál era la pregunta más frecuente a este buscador  07:48
+
+CON la pregunta más frecuente es  quién es la más guapa  07:51
+
+CON y ahí se quedaba  07:53
+
+CON  entonces  sí que estamos viendo que hace falta  &eh  &e  educarle al usuario  sacarle de Google  para que  sepa lo que puede esperar de un sistema  de lenguaje natural  o de un sistema de búsqueda perfecta  08:06
+
+CON o sea no  no estamos preparados  ni los sistemas ni los usuarios  para poder interaccionar con   08:12
+
+CON entonces aquí este  este sistema  este buscador  permite interpretar en tiempo real lo que está entendiendo  que no es poco  08:19
+
+CON es  mira no te entiendo  o te entiendo que me estás preguntando esto   vale   08:23
+
+CON  para  poco rebajar el nivel de frustración de  de  del usuario  08:28
+
+CON y ya una de las aplicaciones  más  más futuristas es  &eh  hacer &di  sistema de  de  de acceso a información de un vehículo  de un coche  no   08:40
+
+CON   entonces ya las  algunas fabricantes de coches  para  para  dos mil veinte se están planteando  que los usuarios podamos interaccionar  con nuestros vehículos  08:49
+
+CON y no simplemente basado en comandos de  llama  a mi suegra  o  {%act: doubt}  pon el CD no sé qué  08:56
+
+CON sino que  cuando yo digo   qué es esto   08:58
+
+CON  &eh el coche  sepa distinguir si me estoy refiriendo a la luz que se me acaba de encender de  de  de  de gasolina  o &s  o me estoy refiriendo a un edificio que acabo de pasar  alrededor  no   09:09
+
+CON  entonces  ya cada vez  esto del acceso a la información  y no solamente en Internet  sino ya en  en  en software empotrado  se está convirtiendo en una necesidad que  los usuarios vamos a requerir de  de  de los sistemas  09:21
+
+CON bueno  no os aburro más  y dejo a Fermín que os cuente ya el caso concreto  09:26
+
+LOZ bueno  &eh   lo que voy a contar es un caso concreto  partiendo de un problema que nos encontramos hace  bueno yo  yo llegué a esta empresa de  después de diez años en Internet  y me encuentro con una empresa en la que  &eh tenemos cuatrocientos operadores  todo es teléfono  aunque ahora estamos pasando a Internet  09:51
+
+LOZ y  lo primero que nos planteamos es que  tenemos  cuatrocientos operadores dando información  información  09:59
+
+LOZ y cuando damos información estamos hablando de  teléfonos  direcciones  10:03
+
+LOZ pero  &eh  la  lo que se me ocurrió es  al llegar  o se nos ocurrió a todos  es que  &eh igual que Internet  compite con nosotros  cuando un usuario está delante de una mesa con el ordenador la posibilidad de conectarse  a  a su ordenador  o hacer una llamada  &eh nosotros teníamos que tomar de Internet el concepto de portal  10:23
+
+LOZ entonces  &eh  portal de voz  viene  &con  convertir un teléfono de información en un portal de voz  es nuestra intención  es decir  dar soluciones al usuario  10:32
+
+LOZ estamos hablando de un mercado  en el que  que estaba totalmente regulado  10:36
+
+LOZ había un  teléfono cero cero tres que  todo el mundo recordará  después un mil tres  ahora sigue habiendo un once &o  se liberalizó en el dos mil tres  10:43
+
+LOZ y  &eh  se convirtió en el once ocho dieciocho  10:48
+
+LOZ que es un teléfono subvencionado  entre comillas  10:50
+
+LOZ porque  subvencionado quiere decir que pagamos con impuestos de todos los españoles  el  el  el  para poder llegar a números negros  11:00
+
+LOZ ese número  que da una información muy básica  un teléfono  y te cuelgan  11:03
+
+LOZ y se acabó  11:03
+
+LOZ y además te lo dan con una máquina  11:05
+
+LOZ nosotros  &eh lo que tenemos es un concepto totalmente distinto  nosotros y  y   Telefónica y  Yell  TPI  &eh  que es  lo que pretendemos es dar soluciones  11:16
+
+LOZ es decir  nos llama un usuario  y no le damos una información sino  le &pe  le pedimos que nos diga qué problema tiene  e intentamos resolvérselo  lo más rápido posible  11:23
+
+LOZ lo más rápido posible  con un tiempo de respuesta  medido por el Ministerio  de Industria  Comercio y Turismo  en el cual  &eh no podemos responder en menos de  de  o sea  tenemos que dar una media  &eh diaria mensual trimestral de noventa  por ciento de las lamadas atendidas en veinte segundos  11:40
+
+LOZ es decir  lo contrario de lo que se pueden encontrar si llaman a una compañía de taxis  por ejemplo  11:44
+
+LOZ en veinte segundos  como media  tenemos que haber respondido  y si no estamos sujetos a  a una multa del Ministerio  11:49
+
+LOZ &eh   quién es  quién es  primero voy a empezar muy rápido por quién es  el Once Ocho Once  11:55
+
+LOZ el Once Ocho Once es una  voy a pasarlo entero {%com: related to the transparency}  es una compañía alemana  que se llama Telegate AG  que en  en Alemania es el número dos del mercado  12:04
+
+LOZ compite con  Deutsche  Deutsche Telecom  12:06
+
+LOZ somos el número  dos y el uno en  en Italia  porque nuestra empresa es propiedad de  de Pagine Gialle  empresa italiana que es líder  el antiguo TP italiano y ha privatizado  12:15
+
+LOZ estamos en Francia  con  con una serie de números  pero el principal es el  once ocho cero cero cero  12:21
+
+LOZ y en España tenemos  este número  el once  y otro que es el ochenta de información internacional que busca  contra bases de datos internacionales  12:29
+
+LOZ en cualquier país de Europa  o en cualquier &esps  en cualquier país del mundo podíamos encontrar  &eh una información  12:34
+
+LOZ el otro día salió un caso en  en  nos entrevistaron  en Radio Nacional de España y nos hicieron un  una trampa  porque en plena entrevista hicieron  llamaron al once ocho ochenta preguntando el teléfono de Sarkozy  12:43
+
+LOZ y fuimos capaces dar en minuto y medio  el teléfono  del Elíseo  de  por donde &entr  de la  de la asistente personal de Sarkozy donde claro  si llamas no te van a coger el teléfono directamente  pero por lo menos  cogerán el recado y   te lo pondrán en  en cola de espera  no   12:58
+
+LOZ  &eh  como digo  empresa alemana que se extiende  a nivel internacional primero en  en España  después en Italia  y después en Francia  en Austria ya también estamos  13:07
+
+LOZ esto es lo que  es lo que pone aquí  13:10
+
+LOZ tenemos callcenters en Alemania  seis  en Italia  tenemos dos  estamos también en España  con un callcenter  realmente son tres en una misma  en un  en un solo sitio  en Madrid  13:19
+
+LOZ estamos cuatrocientos operadores  en Las Rozas  en la nacional  en la nacional uno  la nacional seis  perdón  13:27
+
+LOZ &eh  y en Francia  13:29
+
+LOZ en Francia  tenemos cinco callcenters aunque  la verdad es que están en el norte de  en el norte de  Marruecos  por el  por ser un país francófono sobre todo  y por cercanía  no  13:39
+
+LOZ   &eh qué es lo que ofrecemos  13:40
+
+LOZ  bueno  un servicio internacional  de información  el once  el ochenta  que es el servicio internacional como decía  contra bases de datos de  de todo el mundo  13:49
+
+LOZ &eh aparte que tenemos otro servicio y es que si un alemán  está en España  y ya está acostumbrado  a llamar al once ocho ochenta en Alemania  y marca el once ocho ochenta en España  automáticamente le atendemos  con un operador  que habla alemán  y le da una información de  de Alemania  de España  de cualquier país del mundo  &eh  en alemán  no   14:06
+
+LOZ  &eh también enviamos información por SMS  por correo electrónico  hacemos  podemos dar  equis informaciones  todas las que  quiera el cliente en una sola llamada  no es una y colgamos  &eh buscamos la información y si no la encontramos llamamos de vuelta  &eh  confirmamos por SMS gratuito  eso ya lo había dicho  y además  &eh   tenemos también  aunque no lo pongo aquí  una versión gratuita en Internet  y además un portal WAP  14:31
+
+LOZ es decir  lo que nosotros llamamos WAP   14:33
+
+LOZ básicamente es que pides la información  y  el agente telefónico  te manda la información  que linka con un portal WAP nuestro  donde ya puedes navegar  14:41
+
+LOZ &eh    nuestra misión   14:44
+
+LOZ  bueno  pues no voy a leer todo esta {%alt: este} frase  pero es  dar soluciones  no sólo dar información  14:50
+
+LOZ entonces en línea con esto que acabo de contar  &eh nos encontramos hace  año y medio  que  la  la información más &requerrida  más requerida a nuestros cuatrocientos operadores  es &eh  es la de  la de  gestiones públicas  de  de organismos públicos  gestiones  15:09
+
+LOZ lo que  es gente que busca gestiones  no busca un teléfono  no busca una dirección  15:12
+
+LOZ entonces  nos planteamos primero hacer un enriquecimiento de  de las bases de datos  &eh   pues con pura  búsqueda web  acuerdos  15:21
+
+LOZ yo por ejemplo hablé con una sociedad estatal donde  una de las cosas  primeras que se me ocurrió  es oye  si ya tiene unas bases de datos muy ricas sobre turismo  el Instituto Cervantes nos conoce  Spain Info   nos  bueno nos conocía  yo ya no estoy allí  15:34
+
+LOZ teníamos una alianza con el Instituto Cervantes  15:36
+
+LOZ vamos a intentar llegar a alianzas  para tener esa información disponible  sin ningún interés comercial  no   15:41
+
+LOZ  pero tener esa información disponible  porque es lo que más nos solicitan los  los usuarios  15:46
+
+LOZ nos dimos cuenta que  esos acuerdos no eran fáciles  porque claro  somos una empresa privada y &comer  y con  y con intereses comercial  15:53
+
+LOZ y por otro lado  &eh   la búsqueda en Internet  era muy pesada  muy pesada   muy  y muy intensiva en  en coste de personal  16:01
+
+LOZ entonces se nos ocurrió  &eh  por otro lado  perdón  la situación también nos indicaba que los agentes son muy heterogéneos  16:09
+
+LOZ son  agentes que pasan una serie de pruebas  para ser agentes telefónicos  16:13
+
+LOZ &eh tienen niveles culturales  muy diferentes  estudios muy diferentes  la manera cómo atienden el teléfono  es muy diferente  16:20
+
+LOZ en la llegada  nosotros tenemos que hacer unos cursos para  homogeneizar  16:23
+
+LOZ pero lo que no podemos garantizar  es que siempre den una respuesta  totalmente homogénea  al cliente que le llama  16:29
+
+LOZ ni por su cultura  ni por su manera de atender el teléfono  ni por cómo busca la información en nuestras bases de datos propias  o en algunos casos  en webs que están permitidas  16:38
+
+LOZ nosotros tenemos homologadas determinadas webs  16:40
+
+LOZ no damos salida a Internet  &eh automática para cualquier búsqueda  porque entonces la información que daríamos sería  totalmente distinta de su padre y de su madre  según  qué agente de los cuatrocientos  fuera  el que te contestara en cada momento  no   16:52
+
+LOZ  por otro lado tenemos un mercado donde  prácticamente  parece que todos damos lo mismo  no es verdad  16:57
+
+LOZ el dieciocho no da la misma información que el once  &eh  el dieciocho  no da  no da soluciones  da  un teléfono  17:03
+
+LOZ y fuera  17:04
+
+LOZ y te cuelga  17:04
+
+LOZ te lo da con una máquina  y te cuelga  no   17:06
+
+LOZ  puedes seguir hablando  pero ya tienes la máquina conectada  y te cuelga  17:09
+
+LOZ %eh  entonces  necesitamos diferenciarnos  17:12
+
+LOZ diferenciarnos de nuestros principales competidores  dando  como digo  no sólo información  información lo más enriquecida posible  sino también  soluciones  17:20
+
+LOZ entonces   qué se nos ocurrió   17:21
+
+LOZ  pues que  en a categoría más buscada  que es la de &informa  la  la de información para después realizar gestiones  intentar facilitar al máximo la gestión ya desde nuestro operador  17:31
+
+LOZ no dar un teléfono  donde llamas  puede estar cerrado  17:34
+
+LOZ &eh puede ser que sea al mediodía o después de las seis de la tarde y entonces ese teléfono no está atendido  sino nosotros ya dar el máximo de información  en lo que llamamos el primer nivel  es decir  damos el teléfono  damos el horario  damos incluso qué papeles tienes que llevar  damos qué  qué dinero tienes que llevar en el bolsillo &eh  y qué documentos tienes que llevar de  pues tu partida de nacimiento  DNI  pasaporte  cualquier cosa que necesites  para ya darle totalmente cerrada la solución al usuario  y que a veces ni siquiera necesite llamar al organismo público  18:04
+
+LOZ quizás llame  18:05
+
+LOZ y se lo damos el teléfono  y se lo mandamos por SMS gratuito  18:08
+
+LOZ incluso  la web  WAP  donde puede navegar  y puede ver cómo ir  18:13
+
+LOZ incluso puede meter el  estoy en tal sitio  y  quiero ir a este sitio donde está el organismo público  y yo te explico  el  el recorrido  las rotondas  donde girar  pero  todo eso lo podemos hacer  pero si podemos dar la solución ya en el primer nivel  pues  eso es lo que estamos intentando hacer  18:30
+
+LOZ se nos ocurrió  &eh   con ISOCO  desarrollar un sistema  que lo que pretendía era  pues &eh  primero que fuese fácil  que fuese  utilizable por cualquier usuario de los cuatrocientos operadores que tenemos diariamente  18:43
+
+LOZ &eh  que buscara en todos los niveles posibles de la administración  es decir  que buscara a nivel nacional  regional  y local  18:50
+
+LOZ &eh  y que además  &eh  lo  ofreciese de una manera  también  &eh  como si dijéramos  lo más ajustada  a la pregunta que ha hecho el usuario  18:59
+
+LOZ es decir  que entendiera la pregunta que ha hecho el usuario directamente tecleada  en el buscador  y que las soluciones que diera  la diera  jerarquizadas  de manera  que &apareciera  tenemos resultados que &ma  los que más se ajustan  a esa pregunta &col  escrita de una manera coloquial  19:14
+
+LOZ esto implica  detrás  como os podeis imaginar  bueno no sólo un  un sistema de jerarquías  sino también un sistema  yo creo que me lo he saltado en algún sitio  &eh sí  me lo he saltado  que es  &eh   el  un corrector ortográfico  es decir que  aunque ponga  que esto es una consulta real  19:34
+
+LOZ no sé si lo han visto  19:35
+
+LOZ nosotros hemos  vamos a editar un libro con curiosidades en nuestro  en nuestro  que nos cuenta nuestro callcenter  19:40
+
+LOZ hace poco  nos hicieron una entrevista en  en  no  en La2 no  en Radio  en Radio Nacional de España  19:47
+
+LOZ entonces contamos una anécdota  real  19:49
+
+LOZ hicieron &eh  incluso hicieron una  hicieron varias llamadas para ver anécdotas  &eh de alguien que llamaba preguntando por  &eh  por &eh  Berga  19:57
+
+LOZ y entonces el operador le decía   con  con be  o con uve   19:59
+
+LOZ  entonces el  el  el  el cliente le decía  oiga  aquí somos muy decentes  no   20:04
+
+LOZ  pero  yo lo que necesito es que me deletree el nombre  &sa  el  el nombre exacto  20:07
+
+LOZ bueno pues para evitar el tener que hacer todo este trámite  deletréeme cada letra del  del  del  del nombre que  del  del  del concepto que está buscando  lo que  hemos hecho es directamente meter un corrector ortográfico que podríamos llegar a aplicar  en nuestro buscador general de  cualquier otro tipo de  de  de  de campo de nuestra base de datos  20:25
+
+LOZ o sea  de cualquier otra  de turismo  ocio  &eh  {%act: doubt}  restaurantes  bueno  las categorías más buscadas  20:33
+
+LOZ y además un tesauro de sinónimos  20:35
+
+LOZ de manera que si pusiéramos  cualquier concepto buscaría los sinónimos que podrían  que podrían &se  &eh ser similares a ese concepto y por tanto dar &resultades  resultados iguales  20:45
+
+LOZ aquí tenemos un  un caso real  donde  no me acuerdo muy bien  estábamos buscando  creo que era un perro  encontrar un perro muerto  20:53
+
+LOZ quiero &vacu  no  quiero vacunar a mi perro  20:55
+
+LOZ había otro que me he encontrado un perro muerto  20:56
+
+LOZ o  {%act: doubt}  también puedes poner  me lo quiero quedar  20:59
+
+LOZ o me quiero desprender de él  21:00
+
+LOZ y entonces daba  soluciones en Madrid  y en la Comunidad de Madrid  porque el usuario decía que llamaba desde  desde Madrid  21:06
+
+LOZ entonces  no le  como digo no da  no &di  no da teléfonos  21:10
+
+LOZ da  sitios donde se pueden hacer las gestiones  y clickando  qué gestion es la que hay que hacer  qué papeles hay que llevar  qué dinero hay que llevar  21:16
+
+LOZ &eh lo de los sellos creo que es un poco antiguo  pero si  antiguamente se diría qué sellos hay que llevar  comprados en el estanco  no   21:22
+
+LOZ  y esto es  de esto se trata  es decir  buscar un  buscar un  una manera de simplificar la vida  a nuestros cuatrocientos operadores  y dar una solución  a la gente que nos llama  no sólo una información  y &hacemo  además hacerlo  el  de la manera más rápida  posible  y lo más ajustado a lo que realmente nos está pidiendo el  el  el  el usuario  21:43
+
+LOZ muchísimas gracias  21:45

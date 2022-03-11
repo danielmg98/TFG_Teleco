@@ -1,0 +1,189 @@
+la tesis va sobre clasificación de páginas web en dominios específicos 00:03
+ha sido dirigida como digo por el doctor don Anselmo Peñas 00:06
+y en primer lugar hablar de qué significa esto de de clasificación en estos dominios específicos 00:12
+en Internet tenemos mucha información 00:14
+la primera clasificación de esta información podría ser en dominios genéricos como páginas sobre academias páginas académicas información académica páginas de blog páginas corporativas de empresas de información de administraciones públicas de entretenimiento personales tiendas etcétera 00:30
+dominios específicos sería entrar en en un grano más fino de de clasificación sobre este sobre toda esta información 00:38
+sobre uno de ellos por ejemplo entretenimiento tendríamos un dominio específico que sería el teatro 00:44
+dentro de teatro existen una serie de categorías revistas compañías festivales salas que hablan de teatro 00:50
+entonces el marco de la tesis se ha se ha se ha centrado en esto en en obtener una clasificación dentro de de de estos de este dominio específico del teatro no 01:00
+podría ser aplicable es una de las líneas de investigación que se deberá seguir aplicable a otros dominios pero siempre dentro de un marco específico 01:07
+el porqué a lo largo de la tesis lo veremos %eh pero adelantar un poco que es básicamente son las líneas de futuro 01:15
+%eh los buscadores cada vez más pretenden dar información que sea útil al usuario y para que sea útil tiene que ser de grano fino 01:22
+no puedes decirle a una persona que una página es de teatro o es de o es de de una universidad 01:27
+eso ya lo sabe 01:28
+tienes que darle información que él esté buscando vale 01:32
+estructuramos la la presentación y la investigación en tres grandes puntos definiendo primero el problema y los objetivos que se han seguido para intentar darle solución los experimentos que se han realizado para guiar esta esta investigación y las conclusiones a las que se han llegado y las aplicaciones y líneas de investigación futuras que requeriría 01:50
+la web es es muy grande 01:54
+es el mayor repositor de información en la actualidad 01:56
+es una información muy dinámica eh 01:59
+se utiliza para consultar hoy será de lo que más se utiliza para para realizar consultas por parte del usuario para obtener información válida a partir de esta maraña de información se necesita dar orden 02:10
+como es tan grande y es tan dinámica no se puede dar orden de manera manual por lo que se necesita métodos de clasificación automática 02:17
+por otro lado otro problema que está surgiendo con el acercamiento tecnológico a la a la población es que cada vez más hay grupos sociales que deben de estar protegidos 02:25
+el ejemplo más directo es el de los niños que están en un colegio empiezan sus clases de informática tienen un ordenador con conexión a Internet y no deberían de poder ver contenidos perniciosos pues de de pornografía de violencia o o de juegos 02:39
+además la web está evolucionando 02:42
+la web 2.0 está muy de moda 02:45
+está marcando las tendencias de futuro 02:47
+toda la colaboración entre usuarios para ir creando servicios avanzados 02:50
+y cómo no los blogs 02:52
+los blogs están teniendo una auge bestial 02:54
+todo el mundo prácticamente todo el mundo ya tiene un blog hoy en día 02:57
+esto se traduce en necesidad de buscadores específicos de esta información 03:01
+Google tiene un buscador de blogs que no es realmente un buscador de blogs porque te encuentra todas aquellas páginas que tienen una suscripción una suscripción RSS ATOM de este estilo que tengan que ver con tu con tus palabras 03:14
+no son realmente blogs 03:21
+entonces todo esto también necesita una clasificación de este tipo de páginas 03:26
+con ello se llega a los objetivos de la de la de la investigación 03:31
+proponer una representación general de las páginas para clasificarlas en el dominio específico y proponer una representación específica para el tipo de páginas blog para alcanzar una una representación mucho más eficiente 03:46
+todo ello además se debe de trasladar los resultados a otros dominios para validar la la potencia del método 03:54
+y para guiar toda esta investigación pues se fijan unos objetivos secundarios que es crear una colección de pruebas sobre la que realizar los experimentos determinar un marco de evaluación un unas necesidades básicas de de tratamiento de la de la información un pretratamiento en todo proceso de de minería y fijar un marco de comparativo una baseline sobre la que poder validar nuestros resultados 04:15
+los experimentos de clasificación el empezamos con la con la creación de la colección de pruebas 04:22
+no se ha utilizado una colección de pruebas estándar 04:24
+no en primer lugar no había ninguna colección de pruebas en un dominio específico como éste 04:29
+existen muchas genéricas pero en dominio específico no habría 04:31
+y se realiza un crawl 04:39
+se obtienen todas las páginas que nos servirán tanto para entrenamiento como para validación teniendo un conjunto de cuatro mil ochocientas páginas 04:45
+eh la disparidad entre entre la presencia da cada una de las categorías es bastante grande 04:53
+esto afectará a los resultados pero también servirá para ver la la fortaleza del método cuando los entrenamientos son defectuosos 05:07
+la colección de pruebas se ha dividido 05:10
+pero básicamente las páginas de un mismo sitio en cierto modo tienen relación entre ellas 05:24
+han sido creadas seguramente por un mismo diseñador 05:27
+hablan más o menos de lo mismo 05:29
+va a dar valores más altos de los que en realidad debería de dar 05:38
+además se ha obtenido una colección de pruebas extendida para realizar la la el traspaso de del método fuera del dominio del teatro 05:47
+para ello esto sólo ha sido para las páginas de tipo blog 05:50
+se han obtenido tres mil seiscientas noventa y seis páginas de tipo blog clasificadas manualmente de de manera previa 05:57
+y además se han introducido páginas en diferentes idiomas para intentar que el que el método sea independiente tanto del contenido como del idioma 06:09
+y se ha obtenido un crawl de del directorio de Yahoo para obtener las las páginas de de alimentación negativa las que no son tipo blog obteniendo en total cerca de de nueve mil doscientas páginas 06:19
+la necesidad del crawl el primer experimento pasarlo rápidamente 06:24
+el marco de evaluación es importante 06:39
+nos hemos basado en una evaluación típica de de precisión donde los el entrenamiento se realiza intentando maximizar el número de aciertos minimizar el número de errores 06:48
+no se ha introducido coste 06:50
+y además se se ha aportado relevancia estadística en cuanto a intervalo de confianza del error real a partir del error muestral que hemos cometido de manera que los resultados tengan cierta importancia estadística 07:02
+el método de validación que se ha utilizado ha sido uno que hemos propuesto específicamente para para esto 07:09
+es el el denominado dos por dos 07:11
+el problema está en que la validación cruzada se realiza el entrenamiento moviendo bloques entre los datos de entrenamiento y los de validación 07:18
+como ya decimos estos bloques son difíciles porque las páginas están extraídas de un mismo sitio y tienen bastante relación entre ellas 07:24
+por lo tanto hemos partido lo que comentaba la colección de pruebas en dos atendiendo a que cada parte de la colección de pruebas tuviera páginas de un sólo sitio 07:34
+y se ha realizado una validación cruzada entre ellas 07:37
+primero se ha entrenado con una se ha validado con la otra se ha hecho la inversa y se ha sacado la media 07:40
+un método como el de Dietterich cinco por dos pero con menos iteraciones 07:45
+con este marco de evaluación un experimento sencillo para ver si teníamos razón fue éste 07:52
+realizamos una validación cruzada y obtuvimos unos resultados 07:55
+esto es un método por bolsa de palabras estándar sin realizar filtros sin realizar pretratamiento de nada 08:01
+y con una validación cruzada hemos obtenido casos hasta del noventa por ciento de un estadístico efe 08:05
+eso de entrada es seguramente es falso 08:07
+casi todos los estudios que hay están en el treinta al cuarenta por cien 08:10
+entonces con el método dos por dos nos da algo más realista el treinta el cinco el diez por cien 08:17
+a las necesidades de pro procesamiento están claras en todos los proyectos de minería 08:22
+en éste %eh básicamente son tratamiento del corpus y tratamiento lingüístico 08:27
+una aplicación de un stem sería la parte más sencilla un stem de Porter y una selección de un corpus general o un corpus específico 08:33
+los experimentos también han sido claros con esto 08:37
+el no es necesario para aumentar el rendimiento pero sí para reducir la dimensionalidad cosa que quizá es más importante aún 08:43
+determinar un baseline es es necesaria 08:48
+con todo esto ya estaríamos fijando el marco de trabajo sobre el que hacer una propuesta y poder compararla 08:52
+la baseline es la la clásica de del Bag of Words la bolsa de palabras a la que además se le han añadido dos mejoras una introduciendo métodos contextuales como el título las las URLs o los o los elementos enmarcados y otro en el que únicamente se obtienen las palabras que aparecen en la URL 09:10
+es un método que que está en el estado del arte que obtiene resultados muy interesantes y que los hemos querido comparar 09:15
+los resultados también son claros 09:18
+ninguna de ellas mejora a la baseline significativamente a nivel de de significación de un noventa y cinco por cien incluso 09:25
+pero sí que se encontró que que el método de las URLs en algunos casos puntuales daba mucha certeza 09:32
+esto es fácil de entender 09:33
+una página que en su URL tenga la palabra festivales seguramente y casi cien por cien de seguridad va a ser de la categoría festivales 09:41
+una página que tenga blog spot va a ser un blog 09:44
+a partir de todo ello a partir de estudios que que realizamos uno de los métodos que más nos interesó por ser de los que mejores resultados conseguía era un método que obtenía una clasificación a partir de un resumen de la página web 09:58
+el resumen se puede hacer de dos maneras 10:00
+o lo puede hacer una persona y entonces ya no estaríamos en este proyecto porque ya que haces el resumen haces la clasificación 10:07
+o utilizas un un método de resumen automático por la semantic analysis o algún otro método que son bastante complejos y es otro proyecto de investigación 10:16
+eh 10:25
+el problema de la cabecera es que no siempre está informada 10:27
+el problema de los enlaces hay muchos enlaces del tipo pincha aquí 10:30
+entonces por sí solos no no ofrecen información 10:33
+combinándolos una ponderación podría fastidiar a la otra 10:36
+entonces decidimos triplicar esta característica 10:38
+vale 10:51
+los resultados son son bastante claros 10:53
+en las tablas se muestran en en negrita 10:56
+no sé si se ven las negritas 10:58
+pero vamos la mayoría de los resultados el método propuesto que es el de la derecha tiene mejores mejoras significativas en en cuanto a la prueba efe mejoras de hasta setenta puntos en en este estadístico 11:10
+como se puede ver en en rojo lo que acabo de comentar 11:29
+este sería el intervalo de confianza 11:31
+con otro cálculo 11:34
+pero tenemos lo mismo 11:36
+el error de confianza el error cometido es bastante inferior en el caso de del método que que se propone 11:43
+ahora las conclusiones son directas 11:46
+se ha obtenido una una mejora significativa 11:48
+pero también hay que tener en cuenta los problemas la sensibilidad a páginas que no tengan suficientemente información 11:54
+es bastante sensible estos casos 11:57
+eh 12:03
+le cualquier persona que vea un blog nada más verlo da igual en qué idioma esté qué colores tenga quién lo haya escrito y de qué sea ese blog sabe que es un blog 12:13
+eso son características visuales que si pudiéramos plasmarlas de algún modo de manera formal y utilizarlas para clasificar podríamos obtener bastante eficiencia y ser independientes tanto de contenido como de idioma 12:24
+el método es que se han obtenido quince características específicas a partir de la estructura HTML de los blogs 12:32
+y básicamente es eso 12:34
+tú ves un blog tiene un apartado de de POST es un diario donde el usuario va escribiendo POST 12:40
+estos POSTs están encabezados con el título del POST 12:42
+pueden ser etiquetas H1 H2 diferentes etiquetas HTML 12:46
+suele tener una fecha de publicación 12:48
+y suele tener un enlace feedback para tener retroalimentación con el usuario 12:53
+además aparecen un conjunto de enlaces siempre juntos que se donde se enlazan a otros blogs de denominados blogs amigos o hacia páginas de dentro del propio archivo de del blog 13:05
+además palabras palabras clave o palabras reservadas que suelen aparecer bastante en el contenido son la palabra POST y la propia palabra blog 13:13
+y además los blogs suelen tener suscripción RSSATOM 13:17
+no es exclusiva de ellos no la tienen todos pero es un otra característica que da certeza 13:22
+todas estas características se combinan mediante ratios obteniendo las quince características que que utilizamos 13:28
+los resultados son bastante bastante claros 13:32
+en la prueba efe se ha obtenido muy por encima del noventa por ciento 13:38
+en el caso de de que no sea blog una página casi en el noventa y nueve por cien de los casos se se indica así 13:45
+comparándolo con la baseline son bastante elevados 13:50
+la estándar está alrededor del treinta por cien 13:53
+el nuestro ha sacado el noventa y dos por cien 13:54
+la que propusimos de del encabezado sacó un sesenta y seis por cien cuando es pertenencia a los blogs y un noventa y cuatro cuando no lo es también inferior a ésta 14:03
+por y en los intervalos de error lo mismo 14:06
+están muy por debajo del dos por cien el error real con un un intervalo de un uno por cien de confianza 14:12
+la conclusiones que se ha obtenido una representación novedosa y eficiente y que supera el rendimiento de las estudiadas en el estado del arte 14:20
+esta representación nos interesaba mucho sacarla fuera del del del ámbito del teatro 14:26
+eh 14:34
+los resultados también son bastante claros no 14:37
+seguimos manteniéndonos por encima del noventa por cien en en el estadístico efe 14:41
+%eh el error se mantiene en el caso de que sea blog incluso se disminuye 14:48
+se queda por debajo del del uno por cien 14:51
+está en el doce por cien de error 14:55
+ha aparecido un pequeño problema 14:57
+en la matriz de contingencia se ve 15:00
+hay falsos positivos 15:01
+es decir hay páginas que no son blogs que se clasifican como blogs aproximadamente el doce por ciento de ellas 15:07
+y estudiando fueron páginas que eran grupos de noticias con estructuras muy muy similares a los blogs 15:12
+entonces las conclusiones son claras 15:14
+el rendimiento se ha mantenido en en otros dominios 15:17
+se ha demostrado que se que se que es independiente del contenido de los blogs 15:21
+da igual de de que se escriba en el blog 15:23
+incluso es independiente del idioma en el que esté escrito 15:26
+el problema que aparece es que se incrementan los falsos positivos 15:30
+se catalogan noticias como blogs 15:32
+una recapitulación de experimentos y las conclusiones 15:36
+la principal conclusión se ha fijado el marco de de trabajo con la colección de pruebas la evaluación y el baseline 15:42
+que mejora la baseline hasta en setenta puntos del estadístico efe en algunos de los casos en entrenamientos defectuosos como como veíamos 15:56
+pero que es sensible a determinados entrenamientos y validaciones cuando las páginas no tienen suficientemente información 16:02
+páginas flash que no tienen enlaces y el el que lo creó no puso nada en la cabecera 16:08
+y encima la URL es muy genérica 16:11
+esas páginas no no suelen tener buenos resultados 16:14
+el método de los blogs obtiene un estadístico efe por encima del noventa por cien mejora significativamente el estado del arte es aplicable a cualquier dominio independiente del contenido y del idioma pero presenta ciertos problemas con grupos de noticias 16:28
+todo esto nos da lugar a líneas de investigación futuras y a posibles aplicaciones de esto 16:33
+en cuanto al primer método habría que extenderlo fuera del dominio de del teatro lo mismo que se ha realizado con los blogs para comprobar que se adecua a otros dominios y ver su su veracidad 16:45
+habría que introducir alguna nueva característica 16:48
+habría que investigar para estas páginas que no tienen suficientemente información 16:52
+quizás habría que meter tratamiento lingüístico 16:55
+habría que probarlo en otros idiomas y ver si es necesario realizar stemmers o realizar alguna cosa así 17:00
+podría ser interesante analizar imágenes desde el texto alternativo que casi nadie pone hasta el tamaño de las imágenes o incluso ya meterse en histogramas pero bueno eso habría que investigarlo 17:11
+los los clientes lo que principalmente nos han pedido son son gerentes de clínicas clínicas privadas pequeñas de ocho o diez médicos nos quieren controlar a los trabajadores porque en horas de trabajo se han puesto a buscar ofertas de trabajo por ejemplo 17:31
+entonces lo primero que quieren es un filtro contra búsqueda de empleo 17:35
+estamos trabajando en ello 17:38
+el tema de la pederastia es un tema en la actualidad bastante peliagudo bastante jodido 17:46
+estamos dentro de un dominio específico el dominio del sexo el dominio de las páginas pornográficas pero con páginas que que están buscando un tema un tema ilegal contacto con menores 17:59
+la aplicación debería ser directa pero habría que investigar a ver si se adapta 18:04
+y bueno combinándolo con el análisis de la página las técnicas de antispam están haciendo todo lo posible porque los índices de los buscadores no incluyan cosas como lo de los políticos sudando en Sudán y cosas así no 18:18
+si se analiza todo el contenido de la página y dice que la página va de una cosa y el autor quiere decir en su metainformación que va de otra cosa ahí se está dando una discordancia 18:29
+es posible que eso sirva 18:30
+eso es una especulación 18:32
+por otro lado el método de los blogs directamente habría que mejorar la diferenciación entre blogs y noticias para que obtuviera resultados mejores 18:41
+pues incorporarlo en algún buscador que sea un buscador real de blogs que los contenidos que te devuelva realmente sean blogs 18:49
+vale 18:51
+con todo ello terminaría 18:52
+si tienen alguna pregunta 18:53

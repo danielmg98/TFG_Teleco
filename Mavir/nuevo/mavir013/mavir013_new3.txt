@@ -1,0 +1,1061 @@
+JGO bueno muchas gracias a la   organización por invitarme  00:03
+
+JGO  &eh y en particular por haberlo hecho en el  en el día de las empresas  00:06
+
+JGO  para mí es una sorpresa porque bueno soy  soy de la academia   no   cien por cien  00:10
+
+JGO   {%act: click} está bien  eso quiere decir que a lo mejor hemos conseguido hacer algo útil  00:13
+
+JGO  o también puede querer decir que   que lo que hacemos ya no tiene ningún valor  científico  {%act: laugh}  00:18
+
+JGO  me voy a quedar con la primera opción  no   00:20
+
+JGO  eh  bien como  se trata de un  de unas jornadas multimedia  pues en el título me voy a centrar en los dibujitos  00:28
+
+JGO  este es el  logo   del &eh  del CLEF  que  como comentaba Felisa es una inciativa  en la que participan más de cien grupos de investigación todos los años y que se dedica  a hacer evaluaciones sistemáticas y comparativas entre sistemas  de  acceso  a información multilingüe en general  00:45
+
+JGO  y dentro de &es  del CLEF pues hay muchas tareas  un poco es tipo olimpiadas  hay muchas &eh  pruebas distintas para distintos tipos de sistemas  00:53
+
+JGO  y  dentro de  esa enorme base de investigadores hay una  pequeña  aldea  que es  la de los investigadores que nos dedicamos  sobre todo  a estudiar   {%act: click} los problemas de acceso a la información  desde un punto de vista interactivo  o sea teniendo en cuenta  la perspectiva del usuario  01:10
+
+JGO  y este es nuestro logo  como podéis ver  01:12
+
+JGO  de nuevo es  es  es el CLEF  es el logo de CLEF pero  donde teníamos aquí  una  llavecita  maravillosamente dibujada  que te daba acceso al conocimiento del mundo entero  que está aquí  pues aquí lo que tenemos es que de repente  la ce se ha convertido en los brazos de un usuario  con unas manos así gordas y torponas  que deforma completamente todo el  todo el logotipo  01:37
+
+JGO  y esto la verdad es {%alt: ej} que si hubiera que resumir la charla en una transparencia probablemente esta sería la mejor  no   01:41
+
+JGO  cuando está el usuario de por medio la cosa se complica bastante  01:44
+
+JGO   {%act: click} bien  la  mi segunda transparencia la he añadido esta noche después de escuchar las charlas de ayer  01:49
+
+JGO  ayer  &eh Marcin por la tarde  en su charla  que fue estupenda por cierto  empezaba diciendo  que  la búsqueda de imágenes por palabras clave funcionaba muy bien  01:57
+
+JGO  y ponía un ejemplo de Google en el que ponía su apellido y salían  &eh  cosas relacionadas con su madre y con su padre  02:04
+
+JGO  bueno pues como hoy es la jornada de empresas empezaré usando el mismo tipo de transparencia para decir que la búsqueda de imágenes por palabras clave no funciona en absoluto  02:10
+
+JGO  esto es un ejemplo de una  charla que di  hace unos meses en  en Atos en la que yo  quería  un dibujito de un alquimista  con la piedra filosofal  para  &eh ilustrar mi charla  02:21
+
+JGO  así que empecé buscando alchemist  que no parece mala idea  02:24
+
+JGO  y estos son los resultados  02:25
+
+JGO  son sobre todo sobre Fullmetal Alchemist que es una  serie de  dibujos animados &asi  no lo sé exactamente  02:32
+
+JGO  &e  esto de los buscadores es un poco como los  los camareros  no   02:36
+
+JGO  si les pides una coca cola  fabuloso  te la traen inmediatamente  02:38
+
+JGO  y si le pides una pepsi twist  pues te trae una coca cola también   no   02:41
+
+JGO  esto es un poco lo que pasa aquí  02:42
+
+JGO  la mayoría de la gente &es  estará buscando por Fullmetal Alchemist  me imagino  02:46
+
+JGO  así que a mí me toca fastidiarme  02:48
+
+JGO  esto  por cierto también probé  buscando por la piedra filosofal  que era la otra alternativa  02:53
+
+JGO  y bueno  pues me salío ahí alguna actriz  y eso pero  sobre todo cosas de Harry Potter  02:59
+
+JGO  no   no conseguí  mi objetivo en absoluto  03:02
+
+JGO   {%act: click} esto pasa porque en el fondo la búsqueda por palabras clave es muchísimo más complicada  que lo que hace un buscador web  03:08
+
+JGO  porque un buscador web  busca por palabras clave pero tiene toda la información del contexto de los hipervínculos de la web  para saber cuáles son las cosas más relevantes  03:16
+
+JGO  quería poneros este   una pequeña consulta  03:20
+
+JGO  bueno no somos muchos pero  &eh  por favor levantad la mano  03:23
+
+JGO  esto son  dos  posibles  03:25
+
+JGO  bueno  son dos  dos  fotografías de la flor del azafrán  03:29
+
+JGO   quién prefiere  la fotografía  de la izquierda  03:32
+
+JGO   quién prefiere esta {%com: pointing at a picture of the slides}  03:34
+
+JGO   y quién prefiere  la de la derecha  03:39
+
+JGO  bueno  no está mal &esta  estamos bastante equilibrados  03:43
+
+JGO  creo que gana la de la izquierda  pero claro depende también de lo que vaya a hacer uno con ella  no   03:47
+
+JGO  bueno   {%act: click} yo lo que quería decir aquí  03:49
+
+JGO  me habéis fastidiado {%alt: fastidiao} el ejemplo la verdad pero  {%act: laughs}  03:51
+
+JGO  a mí me gusta más la de la izquierda  {%act: laughs}  03:53
+
+JGO  &eh  lo  a lo que  iba yo aquí es que  bueno &eh  una cosa es la relevancia  no   03:58
+
+JGO  en el caso anterior yo no conseguía encontrar  un   una   un  alquimista con su piedra filosofal  04:04
+
+JGO  en este caso  la cosa es un poco más allá  04:07
+
+JGO  hay muchísimas imágenes de azafrán  04:09
+
+JGO  éstas imágenes están tomadas de Flickr  04:10
+
+JGO  yo sé cuáles son los permisos que tiene cada una  respecto a cómo se puede usar  04:14
+
+JGO  así yo podría utilizar Flickr perfectamente para ilustrar  mi  &eh  actículo sobre el azafrán  pongamos  no   porque sé cuál es  puedo  perfectamente poner en mi artículo  04:22
+
+JGO  pero si me pongo a buscar fotos  claro yo lo que quiero son las fotos más chulas  04:26
+
+JGO  y   cómo  demonios puede   &eh un sistema de recuperación de imágenes decidir  cuáles son las fotos más chulas  04:33
+
+JGO  es francamente complicado  04:34
+
+JGO   o no  04:36
+
+JGO   o no porque en Flickr  efectivamente es una red social  y  hay mucha información que tiene Flickr  sobre lo que hacen en ella los usuarios  lo que les gusta  y lo que no  04:44
+
+JGO  y de hecho  esta foto {%com: pointing at the left picture}  está anotada como favorita  no sé si era setenta o noventa veces  04:50
+
+JGO  y esta  anotada cinco veces  04:52
+
+JGO  o sea que digamos que cuando Flickr  04:53
+
+JGO  de hecho cuando Flickr hace un ranking  lo hace utilizando  esa  información de favoritos  04:58
+
+JGO  o sea que es una información completamente manual  pero es una información que está en el sistema  05:03
+
+JGO  parecido a lo que  hace Google  cuando utiliza la información de hipervínculos  que han sido creados manualmente  pero que sirven para hacer un ranking  de resultados también  05:11
+
+JGO  sólo hay un pequeño problema  05:14
+
+JGO  y es que estas dos fotos  nunca aparecen juntas  en los resultados de Flickr  05:19
+
+JGO  en este caso  porque   están anotadas en idiomas distintos  05:24
+
+JGO  y es una pena  05:26
+
+JGO  cuando uno está buscando imágenes  realmente el hecho de que  los documentos estén en chino o en japonés  en  italiano  le da igual  e inmediatamente va a saber cuál es la que  le gusta  no   05:35
+
+JGO  es diferente si estás con textos  que a lo mejor un texto en chino pues  te va a ser más difícil usarlo  05:40
+
+JGO  pero con imágenes  el cruzar la barrera   &eh del  del idioma  es algo que es claramente beneficioso  05:47
+
+JGO  y con esto  más o menos  yo creo que hemos cuberto todas las   las etiquetas  que le había puesto al   al título de la charla  que de hecho con el título de la charla fue complicado  05:58
+
+JGO  porque sí  bueno  queríamos llamarla buscando cangrejos en Flickr  06:01
+
+JGO  estábamos Víctor y yo ahí pensando en ponerle un título chulo  06:04
+
+JGO  pero claro  esto no tenía ningún  contenido   ninguna información  06:08
+
+JGO   {%act: click} ahora  si   06:10
+
+JGO  de lo que yo quería hablar era de búsqueda de imágenes  06:12
+
+JGO  quería hablar  de los aspectos multilingües  de la búsqueda de imágenes  como os acabo de comentar  06:16
+
+JGO  hacerlo además desde una perspectiva interactiva  06:19
+
+JGO  y además  en el entorno  de  la  web social o de la web dos punto cero que es el entorno de   de Flickr  como os decía  06:27
+
+JGO  era imposible hacer un título con todos estos  términos clave  sin que fuera  infumable  06:31
+
+JGO  así que bueno  por qué no hacerlo en  modo web social  no   así con &eh  pone uno el título que le da la gana  y luego ya  en las etiquetas  se habla del contenido y se permite que se encuentre la información por ese tipo de contenido  06:43
+
+JGO  así que esta es la segunda versión del título de  la charla  la versión  tal y como estaba  digamos  originalmente diseñada  06:50
+
+JGO  y este es el cangrejo que lo volveremos a ver enseguida  06:52
+
+JGO   {%act: click} bien   cómo es esto de  la perespectiva del usuario  06:57
+
+JGO  esto  quizás  desde la perspectiva de las empresas  pues no hace falta explicároslo  pero para un científico es algo realmente extraño  tener que ponerse en contacto con  con los seres humanos  07:06
+
+JGO  &eh la perspectiva   de   los  investigadores en recumeración de información &eh  en general es ésta  no   07:13
+
+JGO  el usuario necesita información  la maquina le busca la información  y el usuario es feliz  o no  07:17
+
+JGO  de hecho a veces se mide binariamente  no   07:20
+
+JGO  sí  no  sí  no  sí  no  y punto  07:22
+
+JGO  y hay que conseguir que la máquina lo haga lo mejor posible  07:24
+
+JGO  por eso  he elegido este  dibujo de   de   de Bender  porque es  es muy apropiado  no   07:28
+
+JGO  es una máquina extremadamente inteligente  pero bebe mucho  07:31
+
+JGO  entonces  {%act: laughs} tiene un comportamiento errático  no   07:33
+
+JGO  puede parecer {%alt: padeser} muy inteligente o absolutamente  estúpida porque está borracha  07:37
+
+JGO   {%act: click} en realidad claro  todos sabemos  incluidos los informáticos cuando usamos los sistemas  que esto  es una  imagen completamente  incompleta  y absurda  07:46
+
+JGO  en realidad  encontrar información es cosa de dos  07:49
+
+JGO  sí tenemos la máquina  que es rápida y tonta  pero luego tenemos al otro lado  al humano  que es  muy listo  y muy lento  07:57
+
+JGO  hay que aprovechar la velocidad de la máquina  y la inteligencia del   del humano  no   08:01
+
+JGO  hay un gran potencial para colaborar  digamos  08:03
+
+JGO  y de hecho a no ser que uno esté  navegando  haciendo una consulta navegacional  en la que quiera encontrar  pues la página del CSIC  que efectivamente es  relativamente instantáneo  muchas veces uno se ve envuelto en un proceso iterativo en el que está  ayudándose de la máquina para encontrar la información  pero no es para nada un prococeso  automático  sino que es un proceso de interacción  08:21
+
+JGO  así que si queremos saber  qué sistemas y qué algoritmos  son los mejores  para encontrar información  no hay más remedio  que poner el usuario  en el proceso de evaluación  para saber cuál es  la mejor manera de que el usuario  encuentre la información  que al fin y al cabo el usuario es el que la necesita  08:37
+
+JGO  la &ves que la  la   el dibujo es perfecto porque ahí tenemos a Homer Simpson  que es listo  a veces  08:45
+
+JGO  desde luego es lento  08:47
+
+JGO  y  lo que es más curioso  a menudo no sabe lo que busca  no  08:50
+
+JGO  éste sería el  el usuario tipo  08:51
+
+JGO  y de hecho es una situación frecuentísima  08:53
+
+JGO  uno está buscando  pero es algo exploratorio  08:56
+
+JGO  y de hecho las cosas que encuentra  le despiertan  o le aclaran  qué es lo que realmente necesita  o le llevan a caminos completamente inexplorados  09:03
+
+JGO  así que  en fin  la  la imagen es mucho más compleja  que la que  en general  casi todos los investigadores  nos planteamos  09:11
+
+JGO  así que  llega un momento en el que uno  en particular en mi caso  siente la necesidad de hacer algo útil  09:17
+
+JGO  y   en ese momento está perdido porque empieza a trabajar con usuarios y ya nunca más se recupera  09:24
+
+JGO  ahora lo veremos un poco  09:25
+
+JGO  el  CLEF tiene su contrapartida en  Estados Unidos  en el TREC  que es otra campaña de evaluación &in  internacional  de sistemas de acceso  de sistemas de acceso a información en general  09:37
+
+JGO  &eh  esa  frase de arriba {%com: looking at his slides}  users screw things up  es una  cita literal  no diré de quién  de uno de los organizadores del TREC  09:45
+
+JGO  &eh  que básicamente quiere decir que una vez que metes usuarios estás completamente perdido  09:50
+
+JGO  un problema que tienen realmente  gordo  que hemos comprobado en nuestro laboratorio  es que  no se les puede resetear  09:57
+
+JGO  no se les puede lobotomizar  09:59
+
+JGO  es  es  es un desastre  10:00
+
+JGO  o sea se les tiene que alimentar  10:01
+
+JGO  es  gente que  por ejemplo dependiendo de cómo haya dormido  te hace las {%alt: laj} cosas de una manera o de otra  de si ha tenido  bronca con algún familiar  la noche anterior  {%act: doubt}  10:10
+
+JGO  si tienen hambre  también  hacen las cosas más precipitadamente  etcétera  10:13
+
+JGO  es un auténtico desastre  10:15
+
+JGO  sobre todo  con resetear me refiero  a un problema gravísimo  y es que cuando  un  investigador compara  dos sistemas de recuperación de información  normalmente porque  quiere comprobar  que su algoritmo produce una mejora  entonces coge un sistema de referencia  y luego  un sistema que incorpora su algoritmo  10:32
+
+JGO  simplemente les da a los mismos  las mismas tareas  10:35
+
+JGO  cada uno las resuelve y luego mira a ver  cuál las resuerve mejor 10:38
+
+JGO   esto en cuanto tienes un usuario ya no lo puedes hacer  porque   si le pones al usuario con el sistema A  a resolver esta tarea  cuando le pones con el sistema B  el tío se acuerda de lo que ha hecho antes  10:49
+
+JGO  y por lo tanto  su forma de buscar es completamente distinta  10:52
+
+JGO  y a eso me refiero con lo de que no se les puede resetear  10:55
+
+JGO  y ese es un problema enorme  10:56
+
+JGO  cuando se plantea metodológicamente  cómo evaluar con usuarios  10:59
+
+JGO  además en TREC  la gente que trabajaba  en aspectos interactivos  les  les gustaba mucho   {%act: click} mostrar  a los  desarrolladores de sistemas &a  &e  sistemas ad hoc  &eh  que las diferencias entre los sistemas desaparecían en cuanto ponían usuarios  11:15
+
+JGO  &eh  cogían sistemas  completamente contrapuestos como  un sistema booleano  que es  lo más básico que se puede tener  y luego el sistema más avanzado del mercado en ese momento  que había ganado todas las competiciones  ponían unos  {%alt: unoj} cuantos usuarios  a buscar información  y la conclusión  era  que  no había ninguna diferencia  entre los dos sistemas  11:34
+
+JGO  era un mensaje muy deprimente para la  gente que hacía sistemas  11:36
+
+JGO  y   y  eso les gustaba mucho a los que trabajaban en  cosas orientadas a usuarios  11:41
+
+JGO  ahora bien  entonces ellos decían  lo que hay que hacer  es mejores interfaces  11:46
+
+JGO  hay que  asistir al usuario mejor  11:48
+
+JGO  cuanto mejor asistas al usuario  mejor encontrará la información  11:52
+
+JGO  no tanto  depende de que haya un treinta por ciento de variación en el ranking  sino de cómo le ayudo yo a encontrar información  11:57
+
+JGO  bueno  pues bien  resulta que encontraban  que  las diferencias entre sistemas interactivos  tampoco  resultaban en una mejora de  de la búsqueda  12:06
+
+JGO  conclusión  era realmente un  12:08
+
+JGO  &que  creo que los organizadores se querían cargar la tarea  12:10
+
+JGO  lo que pasa es que los que trabajaban en eso eran muy  muy entusiastas  12:14
+
+JGO  otra {%alt :otro}  cosa que se descubrió en esa tarea interactiva  es que  los sistemas de  de búsqueda de respuesta  de question answering  eran  completamente inútiles  desde la perspectiva del usuario  12:24
+
+JGO  hicieron una experimentación en la que  muchos grupos de investigación sentaban a un montón de gente  y les ponían a buscar  la información que solemos buscar en la web  12:32
+
+JGO  pues  el típico  tipo de preguntas de  bueno  quiero viajar a tal sitio  y quiero saber qué es lo que tengo que ver  o cuáles pueden ser unos hoteles  razonables  etcétera  12:41
+
+JGO  y   les ponían a buscar  12:43
+
+JGO  y   en un momento dado  en la lista de distribución  de discusión  pues había uno que decía  tengo un problema  es que se ponen a  ponen la consulta en Google  y los tres primeros hits  ya tienen la respuesta ahí  y &sibl  la ven  dentro del snippet que devuelve Google  lo resuelven y ya está  12:59
+
+JGO  se me acaba el experimento enseguida  13:01
+
+JGO  entonces   para qué necesitas un sistema de question answering  que es tan complejo  cuando en realidad lo mejor es tener  recuperación de información  rápida y tonta  y  un tío  lento pero listo  que  vea el snippet y rápidamente detecte  dónde está la respuesta  13:14
+
+JGO  bueno  dan ganas de cerrar la charla y irse a casa  no  13:18
+
+JGO  bueno  pues no  13:19
+
+JGO  no  por una razón  13:21
+
+JGO   {%act: click} una de nuestras hipótesis  es que cuando estás en un entorno multilingüe  la cosa  cambia  radicalmente  13:27
+
+JGO  fijaos {%alt: fijaros}  13:28
+
+JGO  vais a decir  no hombre  {%act: blow}  qué tontería  13:29
+
+JGO  se hace  traducción automática y ya está   no  13:31
+
+JGO   es lo mismo  13:32
+
+JGO  básicamente es lo mismo  13:34
+
+JGO  coges  traduces los documentos  y fuera  13:36
+
+JGO  pues no es tan fácil  13:37
+
+JGO  fijaos  por ejemplo  esto  es una página  es un producto en eBay  13:41
+
+JGO  seguramente  es traducción automática  porque por ejemplo  a ver   quién  puede decirme  qué significa  amigacho y ntcs  ntsc  13:52
+
+JGO  a mí me ha costado un rato  &eh  13:55
+
+JGO  si  si conocemos los dos idiomas  al cabo de un rato  y gracias a la pista de ntsc  14:00
+
+JGO  creo que Isidro ya lo tiene  no  14:02
+
+JGO   efectivamente amigacho es pal  14:03
+
+JGO  eso no es nada  mirad esto  14:07
+
+JGO  el jugador especial de youtube  construyó a la derecha   que probablemente es el  el  el  el player   no   el reproductor de música  no el jugador sino el player  14:17
+
+JGO  y   está   built inside  probablemente  no  del  del navegador  14:23
+
+JGO  y etcétera etcétera &es  14:24
+
+JGO  el tacto del ipod  es el único ipod que le da  el acceso sin hilos a la tela  14:31
+
+JGO  vosotros os reís porque sabéis algo de inglés  y porque además estáis en el mundillo  pero si  {%act: laugh} no estaríais completamente desconcertados  14:40
+
+JGO  imaginaos que un usuario está buscando información  y  está viendo este tipo de documentos  14:46
+
+JGO   {%act: click} primero  un problema es cómo  reconoce que un documento es relevante  que es un proceso  es una parte fundamental del proceso  14:53
+
+JGO  el sistema me da documentos  y yo digo al quinto es el que me interesa  14:57
+
+JGO  perfecto  14:58
+
+JGO  con este tipo de cosas es bastante más  {%act: laugh}  bastante más complejo  15:01
+
+JGO  ahora  suponiendo que encuentras &eh   un documento que te pueda interesar   cómo haces relevance feedback   o sea   cómo refinas con el sistema    dándole términos de un documento  15:09
+
+JGO  fijaos que son términos en tu idioma  15:11
+
+JGO  si los alimentas al sistema y el sistema lo vuelve a traducir  puede pasar cualquier cosa  15:15
+
+JGO  o sea  el proceso de refinamiento  en cuanto estás en un entorno multilingüe  es un  es un caos  15:20
+
+JGO  en conclusión  el problema está en que  un usuario  se adapta  al modus operandi de un sistema en modo monolingüe  15:27
+
+JGO  si tiene que hacer consultas booleanas  y a  todos nos ha pasado  15:30
+
+JGO  todavía si te vas a un sistema  bibliotecario  normalmente  el modo de consulta es booleano  15:34
+
+JGO   qué pasa   15:35
+
+JGO  que sustituyes la inteligencia del sistema de ranking  por la tuya  y haces una consulta booleana justo con los términos  que  a ti te descartan la información irrelevante  y te dan la relevante  15:45
+
+JGO  pero  cuando estás en un modo multilingüe  y esta es una hipótesis fundamental para seguir trabajando en este área  no puedes hacer eso porque  cruzar  la barrera del idioma no es tan sencillo  como a  15:55
+
+JGO  o sea  no  15:56
+
+JGO  te puedes adaptar a un sistema  más tonto  pero no te puedes adaptar a un idioma nuevo  16:01
+
+JGO  ahí estás perdido sin aistencia  16:03
+
+JGO  no sé si os he convencido de que merece la pena  investigar en esto  {%act: blow}  16:08
+
+JGO  en cualquier caso voy a seguir  hasta que me echen  16:11
+
+JGO  bien  esta es un poco la situación  respecto a la investigación  para que os hagáis una idea  en recuperación de información multilingüe {%alt: multilingule}  16:18
+
+JGO  es  un poco &un  la cuenta de la vieja  buscando Google Scholar por  este  estos  {%alt: estas} acrónimos  cross language information retrieval  que es el más utilizado  y  añadiéndole user study  que es  lo más  utilizado cuando está en la perspectiva interactiva  16:31
+
+JGO  veis la diferencia de publicaciones  16:33
+
+JGO  esto son  volumen de publicaciones  en la base de datos  de Google scholar  16:38
+
+JGO  de esta parte tan pequeñita {%com: pointing the slides}  en realidad más del ochenta por ciento lo hemos hecho  &eh esa pequeña aldea del  del ICLEF  16:43
+
+JGO  en conclusión  está claro que no ha recibido  la atención que merece  16:47
+
+JGO  así que  vamos a decidársela nosotros  16:51
+
+JGO  vamos a ver {%com: whispering}  16:53
+
+JGO  aquí {%com: whispering}  16:54
+
+JGO   qué hemos hecho en el ICLEF  16:55
+
+JGO  en realidad el ICLEF llevamos desde el dos mil uno o el dos mil dos  &eh haciendo experimentos  17:00
+
+JGO  y siempre los hemos hecho con esta metodología  que tenéis en esta transparencia  17:04
+
+JGO  que es una metodología  guiada por hipótesis  17:06
+
+JGO  uno formula una hipótesis  sobre el proceso de búsqueda  17:09
+
+JGO  normalmente sobre cómo  se puede ayudar mejor al usuario a buscar  17:12
+
+JGO  a continuación  &eh prepara su sistema de referencia  y  su sistema de contraste  para  comprobar esa hipótesis  17:20
+
+JGO  después  diseña un conjunto de  consultas  que son las tareas  que van a tener que resolver los usuarios  17:27
+
+JGO  y después tienes este problema que he comentado  de que cuando utilizas un sistema para resolver  un problema dado  ya no puedes  &eh   &ha  hacer el mismo problema  con otro sistema  porque ya sabes cómo resolverlo de antemano  ya tienes experiencia  y tienes ahí un proceso de aprendizaje  17:43
+
+JGO  así que  lo que se hace es  utilizar un cuadrado latino  que es  básicamente  combinar  usuarios  &eh consultas y sistemas  de manera que no se produzcan esos problemas  17:54
+
+JGO  por ejemplo también que   resulte que claro {%alt: cao} como no puedes darle al mismo usuario  &eh la misma consulta con dos sistemas  puedes tener a unos usuarios utilizando este sistema  y a otros usuarios distintos utilizando el otro sistema  18:05
+
+JGO  y si tienes mala suerte y los primeros son más torpes  tú  vas a  concluir que el sistema A es peor  cuando en realidad simplemente  son más torpes  18:13
+
+JGO  o puede darse el caso de que las {%alt: laj} consultas que haces con un sistema sean más sencillas  que las otras  etcétera  18:17
+
+JGO  entonces para eliminar todos esos efectos  se utiliza ese diseño de cuadrado latino en el que se van rotando  preguntas sistemas y consultas  18:24
+
+JGO  así que las características de esta metodología son  primero que es completamente controlada  18:29
+
+JGO  tú sientas a los usuarios  y les dices lo que tienen que hacer  18:32
+
+JGO  no es nada ecológica  18:33
+
+JGO  tú no vas  a sentarte al lado de una persona con una necesidad  sino que probablemente  llamas a tu primo  le coges  y le dices  ahora imagínate que eres un perodista  y que necesitas información sobre esto  18:43
+
+JGO  hala  ponte a buscar  18:44
+
+JGO  es guiado por hipótesis  18:46
+
+JGO  y  es deductivo claro  18:47
+
+JGO  o sea tú haces la hipótesis y vas hacia abajo  en lugar de  observar  cómo la gente busca  y a partir de ahí hacer abstracción  18:53
+
+JGO   {%act: click} lo mejor de esta metodología es que es consistente  desde un punto de vista científico  18:59
+
+JGO  y  lo peor es que tiene un  una relación coste beneficio desastrosa  19:06
+
+JGO  &eh reclutar  entrenar a los usuarios  alimentarlos mientras trabajan  pagarlos  es  es un coste tremento  y al final sólo puedes medir  un aspecto de la búsqueda a la vez  19:16
+
+JGO  tú tienes que tener dos interfaces  idénticas excepto en justo  aquello que te permite probar tu hipótesis  19:22
+
+JGO   para qué hablaros de un sistema completo  con un conjunto de  funcionalidades  19:26
+
+JGO  eso es  prácticamente inviable  19:28
+
+JGO  y encima  como el coste de reclutar y entrenar es tan alto  al final tienes un conjunto reducido de usuarios  19:34
+
+JGO  si tienes treinta y dos usuarios eso ya es  la obra del Escorial  19:38
+
+JGO  con lo cual  es muy difícil extraer conclusiones que sean  significativas  estadísticamente  19:44
+
+JGO  así que  desde el dos mil seis nos planteamos  primero encontrar escenarios más realistas  estamos trabajando {%alt: trabajandos} con  con un corpus de noticias  que  están en muchos idiomas  y que son  corpus corparables  o sea el contenido es aproximado  son noticias de la misma  &eh fecha {%alt: fechas}  20:03
+
+JGO  entonces claro   para qué quiere uno buscar información en chino  que ya tiene en castellano   no  &es  20:08
+
+JGO  el escenario no era realmente el ideal  20:10
+
+JGO   {%act: click} por supuesto queríamos  facilitar la participación de los grupos de investigación  porque con este coste tan alto  es una razón buenísima para no entrar a investigar en el tema  20:18
+
+JGO  y también queríamos explorar nuevos diseños experimentales  por la misma razón  20:22
+
+JGO  así que nos fuimos a Flickr  20:25
+
+JGO  ya lo   os lo he enseñado antes  pero  una de las cosas  más interesantes de Flickr para nosotros  es que  el contenido esencial son imágenes  que es independiente del idioma  pero  es una  red social  a escala mundial  donde hay  comunidades  de muchísimos idiomas distintos  20:42
+
+JGO  y la prueba de que el idioma  no es una pieza clave para intercambiar información es que es  absolutamente normal encontrarse imágenes  anotadas  con información distinta  en muchos idiomas  20:52
+
+JGO  en este ejemplo {%com: pointing the slides} pues tenemos  anotaciones en inglés  en japonés  en italiano  y en español  hechas por el que puso la imagen  y por la gente que comenta cosas  20:59
+
+JGO  así que  el entorno es estupendo  para estudiar este tipo de  fenómenos  21:05
+
+JGO  y  quisimos cambiar un poco  la  la  metodología típica de hacer consultas tipo  encuéntrame fotografías de parlamentos europeos  que es  el tipo de preguntas que siempre se hacen en el CLEF  por  un par de cosas  un poquito más arriesgadas  21:17
+
+JGO  una tarea creativa  que es precisamente la que os he comentado antes  21:20
+
+JGO  encontrar cinco ilustraciones  para un artículo sobre el cultivo del azafrán  en Italia  21:25
+
+JGO  el usuario se leía el artículo  y luego buscaba la información en Flickr  21:28
+
+JGO  y luego  una visual  que da título a la charla  21:30
+
+JGO   cómo se llama la playa de la derecha  21:33
+
+JGO  es la pregunta  que  al final  se  reducía  a encontrar este cangrejo  21:38
+
+JGO  una vez que encontrabas el cangrejo  era cuando ya obtenías acceso  a la información sobre el nombre de la playa  21:43
+
+JGO  y  no pusimos ninguna restricción metodológica  21:46
+
+JGO  no sé cómo no nos echaron del CLEF  porque en el CLEF  tú das una metodología  y la gente la sigue  21:51
+
+JGO  entonces nosotros dijimos  no hay metodología  21:52
+
+JGO  nos tendrían que haber echado  21:54
+
+JGO  pero la idea es  no sabemos  cuál es la metodología buena  21:56
+
+JGO  la que hemos {%alt: osemos} usado hasta ahora  es costosísima y no nos está dando realmente resultados  22:01
+
+JGO  y  por lo tanto  exploramos cosas muy distintas a las que habíamos hecho hasta ahora  como por ejmeplo el comportamiento de los usuarios  frente a problemas multilingües  que hasta entonces  no era algo que nosotros directamente  hubieramos trabajado  o la percepción subjetiva  frente a las tareas  22:18
+
+JGO  una tarea como la de  ilustrar  un   un documento  obviamente la percepción  la satisfacción del usuario  es un parámetro  que  que tiene relevancia  22:28
+
+JGO  sólo voy a poner un ejemplo del tipo de resultados  que tuvimos  22:33
+
+JGO  muy curioso  22:34
+
+JGO  esto es  una gráfica en la que  aquí está  el tiempo de búsqueda  22:37
+
+JGO  el usuario empieza a buscar aquí  y se le acaba el tiempo aquí  en el minuto veinte  22:41
+
+JGO  objetivo  entontrar  el cangrejo  o el nombre de la playa  22:46
+
+JGO  y  estas  barras son  el uso de las facilidades de traducción  22:51
+
+JGO  la interfaz  de este experimento  te permitía buscar en muchos idiomas al mismo tiempo  22:55
+
+JGO  tú podías  consultar en  en  castellano  y  él te buscaba  en  tantos idiomas como quisieras  dentro de  no sé si eran cinco o seis idiomas  posibles  23:04
+
+JGO  cada usuario sabíamos  qué idiomas para él eran nativos  qué idiomas eran pasivos  es decir  algo como por ejemplo  el francés para todos los castellanos  23:13
+
+JGO  aunque no sepamos hablarlo  en general reconocemos de qué se nos está hablando  no  23:19
+
+JGO  eso es un poco tener capacidad pasiva  pero no activa  23:21
+
+JGO  no puedes hacer consultas  pero puedes entender lo que te devuelve el sistema  23:24
+
+JGO  o completamente desconocido  tipo  para mí pues el chino o el holandés  23:28
+
+JGO  bien  y esto es  la proporción  en la que pedían al sistema los usuarios  que les incluyera  esos idiomas  en la búsqueda  23:36
+
+JGO  si os fijáis {%com: pointing at the slides}  los idiomas desconocidos  por alguna razón  están aquí abajo  23:41
+
+JGO  el usuario no sabía en qué idioma estaba anotada el &ca &eh  la imagen del cangrejo  23:44
+
+JGO  no tenía ni idea  23:45
+
+JGO  pero  tendía  a no seleccionar  los idiomas que no conocía  23:49
+
+JGO  y es curioso porque  ahí aprendes sobre el tipo de resistencias  que tiene  el personal a la hora de hacer búsqueda multilingüe  23:55
+
+JGO  llegaba un momento aquí por el minuto  entre el minuto trece y quince  estaban completamente desesperados  24:00
+
+JGO  la frase normalmente era   dónde está el maldito cangrejo   con variaciones  24:06
+
+JGO  y a partir de ahí  empezaban ya  desesperadamente a tocar todos los botones de la interfaz  y añadían el holandés  y efectivamente  la imagen estaba en holandés  24:14
+
+JGO  algunos hasta la encontraban  no  24:16
+
+JGO  como veis aquí al final ya  {%act: laugh} estaba  todo  todo marcado  24:19
+
+JGO  entonces claro  eso hay que tenerlo en cuenta al diseñar un sistema  24:22
+
+JGO  no puedes diseñar un sistema pensando que la gente está  encantada de buscar en chino  24:25
+
+JGO  en realidad es bastante lógico  24:28
+
+JGO  claro {%com: whispering}  24:29
+
+JGO  pero como somos informáticos  pues no lo habíamos  {%act: laugh}  previsto  24:33
+
+JGO   {%act: click} bien  en el ICLEF dos mil ocho  &eh hemos seguido con   con  con esta tarea de búsqueda en Flickr  24:40
+
+JGO  pero la hemos cambiado  y la hemos cambiado sustancialmente  24:42
+
+JGO  porque  aún seguíamos teniendo un  entorno de laboratorio en el que reclutábamos usuarios  los sentábamos  y al final teníamos muy poquitos usuarios  muy poquitas consultas  con lo cual  era muy difícil  de nuevo  extraer conclusiones  sustanciales  24:56
+
+JGO  así que  lo que hemos pensado  es que  íbamos a hacer  una tarea  simplemente de análisis de logs  25:02
+
+JGO  y nos íbamos a concentrar en conseguir  muchísimos usuarios  utilizando un sistema multilingüe  25:08
+
+JGO  y  luego  &eh los logs  de la interacción con el sistema  &lo  eran  lo que íbamos a ofrecer a los partipantes en la tarea  para estudiarlos y averiguar cosas sobre  &eh cómo los usuarios  realizan búsquedas multilingües  25:21
+
+JGO   {%act: click} un poco la clave que  nos dio el éxito fue convertirlo  en un juego  25:25
+
+JGO  &eh  cómo podemos conseguir que un montón de gente  por ahí por el mundo  con distintos perfiles de idiomas  se enganche  a hacer  una cosa como esta  25:34
+
+JGO  pues    dándoles dinero  25:37
+
+JGO  no  25:37
+
+JGO  no os creáis  25:38
+
+JGO  no es suficiente  25:39
+
+JGO  sobre todo si se los {%alt: lo} das de antemano  25:40
+
+JGO  es mejor hacer un juego  25:41
+
+JGO  si lo haces a escala global  por razones que todavía no alcanzo a comprender  la gente se engancha con la idea de que hay un ranking  y que puedes estar mejor o peor  25:50
+
+JGO    vamos a probar a ver si así lo conseguimos  no  25:52
+
+JGO  y el juego tenía que ser  extremadamente simple  claro  porque no podíamos  &eh entrenar a los usuarios ni explicarles  ni cómo funcionaba la interfaz ni de qué iba el juego  26:00
+
+JGO  así que  el más simple posible es   ves esta imagen  26:03
+
+JGO  encuéntrala  26:03
+
+JGO  que por cierto  a priori parece una tarea un poco absurda  no  26:07
+
+JGO  si ya tengo la imagen   para qué voy a encontrarla  26:08
+
+JGO  pero en realidad  yo creo que es algo que hacemos todos continuamente  26:11
+
+JGO  ese artículo que había visto no sé dónde de   cómo se llamaba  26:14
+
+JGO  y estás buscando ese artículo  y estás buscando esa foto tan bonita que vi el otro día de  o que tengo en mi propia colección  26:19
+
+JGO  o sea que en realidad es una tarea bastante  bastante práctica  26:23
+
+JGO   {%act: click} y entonces lo que hicimos fue una interfaz  que  te da una asistencia  estándar  para hacer búsqueda   &eh traslingüe  para buscar en varios idiomas simultáneamente  26:33
+
+JGO  y esa interfaz conectarla con la   API de   de Flickr  26:36
+
+JGO  y lo más importante de todo  &lo  eso sí  necesitábamos que los usuarios se registraran  porque necesitábamos saber  cuál es  cuál era su idioma nativo  y cuáles eran su perfil  de conocimiento del resto de los idiomas  los seis  que contemplamos  26:50
+
+JGO  {%com: asking to the organizers}  cuánto me queda  26:53
+
+JGO  bueno  pues os voy a   enseñar un poquito la interfaz para que veáis de qué iba  26:59
+
+JGO  esta es la imagen {%com: pointing at the slides}  27:01
+
+JGO  si pinchabas  la veías más grande  27:03
+
+JGO  y tenías que encontrarla  no   27:04
+
+JGO  pues aquí en este caso por ejemplo  violín  Strauss  estátua  27:07
+
+JGO  este era un   un tío informado  además un tío listo  27:10
+
+JGO  eh  la búsqueda simultánea  en seis idiomas  tú &co  el usuario podía &sele  &s  seleccionar o deseleccionar cualquiera de ellos  27:20
+
+JGO  y entonces  el sistema te enseña  las traducciones que está eligiendo en cada momento para cada uno de los términos de la consulta  27:26
+
+JGO  lo hacíamos de dos maneras  27:27
+
+JGO   {%act: click} hay una información contextual que es  &eh   Flickr  que tiene toda la información de concurrencia de las tags en la base de datos  tú le puedes decir que te dé etiquetas relacionadas  con  violín  strauss  y estatua  con las tres a la vez  27:42
+
+JGO  y como la base de datos es tan multilingüe y hay tanta  anotación cruzada entre idomas  hay cierta posibilidad  de que la traducción  para estas palabras  en cualquiera de estos idiomas  aparezca  en las sugerencias de Flickr  27:53
+
+JGO  así que esa era un poco la evidencia que usábamos contextual  de la consulta  27:57
+
+JGO  y luego además utilizábamos otras técnicas de   &eh simplemente parecido de  de similitud entre cadenas  no   28:02
+
+JGO   bueno sí  28:02
+
+JGO  la &tradu  si esta traducción se parece más al origen  es quizás más probable que otras que no se parecen nada  28:08
+
+JGO  así que bueno  un sistema  digamos  también de referencia  no especialmente malo  pero tampoco  estado del arte respecto a  la calidad de las traducciones # 28:17
+
+JGO  esas traducciones se convertían en una búsqueda booleana  28:33
+
+JGO  aquí & tien  o sea  había en la   en las imágenes tiene que haber  al menos una  de las traducciones posibles para violín   y  al menos una de las traducciones posibles para Strauss  y  al menos una de las traducciones posibles para  28:46
+
+JGO  no me acuerdo cuál era la otra  28:48
+
+JGO  estatua claro  28:52
+
+JGO  gracias  {%com: he thanks a person from the public}  28:53
+
+JGO  además   {%act: click} implementamos también un mecanismo básico de  relevance feedback  de realimentación  que es   {%act: click} para cualquiera de las palabras que sugiere Flickr  o sea aquí tienes las sugerencias de Flickr  la &releva  la  &la  el mecanismo de realimentación de Flickr estándar  29:08
+
+JGO  y luego además  tenemos los términos de las imágenes que van apareciendo  29:12
+
+JGO  cualquier momento al pinchar sobre ellos  el usuario podía  o  lanzar una nueva consulta  con ese término  o añadir  el término a la consulta  y volverla a lanzar  29:22
+
+JGO  y además le dábamos información de traducción si la teníamos  29:24
+
+JGO  en este caso al pinchar en park  pues se le dice que  en inglés significa parque  en alemán parque  y en holandés también significa parque  29:32
+
+JGO  una cosa fundamental era la traducción asistida de la consulta  29:39
+
+JGO  la idea aquí de nuevo es que  el humano  y la máquina juntos pueden conseguir una traducción óptima  para la consulta  29:45
+
+JGO  entonces  si en un momento dado no te gustaba una traducción para un término  al pinchar  veías  todos  los posibles del diciconario  29:54
+
+JGO  y puedes  o bien  seleccionar alguno alternativo   {%act: click} o añadirlo  simplemente  o bien  escribir una traducción nueva  si te parecía que la traducción correcta no estaba  en el diccionario  30:07
+
+JGO   {%act: click} había perfiles de usuario  lo más importante como he comentado antes pues  este  usuario saber  que su lengua nativa es el español  que no conoce en absoluto el alemán y holandés  y que el francés y el italiano puede comprender lo que ve  y  un ranking  esta es  como os digo  la parte fundamental para enganchar a los usuarios  30:26
+
+JGO  este era el ranking  el que cada uno podía ver  su posición global respecto al  resto del mundo  en términos de la puntuación que les estábamos dando por encontrar las imágenes  30:34
+
+JGO  y además también había un ranking de grupos que funcionaba bastante  30:37
+
+JGO  el pique entre grupos es bastante efectivo  30:40
+
+JGO  en nuestra  escuela funcionó entre departamentos razonablemente  30:43
+
+JGO  por cierto  nos ganaron  no  nuestro departamento no fue el  el mejor  30:48
+
+JGO  y por último  pero esto fue  muy importante es  un mecanismo de pistas  30:53
+
+JGO   por qué  30:53
+
+JGO  porque la  la tarea  es  increíblemente difícil  30:56
+
+JGO  estamos hablando de doscientos millones de imágenes  seis idiomas al mismo tiempo  30:59
+
+JGO  cuando empezamos a hacer pruebas  la gente nos decía   os habéis vuelto locos   {%act: laugh}  31:03
+
+JGO   esto es imposible  31:04
+
+JGO  aquí no hay &n  forma de encontrar nada  31:06
+
+JGO  así que  para que los usuarios no se nos desesperaran  implementamos un sistema de pistas  31:11
+
+JGO  si te rindes el sistema te ofrece una pista  31:13
+
+JGO  la primera siempre es el idioma  31:15
+
+JGO  con lo cual pasamos de un modo multilingüe a un modo bilingüe  lo cual nos venía muy bien luego para comparar y para estudiar  31:20
+
+JGO  y  las siguientes pistas son palabras clave de la imagen   31:24
+
+JGO  en un momento dado con tres o cuatro  cuatro o cinco pistas  era sencillísimo  31:28
+
+JGO  ahora eso sí cada vez que  el usuario pide una pista le quitamos puntos  31:32
+
+JGO  con esto la cosa empezó a funcionar  31:36
+
+JGO  y este es el resultado  31:38
+
+JGO  esta es la transparencia más importante de mi charla  31:40
+
+JGO  y es  & eh que por primera vez que yo sepa  hemos conseguido  un  un dataset  una  test suite  o como queráis llamarlo  reutilizable  en  en unos experimentos interactivos  31:50
+
+JGO  normalmente coges los usuarios los utilizas  miras los resultados y se acabó  31:54
+
+JGO  ya no se puede hacer nada más  31:55
+
+JGO  aquí hemos llegado a algo que es parecido a lo que se hace en otras tareas  31:58
+
+JGO  es coger un conjunto de datos que sin más interacciones con el usuario  la gente puede utilizar para estudiar los logs  y para sacar conclusiones  32:05
+
+JGO  &eh  conseguimos finalmente tener trescientos doce usuarios  repartidos en cuarenta y un grupos distintos  de cuarenta y tres países  32:13
+
+JGO  ahí tenéis un mapita más o menos de  el  el   despliegue por países  32:17
+
+JGO  y la verdad es que es fantástico  32:18
+
+JGO  tenemos de  casi todos los continentes  32:20
+
+JGO  utilizamos  un conjunto que preparamos de ciento ocho consultas  que también es  muchísimo mayor de lo que se había hecho antes  32:28
+
+JGO  la colección como os digo  tiene  del orden de doscientos millones de imágenes  por lo menos  32:32
+
+JGO  o sea que también es  algo serio  32:35
+
+JGO  por desgracia no los tenemos  32:36
+
+JGO  tenemos que trabajar con la API que es una limitación muy grande  32:39
+
+JGO  y  finalmente conseguimos  &eh recolectar  cinco mil ciento una sesiones completas de búsquedas  que es  un material que ya  te sirve para hacer un poquito de análisis estadístico y ver diferencias  32:49
+
+JGO  además  cada sesión  una vez que el usuario  o bien se rendía o bien encontraba la imagen  rellenaba un cuestionario  32:55
+
+JGO  así que tenemos  cinco mil ciento un cuestionarios post búsqueda  32:59
+
+JGO  esto es maravilloso  33:00
+
+JGO  casi nos desmayamos cuando vemos estas cifras  33:02
+
+JGO  y además  hubo setenta y tres usuarios  que completaron quince búsquedas  33:07
+
+JGO  estos se tiraron una semana  jugando con el sistema  33:10
+
+JGO  y al acabar &eh  las quince búsquedas  el sistema automáticamente saltaba con un formulario  post experiencia  no  33:17
+
+JGO  entonces ya a los usuarios experimentados  tenemos setenta y tres cuestionarios sobre cómo fue la experiencia  33:21
+
+JGO  y  multitud de perfiles  33:23
+
+JGO  había muchos investigadores en recuperación de información  pero también había muchísimos fans  de fotografía que se picaban  en los blogs de fotografía  33:30
+
+JGO  muchos estudiantes de lingüística  a los que al parecer les habían prometido una subida de nota  si ganaban y  cosas de esas  33:36
+
+JGO  en fin  de todo  33:37
+
+JGO  grupos monitorizados también  33:39
+
+JGO  hubo experimentos en los que  siguieron con el mecanismo tradicional reclutar usuarios  lo cual está muy bien porque  puedes observarles  33:45
+
+JGO  estudio observacional es muy importante  33:47
+
+JGO  y   bien esto es un poco  33:51
+
+JGO  gran variedad de idiomas  nativos  de idiomas de la interfaz  gran variedad entre  cada uno de los idiomas de la interfaz entre los perfiles  33:59
+
+JGO  aquí véis que por ejemplo para el inglés  la mayoría eran activos  que es el rojo  sin embargo para el  holandés  la inmensa mayoría  era  completamente desconocido  34:08
+
+JGO  en fin  un poco el mensaje es enorme variedad  34:12
+
+JGO  y  os voy a enseñar  un par de resultados  nada más  34:16
+
+JGO  el primero es la tasa de éxito por perfiles  una cosa que estudiamos en la UNED  34:21
+
+JGO  &eh  dependiendo de si la imagen  estaba en un  en un idioma  que para el usuario  era un idioma activo  o era un idioma pasivo  o no lo conocía en absoluto  queríamos ver si la tasa de   de éxito  cambiaba o no  34:33
+
+JGO  si os fijáis aquí {%com: pointing at the slides}  curiosamente entre activo y pasivo casi no hay diferencia  34:39
+
+JGO  que eso es un resultado que nos sorprendió bastante  34:41
+
+JGO  sin embargo entre activo y desconocido  pues hay como un veinte por ciento de   o sea los activos encuentran un veinte por ciento más de información  34:49
+
+JGO  es una diferencia  sustancial  34:52
+
+JGO   es grande  34:52
+
+JGO   no es grande  34:53
+
+JGO  aquí  todo es muy   muy engañoso  porque   podemos concluir que éstas son  la diferencia de dificualtad  entre las &do  las tareas  35:00
+
+JGO  es una pregunta  a ver   alguien me sabe contestar  35:04
+
+JGO  Isidro {%com: JGO speaks at Isidro who is in the audience}   tú qué dirías  35:05
+
+JGO  bueno  esto es muy rápido  porque la respuesta es que no  porque hay un mecanismo de pistas  35:09
+
+JGO  si el &mecani &e  35:11
+
+JGO  yo encuentro la  imagen  &eh  pidiendo pistas  35:15
+
+JGO  entonces  en un momento dado  estas diferencias no significan nada si no vemos  cuántas pistas está pidiendo  cada uno de los perfiles  35:22
+
+JGO  bueno  pues  afortunadamente  aquí sí es lo que nos esperábamos  35:28
+
+JGO  no solamente encuentran más imágenes  sino que es que piden muchas menos pistas  o sea que están resolviendo una tarea más difícil  con &mu  con bastante más acierto  35:38
+
+JGO  fijaos que esto  no significa que tarden más  los usuarios desconocidos  que a veces se puede establecer la dificultad de una tarea  en términos del tiempo que tardas en completarla  35:48
+
+JGO  no  no  35:49
+
+JGO  es que se rinden  35:50
+
+JGO  independientemente de que tardebn más o menos  se rinden  35:53
+
+JGO  y dicen  I give up  35:55
+
+JGO  me rindo  35:56
+
+JGO  no puedo más  35:57
+
+JGO  entonces están pidiendo  bastantes más pistas  36:00
+
+JGO  dos con cuarenta y dos es mucho  porque la primera es el idioma de destino  36:03
+
+JGO  están pidiendo  además  una keyword y media  36:06
+
+JGO  con tres keywords ya empieza a ser muy facilito  36:09
+
+JGO  o sea que están pidiendo mucha más información  pero no son capaces  de alcanzar  esos niveles de eficacia  ni de lejos  36:15
+
+JGO  y además  si miramos al coste cognitivo  36:18
+
+JGO  cuando digo coste cognitivo me refiero al número de interacciones con el sistema  porque el tiempo  es  36:23
+
+JGO  teníamos la información del tiempo pero no era relevante  no   porque  a lo mejor teníamos un usuario que se iba a  a tomar un café y luego volvía y seguía  36:30
+
+JGO  o incluso que abandonaba  se le dejaba  quedaba abierta la ventana y volvía al día siguiente  36:34
+
+JGO  eso está  fuera de control  36:35
+
+JGO  así que  en términos del número de interacciones  por ejemplo  el número de consultas  el número de veces que se explora el ranking y se piden veinte más  el número de veces que se utilizan los mecanismos de refinamiento  {%act: click} pues vemos que en general  la tendencia de nuevo  es la misma  36:51
+
+JGO  o sea  que  los que están &en  buscando en un idioma desconocido  hacen muchas más interacciones  36:56
+
+JGO  o sea  tienen un coste cognitivo mayor  a pesar de que es un problema más sencillo porque piden más pistas  37:02
+
+JGO  y aún así  son  mucho menos eficaces  a la hora de encontrar imágenes  37:07
+
+JGO  otro aspecto interesante {%alt: imteresante} es el aprendizaje  37:13
+
+JGO  también pensábamos  igual  por ejemplo  &eh al  al final  al cabo de quince consultas igual han aprendido  que las  los mecanismos de ayuda a la  a la  interacción  a refinar las consultas  que merece la pena  37:24
+
+JGO  estábamos muy interesados en ver  si eran capaces de aprender a utilizar esos mecanismos para buscar mejor  37:29
+
+JGO  y esta fue una  sorpresa  que de nuevo no tenía que haberla sido  que es la siguiente  37:33
+
+JGO  aquí  vemos {%com: pointing at the slides}  la  primera &con  desde la primera consulta  hasta la consulta número quince  la  azul es  el número de pistas promedio que se piden  y la roja  es  el  el  la tasa de éxito  al encontrar imágenes  37:47
+
+JGO  éstas son  estadísticas sobre un montón de   o sea  son  sobre  sobre miles  de  de experiencias  37:53
+
+JGO  pues   curiosamente la tasa de éxito es constante  37:56
+
+JGO  no mejora  37:59
+
+JGO  lo que sube es la  la   el número de pistas  que piden  38:02
+
+JGO  al final la conclusión es que el usuario siempre  como la bola cuando rueda por la montaña  siempre escoge el camino de menos  coste  {%act: laugh}  de bajada de potencia   no   38:12
+
+JGO  y entonces se dieron cuenta de que merecía la pena pedir alguna pista  aunque te   te quitaran puntos  porque  hacías la tarea muchísimo más fácil  38:18
+
+JGO  así que curiosamente lo que   nuestros usuarios aprendieron  fue a pedir alguna pista más  38:23
+
+JGO  y  todo lo demás  baja  38:26
+
+JGO  esto es  &eh  el coste cognitivo  el azul &sue  es el  número de consultas  que se hacen  38:32
+
+JGO  el rojo es el uso de  las facilidades de  refinamiento   y el &eh  &eh  el  verde  el número de veces que se explora el ranking  38:41
+
+JGO  veis que  es  una bajada  38:44
+
+JGO  o sea  aprender  la tarea  no ha significado en este caso utilizar más  las facilidades de la interfaz  sino que lo que ha significado es  hacerla más rápido  aprender cuál es el camino óptimo  para hacerla más rápido con menos esfuerzo  38:58
+
+JGO   {%act: click} aquí hay un  dato interesante  39:01
+
+JGO  estos son los cuestionarios  que se les hacían a los usuarios  cuando encontraban una imagen  39:05
+
+JGO  de esto tenemos también por tanto miles de ellos  39:08
+
+JGO  y estas son las preguntas  39:09
+
+JGO  se le decía  bueno  una pregunta era    cuál fue la mayor dificultad  para encontrar imágenes  39:15
+
+JGO   {%act: click} entonces resulta que  cuando la imagen era activa  39:18
+
+JGO   {%act: click} perdón &cuan  sí  cuando la imagen estaba anotada  en un idioma activo  {%com: whispering to himself} a ver si consigo  aquí {%com: touches the screen of the computer to mark the slide}  pues vemos  el rojo  son los que  los que contestan  cuando el idioma era activo  39:31
+
+JGO  y el   39:32
+
+JGO  y el ratón ya me está fallando  39:34
+
+JGO  la  pregunta  39:37
+
+JGO  bueno  aparte de esta que es  &eh  fue fácil  que  encontrado  39:40
+
+JGO  y  lógicamente a muchos  ya sabéis esto  los matemáticos cuando resuelven un problema aunque lleven diez años dicen   era  es trivial  pues esto es parecido  no   39:47
+
+JGO  lo han encontrado {%alt: encontrao}  pues es fácil  39:49
+
+JGO  pero bueno  si descartamos esta primera columna  de esta primera pregunta  vemos que  la causa más importante es la cuatro  era difícil describir la imagen  39:56
+
+JGO  y la siguiente es la dos  había demasiadas imágenes  {%act: assent}  40:01
+
+JGO  esto es cuando el idioma era activo  40:03
+
+JGO  ahora  cuando el idioma era desconocido  y este es el amarillo  la causa principal es que no sabían que  no conocía el idioma en que estaba anotada la imagen  40:13
+
+JGO  y la siguiente es  era difícil porque tenía que traducir mi consulta  40:17
+
+JGO   a dónde quiero llegar   a que cuando hay un problema traslingüe  cuando no conocemos el idioma  ese es el factor de dificultad más importante  40:25
+
+JGO  ese es en el que se tiene que concentrar  el sistema o la interfaz  40:28
+
+JGO  porque la percepción  es esa  40:30
+
+JGO  eso pasa a ser el factor de dificultad  40:32
+
+JGO  y fijaos {%alt: fijaros}  que la tarea era  muy difícil  40:34
+
+JGO  o sea que  que   que efectivamente la base de datos es gigantesca  40:37
+
+JGO  y es complicado encontrar   una   imagen en concreto en ella # 40:41
+
+JGO  {%com: looks at somebody in the audience} hay que acabar  no  vale  40:47
+
+JGO  pues   solamente voy a enseñaros  &eh   40:53
+
+JGO  bueno  no merece la pena  40:56
+
+JGO  solamente os voy a decir una cosa  40:58
+
+JGO  las facilidades  la asistencia translingüe para traducir la consulta  para seleccionar mejor las  las  traducciones  etcétera  se usaban muy poco  41:09
+
+JGO  es verdad  que es la única  41:10
+
+JGO  veis es esta gráfica {%com: points at the slide}  41:11
+
+JGO  es la única que no baja  41:12
+
+JGO  todo lo demás baja  41:14
+
+JGO  esta no  41:14
+
+JGO  nosotros queríamos ver si efectivamente la gente aprendía a usarlo y se emocionaba con lo de  tocar la   la traducción  para mejorarlo  41:21
+
+JGO  no lo vimos  41:22
+
+JGO  pero al menos es la que  de hecho  según como quieras interpretar todos estos saltos  {%act: laugh}  se puede ver que sube un poco  41:29
+
+JGO  &eh   pero  el uso en general es muy bajo  41:33
+
+JGO  esto estamos hablando  de  usarlo en tres  de cada  diez &c  41:39
+
+JGO  no  tres de cada   41:40
+
+JGO  sí  tres de cada diez consultas  hacen algo  con esa facilidad  41:45
+
+JGO  o sea que el uso en terminos absolutos es  es muy bajo  41:47
+
+JGO  sin embargo  la   los usuarios aquí contestaban si eso les había parecido útil o no  al final  de las quince  búsquedas  41:58
+
+JGO  entonces decían  la posibilidad de &im  de mejorar las traducciones a través del  del mecanismo de refinamiento del sistema  me parecía muy útil  estaba muy de acuerdo en que es muy útil  es el azul  útil  y nos vamos hasta aquí  y estos son los que le parecía poco útil o nada útil  42:16
+
+JGO  fijaos que tenemos  más del setenta por ciento que les parecía  muy útil o útil  42:20
+
+JGO  y esto es de lo   de las cifras más altas  en lo que están contestando  42:24
+
+JGO  o sea  lo usan poco  pero les parece utilísimo  42:26
+
+JGO  es curioso  no  42:28
+
+JGO  esto es el efecto   el efecto humanos  42:30
+
+JGO  o no  porque en realidad  tiene sentido  42:32
+
+JGO   cuántos de vosotros usáis el modo avanzado  de búsqueda en Google  42:36
+
+JGO   {%act: click} no sé  42:39
+
+JGO  yo lo he usado {%alt: usao} pocas veces  42:40
+
+JGO  ahora  cuando lo uso  si no lo tuviera  estaría  42:44
+
+JGO  o sea  si me preguntan &qu  por el modo avanzado de Google  voy a decir  fenomenal  42:46
+
+JGO  por ejemplo la detección de caras  cuando buscas imágenes en Google  tú puedes decirle  quédate sólo con las caras  42:52
+
+JGO  normalmente no lo usas  42:53
+
+JGO  ahora cuando lo usas te parece fabuloso  42:55
+
+JGO  y si probablemente en un cuestionario dirías  esto es estupendo  42:57
+
+JGO  esto es un poco parecido  42:58
+
+JGO  hay que aprender a  ocultarle al usuario los problemas  derivados de buscar en varios idiomas  43:04
+
+JGO  porque eso a él no le interesa  43:05
+
+JGO  a él le interesa encontrar  información  encontrar imágenes en este caso  43:08
+
+JGO  no le interesa si están en un idioma u otro  43:10
+
+JGO  él no quiere hacer una búsqueda multilingüe  43:12
+
+JGO  quiere encontrar información  43:14
+
+JGO  ahora  cuando  no la encuentra  entonces tienes que tener esos mecanismos  para  que  realmente se pueda  finalmente  completar la tarea  43:22
+
+JGO  bueno pues  pues ya está  yo creo que  43:25
+
+JGO  no voy a  repasar las conclusiones  porque son  más o menos lo que hemos comentado ya  43:29
+
+JGO  así que  si tenéis alguna consulta para el cangrejo ...  43:34
+
+JGO  {%com: applause}  43:37

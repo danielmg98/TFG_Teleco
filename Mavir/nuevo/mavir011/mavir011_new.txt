@@ -1,0 +1,303 @@
+ROD hola  00:01
+
+ROD vale  muchas gracias  a   bueno  muchas gracias a todos  por la presentación  00:08
+
+ROD y bueno  ya como se ha dicho  os voy a hacer la presentación de la tesis de máster  con la que he ganado este premio  00:13
+
+ROD y   quería empezar esta presentación &eh mostrando mis agradecimientos  en primer lugar al Consorcio Mavir  por la creación de este premio  y a las empresas patrocinadoras  que &po  que podemos ver aquí  00:27
+
+ROD &eh mi mayor &agradeci  también  quiero mostrar mi agradecimiento al jurado  que ha tenido que tomar la decisión  00:33
+
+ROD &eh mi mayor agradecimiento ahora va dedicado a mi director Anselmo Peñas  al cual le tengo que dedicar mucho  &eh lo que ha sido mi carrera investigadora  00:41
+
+ROD también  &eh  dar las gracias  a todos mis compañeros y amigos  que me han estado apoyando  y todavía siguen en ello {%act: laugh}  a pesar de  de que siempre estoy comiéndome la cabeza con mis investigaciones  00:53
+
+ROD y  en  último lugar  aunque no por ello menos importante  quiero agradecer y dedicar este premio a toda mi familia  00:59
+
+ROD bueno  vamos ahora a ver la presentación  01:02
+
+ROD este es el esquema que voy a seguir durante la presentación  01:05
+
+ROD comenzaré realizando una introducción  donde  definiré unos términos que nos van a ser de utilidad para el resto de la presentación  01:13
+
+ROD entre ellos está  &eh la tarea variación de respuestas  ya que en el siguiente punto  realizaré una propuesta de evaluación de sistemas de este tipo  01:21
+
+ROD a continuación  realizaré una &aproximaci  &eh  propondré una aproximación basada  en reconocimiento de entidades  para  la validación de respuestas  01:30
+
+ROD y terminaré dando algunas conclusiones del trabajo  y las publicaciones a las que dio lugar  01:35
+
+ROD empezamos por la introducción  01:37
+
+ROD &eh los sistemas de búsqueda de respuestas  son sistemas que reciben una pregunta en lenguaje natural  y generan  una respuesta  a dicha pregunta  y un texto que soporta la veracidad  de dicha respuesta  01:50
+
+ROD al contrario de los sistemas de recuperación  como los motores de búsqueda  como Google o &ya  Yahoo  a los cuales se les consulta con preguntas &clav  con  perdón  palabras clave  y genera una lista de documentos  donde manualmente tenemos que buscar nosotros  las respuestas  02:04
+
+ROD con lo cual  facilitan el acceso a la información  02:06
+
+ROD un ejemplo puede ser el que muestro aquí  02:09
+
+ROD para la pregunta   cuál es la longitud de río Tajo   02:12
+
+ROD  podemos  obtener  de un sistema la respuesta  02:15
+
+ROD mil siete kilómetros  y como texto  para soportar la  dicha respuesta  el Tajo es el río más largo de la Península Ibérica  con un total de mil siete kilómetros  que el cual nos demuestra  que la respuesta obtenida es correcta  02:28
+
+ROD por otro lado  tenemos la tarea de validación de respuestas  que consiste en decidir  si las respuestas generadas  por los sistemas de búsqueda de respuestas  son o no correctas  02:38
+
+ROD para ello  un sistema de validación  recibiría  al igual que el sistema de búsqueda de respuestas  la pregunta  y  la &pre  la respuesta y texto soporte  generado por los sistemas de búsqueda de respuestas  generando como salida  un valor binario  indicando si considera  que la respuesta es o no correcta  de acuerdo al texto soporte  02:57
+
+ROD en el ejemplo anterior que tenemos  un sistema de validación debería indicar  que la respuesta es correcta  según el texto  03:04
+
+ROD de este modo  al incluir &eh  al poder incluir criterios para considerar &eh  los sistemas de búsqueda de respuestas  {%alt: pa} para considerar si sus  respuestas son o no correctas  se espera que se mejoren los resultados obtenidos  actualmente sin validación de respuestas  03:19
+
+ROD y ahora voy a hablar de  reconocimiento de implicación textual  03:24
+
+ROD es una  tarea  que consiste en determinar  &eh dado un texto  si su significado implica  al de otro texto al que llamamos hipótesis  o lo que podemos   decir de otra manera  si el significado del texto llamado hipótesis  &implic  está  se puede obtener  a partir del primer texto  03:39
+
+ROD un ejemplo muy sencillo lo podemos ver aquí  03:42
+
+ROD dado el texto  Luis y Ana se casaron  el treinta de enero en Madrid  03:46
+
+ROD y la hipótesis  Luis es el marido de Ana  03:49
+
+ROD si no tenemos ninguna noticia de que haya habido un divorcio  podemos ver que hay implicación  entre el texto hipótesis  03:55
+
+ROD usando esta idea de implicación textual  &eh nosotros realizamos  una propuesta  de evaluación de sistemas de validación de respuestas  que voy a  exponer ahora mismo la metodología propuesta  04:06
+
+ROD para ello &eh  propusimos las &i  el uso de la siguiente arquitectura  04:11
+
+ROD tenemos &eh  la arquitectura básica un sistema de pregunta &respues  de  búsqueda de respuestas  que recibe una pregunta  y como ya hemos dicho  genera una respuesta candidata  y un texto soporte  04:22
+
+ROD y  por otro lado  &eh un sistema de validación  que recibiría la misma pregunta  y la respuesta  y el texto soporte  de xxx por el sistema de búsqueda de respuestas  04:32
+
+ROD de tal manera  que el sistema de validación  genera  indica  si la respuesta es o no correcta  04:38
+
+ROD en caso de que no sea correcta  podemos volver a preguntar  por una   podemos  &eh volver a realizar otra consulta con el fin de encontrar en este caso una respuesta correcta  04:47
+
+ROD al usar implicación textual  como he dicho que tenemos texto y   e hipótesis  vemos que  nos falta la hipótesis  con lo cual tiene que haber un paso intermedio  de generación  &eh de hipótesis  04:59
+
+ROD ese es el caso  es  &eh  lo que debemos de incluir  al usar  implicación textual  en la validación de respuestas  05:05
+
+ROD es por ello que los pasos a seguir para usar implicación textual  para la validación de respuestas  el primero  sería generar &u  &eh  &di  diversas hipótesis  combinando preguntas y respuestas  05:19
+
+ROD de tal modo que si  tenemos la pregunta   quién es Vicente Fox   05:22
+
+ROD  y la respuesta   y una respuesta generada  que es presidente de Méjico  05:26
+
+ROD una posible hipótesis es  Vicente Fox  es el presidente de Méjico  05:30
+
+ROD teniendo ya esa hipótesis  y el texto soporte  podemos usar implicación textual  para comprobar  si hay &eh  si el texto soporte implica la hipótesis creada  y por tanto si la respuesta es o no válida  05:43
+
+ROD &eh  una vez tenemos  una xxx esa arquitectura  es necesario crear unas colecciones de evaluación  para poder  usar los sistemas de validación que utilizan implicación textual  05:56
+
+ROD por tanto  &eh nosotros también desarrollamos un método  en el que tomábamos como partida  la salida &rea  la salida  de sistemas reales  de búsqueda de respuestas  y los juicios otorgados  por evaluadores humanos  a dichas respuestas  06:10
+
+ROD el &prime  &eh  el objetivo es construir  un conjunto de pares texto hipótesis  sobre los cuales se va a evaluar  06:18
+
+ROD primer paso  es crear las hipótesis  06:20
+
+ROD para ello  necesitamos a &trav  &eh  a partir de la pregunta  crear un patrón de hipótesis  &eh  como por &e  un patrón de hipótesis  &eh  en el que luego se instancian las distintas respuestas  06:32
+
+ROD &eh  lo podemos ver mejor aquí en el ejemplo  06:35
+
+ROD si tenemos la pregunta   cuál es la capital de Croacia   06:38
+
+ROD  podemos  crear como posible patrón de hipótesis  una posible respuesta  es la capital de Croacia  06:44
+
+ROD y ya con cada  respuesta generada  por los sistemas de búsqueda  podemos ir creando diversas hipótesis  instanciando este patrón  06:52
+
+ROD de tal manera  que si una respuesta es Zagreb  podemos tener la hipótesis  06:56
+
+ROD Zagreb  es la capital de Croacia  06:58
+
+ROD de este modo  con esta hipótesis  y el texto soporte devuelto  ya tenemos  un par texto hipótesis  para esta respuesta generada  07:06
+
+ROD el siguiente paso  es &eh  qué valor de implicación otorgar  a este par  07:12
+
+ROD dado que en los sistemas  de búsqueda de respuestas  los evaluadores pueden otorgar cuatro posibles valores  y en implicación textual  &eh solamente hay dos posibles valores  es necesario hacer una transformación  07:23
+
+ROD es por ello  que nosotros proponemos esta  transformación  07:27
+
+ROD caso de respuesta correcta  la consideran los evaluadores  cuando la respuesta  a la pregunta es correcta  y soportada por el texto  07:35
+
+ROD por lo tanto cabe esperar  que el texto implique  a la hipótesis que  generamos  con el método propuesto  y por tanto  &eh será un valor positivo de implicación  07:44
+
+ROD caso de respuestas no soportadas  &eh se  lo otorgan los evaluadores cuando  aun siendo la respuesta cierta  no se puede soportar  su veracidad  con el texto soporte  07:55
+
+ROD en este caso  la reformulación de la hipótesis  no va a ser implicada por el texto  08:00
+
+ROD por tanto no habrá implicación  y lo indicamos  08:03
+
+ROD caso de respuestas incorrectas  es también &se  es &eh  &simila  es semejante  08:09
+
+ROD no  el texto no va a implicar la hipótesis generada  puesto que la respuesta es incorrecta  y no va a haber implicación  08:16
+
+ROD caso de las respuestas sean exactas  es un caso más difícil  08:19
+
+ROD este tipo de &evalua  de   de juicio  se otorga cuando la respuesta  es en parte correcta  pero puede ser más larga  o más corta  de lo estrictamente necesario  08:31
+
+ROD las hipótesis que se generan  no está claro  si son ciertas o no  08:35
+
+ROD teniendo en cuenta  que son una  &eh  un bajo porcentaje  de todas las respuestas otorgadas por sistemas  decidimos eliminarlas &con  para nuestros fines de evaluación  08:45
+
+ROD una vez tenemos  &eh las colecciones de evaluación  el siguiente paso  es describir la &me  &eh  las medidas con la cual se va a  evaluar  y sobre todo comparar  los distintos sistemas  08:58
+
+ROD decidimos descartar el uso  de una medida global  dado que  en los sistemas actuales  cuando presentamos este trabajo  de buscar respuestas  un alto porcentaje de respuestas  &se  eran evaluadas como incorrectas  bueno  un setenta por ciento observamos  en la tarea de buscar respuestas del  del CLEF  09:17
+
+ROD y se tenía la posibilidad de que un sistema de validación  que siempre diera  siempre &de  devolviera que no  en esta situación  tendría  un valor  de  de medida  un valor  de evaluación del setenta por ciento de precisión  lo cual  parece muy alto para un sistema tan sencillo  y para nuestros fines de evaluación  09:35
+
+ROD es por ello  que nuestro interés se centra  en  concentrarse en la detección  de respuestas correctas  09:41
+
+ROD nosotros proponemos  medir la precisión  cobertura  y su media armónica  más conocida como medida efe  sobre las respuestas correctas  09:49
+
+ROD aquí podemos ver las fórmulas  09:52
+
+ROD en el caso de la precisión  nuestro objetivo  es  &eh  medir  la habilidad de los sistemas  prediciendo respuestas correctas  10:01
+
+ROD caso de la cobertura  se encarga de  de observar  y medir  la capacidad de los sistemas  detectando las respuestas correctas que existen  10:09
+
+ROD y la medida efe lo que hace es ponderar ambos valores  dándoles la misma importancia  10:14
+
+ROD una vez &eh  desarrollamos esta metodología  la pusimos en marcha  como una tarea de evaluación  llamada  Answer Validation Exercise  dentro del Cross Language Evaluation Forum  del que ha hablado  Paul  10:28
+
+ROD y que la realizamos en el dos mil seis  10:30
+
+ROD también se ha ido  se ha ido realizando los siguientes años  10:33
+
+ROD y nuestro objetivo  era  evaluar los &disti  los distintos enfoques que  que había para validación de respuestas  10:40
+
+ROD para ello  tomamos como entrada  la salida  de los sistemas de búsqueda de respuestas que participaban  en el CLEF  que eran sistemas reales  10:48
+
+ROD y &tu  lo pudimos desarrollar  de  dado la &multili  multilingualidad del CLEF  en siete lenguas distintas  10:55
+
+ROD tuvimos una gran aceptación  y una gran participación  con once grupos  participantes  y un total de treinta y ocho ejecuciones  en distintos idiomas  11:03
+
+ROD ahora voy a hablaros  de la aproximación que nosotros proponemos para validación de respuestas  basándonos {%alt: basándono} en reconocimiento de entidades  11:12
+
+ROD para ello  primero voy a pasar  a  definiros  lo que nosotros consideramos entidades  11:17
+
+ROD nosotros llamamos entidades  a lo que  son los nombres de personas  organizaciones  o localizaciones  como nombres de países o ciudad  también las expresiones numéricas  y las expresiones temporales  11:29
+
+ROD nuestra motivación para trabajar con entidades  en reconocimiento de implicación textual  y validación  fue que observando las colecciones  de búsqueda de respuestas  las preguntas que  había en las colecciones  un alto porcentaje  esperaban  como respuesta una entidad  no  11:46
+
+ROD  pues ser  &eh  un lugar  un nombre de una persona  una organización  11:51
+
+ROD son las consultas más frecuentes que hay  11:53
+
+ROD además  en implicación textual  en el foro más importante que se celebra  el  RTE Challenge  observamos que en las colecciones que se proponían para test  también había un alto porcentaje de entidades  12:05
+
+ROD con lo cual queríamos estudiar su importancia en esta tarea  12:09
+
+ROD dado {%alt: dada} que en  &ere  en  implicación textual  se considera  que para que haya implicación  todos los elementos de la hipótesis  han de ser implicados  por elementos del texto  &nues  &eh llevando esto al campo de las entidades  nuestra propuesta es  que todas las entidades de la hipótesis  deben de estar implicadas  por entidades en el  en el texto  12:29
+
+ROD de este modo  nosotros realizamos  dos propuestas  sobre  sobre implicación de entidades  12:36
+
+ROD en nuestra primera aproximación  decidimos no usar la clasificación de entidades que he hablado de nombres  expresiones numéricas  expresiones temporales  12:44
+
+ROD de este modo  consideramos que una entidad implica a otra  si el &co  si el texto de la primera &contie  perdón  si el texto de la primera contiene al texto de la segunda  12:53
+
+ROD en el ejemplo  la entidad  dos de agosto  de mil novecientos noventa  implicaría mil novecientos noventa  12:59
+
+ROD lo cual podemos ver que en este caso es correcto  13:01
+
+ROD nuestra segunda aproximación  la cual es más elaborada  tiene en cuenta la clasificación de entidades  dadas por los reconocedores actuales de entidades  13:11
+
+ROD diferenciamos entre nombres  expresiones temporales y numéricas  y hay que  definir  un tipo de  de implicación  en  dependiendo del tipo de entidad que tenemos  13:20
+
+ROD caso de nombres  &eh semejante a la anterior  13:23
+
+ROD una entidad implica a otra  13:25
+
+ROD si la primera implica  si la primera contiene a la segunda  13:28
+
+ROD en el ejemplo  Yasir Arafat  implica Arafat  13:31
+
+ROD lo cual podemos ver que es claro  13:33
+
+ROD caso de expresiones temporales  consideramos que una expresión temporal  implica a otra  si el rango de la primera  está incluido en la segunda  13:40
+
+ROD un ejemplo muy sencillo es  que el dos de agosto  implica a agosto  13:45
+
+ROD podemos ver que algo que ha ocurrido  en esa fecha  el dos de agosto  también ha ocurrido  en agosto  o es un periodo de tiempo mayor  13:52
+
+ROD caso de expresiones numéricas  una  expresión numérica  implica a otra  si el rango asociado a la segunda  incluye  al rango de la primera  14:01
+
+ROD de manera similar a expresiones temporales  14:03
+
+ROD podemos ver en el ejemplo que cinco mil  implica más de dos mil  14:06
+
+ROD lo cual también está claro  14:08
+
+ROD con el fin de comparar estas dos &eh  estas dos aproximaciones  realizamos un experimento  sobre una colección de implicación textual balanceada  con igual porcentaje de  ejemplos de implicación y ejemplos de no implicación  usando como medida de evaluación la accuracy  que se suele usar en esta tarea  que es el porcentaje de pares acertados  14:29
+
+ROD y nuestra hipótesis de partida era  que el método más elaborado  que tenía en cuenta clasificación  iba a obtener mejores resultados  14:36
+
+ROD sin embargo  viendo los resultados vimos  que son muy semejantes  dado que nos enfrentamos  &eh y arrastramos  el error en la clasificación  de los actuales reconocedores  14:47
+
+ROD se puede ver el error en este ejemplo  donde la expresión mil novecientos noventa  que en este caso es un año  una expresión temporal  se reconoce como un número  14:56
+
+ROD en &e  esta expresión numérica  no encontraría  otra expresión numérica en el texto que la implicase  y ahí tendríamos  un error  y un problema  15:04
+
+ROD por ello decidimos usar  el método menos elaborado  que no tiene clasificación  dado que es más robusto  a &erro  a errores en la clasificación  y además es más sencillo  15:15
+
+ROD usando este método  &eh realizamos  una serie de experimentos en el AVE 2006  &us  también la realizamos con otros sistemas para ver  para realizar un estudio  15:27
+
+ROD el primero de los sistemas era un &clasificadio  clasificador SVM  que utilizaba varias características de solapamiento léxico  porcentaje de palabras  de la hipótesis en el texto   porcentaje de lemas  bigramas y trigramas  de la hipótesis en el texto  15:43
+
+ROD por bigramas me refiero  &eh dos lemas consecutivos  trigramas tres lemas consecutivos  15:47
+
+ROD son &eh  son atributos de solapamiento muy sencillos  15:51
+
+ROD el segundo sistema que   que quisimos  poner a prueba  es &eh  usaba la implicación de entidades que he descrito  considerando que había implicación  si todas las entidades que había en la hipótesis  que había &ge  sido generada a partir de pregunta &hipótesi  a partir de pregunta y respuesta como he explicado antes  estaban implicadas  y no en caso contrario  16:12
+
+ROD y también decidimos  comprobar los resultados de una serie de combinaciones de estos sistemas  16:17
+
+ROD podemos ver que nuestro sistema SVM  &eh a pesar de usar  perdón  16:24
+
+ROD {%com: he drinks} # perdón  nuestro sistema SVM  a pesar de usar atributos  &eh muy sencillos solapamiento léxico  &o  obtenía un valor  por encima del baseline  otorgado por  otorgado   en la  por la organización  16:49
+
+ROD y se quedaba más o menos cerca  del  de ese  mejor sistema en el AVE 2006  16:54
+
+ROD también quisimos poner a prueba nuestro sistema de entidades  el cual  mejoraba todavía más  mejoraba los &i  &eh &me  todavía más al sistema baseline  y al sistema SUV que nosotros  hemos realizado  y nos quedábamos  también todavía más cerca del mejor sistema  del AVE 2006  que era un sistema que utilizaba  procesamientos más complejos  17:16
+
+ROD decidimos que  dada la alta precisión de nuestro sistema de  de entidades  reconociendo  pares negativos  pares donde no hay implicación  las respuestas son incorrectas  una buena idea era probar a usarlo como filtro  para el sistema SVM  17:30
+
+ROD de tal manera que nos quitásemos todos los pares  sin implicación  con una alta precisión  y luego el sistema SVM decidiera  en cuáles había implicación y en cuáles no  17:40
+
+ROD nuestra intuición  no funcionó  &eh ya que obtuvimos resultados  &eh más bajos que los sistemas que combinaba  17:49
+
+ROD y otra combinación que realizamos era la de  incluir las entidades como un atributo más  en la  en el aprendizaje  en el SVM  17:57
+
+ROD en este caso  podemos ver que los resultados  son mejores que los presentados  y muy cercanos  apenas similares  a los  del mejor sistema  18:06
+
+ROD esto nos hace ver  y nos &ha  nos hace ver  que la información de entidades  es muy importante  en este campo y de hecho  los mejores sistemas que hay actualmente tanto en validación como en implicación  tienen  la &gasifi  la  el reconocimiento de entidades  como uno  como uno de los atributos más importantes de sus sistemas  18:25
+
+ROD también decidimos probar en  en un foro de  en el foro de evaluación de implicación textual que se celebró el año pasado  ya que   en este foro se generan pares  para evaluar de &dis  que capturan características de distintas tareas del lenguaje natural  no solamente búsqueda de respuestas  sino también extracción de información  recuperación de información  y resumen automático  18:50
+
+ROD en  en las ejecuciones que &utili  que realizamos  &eh vimos que en la  en la  perdón  la tarea  que más entidades nombradas tenía  era la extracción de información  19:00
+
+ROD la información que nos otorgaban sus sistemas de entidades  no nos hacía mejorar mucho  ya que era necesaria todavía más información  19:08
+
+ROD sin embargo  seguíamos manteniendo buenos resultados  en búsqueda de respuestas  19:12
+
+ROD de hecho era  donde mejor resultados obteníamos  19:15
+
+ROD y ahora  algunas conclusiones a las que llegamos con ese trabajo  son que es posible reformular  la validación de respuestas  como un problema  de reconocimiento de implicación textual  19:28
+
+ROD por ello  realizamos una propuesta metodológica  que llevamos a cabo con éxito  como una tarea de evaluación internacional  en la cual hubo  varios participantes  y se ha seguido  realizando esa tarea  19:40
+
+ROD también estudiamos una aproximación para validación de respuestas  en la implicación textual  basándonos en entidades  en las cuales  &re  obtuvimos resultados prometedores  19:49
+
+ROD pero  &mm  pero vimos que &ta  había ahí un margen de mejora  usando esa información  que se puede complementar  para obtener mejores resultados  19:57
+
+ROD estas son las publicaciones a las cuales dio &es  lugar este trabajo  20:02
+
+ROD y su continuación luego ha dado lugar  todavía a más publicaciones  20:06
+
+ROD y ya este es el fin de la presentación  20:08
+
+ROD si tenéis alguna duda  20:09
+
+ROD bueno  muchas gracias por atender primero  20:11
+
+ROD si tenéis alguna duda estaré encantado de resolvérosla  20:14
