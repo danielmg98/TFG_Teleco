@@ -13,14 +13,19 @@ while 1:
 		break
 	if char == b'\t':
 		nuevo.write(char)
-		char2 = original.read(1)
-		if char2 == b'.':
-			nuevo.write(char2)
 	elif char == b'.':
 		pass
 	elif char == b'+':
 		pass
-	else:
+	elif char ==  b' ':
+		nuevo.write(char)
+		char2 = original.read(1)
+		while char2 == b' ' or char2 == b'.':
+			char2 = original.read(1)
+			pass
+		
+		nuevo.write(char2)
+	else:	
 		nuevo.write(char)
 
 original.close()
