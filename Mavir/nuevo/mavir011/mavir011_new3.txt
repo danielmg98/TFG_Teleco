@@ -254,7 +254,7 @@ ROD y también decidimos  comprobar los resultados de una serie de combinaciones
 
 ROD podemos ver que nuestro sistema SVM  &eh a pesar de usar  perdón  16:24
 
-ROD {%com: he drinks} # perdón  nuestro sistema SVM  a pesar de usar atributos  &eh muy sencillos solapamiento léxico  &o  obtenía un valor  por encima del baseline  otorgado por  otorgado   en la  por la organización  16:49
+ROD {%com: he drinks}  perdón  nuestro sistema SVM  a pesar de usar atributos  &eh muy sencillos solapamiento léxico  &o  obtenía un valor  por encima del baseline  otorgado por  otorgado   en la  por la organización  16:49
 
 ROD y se quedaba más o menos cerca  del  de ese  mejor sistema en el AVE 2006  16:54
 

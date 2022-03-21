@@ -9,7 +9,6 @@ Adolfo
 Corujo
 León
 Dilbert
-...
 00:05
 para
 qué
@@ -1279,7 +1278,6 @@ el
 francés
 el
 alemán
-...
 06:40
 mediante
 tablas
@@ -3557,7 +3555,6 @@ poco
 muy
 poco
 rastreables
-...
 18:28
 escuchaba
 a
@@ -3671,7 +3668,6 @@ corporativa
 útil
 y
 rastreable
-...
 19:09
 je
 si
@@ -3737,7 +3733,6 @@ hace
 diez
 años
 pues
-...
 19:29
 probablemente
 no
@@ -4551,7 +4546,6 @@ principio
 podemos
 grabar
 la
-...
 24:08
 jope
 pues
@@ -4615,7 +4609,6 @@ o
 sea
 hacemos
 encuestas
-...
 24:31
 pero
 algo
@@ -4869,7 +4862,6 @@ lógico
 Google
 Maps
 localizarse
-...
 25:40
 pero
 por
@@ -4944,7 +4936,6 @@ sofisticadas
 con
 herramientas
 sencillas
-#
 26:05
 también
 debemos
@@ -5187,7 +5178,6 @@ de
 una
 página
 web
-#
 27:18
 y
 por
@@ -5489,7 +5479,6 @@ a
 compartir
 ideas
 conceptos
-...
 29:05
 hemos
 descubierto

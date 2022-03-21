@@ -508,7 +508,7 @@ evolucionando
 02:42
 la
 web
-2.0
+20
 está
 muy
 de

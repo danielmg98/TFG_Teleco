@@ -56,7 +56,7 @@ BUE bueno  pues   muchas gracias José María  04:07
 
 BUE &eh  muchas gracias a todos también  04:09
 
-BUE # {%com: GOM comes and changes the slides in the computer} y   y bueno pues en &eh  intentaré ser breve  04:25
+BUE  {%com: GOM comes and changes the slides in the computer} y   y bueno pues en &eh  intentaré ser breve  04:25
 
 BUE y  lo que os presento aquí pues es un poco &eh  unas digamos como conclusiones iniciales  a las que llegamos en este grupo de trabajo  de los tres que comentaba antes  &eh José María  04:36
 
@@ -198,7 +198,7 @@ BUE &e  era el objetivo  16:41
 
 BUE  {%act: clearing of throat} entonces por ejemplo ellos proponían la localización de información en expedientes médicos  combinando datos textuales con datos en formato de imagen  así que por ejemplo de las radiografías  si se tiene una radiografía la imagen de alguien que tiene  pues algún problema en el pulmón  o cosa parecida y debajo está el texto  pues cómo  &eh sacar partido de ese texto asociado  y también analizar la   integrarlo  incluso en el análisis de la imagen  17:05
 
-BUE  {%act: clearing of throat} # bueno  hacíamos también referencia  a  a dos funcionalidades parecidas no  17:16
+BUE  {%act: clearing of throat}  bueno  hacíamos también referencia  a  a dos funcionalidades parecidas no  17:16
 
 BUE  pues en la tres apoyo en el proceso de compleción de   de expedientes  pues hace referencia al relleno de registros  y &eh también desarrollo  de herramientas para apoyo al proceso de diagnóstico  17:27
 
@@ -554,7 +554,7 @@ MAR  es plantear una serie de necesidades que han surgido en el  &eh  que nos ha
 
 MAR  en esa reunión participaron por parte de iSOCO Jesús Contreras y Luis Rodrigo  que se encuentra hoy aquí  &eh yo misma por parte de la Universidad Carlos III  y luego tres personas del hospital de Fuenlabrada  Paz  Pablo Serrano Francisco García y Paz Iglesias  44:37
 
-MAR  entonces &mm  {%act: click} # dios mío  &eh lo que  &eh lo que voy a hacer es presentar  &eh &mm  {%act: click} &eh los objetivos que nos trasladaron desde el hospital de Fuenlabrada como usuarios  para &eh presentar a continuación las cuatro  aplicaciones que nosotros hemos identificado como potenciales en las que trabajar  45:02
+MAR  entonces &mm  {%act: click}  dios mío  &eh lo que  &eh lo que voy a hacer es presentar  &eh &mm  {%act: click} &eh los objetivos que nos trasladaron desde el hospital de Fuenlabrada como usuarios  para &eh presentar a continuación las cuatro  aplicaciones que nosotros hemos identificado como potenciales en las que trabajar  45:02
 
 MAR  &eh ver un poco el papel de los participantes aunque  &eh no está &eh tan definido como en el resto de los  casos de hecho  faltarían participantes  y es una de las cosas que vamos a transmitir &eh hoy aquí  45:14
 

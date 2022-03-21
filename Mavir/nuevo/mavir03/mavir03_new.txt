@@ -2,7 +2,7 @@ COR muchas gracias  Julio  00:01
 
 COR buenos días  00:02
 
-COR &eh  Adolfo Corujo  León  Dilbert ...  00:05
+COR &eh  Adolfo Corujo  León  Dilbert   00:05
 
 COR   para qué le diría que improvisara   00:07
 
@@ -152,7 +152,7 @@ COR y pocas veces &u  utilizo una alternativa a Google cuando &ha  hago una bús
 
 COR este año  en primavera  mi empresa  hizo un estudio  acerca de  cuál sería el porcentaje del índice de Google  que estaría en castellano  06:33
 
-COR  y estuvimos durante quince días haciéndole cargas de profundidad  &comparaciendo  comparando  diferentes idiomas  el inglés  el francés  el alemán ... 06:40
+COR  y estuvimos durante quince días haciéndole cargas de profundidad  &comparaciendo  comparando  diferentes idiomas  el inglés  el francés  el alemán  06:40
 
 COR  mediante tablas de comparación  de ponderación de frecuencias de términos  06:44
 
@@ -458,7 +458,7 @@ COR  porque los motores de búsqueda no les indexan  porque no les pueden indexa
 
 COR  porque nos &em  empeñamos en tener webs  que son muy bonitas  pero muy poco útiles  18:26
 
-COR  muy poco rastreables ...  18:28
+COR  muy poco rastreables   18:28
 
 COR  hhh {%act: grumbles incomprehensible words}  escuchaba  a  el día de la presentación del día de Internet  escuchaba a Emilio Ontiveros decir una cosa que es que a mí me  me  me tuvo una semana pensando  18:36
 
@@ -466,7 +466,7 @@ COR  dice   pero cómo van  a tener las empresas web corporativos útiles  e int
 
 COR  claro  en esos despachos suele haber una televisión  suele haber un vídeo  suele haber todo tipo de revistas  suele haber  resúmenes de prensa  pero no tienen ordenador  19:03
 
-COR  explícale tú a ese presidente de compañía lo importante que es tener una web corporativa útil y rastreable ...  19:09
+COR  explícale tú a ese presidente de compañía lo importante que es tener una web corporativa útil y rastreable   19:09
 
 COR  je   si es casi imposible   19:11
 
@@ -474,7 +474,7 @@ COR  el otro día me decía un presidente de una empresa de alto nivel  una cosa
 
 COR  me decía  la killer application en Internet  es la información bursátil  19:20
 
-COR  hhh  {%act: laugh}  decía  hhh {%act: laugh}  claro  debe ser la que tú consultas porque  hhh {%act: laugh}  si te voy a explicar que  los chats  llevan rompiendo la pana  desde hace diez años  pues ...  19:29
+COR  hhh  {%act: laugh}  decía  hhh {%act: laugh}  claro  debe ser la que tú consultas porque  hhh {%act: laugh}  si te voy a explicar que  los chats  llevan rompiendo la pana  desde hace diez años  pues   19:29
 
 COR   probablemente no lo veas  no  19:31
 
@@ -572,7 +572,7 @@ COR  tenemos la posibilidad  en ese sentido  de ser un referente  y debemos expl
 
 COR  además  debemos tener herramientas que nos permitan tener información de primera mano acerca de los internautas  24:03
 
-COR  esto lo he discutido  de verdad  me  me preguntaban al principio   podemos grabar la ...   24:08
+COR  esto lo he discutido  de verdad  me  me preguntaban al principio   podemos grabar la    24:08
 
 COR  jope  pues ya verás cuando lo difundáis  24:11
 
@@ -582,7 +582,7 @@ COR  esto lo estuvimos discutiendo con el director del observatorio de Red punto
 
 COR  Domingo  pregunta  Domingo   tenéis herramientas reales para saber  lo que quiere el usuario en Internet   24:27
 
-COR  o sea  hacemos encuestas ...  24:31
+COR  o sea  hacemos encuestas   24:31
 
 COR  pero algo a lo que yo no mienta  de acuerdo {%com: laugh while speaking}  24:34
 
@@ -636,7 +636,7 @@ COR   chato   hay que ir por ahí  25:36
 
 COR lógico  25:38
 
-COR Google Maps  localizarse ...  25:40
+COR Google Maps  localizarse   25:40
 
 COR  pero   por qué   25:40
 
@@ -646,7 +646,7 @@ COR  y además ahora están perfeccionando las herramientas como buena empresa d
 
 COR  bueno  pues cuando un país se plantea cómo explotar las posibilidades que tiene que tener en Internet  evidentemente  tiene que partir de estudiar  e investigar  y analizar  lo que quieren los internautas  25:57
 
-COR  pero no con herramientas sofisticadas  con herramientas sencillas # {%com: consults the laptop}  26:05
+COR  pero no con herramientas sofisticadas  con herramientas sencillas  {%com: consults the laptop}  26:05
 
 COR también debemos contar con un modelo de conocimiento que nos permita que esa información  no radique  sólo  única y exclusivamente en la gente que la genera  26:13
 
@@ -674,7 +674,7 @@ COR &eh  ponemos foto  para todo {%alt: pa to}  27:08
 
 COR y ellos ponen  fotografía  27:10
 
-COR  pues ese es un problema  importante  de incoherencia a la hora de montar la estructura de una página web # {%com: consults the laptop}  27:18
+COR  pues ese es un problema  importante  de incoherencia a la hora de montar la estructura de una página web  {%com: consults the laptop}  27:18
 
 COR  y por último  esta frase me encanta  porque  tiene que ver mucho con nuestra empresa  apoyar a la industria tecnológica  27:24
 
@@ -714,7 +714,7 @@ COR  hay que acercar  las iniciativas universitarias  y las empresariales  28:55
 
 COR  a lo largo del último año  nuestra empresa ha tenido una muy buena experiencia en relación  con la gente de la UNED  29:01
 
-COR  hemos empezado a compartir ideas  conceptos ...  29:05
+COR  hemos empezado a compartir ideas  conceptos   29:05
 
 COR  hemos descubierto  de que ni ellos están tan en las nubes  ni nosotros somos tan malos  29:09
 

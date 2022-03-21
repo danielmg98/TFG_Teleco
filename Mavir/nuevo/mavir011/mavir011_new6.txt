@@ -126,7 +126,7 @@
  el segundo sistema que   que quisimos  poner a prueba  es  usaba la implicación de entidades que he descrito  considerando que había implicación  si todas las entidades que había en la hipótesis  que había  sido generada a partir de pregunta  a partir de pregunta y respuesta como he explicado antes  estaban implicadas  y no en caso contrario  16:12
  y también decidimos  comprobar los resultados de una serie de combinaciones de estos sistemas  16:17
  podemos ver que nuestro sistema SVM  a pesar de usar  perdón  16:24
-  # perdón  nuestro sistema SVM  a pesar de usar atributos  muy sencillos solapamiento léxico   obtenía un valor  por encima del baseline  otorgado por  otorgado   en la  por la organización  16:49
+   perdón  nuestro sistema SVM  a pesar de usar atributos  muy sencillos solapamiento léxico   obtenía un valor  por encima del baseline  otorgado por  otorgado   en la  por la organización  16:49
  y se quedaba más o menos cerca  del  de ese  mejor sistema en el AVE 2006  16:54
  también quisimos poner a prueba nuestro sistema de entidades  el cual  mejoraba todavía más  mejoraba los   todavía más al sistema baseline  y al sistema SUV que nosotros  hemos realizado  y nos quedábamos  también todavía más cerca del mejor sistema  del AVE 2006  que era un sistema que utilizaba  procesamientos más complejos  17:16
  decidimos que  dada la alta precisión de nuestro sistema de  de entidades  reconociendo  pares negativos  pares donde no hay implicación  las respuestas son incorrectas  una buena idea era probar a usarlo como filtro  para el sistema SVM  17:30

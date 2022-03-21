@@ -1283,7 +1283,7 @@ montón
 de
 de
 Web
-2.0
+20
 nos
 permiten
 geoposicionar

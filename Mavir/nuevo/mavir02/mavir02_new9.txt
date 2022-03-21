@@ -712,7 +712,6 @@ y
 por
 mi
 parte
-...
 04:51
 muy
 bien
@@ -3402,7 +3401,6 @@ sirven
 o
 no
 sirven
-...
 20:37
 en
 el
@@ -5359,7 +5357,6 @@ decir
 eso
 existe
 31:26
-...
 31:27
 algún
 comentario
@@ -5726,7 +5723,6 @@ bien
 algún
 comentario
 o
-...
 33:19
 no
 en
@@ -6267,7 +6263,7 @@ insisto
 una
 contabilidad
 36:09
-endTime"2169.154"
+endTime"2169154"
 
 parece
 una
@@ -8545,7 +8541,6 @@ salido
 47:20
 pues
 ahí
-...
 47:21
 bueno
 47:21
@@ -9561,7 +9556,6 @@ de
 Microsoft
 o
 de
-...
 52:19
 entonces
 bien
@@ -9673,7 +9667,6 @@ las
 necesidades
 del
 cliente
-...
 52:52
 porque
 evidentemente
@@ -10062,7 +10055,6 @@ acaso
 un
 último
 comentario
-...
 54:46
 no
 yo
@@ -10702,14 +10694,12 @@ cuestión
 tan
 tan
 difícil
-...
 58:07
 depende
 de
 de
 tantos
 factores
-...
 58:09
 depende
 de
@@ -10739,7 +10729,6 @@ encontrar
 para
 esa
 solución
-...
 58:14
 yo
 creo
@@ -11213,7 +11202,6 @@ reyes
 magos
 desgracias
 absolutas
-...
 1:00:19
 así
 se
@@ -11693,7 +11681,6 @@ cómo
 funcionará
 en
 Cataluña
-...
 1:02:38
 pero
 por
@@ -12887,9 +12874,6 @@ pagar
 la
 innovación
 1:08:13
-(%com:
-everybody
-laughs)
 entonces
 es
 un
@@ -13471,7 +13455,6 @@ a
 las
 preguntas
 de
-...
 1:10:52
 no
 porque
@@ -13814,7 +13797,6 @@ quién
 les
 asesoraba
 pero
-...
 1:12:38
 bueno
 quiero

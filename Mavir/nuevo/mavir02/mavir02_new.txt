@@ -48,7 +48,7 @@ JSL  hhh {%com: click} como muchos de vosotros sabéis  pues dentro del área de
 
 JSL  el capital de las  de la empresa es cien por cien privado  perteneciente pues a investigadores de  de la universidad  de distintas universidades  la Politécnica  y la Autónoma  de Madrid  y de   personal de la empresa  y bueno  pues &nue  nuestra principal  vocación es de  de investigación  y desarrollo  y de transferencia de esa  tecnología  que se desarrolla en la universidad  pues al  al mercado 04:49
 
-JSL  y por mi parte ... 04:51
+JSL  y por mi parte  04:51
 
 ANS muy bien 04:52
 
@@ -206,7 +206,7 @@ ANS  pero que  bueno  el resto   cómo lo habéis vivido  20:34
 
 ANS   qué pensáis  20:35
 
-ANS  si estos programas  sirven o no sirven ... 20:37
+ANS  si estos programas  sirven o no sirven  20:37
 
 JSL en el caso de DAEDALUS fue  fue diferente 20:40
 
@@ -368,7 +368,7 @@ ANT  pero realmente 31:25
 
 ANT  es decir  eso existe 31:26
 
-ANT  &eh ...  31:27
+ANT  &eh   31:27
 
 ANS  algún comentario por aquí  31:29
 
@@ -398,7 +398,7 @@ ENR  y hemos de ser  &un  uno de los elementos que nosotros hemos utilizado siem
 
 ANS bien 33:17
 
-ANS  algún comentario o ...  33:19
+ANS  algún comentario o   33:19
 
 LRO no  en el caso de iSOCO es  la sede está también en  en Cataluña  en Barcelona  y &eh creo que hemos sido  hemos logrado ser validados como proveedor para la Generalitat  lo cual no te asegura absolutamente nada  solo que vas a poder concursar con empresas  como dices  normalmente mucho más grandes  y mucho más potentes  pero bueno  un primer paso 33:40
 
@@ -456,7 +456,7 @@ ANT  &eh y hay muchos instrumentos que son básicos  esenciales  para llevar ade
 
 ANT  &com  insisto una contabilidad 36:09
 
-ANT endTime"2169.154" 
+ANT endTime"2169154" 
 
 ANT  parece una chorrada  &eh llega un momento en que te puede matar no tener una contabilidad bien hecha  o te puede frenar una inversión 36:14
 
@@ -690,7 +690,7 @@ ISI  quizá terminando con el tema de patentes que también lo has tratado un po
 
 ANS hhh {%act: assent} 47:20
 
-ANS  pues ahí ... 47:21
+ANS  pues ahí  47:21
 
 ENR  bueno 47:21
 
@@ -800,7 +800,7 @@ ENR  en donde se &inscri  se pedía que todo fuera código libre  y nuestros  re
 
 ENR  pero no nos hemos sentido afectados  por el momento  por el hecho de que no exista una mayor capacidad de protección 52:06
 
-ENR  &eh sobre todo en software  que como sabemos  en este punto hay y quiero decir  lo miro  y yo lo digo desde otro punto de vista  yo no sé cuántos sois aquí que tenéis ordenador  pero cuántos tenéis pagados el software de Microsoft o de ... 52:19
+ENR  &eh sobre todo en software  que como sabemos  en este punto hay y quiero decir  lo miro  y yo lo digo desde otro punto de vista  yo no sé cuántos sois aquí que tenéis ordenador  pero cuántos tenéis pagados el software de Microsoft o de  52:19
 
 ENR  {%act: laugh} &eh entonces bien 52:21
 
@@ -818,7 +818,7 @@ IRA  lo puedes colocar en vuestra  en vuestro ordenador 52:42
 
 IRA  pero ahí no está nuestro negocio 52:45
 
-IRA  nuestro negocio está  en el mantenimiento de ese sistema  en la mejora de ese sistema  en las adaptación de ese sistema a las necesidades del cliente ...  52:52
+IRA  nuestro negocio está  en el mantenimiento de ese sistema  en la mejora de ese sistema  en las adaptación de ese sistema a las necesidades del cliente   52:52
 
 IRA  porque evidentemente los diccionarios que están detrás del traductor automático  en Opentrad punto org pues son limitados 52:58
 
@@ -872,7 +872,7 @@ IRA  igual que eso se puede  se vuelve a  se podría hablar mucho  y bastante  l
 
 ANS hhh {%act: laugh} 54:42
 
-ANS  bueno  no nos alarguemos mucho  si acaso un último comentario ... 54:46
+ANS  bueno  no nos alarguemos mucho  si acaso un último comentario  54:46
 
 ENR no  yo quería  retomar un poco el tema  en el que quería intervenir  que es el  el  el tema de  de quién investiga 54:53
 
@@ -916,13 +916,13 @@ ANS  cómo conseguís &eh decir lo que cuestan 57:57
 
 ANS   es una cuestión  de negociación  de lo que está dispuesto a pagar el cliente  el cliente o   cómo dais  ese precio  58:05
 
-JSL es una cuestión tan  tan difícil ... 58:07
+JSL es una cuestión tan  tan difícil  58:07
 
-JSL  depende de  de tantos factores ... 58:09
+JSL  depende de  de tantos factores  58:09
 
 JSL  depende de muchas cosas 58:09
 
-JSL  depende del cliente  de lo que vas a hacer para él  de qué parte de tu tecnología vas a  encontrar para esa solución ...  58:14
+JSL  depende del cliente  de lo que vas a hacer para él  de qué parte de tu tecnología vas a  encontrar para esa solución   58:14
 
 JSL  yo creo que es incluso algo  pues eso  es algo  ad hoc 58:17
 
@@ -984,7 +984,7 @@ ANS hhh {%act: assent} 1:00:05
 
 ENR eh  &he  hemos cerrado un trato ahora  después de un año y medio de negociaciones  y hemos vendido {%alt: pendido} por un precio que nosotros pensamos que es razonable  y que está bien 1:00:12
 
-ENR  &eh pero bueno  que es un año de negociaciones  y  de cartas a los reyes magos  desgracias absolutas ... 1:00:19
+ENR  &eh pero bueno  que es un año de negociaciones  y  de cartas a los reyes magos  desgracias absolutas  1:00:19
 
 ENR  así se venden las cosas y los precios puf 1:00:22
 
@@ -1028,7 +1028,7 @@ IRA  en cuanto a facturación  le aporta  le cuesta dinero  y  colocarlo 1:02:31
 
 IRA  no xxx ese tipo de cosas  sí hay apreciación en las empresas  por lo menos de nuestro entorno 1:02:35
 
-IRA  no sé cómo será  cómo funcionará en Madrid  cómo funcionará en Cataluña ... 1:02:38
+IRA  no sé cómo será  cómo funcionará en Madrid  cómo funcionará en Cataluña  1:02:38
 
 IRA  pero por lo menos yo lo veo en nuestro entorno  esa preocupación de las empresas  por  la gestión de la   del multilingüismo 1:02:45
 
@@ -1196,7 +1196,7 @@ ENR  {%com: laughs} que es cuando necesita alguna manera de diferenciarse de sus
 
 ENR  entonces no tienen dinero para pagar la innovación 1:08:13
 
-ENR  (%com: everybody laughs) entonces  es un problema 1:08:16
+ENR  {%com: everybody laughs} entonces  es un problema 1:08:16
 
 ENR  pero vivimos en un país de estas características 1:08:18
 
@@ -1252,7 +1252,7 @@ ENR  no 1:10:34
 
 ENR  es decir  en un mercado difícil  dónde hay que luchar mucho  y donde bueno  si lo haces bien  es posible que al final  tengas éxito 1:10:42
 
-ANS bueno  vamos yendo ya  a la parte de  del público  si quiere hacer alguna pregunta o un último comentario  quizá Iñaki querías apuntar algo  y si no pasamos ya a las preguntas de ...  1:10:52
+ANS bueno  vamos yendo ya  a la parte de  del público  si quiere hacer alguna pregunta o un último comentario  quizá Iñaki querías apuntar algo  y si no pasamos ya a las preguntas de   1:10:52
 
 IRA  no  porque nosotros estamos en una situación  un poco diferente  nosotros estamos  tenemos una buena  tenemos una barrera de mercado muy fuerte  que es la lengua 1:10:59
 
@@ -1314,7 +1314,7 @@ IRA  {%com: everybody laughs} ¬ se gastaron una porrada  poyada  porrada de mil
 
 ENR bueno pero también  1:12:36
 
-ENR  no sé quién  no sé quién les asesoraba pero ...  1:12:38
+ENR  no sé quién  no sé quién les asesoraba pero   1:12:38
 
 IRA  {%com: everybody laughs} bueno  quiero decir  y no fueron &capaz  y no fueron capaces  de gastarse sus millones con nosotros para ver si nosotros pues si les podíamos conseguir algo 1:12:45
 

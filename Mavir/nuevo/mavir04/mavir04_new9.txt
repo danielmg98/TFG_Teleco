@@ -716,7 +716,6 @@ a
 todos
 también
 04:09
-#
 y
 y
 bueno
@@ -3007,7 +3006,6 @@ de
 la
 imagen
 17:05
-#
 bueno
 hacíamos
 también
@@ -7782,7 +7780,6 @@ Paz
 Iglesias
 44:37
 entonces
-#
 dios
 mío
 lo

@@ -329,7 +329,7 @@
  y luego además utilizábamos otras técnicas de simplemente parecido de de similitud entre cadenas no 28:02
  bueno sí 28:02
  la si esta traducción se parece más al origen es quizás más probable que otras que no se parecen nada 28:08
- así que bueno un sistema digamos también de referencia no especialmente malo pero tampoco estado del arte respecto a la calidad de las traducciones # 28:17
+ así que bueno un sistema digamos también de referencia no especialmente malo pero tampoco estado del arte respecto a la calidad de las traducciones 28:17
  esas traducciones se convertían en una búsqueda booleana 28:33
  aquí tien o sea había en la en las imágenes tiene que haber al menos una de las traducciones posibles para violín y al menos una de las traducciones posibles para Strauss y al menos una de las traducciones posibles para 28:46
  no me acuerdo cuál era la otra 28:48
@@ -481,7 +481,7 @@
  eso pasa a ser el factor de dificultad 40:32
  y fijaos que la tarea era muy difícil 40:34
  o sea que que que efectivamente la base de datos es gigantesca 40:37
- y es complicado encontrar una imagen en concreto en ella # 40:41
+ y es complicado encontrar una imagen en concreto en ella 40:41
  hay que acabar no vale 40:47
  pues solamente voy a enseñaros 40:53
  bueno no merece la pena 40:56
@@ -527,5 +527,5 @@
  ahora cuando no la encuentra entonces tienes que tener esos mecanismos para que realmente se pueda finalmente completar la tarea 43:22
  bueno pues pues ya está yo creo que 43:25
  no voy a repasar las conclusiones porque son más o menos lo que hemos comentado ya 43:29
- así que si tenéis alguna consulta para el cangrejo ... 43:34
+ así que si tenéis alguna consulta para el cangrejo 43:34
  43:37

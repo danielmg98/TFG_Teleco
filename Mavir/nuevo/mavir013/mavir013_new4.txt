@@ -660,7 +660,7 @@ JGO   bueno sí  28:02
 
 JGO  la  si esta traducción se parece más al origen  es quizás más probable que otras que no se parecen nada  28:08
 
-JGO  así que bueno  un sistema  digamos  también de referencia  no especialmente malo  pero tampoco  estado del arte respecto a  la calidad de las traducciones # 28:17
+JGO  así que bueno  un sistema  digamos  también de referencia  no especialmente malo  pero tampoco  estado del arte respecto a  la calidad de las traducciones  28:17
 
 JGO  esas traducciones se convertían en una búsqueda booleana  28:33
 
@@ -964,7 +964,7 @@ JGO  y fijaos {%alt: fijaros}  que la tarea era  muy difícil  40:34
 
 JGO  o sea que  que   que efectivamente la base de datos es gigantesca  40:37
 
-JGO  y es complicado encontrar   una   imagen en concreto en ella # 40:41
+JGO  y es complicado encontrar   una   imagen en concreto en ella  40:41
 
 JGO  {%com: looks at somebody in the audience} hay que acabar  no  vale  40:47
 
@@ -1056,6 +1056,6 @@ JGO  bueno pues  pues ya está  yo creo que  43:25
 
 JGO  no voy a  repasar las conclusiones  porque son  más o menos lo que hemos comentado ya  43:29
 
-JGO  así que  si tenéis alguna consulta para el cangrejo ...  43:34
+JGO  así que  si tenéis alguna consulta para el cangrejo   43:34
 
 JGO  {%com: applause}  43:37

@@ -118,7 +118,7 @@ VIL  ya  todos sabemos pues las  diferentes tipos de iniciativas  en esta línea
 
 VIL  todos estos eran los objetivos de diseño  y para eso bueno pues  también lo que ha contado Rosa antes  un poco el  el  la diferencia  la separación en módulos de sistema  cómo no  cualquier desarrollo  pues cualquier desarrollo software  pues hoy en día se desarrolla  de forma modular  de forma   12:51
 
-VIL ... y en este caso pues tenemos  podemos identificar  cinco módulos diferentes  que bueno que  se pueden ver directamente en una  en una figura  parecida a la que os ha puesto Rosa  13:01
+VIL  y en este caso pues tenemos  podemos identificar  cinco módulos diferentes  que bueno que  se pueden ver directamente en una  en una figura  parecida a la que os ha puesto Rosa  13:01
 
 VIL  la idea de todo el proyecto es básicamente  tenemos una serie  queremos  encontrar información en Internet  categorizarla   catalogarla   en una serie de fichas  13:11
 

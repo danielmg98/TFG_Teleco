@@ -1196,7 +1196,7 @@ ENR  {%com: laughs} que es cuando necesita alguna manera de diferenciarse de sus
 
 ENR  entonces no tienen dinero para pagar la innovación 1:08:13
 
-ENR  (%com: everybody laughs) entonces / es un problema 1:08:16
+ENR  {%com: everybody laughs} entonces / es un problema 1:08:16
 
 ENR  pero vivimos en un país de estas características 1:08:18
 

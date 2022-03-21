@@ -27,7 +27,12 @@ def eliminar_archivos_existentes(i):
 
 	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt'):
 		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt')
+	
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt')
 
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt')
 
 def eliminar_especiales(original, nuevo):
 	while 1:
@@ -57,6 +62,10 @@ def eliminar_especiales(original, nuevo):
 		elif char == ">":
 			pass
 		elif char == "=":
+			pass
+		elif char == ".":
+			pass
+		elif char == "#":
 			pass
 		else:
 			nuevo.write(char)
@@ -159,10 +168,40 @@ def cambiar_espacios_lineas(original, nuevo):
 			nuevo.write(char)
 
 
+def cambiar_horas_puntos(original,nuevo):
+	while 1:
+		line = original.readline()
+		if not line:
+			break
+		if line[0].isnumeric():
+			if line[1].isnumeric() or line[1] == ':':
+				if line[2].isnumeric() or line[2] == ':':
+					nuevo.write('.\n')
+				else:
+					nuevo.write(line)
+			else:
+				nuevo.write(line)
+		else:
+			nuevo.write(line)
 
 
+def formato_htk(original,nuevo,i):
 
+	nuevo.write('#!MLF!#\n')
+	nuevo.write('*/mavir0'+i+'_1.lab\n')
+	j = 2
 
+	while 1:
+		line = original.readline()
+		if not line:
+			break
+		if line[0] == '.':
+			nuevo.write('*/mavir0'+i+'_'+str(j)+'.lab\n')
+			j = j+1
+		else:
+			nuevo.write(line)
+	
+		
 
 
 

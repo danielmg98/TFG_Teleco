@@ -152,7 +152,7 @@
    cómo se trabaja con la web  17:32
   pues en la web  en principio  hay  una unidad  fácil de trabajar con ella  que es la unidad institucional  17:39
   cada institución  tiene  normalmente veremos algunas excepciones  además  desde un punto de vista negativo  tiene  un único dominio institucional  que lo identifica  claramente  todos sus contenidos  17:52
-  por ejemplo  Uned.es  independientemente de los servidores  que hay allí  identifica  el total de contenidos de la web  17:58
+  por ejemplo  Unedes  independientemente de los servidores  que hay allí  identifica  el total de contenidos de la web  17:58
   esto es una ventaja  17:59
   porque significa  que podemos trabajar  a nivel de  cualquier tipo de institución  o incluso instituciones dentro de instituciones  siempre que exista un dominio  o un subdominio  claramente identificado  18:11
    es un inconveniente  cuando hablamos de páginas personales  18:14
@@ -224,7 +224,7 @@
   y a partir de ahí  construimos  nuestro ranking  25:18
   aquí tienen ustedes  las dos primeras páginas  la dirección  es uve doble uve doble uve doble punto webometrics punto info  25:25
   esta disciplina se llama  webometrics  y no cybermetrics fuera de España  25:30
-  en España  nosotros hemos hecho un cierto   en fin  un interés en que no se llame webometría porque ...  25:38
+  en España  nosotros hemos hecho un cierto   en fin  un interés en que no se llame webometría porque   25:38
   bueno  creo que ya lo entienden por qué  25:40
   no queremos que se llame webometría  25:42
    de hecho  hay una pequeña diferencia  cybermetría en realidad  cubre toda la Internet  webometría  perdón  es  más centrada  en el mundo de la web  25:51

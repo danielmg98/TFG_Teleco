@@ -23,7 +23,7 @@
  bueno buenas tardes a todos yo soy Jose Luis Martínez de DAEDALUS soy socio director de DAEDALUS nosotros funcionamos desde mil novecientos noventa y ocho el año de fundación de de la empresa y pues proporcionamos productos y servicios en tres áreas básicamente área de tecnología lingüística de gestión del conocimiento y de tecnología web 03:57
  como muchos de vosotros sabéis pues dentro del área de tecnología lingüística tenemos productos para la revisión gramatical ortográfica y de estilo de textos en en castellano y donde pues nuestros clientes de referencia pueden ser el diario El País o o o El Mundo El Mundo punto es perdón la versión digital del del diario El Mundo y bueno pues en otros ámbitos también desarrollamos tecnologías buscadores para TPI para el Instituto Cervantes y para la Sociedad General de de Autores 04:27
  el capital de las de la empresa es cien por cien privado perteneciente pues a investigadores de de la universidad de distintas universidades la Politécnica y la Autónoma de Madrid y de personal de la empresa y bueno pues nuestra principal vocación es de de investigación y desarrollo y de transferencia de esa tecnología que se desarrolla en la universidad pues al al mercado 04:49
- y por mi parte ... 04:51
+ y por mi parte 04:51
  muy bien 04:52
  hola buenas tardes a todos 04:54
  yo me llamo Enrique Castellón soy director de Thera Centre de Llenguatge i Computació que es una empresa dedicada a la tecnología lingüística en Barcelona nuestro origen es de desde un centro de ID público en donde empezamos a transferir tecnología y a facturar a partir de ello ante las necesidades del mercado constituimos una empresa en la en la empresa tienen acciones la universidad y capital privado y nuestra actividad fundamental se trata en desarrollar aplicaciones que utilizando los recursos y tecnología lingüística de que disponemos pues nos permitan de momento hacer que la empresa funcione 05:36
@@ -102,7 +102,7 @@
  o sea fue una historia de éxito de estos programas un poco de de pues que intentan incentivar la creación de empresas no 20:31
  pero que bueno el resto cómo lo habéis vivido 20:34
  qué pensáis 20:35
- si estos programas sirven o no sirven ... 20:37
+ si estos programas sirven o no sirven 20:37
  en el caso de DAEDALUS fue fue diferente 20:40
  en DAEDALUS nació en un momento además en el que en la en la Universidad Politécnica pues tampoco había regulación clara en cuanto a la participación de profesores en este tipo de en este tipo de empresas no 20:48
  creo que ahora se ha avanzado se ha avanzado un poco más y DAEDALUS pues comenzó en principio con la idea de que de poder llevar al mercado el conocimiento que se había obtenido en el grupo de PLM de de de la universidad de la Politécnica como decía y de la y de la Autónoma y entonces el planteamiento fue un poco diferente se plantea un plan de negocio en el noventa y siete noventa y ocho aproximadamente se pone en marcha la empresa y se está como un año y medio aproximadamente desarrollando desarrollando el producto de acuerdo 21:15
@@ -181,7 +181,7 @@
  es decir puede ser o sea puedes no cobrarlo 31:24
  pero realmente 31:25
  es decir eso existe 31:26
- ... 31:27
+ 31:27
  algún comentario por aquí 31:29
  por esta parte 31:31
  no simplemente quería quería mostrar mi acuerdo con tu opinión sobre el tema de los concursos porque es algo que nosotros también hubo un tiempo en el que intentamos de forma recurrente de acuerdo y era imposible hacerse un hueco en la administración y ganar uno de esos y ganar uno de esos con concursos 31:47
@@ -196,7 +196,7 @@
  entonces es un freno a nuestro crecimiento y es una limitación 32:54
  y hemos de ser uno de los elementos que nosotros hemos utilizado siempre ha sido buscar apoyos y cooperación con empresas del del sector nuestro buscando tener la dimensión suficiente y dar la suficiente confianza al cliente para poder capturar esos proyectos que de otra manera o no se realizan o si se realizan acabamos siendo marginales en ellos 33:15
  bien 33:17
- algún comentario o ... 33:19
+ algún comentario o 33:19
  no en el caso de iSOCO es la sede está también en en Cataluña en Barcelona y creo que hemos sido hemos logrado ser validados como proveedor para la Generalitat lo cual no te asegura absolutamente nada solo que vas a poder concursar con empresas como dices normalmente mucho más grandes y mucho más potentes pero bueno un primer paso 33:40
  lo lo que sí está claro es que nuestra mejor fuente o nuestro mejor respaldo no es la administración pública sino inversores que pueda haber detrás 33:50
  o sea no no no no viene de la de la administración pública 33:54
@@ -225,7 +225,7 @@
  es decir no tienes red 36:03
  y hay muchos instrumentos que son básicos esenciales para llevar adelante una sociedad 36:07
  insisto una contabilidad 36:09
- endTime"2169.154" 
+ endTime"2169154" 
  parece una chorrada llega un momento en que te puede matar no tener una contabilidad bien hecha o te puede frenar una inversión 36:14
  es decir si alguien lo hace yo lo que recomendaría es un buen curso de tres seis meses sobre cuáles son los mimbres básicos de una empresa 36:22
  porque como hemos dicho somos empresas de base tecnológica es decir antes somos empresas que base tecnológica 36:27
@@ -342,7 +342,7 @@
  qué problemática os ha generado más que igual un concepto teórico de de los problemas 47:14
  quizá terminando con el tema de patentes que también lo has tratado un poquito y no ha salido 47:19
  47:20
- pues ahí ... 47:21
+ pues ahí 47:21
  bueno 47:21
  la propiedad intelectual tiene un problema importantísimo 47:25
  y es que lo que tú más temes en el mundo es que alguien tenga tu código fuente 47:30
@@ -397,7 +397,7 @@
  incluso la la imposibilidad de concursar en la administración pública en concreto para un corrector gramatical del catalán 51:47
  en donde se se pedía que todo fuera código libre y nuestros recursos lingüísticos el analizador del catalán y el morfosintáctico pues no los podemos poner en software libre ni ni en estos momentos 51:59
  pero no nos hemos sentido afectados por el momento por el hecho de que no exista una mayor capacidad de protección 52:06
- sobre todo en software que como sabemos en este punto hay y quiero decir lo miro y yo lo digo desde otro punto de vista yo no sé cuántos sois aquí que tenéis ordenador pero cuántos tenéis pagados el software de Microsoft o de ... 52:19
+ sobre todo en software que como sabemos en este punto hay y quiero decir lo miro y yo lo digo desde otro punto de vista yo no sé cuántos sois aquí que tenéis ordenador pero cuántos tenéis pagados el software de Microsoft o de 52:19
  entonces bien 52:21
  esos sí que tienen problemas esos sí que tienen problemas lo que hacemos nosotros es otro mundo y tampoco nos afecta tanto 52:27
  no sé yo sí que me gustaría citar el tema del software libre no sé 52:32
@@ -406,7 +406,7 @@
  lo podéis bajar 52:39
  lo puedes colocar en vuestra en vuestro ordenador 52:42
  pero ahí no está nuestro negocio 52:45
- nuestro negocio está en el mantenimiento de ese sistema en la mejora de ese sistema en las adaptación de ese sistema a las necesidades del cliente ... 52:52
+ nuestro negocio está en el mantenimiento de ese sistema en la mejora de ese sistema en las adaptación de ese sistema a las necesidades del cliente 52:52
  porque evidentemente los diccionarios que están detrás del traductor automático en Opentrad punto org pues son limitados 52:58
  y si tú quieres trabajar realmente una organización quiere tener su página web en catalán o en gallego con una calidad muy muy muy buena en el Opentrad del de la del demo sí le va a dar una calidad noventa y cinco por ciento pero si trabaja en términos específicos va a tener muchos problemas 53:17
  igual le va a bajar la calidad 53:18
@@ -433,7 +433,7 @@
  yo creo que cada producto tiene su modelo de negocio 54:36
  igual que eso se puede se vuelve a se podría hablar mucho y bastante largamente 54:42
  54:42
- bueno no nos alarguemos mucho si acaso un último comentario ... 54:46
+ bueno no nos alarguemos mucho si acaso un último comentario 54:46
  no yo quería retomar un poco el tema en el que quería intervenir que es el el el tema de de quién investiga 54:53
  la universidad o las empresas y de qué manera se interrelaciona esta investigación 54:57
  por lo menos por nuestra experiencia la investigación la hacemos todos 55:01
@@ -455,10 +455,10 @@
  me gustaría preguntaros en primer lugar cómo o si podéis se se se da valor se se cuantifica el valor de vuestros productos en investigación 57:53
  cómo conseguís decir lo que cuestan 57:57
  es una cuestión de negociación de lo que está dispuesto a pagar el cliente el cliente o cómo dais ese precio 58:05
- es una cuestión tan tan difícil ... 58:07
- depende de de tantos factores ... 58:09
+ es una cuestión tan tan difícil 58:07
+ depende de de tantos factores 58:09
  depende de muchas cosas 58:09
- depende del cliente de lo que vas a hacer para él de qué parte de tu tecnología vas a encontrar para esa solución ... 58:14
+ depende del cliente de lo que vas a hacer para él de qué parte de tu tecnología vas a encontrar para esa solución 58:14
  yo creo que es incluso algo pues eso es algo ad hoc 58:17
  sobre todo para empresas como como las nuestras que tenemos la impresión de que pues nuestra forma de trabajar es muy específica para el cliente nosotros tenemos pocos clientes grandes digamos donde lo que hacemos está muy integrado en sus propios entornos de en sus propios entornos de trabajo 58:32
  vale pues como es el caso de TPI Páginas Amarillas pues el buscador el buscador borroso que que les instalamos pues está adaptado a sus sistemas a sus bases de datos a sus 58:43
@@ -489,7 +489,7 @@
  yo empecé a negociar con Microsoft en octubre del año pasado que me vinieron al despacho a pedirme que les regalara lo que teníamos de un producto 1:00:04
  1:00:05
  eh hemos cerrado un trato ahora después de un año y medio de negociaciones y hemos vendido por un precio que nosotros pensamos que es razonable y que está bien 1:00:12
- pero bueno que es un año de negociaciones y de cartas a los reyes magos desgracias absolutas ... 1:00:19
+ pero bueno que es un año de negociaciones y de cartas a los reyes magos desgracias absolutas 1:00:19
  así se venden las cosas y los precios puf 1:00:22
  de hecho hay muchas veces que ni siquiera se vende por lo que le consigues sacar sino por lo que te puede pagar 1:00:29
  eso 1:00:31
@@ -511,7 +511,7 @@
  1:02:28
  en cuanto a facturación le aporta le cuesta dinero y colocarlo 1:02:31
  no ese tipo de cosas sí hay apreciación en las empresas por lo menos de nuestro entorno 1:02:35
- no sé cómo será cómo funcionará en Madrid cómo funcionará en Cataluña ... 1:02:38
+ no sé cómo será cómo funcionará en Madrid cómo funcionará en Cataluña 1:02:38
  pero por lo menos yo lo veo en nuestro entorno esa preocupación de las empresas por la gestión de la del multilingüismo 1:02:45
  1:02:46
  pues nada algún comentario 1:02:48
@@ -595,7 +595,7 @@
  el único momento en que una empresa se plantea innovar es cuando está a punto de quebrar 1:08:05
  que es cuando necesita alguna manera de diferenciarse de sus competidores e intentar captar mercado y se ponen a abusar como brutos 1:08:11
  entonces no tienen dinero para pagar la innovación 1:08:13
- (%com: everybody laughs) entonces es un problema 1:08:16
+ entonces es un problema 1:08:16
  pero vivimos en un país de estas características 1:08:18
  no sé Madrid porque no tengo los datos Cataluña somos me parece que la región número sesenta y ocho o trescientos cuarenta a nivel de inversión en ID 1:08:25
  por qué 1:08:26
@@ -623,7 +623,7 @@
  bueno pero esto 1:10:34
  no 1:10:34
  es decir en un mercado difícil dónde hay que luchar mucho y donde bueno si lo haces bien es posible que al final tengas éxito 1:10:42
- bueno vamos yendo ya a la parte de del público si quiere hacer alguna pregunta o un último comentario quizá Iñaki querías apuntar algo y si no pasamos ya a las preguntas de ... 1:10:52
+ bueno vamos yendo ya a la parte de del público si quiere hacer alguna pregunta o un último comentario quizá Iñaki querías apuntar algo y si no pasamos ya a las preguntas de 1:10:52
  no porque nosotros estamos en una situación un poco diferente nosotros estamos tenemos una buena tenemos una barrera de mercado muy fuerte que es la lengua 1:10:59
  es decir el a ver el entrar en el mercado catalán mercado castellano en el mercado gallego es mucho más fácil las barreras lingüísticas son mucho más bajas que para entrar en el mercado del euskera 1:11:13
  es decir nosotros la ventaja competitiva que detrás de nuestras herramientas está el diccionario bilingüe español euskera más más vendido del mercado 1:11:22
@@ -654,7 +654,7 @@
  no 1:12:28
  ¬ se gastaron una porrada poyada porrada de millones con la gente de AutomaticsTrans para no conseguir nada 1:12:34
  bueno pero también 1:12:36
- no sé quién no sé quién les asesoraba pero ... 1:12:38
+ no sé quién no sé quién les asesoraba pero 1:12:38
  bueno quiero decir y no fueron y no fueron capaces de gastarse sus millones con nosotros para ver si nosotros pues si les podíamos conseguir algo 1:12:45
  es decir ese tipo de 1:12:46
  eso nos pasa a nosotros 1:12:47

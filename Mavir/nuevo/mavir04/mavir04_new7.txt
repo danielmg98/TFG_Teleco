@@ -27,7 +27,7 @@
  gracias 03:54
  bueno pues muchas gracias José María 04:07
  muchas gracias a todos también 04:09
- # y y bueno pues en intentaré ser breve 04:25
+ y y bueno pues en intentaré ser breve 04:25
  y lo que os presento aquí pues es un poco unas digamos como conclusiones iniciales a las que llegamos en este grupo de trabajo de los tres que comentaba antes José María 04:36
  que al principio del verano pues incluimos dentro de de este plan de los casos de uso no 04:42
  lo que queríamos más o menos era en un periodo de tiempo relativamente corto pues lo que fue la terminación de julio y este comienzo así que como comienzo de curso tenemos mucha presencia en las universidades no 04:53
@@ -98,7 +98,7 @@
  puede ser una especie como de trabajo inicial para avanzar en una propuesta PROFIT un poquito más sólida 16:39
  era el objetivo 16:41
  entonces por ejemplo ellos proponían la localización de información en expedientes médicos combinando datos textuales con datos en formato de imagen así que por ejemplo de las radiografías si se tiene una radiografía la imagen de alguien que tiene pues algún problema en el pulmón o cosa parecida y debajo está el texto pues cómo sacar partido de ese texto asociado y también analizar la integrarlo incluso en el análisis de la imagen 17:05
- # bueno hacíamos también referencia a a dos funcionalidades parecidas no 17:16
+ bueno hacíamos también referencia a a dos funcionalidades parecidas no 17:16
  pues en la tres apoyo en el proceso de compleción de de expedientes pues hace referencia al relleno de registros y también desarrollo de herramientas para apoyo al proceso de diagnóstico 17:27
  por ejemplo se podía esto era una funcionalidad complementaria que se se planteaba sobre el buscador 17:32
  se podía hacer un sistema de agrupamiento de diagnósticos previos y eso les resultaba de interés al hospital no 17:38
@@ -276,7 +276,7 @@
  lo que voy a presentar aquí va a ser una presentación muy breve porque es una presentación que hemos elaborado entre iSOCO y la Universidad Carlos III 44:13
  es plantear una serie de necesidades que han surgido en el que nos han presentado en el hospital de Fuenlabrada en esta reunión que no ha sido hace mucho tiempo porque la celebramos el el seis de noviembre 44:24
  en esa reunión participaron por parte de iSOCO Jesús Contreras y Luis Rodrigo que se encuentra hoy aquí yo misma por parte de la Universidad Carlos III y luego tres personas del hospital de Fuenlabrada Paz Pablo Serrano Francisco García y Paz Iglesias 44:37
- entonces # dios mío lo que lo que voy a hacer es presentar los objetivos que nos trasladaron desde el hospital de Fuenlabrada como usuarios para presentar a continuación las cuatro aplicaciones que nosotros hemos identificado como potenciales en las que trabajar 45:02
+ entonces dios mío lo que lo que voy a hacer es presentar los objetivos que nos trasladaron desde el hospital de Fuenlabrada como usuarios para presentar a continuación las cuatro aplicaciones que nosotros hemos identificado como potenciales en las que trabajar 45:02
  ver un poco el papel de los participantes aunque no está tan definido como en el resto de los casos de hecho faltarían participantes y es una de las cosas que vamos a transmitir hoy aquí 45:14
  y luego centrarnos en unos aspectos importantes de arquitectura y del plan de trabajo 45:18
  no es que esté definido el plan de trabajo pero sí algunos aspectos que para nosotros eran muy importantes 45:24

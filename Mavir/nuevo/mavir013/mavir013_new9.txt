@@ -5534,7 +5534,6 @@ calidad
 de
 las
 traducciones
-#
 28:17
 esas
 traducciones
@@ -7838,7 +7837,6 @@ en
 concreto
 en
 ella
-#
 40:41
 hay
 que
@@ -8364,6 +8362,5 @@ consulta
 para
 el
 cangrejo
-...
 43:34
 43:37

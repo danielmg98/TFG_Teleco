@@ -2,8 +2,6 @@ import funciones as f
 
 #Primero elimino los archivos existentes
 
-
-
 i = input('Que archivo mavir desea traducir: ')
 
 
@@ -91,3 +89,20 @@ f.cambiar_espacios_lineas(mavir,mavir1)
 mavir.close()
 mavir1.close()
 
+
+mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt','r')
+mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt','w')
+
+f.cambiar_horas_puntos(mavir,mavir1)
+
+mavir.close()
+mavir1.close()
+
+
+mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt','r')
+mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt','w')
+
+f.formato_htk(mavir,mavir1,i)
+
+mavir.close()
+mavir1.close()

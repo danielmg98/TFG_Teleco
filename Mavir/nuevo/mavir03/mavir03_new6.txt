@@ -1,6 +1,6 @@
  muchas gracias  Julio  00:01
  buenos días  00:02
-  Adolfo Corujo  León  Dilbert ...  00:05
+  Adolfo Corujo  León  Dilbert   00:05
    para qué le diría que improvisara   00:07
   podía haber sido más sencillo si le hubiera dado las líneas  00:09
   quiero agradecer a la UNED que   nos invite a participar en  en esta jornada MAVIR  00:15
@@ -75,7 +75,7 @@
  sin embargo en España la mayoría de nosotros  yo el primero  utilizo  básicamente Google  06:18
  y pocas veces  utilizo una alternativa a Google cuando  hago una búsqueda  06:22
  este año  en primavera  mi empresa  hizo un estudio  acerca de  cuál sería el porcentaje del índice de Google  que estaría en castellano  06:33
-  y estuvimos durante quince días haciéndole cargas de profundidad   comparando  diferentes idiomas  el inglés  el francés  el alemán ... 06:40
+  y estuvimos durante quince días haciéndole cargas de profundidad   comparando  diferentes idiomas  el inglés  el francés  el alemán  06:40
   mediante tablas de comparación  de ponderación de frecuencias de términos  06:44
  unas pruebas   pues para saber  qué porcentaje aproximadamente  podrían tener de contenidos en castellano  06:49
   nos salían  resultados que  que variaban  entre el uno coma cinco  y el tres por ciento  del índice  06:57
@@ -228,15 +228,15 @@
   y este es un problema  18:18
   porque los motores de búsqueda no les indexan  porque no les pueden indexar  18:22
   porque nos  empeñamos en tener webs  que son muy bonitas  pero muy poco útiles  18:26
-  muy poco rastreables ...  18:28
+  muy poco rastreables   18:28
      escuchaba  a  el día de la presentación del día de Internet  escuchaba a Emilio Ontiveros decir una cosa que es que a mí me  me  me tuvo una semana pensando  18:36
   dice   pero cómo van  a tener las empresas web corporativos útiles  e interesantes  si  noventa y cinco de cada cien grandes directores de empresa que visito  no tiene ni un ordenador en su despacho   18:51
   claro  en esos despachos suele haber una televisión  suele haber un vídeo  suele haber todo tipo de revistas  suele haber  resúmenes de prensa  pero no tienen ordenador  19:03
-  explícale tú a ese presidente de compañía lo importante que es tener una web corporativa útil y rastreable ...  19:09
+  explícale tú a ese presidente de compañía lo importante que es tener una web corporativa útil y rastreable   19:09
   je   si es casi imposible   19:11
   el otro día me decía un presidente de una empresa de alto nivel  una cosa que era muy curiosa  19:15
   me decía  la killer application en Internet  es la información bursátil  19:20
-      decía     claro  debe ser la que tú consultas porque     si te voy a explicar que  los chats  llevan rompiendo la pana  desde hace diez años  pues ...  19:29
+      decía     claro  debe ser la que tú consultas porque     si te voy a explicar que  los chats  llevan rompiendo la pana  desde hace diez años  pues   19:29
    probablemente no lo veas  no  19:31
   así que  lo que más me preocupa es  la madurez de nuestro  nuestros espacios en Internet  19:36
    qué significa el caso Picasso   19:39
@@ -285,12 +285,12 @@
   es verdad que debemos también potenciar la creación de esa comunidad virtual en torno a nuestros idiomas de referencia  23:48
   tenemos la posibilidad  en ese sentido  de ser un referente  y debemos explotar esa posibilidad  23:53
   además  debemos tener herramientas que nos permitan tener información de primera mano acerca de los internautas  24:03
-  esto lo he discutido  de verdad  me  me preguntaban al principio   podemos grabar la ...   24:08
+  esto lo he discutido  de verdad  me  me preguntaban al principio   podemos grabar la    24:08
   jope  pues ya verás cuando lo difundáis  24:11
   porque es verdad que nos acabamos metiendo con todo el mundo  24:13
   esto lo estuvimos discutiendo con el director del observatorio de Red punto es  con Domingo Laborda  que además es buen amigo  24:19
   Domingo  pregunta  Domingo   tenéis herramientas reales para saber  lo que quiere el usuario en Internet   24:27
-  o sea  hacemos encuestas ...  24:31
+  o sea  hacemos encuestas   24:31
   pero algo a lo que yo no mienta  de acuerdo   24:34
   porque por defecto  miento sistemáticamente a esa encuesta  24:37
   me preguntan   usted para qué quiere Internet   24:39
@@ -317,12 +317,12 @@
  como aplicación y servicio  25:35
    chato   hay que ir por ahí  25:36
  lógico  25:38
- Google Maps  localizarse ...  25:40
+ Google Maps  localizarse   25:40
   pero   por qué   25:40
   porque saben lo que busca la gente  25:42
   y además ahora están perfeccionando las herramientas como buena empresa de venta de publicidad  para conocer mejor al usuario  25:47
   bueno  pues cuando un país se plantea cómo explotar las posibilidades que tiene que tener en Internet  evidentemente  tiene que partir de estudiar  e investigar  y analizar  lo que quieren los internautas  25:57
-  pero no con herramientas sofisticadas  con herramientas sencillas #   26:05
+  pero no con herramientas sofisticadas  con herramientas sencillas    26:05
  también debemos contar con un modelo de conocimiento que nos permita que esa información  no radique  sólo  única y exclusivamente en la gente que la genera  26:13
  que se quede en el poso de la universidad  o que se quede en el poso de la administración pública  26:17
  sino que  rompa las barreras  y que llegue  a las empresas que tienen que desarrollar su página web  y tienen que saber cuáles son las palabras más buscadas  las claves  cómo construir una semántica razonable de su página web para que sea atractiva  26:30
@@ -336,7 +336,7 @@
  no ponemos fotografía  27:06
   ponemos foto  para todo   27:08
  y ellos ponen  fotografía  27:10
-  pues ese es un problema  importante  de incoherencia a la hora de montar la estructura de una página web #   27:18
+  pues ese es un problema  importante  de incoherencia a la hora de montar la estructura de una página web    27:18
   y por último  esta frase me encanta  porque  tiene que ver mucho con nuestra empresa  apoyar a la industria tecnológica  27:24
    es increíble  27:27
   no creo que conozcáis ningún sector  de la actividad económica  que tenga  tal nivel  de penetración  de productos y servicios  de empresas  internacionales  extranjeras  de no capital español  como el mercado de las tecnologías de la información  27:41
@@ -356,7 +356,7 @@
   en ese sentido  hay tres grandes líneas  28:50
   hay que acercar  las iniciativas universitarias  y las empresariales  28:55
   a lo largo del último año  nuestra empresa ha tenido una muy buena experiencia en relación  con la gente de la UNED  29:01
-  hemos empezado a compartir ideas  conceptos ...  29:05
+  hemos empezado a compartir ideas  conceptos   29:05
   hemos descubierto  de que ni ellos están tan en las nubes  ni nosotros somos tan malos  29:09
   pensábamos que ellos estaban en las nubes porque   qué estarán haciendo los universitarios   29:14
   bah  cosas que no son útiles  29:16
