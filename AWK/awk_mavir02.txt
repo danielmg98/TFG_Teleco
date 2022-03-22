@@ -1,340 +1,680 @@
-Desde 00:00 hasta 00:01
-Desde 00:31 hasta 00:59
-Desde 01:03 hasta 01:04
-Desde 01:08 hasta 01:08
-Desde 01:47 hasta 01:52
-Desde 01:59 hasta 02:08
-Desde 02:14 hasta 02:24
-Desde 02:28 hasta 02:29
-Desde 02:47 hasta 02:48
-Desde 03:21 hasta 03:31
-Desde 03:33 hasta 03:35
-Desde 03:36 hasta 03:57
-Desde 04:27 hasta 04:49
-Desde 04:51 hasta 04:52
-Desde 04:54 hasta 05:36
-Desde 05:47 hasta 06:00
-Desde 06:12 hasta 06:16
-Desde 07:11 hasta 07:20
-Desde 08:15 hasta 08:21
-Desde 08:39 hasta 08:41
-Desde 09:07 hasta 09:10
-Desde 10:05 hasta 10:11
-Desde 10:27 hasta 10:46
-Desde 11:05 hasta 11:14
-Desde 11:59 hasta 12:45
-Desde 12:47 hasta 12:49
-Desde 13:13 hasta 13:29
-Desde 13:39 hasta 13:44
-Desde 14:25 hasta 14:30
-Desde 14:45 hasta 14:53
-Desde 14:55 hasta 14:57
-Desde 15:03 hasta 15:12
-Desde 16:32 hasta 16:32
-Desde 16:47 hasta 17:09
-Desde 17:10 hasta 17:19
-Desde 17:23 hasta 17:24
-Desde 17:27 hasta 17:28
-Desde 17:28 hasta 17:28
-Desde 17:28 hasta 17:33
-Desde 17:39 hasta 17:42
-Desde 17:46 hasta 18:11
-Desde 18:15 hasta 18:17
-Desde 18:23 hasta 18:33
-Desde 18:34 hasta 18:34
-Desde 18:34 hasta 18:41
-Desde 19:09 hasta 19:19
-Desde 19:24 hasta 19:34
-Desde 20:11 hasta 20:13
-Desde 20:15 hasta 20:16
-Desde 20:18 hasta 20:18
-Desde 20:21 hasta 20:22
-Desde 20:31 hasta 20:34
-Desde 20:35 hasta 20:37
-Desde 20:40 hasta 20:48
-Desde 21:15 hasta 21:28
-Desde 21:33 hasta 21:37
-Desde 21:37 hasta 22:44
-Desde 22:50 hasta 22:51
-Desde 23:03 hasta 23:18
-Desde 23:26 hasta 23:40
-Desde 23:56 hasta 23:59
-Desde 24:06 hasta 24:15
-Desde 24:18 hasta 24:42
-Desde 24:43 hasta 24:53
-Desde 25:22 hasta 25:26
-Desde 25:41 hasta 25:46
-Desde 25:49 hasta 25:57
-Desde 25:59 hasta 26:07
-Desde 26:11 hasta 26:17
-Desde 26:37 hasta 26:58
-Desde 27:23 hasta 27:30
-Desde 27:40 hasta 27:44
-Desde 27:45 hasta 27:47
-Desde 27:59 hasta 28:01
-Desde 28:05 hasta 28:08
-Desde 28:16 hasta 28:26
-Desde 28:26 hasta 28:28
-Desde 28:41 hasta 28:51
-Desde 28:59 hasta 29:10
-Desde 29:22 hasta 29:26
-Desde 29:39 hasta 29:43
-Desde 29:55 hasta 29:57
-Desde 29:59 hasta 30:00
-Desde 30:00 hasta 30:12
-Desde 30:24 hasta 30:35
-Desde 30:41 hasta 30:44
-Desde 30:45 hasta 31:01
-Desde 31:03 hasta 31:06
-Desde 31:07 hasta 31:07
-Desde 31:12 hasta 31:13
-Desde 31:21 hasta 31:24
-Desde 31:25 hasta 31:26
-Desde 31:27 hasta 31:29
-Desde 31:31 hasta 31:47
-Desde 32:02 hasta 32:12
-Desde 32:24 hasta 32:26
-Desde 32:36 hasta 32:40
-Desde 32:40 hasta 32:50
-Desde 32:54 hasta 33:15
-Desde 33:17 hasta 33:19
-Desde 33:40 hasta 33:50
-Desde 33:54 hasta 33:55
-Desde 34:03 hasta 34:04
-Desde 34:15 hasta 34:23
-Desde 34:29 hasta 34:36
-Desde 34:37 hasta 34:46
-Desde 34:49 hasta 34:56
-Desde 35:03 hasta 35:08
-Desde 35:14 hasta 35:28
-Desde 35:33 hasta 35:36
-Desde 35:45 hasta 35:54
-Desde 35:58 hasta 36:00
-Desde 36:01 hasta 36:03
-Desde 36:07 hasta 36:09
-Desde 36:14 hasta 36:22
-Desde 36:27 hasta 36:40
-Desde 36:46 hasta 36:47
-Desde 37:00 hasta 37:04
-Desde 37:10 hasta 37:15
-Desde 37:22 hasta 37:24
-Desde 37:25 hasta 37:27
-Desde 37:28 hasta 37:41
-Desde 37:46 hasta 37:52
-Desde 37:54 hasta 37:56
-Desde 38:00 hasta 38:03
-Desde 38:06 hasta 38:23
-Desde 38:32 hasta 38:43
-Desde 38:55 hasta 39:01
-Desde 39:06 hasta 39:12
-Desde 39:35 hasta 39:37
-Desde 39:49 hasta 39:51
-Desde 39:52 hasta 39:54
-Desde 40:02 hasta 40:08
-Desde 40:14 hasta 40:16
-Desde 40:20 hasta 40:21
-Desde 40:29 hasta 40:35
-Desde 40:39 hasta 40:42
-Desde 40:46 hasta 40:49
-Desde 40:56 hasta 41:00
-Desde 41:03 hasta 41:07
-Desde 41:15 hasta 41:17
-Desde 41:24 hasta 41:28
-Desde 41:28 hasta 41:29
-Desde 41:31 hasta 41:33
-Desde 41:38 hasta 41:45
-Desde 41:55 hasta 41:57
-Desde 42:02 hasta 42:03
-Desde 42:03 hasta 42:10
-Desde 42:12 hasta 42:20
-Desde 42:29 hasta 42:40
-Desde 42:43 hasta 42:51
-Desde 42:54 hasta 43:02
-Desde 43:08 hasta 43:12
-Desde 43:14 hasta 43:21
-Desde 43:27 hasta 43:33
-Desde 43:39 hasta 43:50
-Desde 43:52 hasta 44:00
-Desde 44:04 hasta 44:14
-Desde 44:15 hasta 44:20
-Desde 44:22 hasta 44:37
-Desde 44:51 hasta 44:55
-Desde 45:00 hasta 45:05
-Desde 45:06 hasta 45:18
-Desde 45:21 hasta 45:25
-Desde 45:39 hasta 45:48
-Desde 45:50 hasta 45:57
-Desde 45:59 hasta 46:11
-Desde 46:27 hasta 46:32
-Desde 46:33 hasta 46:33
-Desde 46:36 hasta 46:38
-Desde 47:09 hasta 47:14
-Desde 47:19 hasta 47:20
-Desde 47:21 hasta 47:21
-Desde 47:25 hasta 47:30
-Desde 47:33 hasta 47:50
-Desde 47:54 hasta 47:57
-Desde 48:01 hasta 48:04
-Desde 48:08 hasta 48:10
-Desde 48:14 hasta 48:22
-Desde 48:25 hasta 48:30
-Desde 48:32 hasta 48:40
-Desde 48:45 hasta 48:50
-Desde 48:53 hasta 48:55
-Desde 48:57 hasta 49:10
-Desde 49:11 hasta 49:13
-Desde 49:15 hasta 49:16
-Desde 49:44 hasta 49:50
-Desde 49:52 hasta 49:53
-Desde 50:00 hasta 50:03
-Desde 50:09 hasta 50:18
-Desde 50:21 hasta 50:23
-Desde 50:24 hasta 50:24
-Desde 50:29 hasta 50:31
-Desde 50:35 hasta 50:42
-Desde 50:54 hasta 50:58
-Desde 51:04 hasta 51:21
-Desde 51:27 hasta 51:29
-Desde 51:40 hasta 51:42
-Desde 51:47 hasta 51:59
-Desde 52:06 hasta 52:19
-Desde 52:21 hasta 52:27
-Desde 52:32 hasta 52:37
-Desde 52:39 hasta 52:39
-Desde 52:42 hasta 52:45
-Desde 52:52 hasta 52:58
-Desde 53:17 hasta 53:18
-Desde 53:20 hasta 53:26
-Desde 53:27 hasta 53:33
-Desde 53:35 hasta 53:43
-Desde 53:52 hasta 54:04
-Desde 54:06 hasta 54:07
-Desde 54:13 hasta 54:16
-Desde 54:18 hasta 54:18
-Desde 54:24 hasta 54:26
-Desde 54:27 hasta 54:27
-Desde 54:29 hasta 54:31
-Desde 54:36 hasta 54:42
-Desde 54:42 hasta 54:46
-Desde 54:53 hasta 54:57
-Desde 55:01 hasta 55:02
-Desde 55:13 hasta 55:20
-Desde 55:35 hasta 56:02
-Desde 56:10 hasta 56:53
-Desde 56:59 hasta 57:01
-Desde 57:14 hasta 57:18
-Desde 57:23 hasta 57:25
-Desde 57:33 hasta 57:40
-Desde 57:53 hasta 57:57
-Desde 58:05 hasta 58:07
-Desde 58:09 hasta 58:09
-Desde 58:14 hasta 58:17
-Desde 58:32 hasta 58:43
-Desde 58:58 hasta 59:02
-Desde 59:06 hasta 59:06
-Desde 59:06 hasta 59:16
-Desde 59:17 hasta 59:18
-Desde 59:21 hasta 59:23
-Desde 59:25 hasta 59:28
-Desde 59:29 hasta 59:31
-Desde 59:40 hasta 59:42
-Desde 59:45 hasta 59:49
-Desde 59:53 hasta 59:54
-Desde 59:54 hasta 59:55
-Desde 59:56 hasta 59:58
-Desde 1:00:04 hasta 1:00:05
-Desde 1:00:12 hasta 1:00:19
-Desde 1:00:22 hasta 1:00:29
-Desde 1:00:31 hasta 1:00:31
-Desde 1:00:51 hasta 1:00:57
-Desde 1:01:00 hasta 1:01:16
-Desde 1:01:27 hasta 1:01:39
-Desde 1:01:41 hasta 1:01:42
-Desde 1:01:47 hasta 1:01:52
-Desde 1:02:07 hasta 1:02:16
-Desde 1:02:24 hasta 1:02:27
-Desde 1:02:28 hasta 1:02:31
-Desde 1:02:35 hasta 1:02:38
-Desde 1:02:45 hasta 1:02:46
-Desde 1:02:48 hasta 1:02:57
-Desde 1:02:59 hasta 1:03:06
-Desde 1:03:07 hasta 1:03:09
-Desde 1:03:11 hasta 1:03:14
-Desde 1:03:17 hasta 1:03:20
-Desde 1:03:21 hasta 1:03:37
-Desde 1:03:41 hasta 1:03:42
-Desde 1:03:49 hasta 1:04:03
-Desde 1:04:04 hasta 1:04:06
-Desde 1:04:14 hasta 1:04:15
-Desde 1:04:35 hasta 1:04:39
-Desde 1:04:40 hasta 1:04:53
-Desde 1:04:54 hasta 1:04:55
-Desde 1:04:55 hasta 1:04:55
-Desde 1:05:00 hasta 1:05:01
-Desde 1:05:03 hasta 1:05:05
-Desde 1:05:19 hasta 1:05:23
-Desde 1:05:25 hasta 1:05:27
-Desde 1:05:30 hasta 1:05:31
-Desde 1:05:38 hasta 1:05:46
-Desde 1:05:49 hasta 1:05:54
-Desde 1:05:54 hasta 1:05:58
-Desde 1:05:58 hasta 1:05:58
-Desde 1:05:59 hasta 1:06:01
-Desde 1:06:02 hasta 1:06:06
-Desde 1:06:09 hasta 1:06:13
-Desde 1:06:23 hasta 1:06:25
-Desde 1:06:28 hasta 1:06:31
-Desde 1:06:31 hasta 1:06:34
-Desde 1:06:41 hasta 1:06:48
-Desde 1:06:55 hasta 1:07:01
-Desde 1:07:08 hasta 1:07:10
-Desde 1:07:17 hasta 1:07:21
-Desde 1:07:27 hasta 1:07:35
-Desde 1:07:36 hasta 1:07:44
-Desde 1:07:45 hasta 1:07:47
-Desde 1:07:50 hasta 1:07:51
-Desde 1:07:54 hasta 1:07:54
-Desde 1:07:55 hasta 1:08:02
-Desde 1:08:05 hasta 1:08:11
-Desde 1:08:13 hasta 1:08:16
-Desde 1:08:18 hasta 1:08:25
-Desde 1:08:26 hasta 1:08:27
-Desde 1:08:30 hasta 1:08:32
-Desde 1:08:42 hasta 1:08:44
-Desde 1:08:45 hasta 1:08:48
-Desde 1:08:53 hasta 1:08:54
-Desde 1:08:55 hasta 1:08:56
-Desde 1:08:59 hasta 1:09:59
-Desde 1:10:04 hasta 1:10:08
-Desde 1:10:17 hasta 1:10:20
-Desde 1:10:24 hasta 1:10:26
-Desde 1:10:30 hasta 1:10:32
-Desde 1:10:34 hasta 1:10:34
-Desde 1:10:42 hasta 1:10:52
-Desde 1:10:59 hasta 1:11:13
-Desde 1:11:22 hasta 1:11:23
-Desde 1:11:24 hasta 1:11:26
-Desde 1:11:29 hasta 1:11:30
-Desde 1:11:32 hasta 1:11:34
-Desde 1:11:37 hasta 1:11:38
-Desde 1:11:40 hasta 1:11:44
-Desde 1:11:46 hasta 1:11:55
-Desde 1:11:57 hasta 1:12:06
-Desde 1:12:08 hasta 1:12:10
-Desde 1:12:14 hasta 1:12:18
-Desde 1:12:18 hasta 1:12:22
-Desde 1:12:24 hasta 1:12:27
-Desde 1:12:27 hasta 1:12:28
-Desde 1:12:34 hasta 1:12:36
-Desde 1:12:38 hasta 1:12:45
-Desde 1:12:46 hasta 1:12:47
-Desde 1:12:51 hasta 1:12:56
-Desde 1:12:58 hasta 1:12:59
-Desde 1:13:00 hasta 1:13:03
-Desde 1:13:04 hasta 1:13:05
-Desde 1:13:08 hasta 1:13:11
-Desde 1:13:15 hasta 1:13:29
-Desde 1:13:37 hasta 1:13:56
-Desde 1:14:07 hasta 1:14:10
-Desde 1:14:20 hasta 1:14:23
-Desde 1:14:27 hasta 1:14:31
+Desde 00:00 hasta 00:01 la diferencia en segundos es :1
+Desde 00:01 hasta 00:31 la diferencia en segundos es :30
+Desde 00:31 hasta 00:59 la diferencia en segundos es :28
+Desde 00:59 hasta 01:03 la diferencia en segundos es :4
+Desde 01:03 hasta 01:04 la diferencia en segundos es :1
+Desde 01:04 hasta 01:08 la diferencia en segundos es :4
+Desde 01:08 hasta 01:08 la diferencia en segundos es :0
+Desde 01:08 hasta 01:47 la diferencia en segundos es :39
+Desde 01:47 hasta 01:52 la diferencia en segundos es :5
+Desde 01:52 hasta 01:59 la diferencia en segundos es :7
+Desde 01:59 hasta 02:08 la diferencia en segundos es :9
+Desde 02:08 hasta 02:14 la diferencia en segundos es :6
+Desde 02:14 hasta 02:24 la diferencia en segundos es :10
+Desde 02:24 hasta 02:28 la diferencia en segundos es :4
+Desde 02:28 hasta 02:29 la diferencia en segundos es :1
+Desde 02:29 hasta 02:47 la diferencia en segundos es :18
+Desde 02:47 hasta 02:48 la diferencia en segundos es :1
+Desde 02:48 hasta 03:21 la diferencia en segundos es :33
+Desde 03:21 hasta 03:31 la diferencia en segundos es :10
+Desde 03:31 hasta 03:33 la diferencia en segundos es :2
+Desde 03:33 hasta 03:35 la diferencia en segundos es :2
+Desde 03:35 hasta 03:36 la diferencia en segundos es :1
+Desde 03:36 hasta 03:57 la diferencia en segundos es :21
+Desde 03:57 hasta 04:27 la diferencia en segundos es :30
+Desde 04:27 hasta 04:49 la diferencia en segundos es :22
+Desde 04:49 hasta 04:51 la diferencia en segundos es :2
+Desde 04:51 hasta 04:52 la diferencia en segundos es :1
+Desde 04:52 hasta 04:54 la diferencia en segundos es :2
+Desde 04:54 hasta 05:36 la diferencia en segundos es :42
+Desde 05:36 hasta 05:47 la diferencia en segundos es :11
+Desde 05:47 hasta 06:00 la diferencia en segundos es :13
+Desde 06:00 hasta 06:12 la diferencia en segundos es :12
+Desde 06:12 hasta 06:16 la diferencia en segundos es :4
+Desde 06:16 hasta 07:11 la diferencia en segundos es :55
+Desde 07:11 hasta 07:20 la diferencia en segundos es :9
+Desde 07:20 hasta 08:15 la diferencia en segundos es :55
+Desde 08:15 hasta 08:21 la diferencia en segundos es :6
+Desde 08:21 hasta 08:39 la diferencia en segundos es :18
+Desde 08:39 hasta 08:41 la diferencia en segundos es :2
+Desde 08:41 hasta 09:07 la diferencia en segundos es :26
+Desde 09:07 hasta 09:10 la diferencia en segundos es :3
+Desde 09:10 hasta 10:05 la diferencia en segundos es :55
+Desde 10:05 hasta 10:11 la diferencia en segundos es :6
+Desde 10:11 hasta 10:27 la diferencia en segundos es :16
+Desde 10:27 hasta 10:46 la diferencia en segundos es :19
+Desde 10:46 hasta 11:05 la diferencia en segundos es :19
+Desde 11:05 hasta 11:14 la diferencia en segundos es :9
+Desde 11:14 hasta 11:59 la diferencia en segundos es :45
+Desde 11:59 hasta 12:45 la diferencia en segundos es :46
+Desde 12:45 hasta 12:47 la diferencia en segundos es :2
+Desde 12:47 hasta 12:49 la diferencia en segundos es :2
+Desde 12:49 hasta 13:13 la diferencia en segundos es :24
+Desde 13:13 hasta 13:29 la diferencia en segundos es :16
+Desde 13:29 hasta 13:39 la diferencia en segundos es :10
+Desde 13:39 hasta 13:44 la diferencia en segundos es :5
+Desde 13:44 hasta 14:25 la diferencia en segundos es :41
+Desde 14:25 hasta 14:30 la diferencia en segundos es :5
+Desde 14:30 hasta 14:45 la diferencia en segundos es :15
+Desde 14:45 hasta 14:53 la diferencia en segundos es :8
+Desde 14:53 hasta 14:55 la diferencia en segundos es :2
+Desde 14:55 hasta 14:57 la diferencia en segundos es :2
+Desde 14:57 hasta 15:03 la diferencia en segundos es :6
+Desde 15:03 hasta 15:12 la diferencia en segundos es :9
+Desde 15:12 hasta 16:32 la diferencia en segundos es :80
+Desde 16:32 hasta 16:32 la diferencia en segundos es :0
+Desde 16:32 hasta 16:47 la diferencia en segundos es :15
+Desde 16:47 hasta 17:09 la diferencia en segundos es :22
+Desde 17:09 hasta 17:10 la diferencia en segundos es :1
+Desde 17:10 hasta 17:19 la diferencia en segundos es :9
+Desde 17:19 hasta 17:23 la diferencia en segundos es :4
+Desde 17:23 hasta 17:24 la diferencia en segundos es :1
+Desde 17:24 hasta 17:27 la diferencia en segundos es :3
+Desde 17:27 hasta 17:28 la diferencia en segundos es :1
+Desde 17:28 hasta 17:28 la diferencia en segundos es :0
+Desde 17:28 hasta 17:28 la diferencia en segundos es :0
+Desde 17:28 hasta 17:28 la diferencia en segundos es :0
+Desde 17:28 hasta 17:33 la diferencia en segundos es :5
+Desde 17:33 hasta 17:39 la diferencia en segundos es :6
+Desde 17:39 hasta 17:42 la diferencia en segundos es :3
+Desde 17:42 hasta 17:46 la diferencia en segundos es :4
+Desde 17:46 hasta 18:11 la diferencia en segundos es :25
+Desde 18:11 hasta 18:15 la diferencia en segundos es :4
+Desde 18:15 hasta 18:17 la diferencia en segundos es :2
+Desde 18:17 hasta 18:23 la diferencia en segundos es :6
+Desde 18:23 hasta 18:33 la diferencia en segundos es :10
+Desde 18:33 hasta 18:34 la diferencia en segundos es :1
+Desde 18:34 hasta 18:34 la diferencia en segundos es :0
+Desde 18:34 hasta 18:34 la diferencia en segundos es :0
+Desde 18:34 hasta 18:41 la diferencia en segundos es :7
+Desde 18:41 hasta 19:09 la diferencia en segundos es :28
+Desde 19:09 hasta 19:19 la diferencia en segundos es :10
+Desde 19:19 hasta 19:24 la diferencia en segundos es :5
+Desde 19:24 hasta 19:34 la diferencia en segundos es :10
+Desde 19:34 hasta 20:11 la diferencia en segundos es :37
+Desde 20:11 hasta 20:13 la diferencia en segundos es :2
+Desde 20:13 hasta 20:15 la diferencia en segundos es :2
+Desde 20:15 hasta 20:16 la diferencia en segundos es :1
+Desde 20:16 hasta 20:18 la diferencia en segundos es :2
+Desde 20:18 hasta 20:18 la diferencia en segundos es :0
+Desde 20:18 hasta 20:21 la diferencia en segundos es :3
+Desde 20:21 hasta 20:22 la diferencia en segundos es :1
+Desde 20:22 hasta 20:31 la diferencia en segundos es :9
+Desde 20:31 hasta 20:34 la diferencia en segundos es :3
+Desde 20:34 hasta 20:35 la diferencia en segundos es :1
+Desde 20:35 hasta 20:37 la diferencia en segundos es :2
+Desde 20:37 hasta 20:40 la diferencia en segundos es :3
+Desde 20:40 hasta 20:48 la diferencia en segundos es :8
+Desde 20:48 hasta 21:15 la diferencia en segundos es :27
+Desde 21:15 hasta 21:28 la diferencia en segundos es :13
+Desde 21:28 hasta 21:33 la diferencia en segundos es :5
+Desde 21:33 hasta 21:37 la diferencia en segundos es :4
+Desde 21:37 hasta 21:37 la diferencia en segundos es :0
+Desde 21:37 hasta 22:44 la diferencia en segundos es :67
+Desde 22:44 hasta 22:50 la diferencia en segundos es :6
+Desde 22:50 hasta 22:51 la diferencia en segundos es :1
+Desde 22:51 hasta 23:03 la diferencia en segundos es :12
+Desde 23:03 hasta 23:18 la diferencia en segundos es :15
+Desde 23:18 hasta 23:26 la diferencia en segundos es :8
+Desde 23:26 hasta 23:40 la diferencia en segundos es :14
+Desde 23:40 hasta 23:56 la diferencia en segundos es :16
+Desde 23:56 hasta 23:59 la diferencia en segundos es :3
+Desde 23:59 hasta 24:06 la diferencia en segundos es :7
+Desde 24:06 hasta 24:15 la diferencia en segundos es :9
+Desde 24:15 hasta 24:18 la diferencia en segundos es :3
+Desde 24:18 hasta 24:42 la diferencia en segundos es :24
+Desde 24:42 hasta 24:43 la diferencia en segundos es :1
+Desde 24:43 hasta 24:53 la diferencia en segundos es :10
+Desde 24:53 hasta 25:22 la diferencia en segundos es :29
+Desde 25:22 hasta 25:26 la diferencia en segundos es :4
+Desde 25:26 hasta 25:41 la diferencia en segundos es :15
+Desde 25:41 hasta 25:46 la diferencia en segundos es :5
+Desde 25:46 hasta 25:49 la diferencia en segundos es :3
+Desde 25:49 hasta 25:57 la diferencia en segundos es :8
+Desde 25:57 hasta 25:59 la diferencia en segundos es :2
+Desde 25:59 hasta 26:07 la diferencia en segundos es :8
+Desde 26:07 hasta 26:11 la diferencia en segundos es :4
+Desde 26:11 hasta 26:17 la diferencia en segundos es :6
+Desde 26:17 hasta 26:37 la diferencia en segundos es :20
+Desde 26:37 hasta 26:58 la diferencia en segundos es :21
+Desde 26:58 hasta 27:23 la diferencia en segundos es :25
+Desde 27:23 hasta 27:30 la diferencia en segundos es :7
+Desde 27:30 hasta 27:40 la diferencia en segundos es :10
+Desde 27:40 hasta 27:44 la diferencia en segundos es :4
+Desde 27:44 hasta 27:45 la diferencia en segundos es :1
+Desde 27:45 hasta 27:47 la diferencia en segundos es :2
+Desde 27:47 hasta 27:59 la diferencia en segundos es :12
+Desde 27:59 hasta 28:01 la diferencia en segundos es :2
+Desde 28:01 hasta 28:05 la diferencia en segundos es :4
+Desde 28:05 hasta 28:08 la diferencia en segundos es :3
+Desde 28:08 hasta 28:16 la diferencia en segundos es :8
+Desde 28:16 hasta 28:26 la diferencia en segundos es :10
+Desde 28:26 hasta 28:26 la diferencia en segundos es :0
+Desde 28:26 hasta 28:28 la diferencia en segundos es :2
+Desde 28:28 hasta 28:41 la diferencia en segundos es :13
+Desde 28:41 hasta 28:51 la diferencia en segundos es :10
+Desde 28:51 hasta 28:59 la diferencia en segundos es :8
+Desde 28:59 hasta 29:10 la diferencia en segundos es :11
+Desde 29:10 hasta 29:22 la diferencia en segundos es :12
+Desde 29:22 hasta 29:26 la diferencia en segundos es :4
+Desde 29:26 hasta 29:39 la diferencia en segundos es :13
+Desde 29:39 hasta 29:43 la diferencia en segundos es :4
+Desde 29:43 hasta 29:55 la diferencia en segundos es :12
+Desde 29:55 hasta 29:57 la diferencia en segundos es :2
+Desde 29:57 hasta 29:59 la diferencia en segundos es :2
+Desde 29:59 hasta 30:00 la diferencia en segundos es :1
+Desde 30:00 hasta 30:00 la diferencia en segundos es :0
+Desde 30:00 hasta 30:12 la diferencia en segundos es :12
+Desde 30:12 hasta 30:24 la diferencia en segundos es :12
+Desde 30:24 hasta 30:35 la diferencia en segundos es :11
+Desde 30:35 hasta 30:41 la diferencia en segundos es :6
+Desde 30:41 hasta 30:44 la diferencia en segundos es :3
+Desde 30:44 hasta 30:45 la diferencia en segundos es :1
+Desde 30:45 hasta 31:01 la diferencia en segundos es :16
+Desde 31:01 hasta 31:03 la diferencia en segundos es :2
+Desde 31:03 hasta 31:06 la diferencia en segundos es :3
+Desde 31:06 hasta 31:07 la diferencia en segundos es :1
+Desde 31:07 hasta 31:07 la diferencia en segundos es :0
+Desde 31:07 hasta 31:12 la diferencia en segundos es :5
+Desde 31:12 hasta 31:13 la diferencia en segundos es :1
+Desde 31:13 hasta 31:21 la diferencia en segundos es :8
+Desde 31:21 hasta 31:24 la diferencia en segundos es :3
+Desde 31:24 hasta 31:25 la diferencia en segundos es :1
+Desde 31:25 hasta 31:26 la diferencia en segundos es :1
+Desde 31:26 hasta 31:27 la diferencia en segundos es :1
+Desde 31:27 hasta 31:29 la diferencia en segundos es :2
+Desde 31:29 hasta 31:31 la diferencia en segundos es :2
+Desde 31:31 hasta 31:47 la diferencia en segundos es :16
+Desde 31:47 hasta 32:02 la diferencia en segundos es :15
+Desde 32:02 hasta 32:12 la diferencia en segundos es :10
+Desde 32:12 hasta 32:24 la diferencia en segundos es :12
+Desde 32:24 hasta 32:26 la diferencia en segundos es :2
+Desde 32:26 hasta 32:36 la diferencia en segundos es :10
+Desde 32:36 hasta 32:40 la diferencia en segundos es :4
+Desde 32:40 hasta 32:40 la diferencia en segundos es :0
+Desde 32:40 hasta 32:50 la diferencia en segundos es :10
+Desde 32:50 hasta 32:54 la diferencia en segundos es :4
+Desde 32:54 hasta 33:15 la diferencia en segundos es :21
+Desde 33:15 hasta 33:17 la diferencia en segundos es :2
+Desde 33:17 hasta 33:19 la diferencia en segundos es :2
+Desde 33:19 hasta 33:40 la diferencia en segundos es :21
+Desde 33:40 hasta 33:50 la diferencia en segundos es :10
+Desde 33:50 hasta 33:54 la diferencia en segundos es :4
+Desde 33:54 hasta 33:55 la diferencia en segundos es :1
+Desde 33:55 hasta 34:03 la diferencia en segundos es :8
+Desde 34:03 hasta 34:04 la diferencia en segundos es :1
+Desde 34:04 hasta 34:15 la diferencia en segundos es :11
+Desde 34:15 hasta 34:23 la diferencia en segundos es :8
+Desde 34:23 hasta 34:29 la diferencia en segundos es :6
+Desde 34:29 hasta 34:36 la diferencia en segundos es :7
+Desde 34:36 hasta 34:37 la diferencia en segundos es :1
+Desde 34:37 hasta 34:46 la diferencia en segundos es :9
+Desde 34:46 hasta 34:49 la diferencia en segundos es :3
+Desde 34:49 hasta 34:56 la diferencia en segundos es :7
+Desde 34:56 hasta 35:03 la diferencia en segundos es :7
+Desde 35:03 hasta 35:08 la diferencia en segundos es :5
+Desde 35:08 hasta 35:14 la diferencia en segundos es :6
+Desde 35:14 hasta 35:28 la diferencia en segundos es :14
+Desde 35:28 hasta 35:33 la diferencia en segundos es :5
+Desde 35:33 hasta 35:36 la diferencia en segundos es :3
+Desde 35:36 hasta 35:45 la diferencia en segundos es :9
+Desde 35:45 hasta 35:54 la diferencia en segundos es :9
+Desde 35:54 hasta 35:58 la diferencia en segundos es :4
+Desde 35:58 hasta 36:00 la diferencia en segundos es :2
+Desde 36:00 hasta 36:01 la diferencia en segundos es :1
+Desde 36:01 hasta 36:03 la diferencia en segundos es :2
+Desde 36:03 hasta 36:07 la diferencia en segundos es :4
+Desde 36:07 hasta 36:09 la diferencia en segundos es :2
+Desde 36:09 hasta 36:14 la diferencia en segundos es :5
+Desde 36:14 hasta 36:22 la diferencia en segundos es :8
+Desde 36:22 hasta 36:27 la diferencia en segundos es :5
+Desde 36:27 hasta 36:40 la diferencia en segundos es :13
+Desde 36:40 hasta 36:46 la diferencia en segundos es :6
+Desde 36:46 hasta 36:47 la diferencia en segundos es :1
+Desde 36:47 hasta 37:00 la diferencia en segundos es :13
+Desde 37:00 hasta 37:04 la diferencia en segundos es :4
+Desde 37:04 hasta 37:10 la diferencia en segundos es :6
+Desde 37:10 hasta 37:15 la diferencia en segundos es :5
+Desde 37:15 hasta 37:22 la diferencia en segundos es :7
+Desde 37:22 hasta 37:24 la diferencia en segundos es :2
+Desde 37:24 hasta 37:25 la diferencia en segundos es :1
+Desde 37:25 hasta 37:27 la diferencia en segundos es :2
+Desde 37:27 hasta 37:28 la diferencia en segundos es :1
+Desde 37:28 hasta 37:41 la diferencia en segundos es :13
+Desde 37:41 hasta 37:46 la diferencia en segundos es :5
+Desde 37:46 hasta 37:52 la diferencia en segundos es :6
+Desde 37:52 hasta 37:54 la diferencia en segundos es :2
+Desde 37:54 hasta 37:56 la diferencia en segundos es :2
+Desde 37:56 hasta 38:00 la diferencia en segundos es :4
+Desde 38:00 hasta 38:03 la diferencia en segundos es :3
+Desde 38:03 hasta 38:06 la diferencia en segundos es :3
+Desde 38:06 hasta 38:23 la diferencia en segundos es :17
+Desde 38:23 hasta 38:32 la diferencia en segundos es :9
+Desde 38:32 hasta 38:43 la diferencia en segundos es :11
+Desde 38:43 hasta 38:55 la diferencia en segundos es :12
+Desde 38:55 hasta 39:01 la diferencia en segundos es :6
+Desde 39:01 hasta 39:06 la diferencia en segundos es :5
+Desde 39:06 hasta 39:12 la diferencia en segundos es :6
+Desde 39:12 hasta 39:35 la diferencia en segundos es :23
+Desde 39:35 hasta 39:37 la diferencia en segundos es :2
+Desde 39:37 hasta 39:49 la diferencia en segundos es :12
+Desde 39:49 hasta 39:51 la diferencia en segundos es :2
+Desde 39:51 hasta 39:52 la diferencia en segundos es :1
+Desde 39:52 hasta 39:54 la diferencia en segundos es :2
+Desde 39:54 hasta 40:02 la diferencia en segundos es :8
+Desde 40:02 hasta 40:08 la diferencia en segundos es :6
+Desde 40:08 hasta 40:14 la diferencia en segundos es :6
+Desde 40:14 hasta 40:16 la diferencia en segundos es :2
+Desde 40:16 hasta 40:20 la diferencia en segundos es :4
+Desde 40:20 hasta 40:21 la diferencia en segundos es :1
+Desde 40:21 hasta 40:29 la diferencia en segundos es :8
+Desde 40:29 hasta 40:35 la diferencia en segundos es :6
+Desde 40:35 hasta 40:39 la diferencia en segundos es :4
+Desde 40:39 hasta 40:42 la diferencia en segundos es :3
+Desde 40:42 hasta 40:46 la diferencia en segundos es :4
+Desde 40:46 hasta 40:49 la diferencia en segundos es :3
+Desde 40:49 hasta 40:56 la diferencia en segundos es :7
+Desde 40:56 hasta 41:00 la diferencia en segundos es :4
+Desde 41:00 hasta 41:03 la diferencia en segundos es :3
+Desde 41:03 hasta 41:07 la diferencia en segundos es :4
+Desde 41:07 hasta 41:15 la diferencia en segundos es :8
+Desde 41:15 hasta 41:17 la diferencia en segundos es :2
+Desde 41:17 hasta 41:24 la diferencia en segundos es :7
+Desde 41:24 hasta 41:28 la diferencia en segundos es :4
+Desde 41:28 hasta 41:28 la diferencia en segundos es :0
+Desde 41:28 hasta 41:29 la diferencia en segundos es :1
+Desde 41:29 hasta 41:31 la diferencia en segundos es :2
+Desde 41:31 hasta 41:33 la diferencia en segundos es :2
+Desde 41:33 hasta 41:38 la diferencia en segundos es :5
+Desde 41:38 hasta 41:45 la diferencia en segundos es :7
+Desde 41:45 hasta 41:55 la diferencia en segundos es :10
+Desde 41:55 hasta 41:57 la diferencia en segundos es :2
+Desde 41:57 hasta 42:02 la diferencia en segundos es :5
+Desde 42:02 hasta 42:03 la diferencia en segundos es :1
+Desde 42:03 hasta 42:03 la diferencia en segundos es :0
+Desde 42:03 hasta 42:10 la diferencia en segundos es :7
+Desde 42:10 hasta 42:12 la diferencia en segundos es :2
+Desde 42:12 hasta 42:20 la diferencia en segundos es :8
+Desde 42:20 hasta 42:29 la diferencia en segundos es :9
+Desde 42:29 hasta 42:40 la diferencia en segundos es :11
+Desde 42:40 hasta 42:43 la diferencia en segundos es :3
+Desde 42:43 hasta 42:51 la diferencia en segundos es :8
+Desde 42:51 hasta 42:54 la diferencia en segundos es :3
+Desde 42:54 hasta 43:02 la diferencia en segundos es :8
+Desde 43:02 hasta 43:08 la diferencia en segundos es :6
+Desde 43:08 hasta 43:12 la diferencia en segundos es :4
+Desde 43:12 hasta 43:14 la diferencia en segundos es :2
+Desde 43:14 hasta 43:21 la diferencia en segundos es :7
+Desde 43:21 hasta 43:27 la diferencia en segundos es :6
+Desde 43:27 hasta 43:33 la diferencia en segundos es :6
+Desde 43:33 hasta 43:39 la diferencia en segundos es :6
+Desde 43:39 hasta 43:50 la diferencia en segundos es :11
+Desde 43:50 hasta 43:52 la diferencia en segundos es :2
+Desde 43:52 hasta 44:00 la diferencia en segundos es :8
+Desde 44:00 hasta 44:04 la diferencia en segundos es :4
+Desde 44:04 hasta 44:14 la diferencia en segundos es :10
+Desde 44:14 hasta 44:15 la diferencia en segundos es :1
+Desde 44:15 hasta 44:20 la diferencia en segundos es :5
+Desde 44:20 hasta 44:22 la diferencia en segundos es :2
+Desde 44:22 hasta 44:37 la diferencia en segundos es :15
+Desde 44:37 hasta 44:51 la diferencia en segundos es :14
+Desde 44:51 hasta 44:55 la diferencia en segundos es :4
+Desde 44:55 hasta 45:00 la diferencia en segundos es :5
+Desde 45:00 hasta 45:05 la diferencia en segundos es :5
+Desde 45:05 hasta 45:06 la diferencia en segundos es :1
+Desde 45:06 hasta 45:18 la diferencia en segundos es :12
+Desde 45:18 hasta 45:21 la diferencia en segundos es :3
+Desde 45:21 hasta 45:25 la diferencia en segundos es :4
+Desde 45:25 hasta 45:39 la diferencia en segundos es :14
+Desde 45:39 hasta 45:48 la diferencia en segundos es :9
+Desde 45:48 hasta 45:50 la diferencia en segundos es :2
+Desde 45:50 hasta 45:57 la diferencia en segundos es :7
+Desde 45:57 hasta 45:59 la diferencia en segundos es :2
+Desde 45:59 hasta 46:11 la diferencia en segundos es :12
+Desde 46:11 hasta 46:27 la diferencia en segundos es :16
+Desde 46:27 hasta 46:32 la diferencia en segundos es :5
+Desde 46:32 hasta 46:33 la diferencia en segundos es :1
+Desde 46:33 hasta 46:33 la diferencia en segundos es :0
+Desde 46:33 hasta 46:36 la diferencia en segundos es :3
+Desde 46:36 hasta 46:38 la diferencia en segundos es :2
+Desde 46:38 hasta 47:09 la diferencia en segundos es :31
+Desde 47:09 hasta 47:14 la diferencia en segundos es :5
+Desde 47:14 hasta 47:19 la diferencia en segundos es :5
+Desde 47:19 hasta 47:20 la diferencia en segundos es :1
+Desde 47:20 hasta 47:21 la diferencia en segundos es :1
+Desde 47:21 hasta 47:21 la diferencia en segundos es :0
+Desde 47:21 hasta 47:25 la diferencia en segundos es :4
+Desde 47:25 hasta 47:30 la diferencia en segundos es :5
+Desde 47:30 hasta 47:33 la diferencia en segundos es :3
+Desde 47:33 hasta 47:50 la diferencia en segundos es :17
+Desde 47:50 hasta 47:54 la diferencia en segundos es :4
+Desde 47:54 hasta 47:57 la diferencia en segundos es :3
+Desde 47:57 hasta 48:01 la diferencia en segundos es :4
+Desde 48:01 hasta 48:04 la diferencia en segundos es :3
+Desde 48:04 hasta 48:08 la diferencia en segundos es :4
+Desde 48:08 hasta 48:10 la diferencia en segundos es :2
+Desde 48:10 hasta 48:14 la diferencia en segundos es :4
+Desde 48:14 hasta 48:22 la diferencia en segundos es :8
+Desde 48:22 hasta 48:25 la diferencia en segundos es :3
+Desde 48:25 hasta 48:30 la diferencia en segundos es :5
+Desde 48:30 hasta 48:32 la diferencia en segundos es :2
+Desde 48:32 hasta 48:40 la diferencia en segundos es :8
+Desde 48:40 hasta 48:45 la diferencia en segundos es :5
+Desde 48:45 hasta 48:50 la diferencia en segundos es :5
+Desde 48:50 hasta 48:53 la diferencia en segundos es :3
+Desde 48:53 hasta 48:55 la diferencia en segundos es :2
+Desde 48:55 hasta 48:57 la diferencia en segundos es :2
+Desde 48:57 hasta 49:10 la diferencia en segundos es :13
+Desde 49:10 hasta 49:11 la diferencia en segundos es :1
+Desde 49:11 hasta 49:13 la diferencia en segundos es :2
+Desde 49:13 hasta 49:15 la diferencia en segundos es :2
+Desde 49:15 hasta 49:16 la diferencia en segundos es :1
+Desde 49:16 hasta 49:44 la diferencia en segundos es :28
+Desde 49:44 hasta 49:50 la diferencia en segundos es :6
+Desde 49:50 hasta 49:52 la diferencia en segundos es :2
+Desde 49:52 hasta 49:53 la diferencia en segundos es :1
+Desde 49:53 hasta 50:00 la diferencia en segundos es :7
+Desde 50:00 hasta 50:03 la diferencia en segundos es :3
+Desde 50:03 hasta 50:09 la diferencia en segundos es :6
+Desde 50:09 hasta 50:18 la diferencia en segundos es :9
+Desde 50:18 hasta 50:21 la diferencia en segundos es :3
+Desde 50:21 hasta 50:23 la diferencia en segundos es :2
+Desde 50:23 hasta 50:24 la diferencia en segundos es :1
+Desde 50:24 hasta 50:24 la diferencia en segundos es :0
+Desde 50:24 hasta 50:29 la diferencia en segundos es :5
+Desde 50:29 hasta 50:31 la diferencia en segundos es :2
+Desde 50:31 hasta 50:35 la diferencia en segundos es :4
+Desde 50:35 hasta 50:42 la diferencia en segundos es :7
+Desde 50:42 hasta 50:54 la diferencia en segundos es :12
+Desde 50:54 hasta 50:58 la diferencia en segundos es :4
+Desde 50:58 hasta 51:04 la diferencia en segundos es :6
+Desde 51:04 hasta 51:21 la diferencia en segundos es :17
+Desde 51:21 hasta 51:27 la diferencia en segundos es :6
+Desde 51:27 hasta 51:29 la diferencia en segundos es :2
+Desde 51:29 hasta 51:40 la diferencia en segundos es :11
+Desde 51:40 hasta 51:42 la diferencia en segundos es :2
+Desde 51:42 hasta 51:47 la diferencia en segundos es :5
+Desde 51:47 hasta 51:59 la diferencia en segundos es :12
+Desde 51:59 hasta 52:06 la diferencia en segundos es :7
+Desde 52:06 hasta 52:19 la diferencia en segundos es :13
+Desde 52:19 hasta 52:21 la diferencia en segundos es :2
+Desde 52:21 hasta 52:27 la diferencia en segundos es :6
+Desde 52:27 hasta 52:32 la diferencia en segundos es :5
+Desde 52:32 hasta 52:37 la diferencia en segundos es :5
+Desde 52:37 hasta 52:39 la diferencia en segundos es :2
+Desde 52:39 hasta 52:39 la diferencia en segundos es :0
+Desde 52:39 hasta 52:42 la diferencia en segundos es :3
+Desde 52:42 hasta 52:45 la diferencia en segundos es :3
+Desde 52:45 hasta 52:52 la diferencia en segundos es :7
+Desde 52:52 hasta 52:58 la diferencia en segundos es :6
+Desde 52:58 hasta 53:17 la diferencia en segundos es :19
+Desde 53:17 hasta 53:18 la diferencia en segundos es :1
+Desde 53:18 hasta 53:20 la diferencia en segundos es :2
+Desde 53:20 hasta 53:26 la diferencia en segundos es :6
+Desde 53:26 hasta 53:27 la diferencia en segundos es :1
+Desde 53:27 hasta 53:33 la diferencia en segundos es :6
+Desde 53:33 hasta 53:35 la diferencia en segundos es :2
+Desde 53:35 hasta 53:43 la diferencia en segundos es :8
+Desde 53:43 hasta 53:52 la diferencia en segundos es :9
+Desde 53:52 hasta 54:04 la diferencia en segundos es :12
+Desde 54:04 hasta 54:06 la diferencia en segundos es :2
+Desde 54:06 hasta 54:07 la diferencia en segundos es :1
+Desde 54:07 hasta 54:13 la diferencia en segundos es :6
+Desde 54:13 hasta 54:16 la diferencia en segundos es :3
+Desde 54:16 hasta 54:18 la diferencia en segundos es :2
+Desde 54:18 hasta 54:18 la diferencia en segundos es :0
+Desde 54:18 hasta 54:24 la diferencia en segundos es :6
+Desde 54:24 hasta 54:26 la diferencia en segundos es :2
+Desde 54:26 hasta 54:27 la diferencia en segundos es :1
+Desde 54:27 hasta 54:27 la diferencia en segundos es :0
+Desde 54:27 hasta 54:29 la diferencia en segundos es :2
+Desde 54:29 hasta 54:31 la diferencia en segundos es :2
+Desde 54:31 hasta 54:36 la diferencia en segundos es :5
+Desde 54:36 hasta 54:42 la diferencia en segundos es :6
+Desde 54:42 hasta 54:42 la diferencia en segundos es :0
+Desde 54:42 hasta 54:46 la diferencia en segundos es :4
+Desde 54:46 hasta 54:53 la diferencia en segundos es :7
+Desde 54:53 hasta 54:57 la diferencia en segundos es :4
+Desde 54:57 hasta 55:01 la diferencia en segundos es :4
+Desde 55:01 hasta 55:02 la diferencia en segundos es :1
+Desde 55:02 hasta 55:13 la diferencia en segundos es :11
+Desde 55:13 hasta 55:20 la diferencia en segundos es :7
+Desde 55:20 hasta 55:35 la diferencia en segundos es :15
+Desde 55:35 hasta 56:02 la diferencia en segundos es :27
+Desde 56:02 hasta 56:10 la diferencia en segundos es :8
+Desde 56:10 hasta 56:53 la diferencia en segundos es :43
+Desde 56:53 hasta 56:59 la diferencia en segundos es :6
+Desde 56:59 hasta 57:01 la diferencia en segundos es :2
+Desde 57:01 hasta 57:14 la diferencia en segundos es :13
+Desde 57:14 hasta 57:18 la diferencia en segundos es :4
+Desde 57:18 hasta 57:23 la diferencia en segundos es :5
+Desde 57:23 hasta 57:25 la diferencia en segundos es :2
+Desde 57:25 hasta 57:33 la diferencia en segundos es :8
+Desde 57:33 hasta 57:40 la diferencia en segundos es :7
+Desde 57:40 hasta 57:53 la diferencia en segundos es :13
+Desde 57:53 hasta 57:57 la diferencia en segundos es :4
+Desde 57:57 hasta 58:05 la diferencia en segundos es :8
+Desde 58:05 hasta 58:07 la diferencia en segundos es :2
+Desde 58:07 hasta 58:09 la diferencia en segundos es :2
+Desde 58:09 hasta 58:09 la diferencia en segundos es :0
+Desde 58:09 hasta 58:14 la diferencia en segundos es :5
+Desde 58:14 hasta 58:17 la diferencia en segundos es :3
+Desde 58:17 hasta 58:32 la diferencia en segundos es :15
+Desde 58:32 hasta 58:43 la diferencia en segundos es :11
+Desde 58:43 hasta 58:58 la diferencia en segundos es :15
+Desde 58:58 hasta 59:02 la diferencia en segundos es :4
+Desde 59:02 hasta 59:06 la diferencia en segundos es :4
+Desde 59:06 hasta 59:06 la diferencia en segundos es :0
+Desde 59:06 hasta 59:06 la diferencia en segundos es :0
+Desde 59:06 hasta 59:16 la diferencia en segundos es :10
+Desde 59:16 hasta 59:17 la diferencia en segundos es :1
+Desde 59:17 hasta 59:18 la diferencia en segundos es :1
+Desde 59:18 hasta 59:21 la diferencia en segundos es :3
+Desde 59:21 hasta 59:23 la diferencia en segundos es :2
+Desde 59:23 hasta 59:25 la diferencia en segundos es :2
+Desde 59:25 hasta 59:28 la diferencia en segundos es :3
+Desde 59:28 hasta 59:29 la diferencia en segundos es :1
+Desde 59:29 hasta 59:31 la diferencia en segundos es :2
+Desde 59:31 hasta 59:40 la diferencia en segundos es :9
+Desde 59:40 hasta 59:42 la diferencia en segundos es :2
+Desde 59:42 hasta 59:45 la diferencia en segundos es :3
+Desde 59:45 hasta 59:49 la diferencia en segundos es :4
+Desde 59:49 hasta 59:53 la diferencia en segundos es :4
+Desde 59:53 hasta 59:54 la diferencia en segundos es :1
+Desde 59:54 hasta 59:54 la diferencia en segundos es :0
+Desde 59:54 hasta 59:55 la diferencia en segundos es :1
+Desde 59:55 hasta 59:56 la diferencia en segundos es :1
+Desde 59:56 hasta 59:58 la diferencia en segundos es :2
+Desde 59:58 hasta 1:00:04 la diferencia en segundos es :6
+Desde 1:00:04 hasta 1:00:05 la diferencia en segundos es :1
+Desde 1:00:05 hasta 1:00:12 la diferencia en segundos es :7
+Desde 1:00:12 hasta 1:00:19 la diferencia en segundos es :7
+Desde 1:00:19 hasta 1:00:22 la diferencia en segundos es :3
+Desde 1:00:22 hasta 1:00:29 la diferencia en segundos es :7
+Desde 1:00:29 hasta 1:00:31 la diferencia en segundos es :2
+Desde 1:00:31 hasta 1:00:31 la diferencia en segundos es :0
+Desde 1:00:31 hasta 1:00:51 la diferencia en segundos es :20
+Desde 1:00:51 hasta 1:00:57 la diferencia en segundos es :6
+Desde 1:00:57 hasta 1:01:00 la diferencia en segundos es :63
+Desde 1:01:00 hasta 1:01:16 la diferencia en segundos es :16
+Desde 1:01:16 hasta 1:01:27 la diferencia en segundos es :11
+Desde 1:01:27 hasta 1:01:39 la diferencia en segundos es :12
+Desde 1:01:39 hasta 1:01:41 la diferencia en segundos es :2
+Desde 1:01:41 hasta 1:01:42 la diferencia en segundos es :1
+Desde 1:01:42 hasta 1:01:47 la diferencia en segundos es :5
+Desde 1:01:47 hasta 1:01:52 la diferencia en segundos es :5
+Desde 1:01:52 hasta 1:02:07 la diferencia en segundos es :75
+Desde 1:02:07 hasta 1:02:16 la diferencia en segundos es :9
+Desde 1:02:16 hasta 1:02:24 la diferencia en segundos es :8
+Desde 1:02:24 hasta 1:02:27 la diferencia en segundos es :3
+Desde 1:02:27 hasta 1:02:28 la diferencia en segundos es :1
+Desde 1:02:28 hasta 1:02:31 la diferencia en segundos es :3
+Desde 1:02:31 hasta 1:02:35 la diferencia en segundos es :4
+Desde 1:02:35 hasta 1:02:38 la diferencia en segundos es :3
+Desde 1:02:38 hasta 1:02:45 la diferencia en segundos es :7
+Desde 1:02:45 hasta 1:02:46 la diferencia en segundos es :1
+Desde 1:02:46 hasta 1:02:48 la diferencia en segundos es :2
+Desde 1:02:48 hasta 1:02:57 la diferencia en segundos es :9
+Desde 1:02:57 hasta 1:02:59 la diferencia en segundos es :2
+Desde 1:02:59 hasta 1:03:06 la diferencia en segundos es :67
+Desde 1:03:06 hasta 1:03:07 la diferencia en segundos es :1
+Desde 1:03:07 hasta 1:03:09 la diferencia en segundos es :2
+Desde 1:03:09 hasta 1:03:11 la diferencia en segundos es :2
+Desde 1:03:11 hasta 1:03:14 la diferencia en segundos es :3
+Desde 1:03:14 hasta 1:03:17 la diferencia en segundos es :3
+Desde 1:03:17 hasta 1:03:20 la diferencia en segundos es :3
+Desde 1:03:20 hasta 1:03:21 la diferencia en segundos es :1
+Desde 1:03:21 hasta 1:03:37 la diferencia en segundos es :16
+Desde 1:03:37 hasta 1:03:41 la diferencia en segundos es :4
+Desde 1:03:41 hasta 1:03:42 la diferencia en segundos es :1
+Desde 1:03:42 hasta 1:03:49 la diferencia en segundos es :7
+Desde 1:03:49 hasta 1:04:03 la diferencia en segundos es :74
+Desde 1:04:03 hasta 1:04:04 la diferencia en segundos es :1
+Desde 1:04:04 hasta 1:04:06 la diferencia en segundos es :2
+Desde 1:04:06 hasta 1:04:14 la diferencia en segundos es :8
+Desde 1:04:14 hasta 1:04:15 la diferencia en segundos es :1
+Desde 1:04:15 hasta 1:04:35 la diferencia en segundos es :20
+Desde 1:04:35 hasta 1:04:39 la diferencia en segundos es :4
+Desde 1:04:39 hasta 1:04:40 la diferencia en segundos es :1
+Desde 1:04:40 hasta 1:04:53 la diferencia en segundos es :13
+Desde 1:04:53 hasta 1:04:54 la diferencia en segundos es :1
+Desde 1:04:54 hasta 1:04:55 la diferencia en segundos es :1
+Desde 1:04:55 hasta 1:04:55 la diferencia en segundos es :0
+Desde 1:04:55 hasta 1:04:55 la diferencia en segundos es :0
+Desde 1:04:55 hasta 1:05:00 la diferencia en segundos es :65
+Desde 1:05:00 hasta 1:05:01 la diferencia en segundos es :1
+Desde 1:05:01 hasta 1:05:03 la diferencia en segundos es :2
+Desde 1:05:03 hasta 1:05:05 la diferencia en segundos es :2
+Desde 1:05:05 hasta 1:05:19 la diferencia en segundos es :14
+Desde 1:05:19 hasta 1:05:23 la diferencia en segundos es :4
+Desde 1:05:23 hasta 1:05:25 la diferencia en segundos es :2
+Desde 1:05:25 hasta 1:05:27 la diferencia en segundos es :2
+Desde 1:05:27 hasta 1:05:30 la diferencia en segundos es :3
+Desde 1:05:30 hasta 1:05:31 la diferencia en segundos es :1
+Desde 1:05:31 hasta 1:05:38 la diferencia en segundos es :7
+Desde 1:05:38 hasta 1:05:46 la diferencia en segundos es :8
+Desde 1:05:46 hasta 1:05:49 la diferencia en segundos es :3
+Desde 1:05:49 hasta 1:05:54 la diferencia en segundos es :5
+Desde 1:05:54 hasta 1:05:54 la diferencia en segundos es :0
+Desde 1:05:54 hasta 1:05:58 la diferencia en segundos es :4
+Desde 1:05:58 hasta 1:05:58 la diferencia en segundos es :0
+Desde 1:05:58 hasta 1:05:58 la diferencia en segundos es :0
+Desde 1:05:58 hasta 1:05:59 la diferencia en segundos es :1
+Desde 1:05:59 hasta 1:06:01 la diferencia en segundos es :62
+Desde 1:06:01 hasta 1:06:02 la diferencia en segundos es :1
+Desde 1:06:02 hasta 1:06:06 la diferencia en segundos es :4
+Desde 1:06:06 hasta 1:06:09 la diferencia en segundos es :3
+Desde 1:06:09 hasta 1:06:13 la diferencia en segundos es :4
+Desde 1:06:13 hasta 1:06:23 la diferencia en segundos es :10
+Desde 1:06:23 hasta 1:06:25 la diferencia en segundos es :2
+Desde 1:06:25 hasta 1:06:28 la diferencia en segundos es :3
+Desde 1:06:28 hasta 1:06:31 la diferencia en segundos es :3
+Desde 1:06:31 hasta 1:06:31 la diferencia en segundos es :0
+Desde 1:06:31 hasta 1:06:34 la diferencia en segundos es :3
+Desde 1:06:34 hasta 1:06:41 la diferencia en segundos es :7
+Desde 1:06:41 hasta 1:06:48 la diferencia en segundos es :7
+Desde 1:06:48 hasta 1:06:55 la diferencia en segundos es :7
+Desde 1:06:55 hasta 1:07:01 la diferencia en segundos es :66
+Desde 1:07:01 hasta 1:07:08 la diferencia en segundos es :7
+Desde 1:07:08 hasta 1:07:10 la diferencia en segundos es :2
+Desde 1:07:10 hasta 1:07:17 la diferencia en segundos es :7
+Desde 1:07:17 hasta 1:07:21 la diferencia en segundos es :4
+Desde 1:07:21 hasta 1:07:27 la diferencia en segundos es :6
+Desde 1:07:27 hasta 1:07:35 la diferencia en segundos es :8
+Desde 1:07:35 hasta 1:07:36 la diferencia en segundos es :1
+Desde 1:07:36 hasta 1:07:44 la diferencia en segundos es :8
+Desde 1:07:44 hasta 1:07:45 la diferencia en segundos es :1
+Desde 1:07:45 hasta 1:07:47 la diferencia en segundos es :2
+Desde 1:07:47 hasta 1:07:50 la diferencia en segundos es :3
+Desde 1:07:50 hasta 1:07:51 la diferencia en segundos es :1
+Desde 1:07:51 hasta 1:07:54 la diferencia en segundos es :3
+Desde 1:07:54 hasta 1:07:54 la diferencia en segundos es :0
+Desde 1:07:54 hasta 1:07:55 la diferencia en segundos es :1
+Desde 1:07:55 hasta 1:08:02 la diferencia en segundos es :67
+Desde 1:08:02 hasta 1:08:05 la diferencia en segundos es :3
+Desde 1:08:05 hasta 1:08:11 la diferencia en segundos es :6
+Desde 1:08:11 hasta 1:08:13 la diferencia en segundos es :2
+Desde 1:08:13 hasta 1:08:16 la diferencia en segundos es :3
+Desde 1:08:16 hasta 1:08:18 la diferencia en segundos es :2
+Desde 1:08:18 hasta 1:08:25 la diferencia en segundos es :7
+Desde 1:08:25 hasta 1:08:26 la diferencia en segundos es :1
+Desde 1:08:26 hasta 1:08:27 la diferencia en segundos es :1
+Desde 1:08:27 hasta 1:08:30 la diferencia en segundos es :3
+Desde 1:08:30 hasta 1:08:32 la diferencia en segundos es :2
+Desde 1:08:32 hasta 1:08:42 la diferencia en segundos es :10
+Desde 1:08:42 hasta 1:08:44 la diferencia en segundos es :2
+Desde 1:08:44 hasta 1:08:45 la diferencia en segundos es :1
+Desde 1:08:45 hasta 1:08:48 la diferencia en segundos es :3
+Desde 1:08:48 hasta 1:08:53 la diferencia en segundos es :5
+Desde 1:08:53 hasta 1:08:54 la diferencia en segundos es :1
+Desde 1:08:54 hasta 1:08:55 la diferencia en segundos es :1
+Desde 1:08:55 hasta 1:08:56 la diferencia en segundos es :1
+Desde 1:08:56 hasta 1:08:59 la diferencia en segundos es :3
+Desde 1:08:59 hasta 1:09:59 la diferencia en segundos es :60
+Desde 1:09:59 hasta 1:10:04 la diferencia en segundos es :65
+Desde 1:10:04 hasta 1:10:08 la diferencia en segundos es :4
+Desde 1:10:08 hasta 1:10:17 la diferencia en segundos es :9
+Desde 1:10:17 hasta 1:10:20 la diferencia en segundos es :3
+Desde 1:10:20 hasta 1:10:24 la diferencia en segundos es :4
+Desde 1:10:24 hasta 1:10:26 la diferencia en segundos es :2
+Desde 1:10:26 hasta 1:10:30 la diferencia en segundos es :4
+Desde 1:10:30 hasta 1:10:32 la diferencia en segundos es :2
+Desde 1:10:32 hasta 1:10:34 la diferencia en segundos es :2
+Desde 1:10:34 hasta 1:10:34 la diferencia en segundos es :0
+Desde 1:10:34 hasta 1:10:42 la diferencia en segundos es :8
+Desde 1:10:42 hasta 1:10:52 la diferencia en segundos es :10
+Desde 1:10:52 hasta 1:10:59 la diferencia en segundos es :7
+Desde 1:10:59 hasta 1:11:13 la diferencia en segundos es :74
+Desde 1:11:13 hasta 1:11:22 la diferencia en segundos es :9
+Desde 1:11:22 hasta 1:11:23 la diferencia en segundos es :1
+Desde 1:11:23 hasta 1:11:24 la diferencia en segundos es :1
+Desde 1:11:24 hasta 1:11:26 la diferencia en segundos es :2
+Desde 1:11:26 hasta 1:11:29 la diferencia en segundos es :3
+Desde 1:11:29 hasta 1:11:30 la diferencia en segundos es :1
+Desde 1:11:30 hasta 1:11:32 la diferencia en segundos es :2
+Desde 1:11:32 hasta 1:11:34 la diferencia en segundos es :2
+Desde 1:11:34 hasta 1:11:37 la diferencia en segundos es :3
+Desde 1:11:37 hasta 1:11:38 la diferencia en segundos es :1
+Desde 1:11:38 hasta 1:11:40 la diferencia en segundos es :2
+Desde 1:11:40 hasta 1:11:44 la diferencia en segundos es :4
+Desde 1:11:44 hasta 1:11:46 la diferencia en segundos es :2
+Desde 1:11:46 hasta 1:11:55 la diferencia en segundos es :9
+Desde 1:11:55 hasta 1:11:57 la diferencia en segundos es :2
+Desde 1:11:57 hasta 1:12:06 la diferencia en segundos es :69
+Desde 1:12:06 hasta 1:12:08 la diferencia en segundos es :2
+Desde 1:12:08 hasta 1:12:10 la diferencia en segundos es :2
+Desde 1:12:10 hasta 1:12:14 la diferencia en segundos es :4
+Desde 1:12:14 hasta 1:12:18 la diferencia en segundos es :4
+Desde 1:12:18 hasta 1:12:18 la diferencia en segundos es :0
+Desde 1:12:18 hasta 1:12:22 la diferencia en segundos es :4
+Desde 1:12:22 hasta 1:12:24 la diferencia en segundos es :2
+Desde 1:12:24 hasta 1:12:27 la diferencia en segundos es :3
+Desde 1:12:27 hasta 1:12:27 la diferencia en segundos es :0
+Desde 1:12:27 hasta 1:12:28 la diferencia en segundos es :1
+Desde 1:12:28 hasta 1:12:34 la diferencia en segundos es :6
+Desde 1:12:34 hasta 1:12:36 la diferencia en segundos es :2
+Desde 1:12:36 hasta 1:12:38 la diferencia en segundos es :2
+Desde 1:12:38 hasta 1:12:45 la diferencia en segundos es :7
+Desde 1:12:45 hasta 1:12:46 la diferencia en segundos es :1
+Desde 1:12:46 hasta 1:12:47 la diferencia en segundos es :1
+Desde 1:12:47 hasta 1:12:51 la diferencia en segundos es :4
+Desde 1:12:51 hasta 1:12:56 la diferencia en segundos es :5
+Desde 1:12:56 hasta 1:12:58 la diferencia en segundos es :2
+Desde 1:12:58 hasta 1:12:59 la diferencia en segundos es :1
+Desde 1:12:59 hasta 1:13:00 la diferencia en segundos es :61
+Desde 1:13:00 hasta 1:13:03 la diferencia en segundos es :3
+Desde 1:13:03 hasta 1:13:04 la diferencia en segundos es :1
+Desde 1:13:04 hasta 1:13:05 la diferencia en segundos es :1
+Desde 1:13:05 hasta 1:13:08 la diferencia en segundos es :3
+Desde 1:13:08 hasta 1:13:11 la diferencia en segundos es :3
+Desde 1:13:11 hasta 1:13:15 la diferencia en segundos es :4
+Desde 1:13:15 hasta 1:13:29 la diferencia en segundos es :14
+Desde 1:13:29 hasta 1:13:37 la diferencia en segundos es :8
+Desde 1:13:37 hasta 1:13:56 la diferencia en segundos es :19
+Desde 1:13:56 hasta 1:14:07 la diferencia en segundos es :71
+Desde 1:14:07 hasta 1:14:10 la diferencia en segundos es :3
+Desde 1:14:10 hasta 1:14:20 la diferencia en segundos es :10
+Desde 1:14:20 hasta 1:14:23 la diferencia en segundos es :3
+Desde 1:14:23 hasta 1:14:27 la diferencia en segundos es :4
+Desde 1:14:27 hasta 1:14:31 la diferencia en segundos es :4
+Desde 1:14:31 hasta 1:14:31 la diferencia en segundos es :0
