@@ -3,9 +3,10 @@ import sys, os
 if os.path.isfile('./copia02.txt'):
 	os.remove('./copia02.txt')
 
-original = open('../nuevo/mavir02_new6.txt','r')
+mavir = input('De que documento desea recopilar las horas: ')
+original = open('../nuevo/mavir0'+mavir+'/mavir0'+mavir+'_new6.txt','r')
 
-nuevo = open('./copia02.txt','w')
+nuevo = open('./horas0'+mavir+'.txt','w')
 
 while 1:
 	char = original.read(1)

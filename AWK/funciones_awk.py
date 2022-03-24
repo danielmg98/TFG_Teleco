@@ -128,15 +128,16 @@ def diferencia_segundos(inicio,fin,nuevo):
 			
 
 	
-	nuevo.write(' la diferencia en segundos es :'+ str(dif_sec)+'\n')
+	nuevo.write(' '+str(dif_sec))
 
 
 
 
 
-def calcular_duracion(horas1,horas2,nuevo):
+def calcular_duracion(horas1,horas2,nuevo,mavir):
 	
 	line2 = horas2.readline()
+	k = 1
 	while 1:
 		
 		line = horas1.readline()
@@ -153,11 +154,12 @@ def calcular_duracion(horas1,horas2,nuevo):
 						time2 = nextline[0:j]
 					j=j+1
 				
-				nuevo.write('Desde '+time+' hasta '+time2)
+				nuevo.write('mavir0'+mavir+'.wav '+time)
 				diferencia_segundos(time,time2,nuevo)
+				nuevo.write(' mavir0'+mavir+'_'+str(k)+'.wav\n')
 			i = i+1 
 
-	
+		k = k+1
 
 
 '''
