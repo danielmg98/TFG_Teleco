@@ -67,6 +67,8 @@ def eliminar_especiales(original, nuevo):
 			pass
 		elif char == "#":
 			pass
+		elif char == "¬":
+			pass
 		else:
 			nuevo.write(char)
 
@@ -196,6 +198,7 @@ def formato_htk(original,nuevo,i):
 		if not line:
 			break
 		if line[0] == '.':
+			nuevo.write(line)
 			nuevo.write('*/mavir0'+i+'_'+str(j)+'.lab\n')
 			j = j+1
 		else:

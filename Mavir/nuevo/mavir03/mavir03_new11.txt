@@ -3,14 +3,17 @@
 muchas
 gracias
 Julio
+.
 */mavir03_2.lab
 buenos
 días
+.
 */mavir03_3.lab
 Adolfo
 Corujo
 León
 Dilbert
+.
 */mavir03_4.lab
 para
 qué
@@ -18,6 +21,7 @@ le
 diría
 que
 improvisara
+.
 */mavir03_5.lab
 podía
 haber
@@ -30,6 +34,7 @@ hubiera
 dado
 las
 líneas
+.
 */mavir03_6.lab
 quiero
 agradecer
@@ -46,6 +51,7 @@ en
 esta
 jornada
 MAVIR
+.
 */mavir03_7.lab
 que
 además
@@ -69,6 +75,7 @@ retos
 y
 mercados
 potenciales
+.
 */mavir03_8.lab
 para
 un
@@ -83,6 +90,7 @@ de
 los
 mercados
 potenciales
+.
 */mavir03_9.lab
 o
 sea
@@ -108,6 +116,7 @@ estaba
 preparando
 esta
 charla
+.
 */mavir03_10.lab
 y
 ayer
@@ -133,13 +142,16 @@ ha
 ayudado
 a
 cambiar
+.
 */mavir03_11.lab
 y
 es
 mercado
 potencial
+.
 */mavir03_12.lab
 fijaos
+.
 */mavir03_13.lab
 estaba
 hablando
@@ -179,6 +191,7 @@ audiencia
 que
 es
 Google
+.
 */mavir03_14.lab
 y
 aún
@@ -191,6 +204,7 @@ long
 way
 from
 that
+.
 */mavir03_15.lab
 y
 lo
@@ -199,6 +213,7 @@ dentro
 de
 sus
 objetivos
+.
 */mavir03_16.lab
 dice
 todavía
@@ -207,6 +222,7 @@ queda
 muchísimo
 por
 recorrer
+.
 */mavir03_17.lab
 pues
 fijaos
@@ -214,6 +230,7 @@ si
 hay
 mercado
 potencial
+.
 */mavir03_18.lab
 tenemos
 un
@@ -222,6 +239,7 @@ mercado
 potencial
 por
 delante
+.
 */mavir03_19.lab
 y
 me
@@ -233,6 +251,7 @@ charla
 de
 un
 ejemplo
+.
 */mavir03_20.lab
 que
 a
@@ -249,6 +268,7 @@ pido
 que
 que
 escuchéis
+.
 */mavir03_21.lab
 y
 es
@@ -284,6 +304,7 @@ una
 tesis
 muy
 interesante
+.
 */mavir03_22.lab
 decía
 que
@@ -303,6 +324,7 @@ a
 un
 solo
 hecho
+.
 */mavir03_23.lab
 al
 hecho
@@ -326,12 +348,14 @@ intentaron
 venderles
 su
 música
+.
 */mavir03_24.lab
 y
 les
 denegó
 el
 contrato
+.
 */mavir03_25.lab
 inmediatamente
 les
@@ -351,6 +375,7 @@ y
 fueron
 los
 Beatles
+.
 */mavir03_26.lab
 y
 claro
@@ -385,6 +410,7 @@ decía
 grábame
 un
 disco
+.
 */mavir03_27.lab
 dicen
 a
@@ -395,6 +421,7 @@ son
 otros
 nuevos
 Beatles
+.
 */mavir03_28.lab
 y
 me
@@ -402,6 +429,7 @@ puedo
 forrar
 con
 ellos
+.
 */mavir03_29.lab
 llevado
 al
@@ -455,11 +483,13 @@ planteas
 hay
 mercado
 potencial
+.
 */mavir03_30.lab
 hay
 mucho
 mercado
 potencial
+.
 */mavir03_31.lab
 y
 estamos
@@ -499,6 +529,7 @@ por
 el
 desarrollo
 tecnológico
+.
 */mavir03_32.lab
 eso
 es
@@ -507,6 +538,7 @@ que
 yo
 me
 planteaba
+.
 */mavir03_33.lab
 hoy
 en
@@ -538,6 +570,7 @@ un
 importante
 mercado
 potencial
+.
 */mavir03_34.lab
 y
 vamos
@@ -553,6 +586,7 @@ acerca
 de
 esas
 oportunidades
+.
 */mavir03_35.lab
 yo
 trabajo
@@ -571,6 +605,7 @@ una
 oportunidad
 de
 negocio
+.
 */mavir03_36.lab
 y
 además
@@ -613,6 +648,7 @@ tecnología
 que
 nos
 gusta
+.
 */mavir03_37.lab
 así
 que
@@ -642,12 +678,14 @@ oportunidad
 para
 la
 tecnología
+.
 */mavir03_38.lab
 bien
 vamos
 con
 la
 económica
+.
 */mavir03_39.lab
 hoy
 en
@@ -657,6 +695,7 @@ más
 o
 menos
 redondas
+.
 */mavir03_40.lab
 el
 ocho
@@ -675,10 +714,12 @@ del
 mundo
 son
 hispanohablantes
+.
 */mavir03_41.lab
 unos
 ochenta
 millones
+.
 */mavir03_42.lab
 pueden
 ser
@@ -697,6 +738,7 @@ de
 internautas
 son
 hispanohablantes
+.
 */mavir03_43.lab
 además
 estamos
@@ -709,6 +751,7 @@ del
 chino
 del
 inglés
+.
 */mavir03_44.lab
 pero
 se
@@ -718,6 +761,7 @@ una
 casuística
 una
 casualidad
+.
 */mavir03_45.lab
 el
 japonés
@@ -738,6 +782,7 @@ y
 siete
 por
 ciento
+.
 */mavir03_46.lab
 su
 capacidad
@@ -752,6 +797,7 @@ Internet
 se
 ha
 ralentizado
+.
 */mavir03_47.lab
 ya
 tienen
@@ -764,7 +810,9 @@ tecnología
 en
 su
 país
+.
 */mavir03_48.lab
+.
 */mavir03_49.lab
 la
 gente
@@ -784,6 +832,7 @@ del
 veintisiete
 por
 ciento
+.
 */mavir03_50.lab
 que
 es
@@ -795,6 +844,7 @@ todavía
 bajo
 pero
 importante
+.
 */mavir03_51.lab
 sin
 embargo
@@ -809,10 +859,12 @@ por
 ciento
 de
 Internet
+.
 */mavir03_52.lab
 qué
 quiere
 decir
+.
 */mavir03_53.lab
 que
 tenemos
@@ -837,6 +889,7 @@ del
 veintisiete
 por
 ciento
+.
 */mavir03_54.lab
 si
 lo
@@ -901,6 +954,7 @@ hispanohablantes
 en
 el
 mundo
+.
 */mavir03_55.lab
 si
 incorporamos
@@ -917,6 +971,7 @@ un
 salto
 muy
 parecido
+.
 */mavir03_56.lab
 podemos
 pasar
@@ -936,6 +991,7 @@ por
 ciento
 de
 penetración
+.
 */mavir03_57.lab
 también
 tienen
@@ -947,6 +1003,7 @@ tremendo
 a
 nivel
 idiomático
+.
 */mavir03_58.lab
 o
 sea
@@ -963,6 +1020,7 @@ lenguas
 de
 nuevos
 internautas
+.
 */mavir03_59.lab
 el
 tema
@@ -971,6 +1029,7 @@ los
 contenidos
 en
 español
+.
 */mavir03_60.lab
 quién
 quién
@@ -982,6 +1041,7 @@ en
 Internet
 en
 español
+.
 */mavir03_61.lab
 eso
 es
@@ -1008,6 +1068,7 @@ que
 no
 coincide
 ninguno
+.
 */mavir03_62.lab
 pero
 más
@@ -1038,6 +1099,7 @@ el
 cinco
 por
 ciento
+.
 */mavir03_63.lab
 más
 o
@@ -1045,6 +1107,7 @@ menos
 más
 o
 menos
+.
 */mavir03_64.lab
 yo
 apuesto
@@ -1069,6 +1132,7 @@ puede
 servir
 de
 base
+.
 */mavir03_65.lab
 evidentemente
 hay
@@ -1083,6 +1147,7 @@ en
 en
 el
 mundo
+.
 */mavir03_66.lab
 pues
 por
@@ -1093,6 +1158,7 @@ el
 alemán
 el
 francés
+.
 */mavir03_67.lab
 y
 ahora
@@ -1105,6 +1171,7 @@ los
 motores
 de
 búsqueda
+.
 */mavir03_68.lab
 el
 noventa
@@ -1129,6 +1196,7 @@ hacen
 a
 un
 motor
+.
 */mavir03_69.lab
 ha
 estado
@@ -1143,6 +1211,7 @@ o
 noventa
 y
 nueve
+.
 */mavir03_70.lab
 somos
 el
@@ -1163,9 +1232,11 @@ el
 uso
 de
 Google
+.
 */mavir03_71.lab
 es
 curioso
+.
 */mavir03_72.lab
 no
 quiere
@@ -1182,6 +1253,7 @@ resto
 de
 los
 países
+.
 */mavir03_73.lab
 es
 que
@@ -1200,6 +1272,7 @@ dos
 o
 tres
 buscadores
+.
 */mavir03_74.lab
 siempre
 Google
@@ -1209,6 +1282,7 @@ buscadores
 para
 hacer
 consulta
+.
 */mavir03_75.lab
 sin
 embargo
@@ -1224,6 +1298,7 @@ primero
 utilizo
 básicamente
 Google
+.
 */mavir03_76.lab
 y
 pocas
@@ -1237,6 +1312,7 @@ cuando
 hago
 una
 búsqueda
+.
 */mavir03_77.lab
 este
 año
@@ -1261,6 +1337,7 @@ que
 estaría
 en
 castellano
+.
 */mavir03_78.lab
 y
 estuvimos
@@ -1280,6 +1357,7 @@ el
 francés
 el
 alemán
+.
 */mavir03_79.lab
 mediante
 tablas
@@ -1291,6 +1369,7 @@ de
 frecuencias
 de
 términos
+.
 */mavir03_80.lab
 unas
 pruebas
@@ -1306,6 +1385,7 @@ de
 contenidos
 en
 castellano
+.
 */mavir03_81.lab
 nos
 salían
@@ -1325,6 +1405,7 @@ por
 ciento
 del
 índice
+.
 */mavir03_82.lab
 yo
 he
@@ -1336,6 +1417,7 @@ por
 poner
 el
 dos
+.
 */mavir03_83.lab
 era
 una
@@ -1347,12 +1429,14 @@ manteniendo
 hoy
 en
 día
+.
 */mavir03_84.lab
 está
 aproximadamente
 en
 esas
 cifras
+.
 */mavir03_85.lab
 claro
 si
@@ -1370,6 +1454,7 @@ del
 mundo
 son
 hispanohablantes
+.
 */mavir03_86.lab
 el
 cuatro
@@ -1383,6 +1468,7 @@ contenidos
 están
 en
 castellano
+.
 */mavir03_87.lab
 y
 el
@@ -1403,6 +1489,7 @@ de
 de
 no
 proporción
+.
 */mavir03_88.lab
 parece
 que
@@ -1418,6 +1505,7 @@ contenidos
 a
 su
 disposición
+.
 */mavir03_89.lab
 y
 además
@@ -1447,12 +1535,14 @@ inglés
 dentro
 de
 Internet
+.
 */mavir03_90.lab
 voy
 a
 ponemos
 un
 caso
+.
 */mavir03_91.lab
 un
 caso
@@ -1483,11 +1573,13 @@ que
 pasa
 en
 Internet
+.
 */mavir03_92.lab
 es
 el
 caso
 Picasso
+.
 */mavir03_93.lab
 Picasso
 es
@@ -1501,6 +1593,7 @@ país
 en
 la
 red
+.
 */mavir03_94.lab
 o
 sea
@@ -1527,6 +1620,7 @@ más
 busca
 es
 Picasso
+.
 */mavir03_95.lab
 se
 supera
@@ -1535,6 +1629,7 @@ cualquier
 otro
 icono
 cultural
+.
 */mavir03_96.lab
 es
 verdad
@@ -1547,6 +1642,7 @@ muy
 ligado
 a
 Europa
+.
 */mavir03_97.lab
 es
 es
@@ -1561,6 +1657,7 @@ significativo
 del
 siglo
 veinte
+.
 */mavir03_98.lab
 y
 que
@@ -1569,6 +1666,7 @@ siempre
 está
 de
 actualidad
+.
 */mavir03_99.lab
 y
 de
@@ -1588,6 +1686,7 @@ tiene
 en
 la
 red
+.
 */mavir03_100.lab
 cuando
 le
@@ -1620,6 +1719,7 @@ el
 que
 uso
 habitualmente
+.
 */mavir03_101.lab
 cuando
 le
@@ -1657,6 +1757,7 @@ y
 cinco
 mil
 documentos
+.
 */mavir03_102.lab
 eh
 vamos
@@ -1666,6 +1767,7 @@ estoy
 en
 la
 universidad
+.
 */mavir03_103.lab
 esos
 documentos
@@ -1701,6 +1803,7 @@ a
 doscientos
 mil
 
+.
 */mavir03_104.lab
 estas
 tres
@@ -1711,6 +1814,7 @@ en
 el
 mismo
 momento
+.
 */mavir03_105.lab
 para
 más
@@ -1719,6 +1823,7 @@ menos
 conservar
 la
 proporción
+.
 */mavir03_106.lab
 cuatrocientos
 setenta
@@ -1726,6 +1831,7 @@ y
 cinco
 mil
 documentos
+.
 */mavir03_107.lab
 si
 le
@@ -1774,6 +1880,7 @@ millones
 quinientos
 noventa
 mil
+.
 */mavir03_108.lab
 hay
 más
@@ -1787,9 +1894,11 @@ Picasso
 que
 en
 castellano
+.
 */mavir03_109.lab
 parece
 evidente
+.
 */mavir03_110.lab
 si
 hacemos
@@ -1826,6 +1935,7 @@ de
 Picasso
 en
 castellano
+.
 */mavir03_111.lab
 la
 pregunta
@@ -1866,15 +1976,18 @@ contengan
 la
 palabra
 Picasso
+.
 */mavir03_112.lab
 y
 hacíamos
 una
 pequeña
 prueba
+.
 */mavir03_113.lab
 dice
 no
+.
 */mavir03_114.lab
 un
 ejemplo
@@ -1882,6 +1995,7 @@ en
 el
 Instituto
 Cervantes
+.
 */mavir03_115.lab
 cogemos
 el
@@ -1912,6 +2026,7 @@ tengan
 la
 palabra
 Picasso
+.
 */mavir03_116.lab
 el
 Instituto
@@ -1922,12 +2037,14 @@ York
 en
 su
 portal
+.
 */mavir03_117.lab
 y
 Google
 nos
 contesta
 ninguno
+.
 */mavir03_118.lab
 sin
 embargo
@@ -1948,6 +2065,7 @@ que
 ochenta
 y
 siete
+.
 */mavir03_119.lab
 así
 que
@@ -1970,22 +2088,26 @@ de
 Picasso
 en
 Internet
+.
 */mavir03_120.lab
 que
 Google
 no
 tenía
 reconocidos
+.
 */mavir03_121.lab
 es
 un
 problema
 de
 Google
+.
 */mavir03_122.lab
 no
 qué
 va
+.
 */mavir03_123.lab
 es
 un
@@ -1996,6 +2118,7 @@ lugar
 del
 Instituto
 Cervantes
+.
 */mavir03_124.lab
 y
 en
@@ -2031,6 +2154,7 @@ contenidos
 acerca
 de
 Picasso
+.
 */mavir03_125.lab
 que
 es
@@ -2046,6 +2170,7 @@ que
 más
 podemos
 extraer
+.
 */mavir03_126.lab
 imaginaos
 lo
@@ -2066,6 +2191,7 @@ por
 turismo
 en
 Málaga
+.
 */mavir03_127.lab
 o
 en
@@ -2098,6 +2224,7 @@ ejemplo
 en
 Nueva
 York
+.
 */mavir03_128.lab
 pero
 claro
@@ -2121,34 +2248,41 @@ contenidos
 indexados
 por
 Google
+.
 */mavir03_129.lab
 esto
 es
 un
 pequeño
 problema
+.
 */mavir03_130.lab
 por
 cierto
 no
 los
 tenía
+.
 */mavir03_131.lab
 ya
 lo
 ha
 subsanado
+.
 */mavir03_132.lab
 esto
 era
 un
 ejemplo
 tramposo
+.
 */mavir03_133.lab
+.
 */mavir03_134.lab
 esto
 está
 resuelto
+.
 */mavir03_135.lab
 cuando
 nos
@@ -2167,6 +2301,7 @@ montón
 diferente
 de
 alternativas
+.
 */mavir03_136.lab
 yo
 ya
@@ -2178,6 +2313,7 @@ mencionar
 cuatro
 teorías
 fundamentales
+.
 */mavir03_137.lab
 dice
 bueno
@@ -2207,6 +2343,7 @@ los
 contenidos
 en
 castellano
+.
 */mavir03_138.lab
 yo
 soy
@@ -2231,6 +2368,7 @@ los
 contenidos
 en
 castellano
+.
 */mavir03_139.lab
 pero
 he
@@ -2241,6 +2379,7 @@ un
 montón
 de
 foros
+.
 */mavir03_140.lab
 así
 que
@@ -2262,8 +2401,10 @@ el
 cuarenta
 por
 ciento
+.
 */mavir03_141.lab
 bah
+.
 */mavir03_142.lab
 vamos
 a
@@ -2272,30 +2413,36 @@ de
 ahí
 esas
 pajas
+.
 */mavir03_143.lab
 pues
 cuarenta
 por
 ciento
+.
 */mavir03_144.lab
 no
 pasa
 nada
+.
 */mavir03_145.lab
 dice
 por
 qué
+.
 */mavir03_146.lab
 en
 primer
 lugar
 teorías
+.
 */mavir03_147.lab
 será
 por
 su
 capacidad
 tecnológica
+.
 */mavir03_148.lab
 dice
 hombre
@@ -2317,6 +2464,7 @@ a
 un
 problema
 importante
+.
 */mavir03_149.lab
 en
 primer
@@ -2331,6 +2479,7 @@ los
 contenidos
 en
 Internet
+.
 */mavir03_150.lab
 crecen
 a
@@ -2349,6 +2498,7 @@ pueda
 seguir
 ese
 ritmo
+.
 */mavir03_151.lab
 aquí
 os
@@ -2364,6 +2514,7 @@ antes
 de
 Nick
 Cohn
+.
 */mavir03_152.lab
 yo
 escuché
@@ -2376,6 +2527,7 @@ me
 quedó
 absolutamente
 clavada
+.
 */mavir03_153.lab
 decía
 siempre
@@ -2392,6 +2544,7 @@ descubra
 una
 nueva
 estrella
+.
 */mavir03_154.lab
 pero
 es
@@ -2405,6 +2558,7 @@ que
 la
 circunde
 completa
+.
 */mavir03_155.lab
 y
 yo
@@ -2413,6 +2567,7 @@ esto
 esto
 tiene
 alcance
+.
 */mavir03_156.lab
 en
 Internet
@@ -2420,6 +2575,7 @@ nos
 pasa
 lo
 mismo
+.
 */mavir03_157.lab
 es
 fácil
@@ -2432,6 +2588,7 @@ información
 todos
 los
 días
+.
 */mavir03_158.lab
 pero
 es
@@ -2450,6 +2607,7 @@ se
 produce
 en
 Internet
+.
 */mavir03_159.lab
 es
 casi
@@ -2464,6 +2622,7 @@ propio
 movimiento
 de
 Internet
+.
 */mavir03_160.lab
 por
 no
@@ -2473,12 +2632,14 @@ es
 casi
 hasta
 peligroso
+.
 */mavir03_161.lab
 pero
 por
 lo
 menos
 contrario
+.
 */mavir03_162.lab
 así
 que
@@ -2489,6 +2650,7 @@ el
 ritmo
 de
 crecimiento
+.
 */mavir03_163.lab
 el
 otro
@@ -2499,6 +2661,7 @@ web
 visible
 e
 invisible
+.
 */mavir03_164.lab
 no
 toda
@@ -2516,6 +2679,7 @@ un
 motor
 de
 búsqueda
+.
 */mavir03_165.lab
 hacíais
 una
@@ -2524,11 +2688,13 @@ que
 era
 muy
 interesante
+.
 */mavir03_166.lab
 la
 el
 posicionamiento
 SEO
+.
 */mavir03_167.lab
 puede
 que
@@ -2552,6 +2718,7 @@ accesible
 para
 la
 gente
+.
 */mavir03_168.lab
 se
 puede
@@ -2565,6 +2732,7 @@ que
 era
 muy
 interesante
+.
 */mavir03_169.lab
 y
 es
@@ -2593,6 +2761,7 @@ el
 patrón
 de
 Google
+.
 */mavir03_170.lab
 porque
 como
@@ -2606,11 +2775,13 @@ se
 resuelve
 tu
 problema
+.
 */mavir03_171.lab
 y
 eso
 es
 verdad
+.
 */mavir03_172.lab
 han
 creado
@@ -2622,6 +2793,7 @@ que
 hay
 que
 cumplir
+.
 */mavir03_173.lab
 y
 si
@@ -2632,17 +2804,20 @@ estás
 fuera
 de
 juego
+.
 */mavir03_174.lab
 es
 un
 importante
 tema
+.
 */mavir03_175.lab
 y
 luego
 está
 el
 spam
+.
 */mavir03_176.lab
 que
 es
@@ -2675,12 +2850,14 @@ posicionar
 mejor
 los
 contenidos
+.
 */mavir03_177.lab
 podemos
 seguir
 con
 factores
 tecnológicos
+.
 */mavir03_178.lab
 el
 hecho
@@ -2706,6 +2883,7 @@ de
 los
 contenidos
 indexados
+.
 */mavir03_179.lab
 puede
 intentar
@@ -2722,6 +2900,7 @@ superar
 para
 poder
 conseguirlo
+.
 */mavir03_180.lab
 la
 segunda
@@ -2741,12 +2920,14 @@ esa
 me
 gusta
 mucho
+.
 */mavir03_181.lab
 que
 es
 la
 facilidad
 lingüística
+.
 */mavir03_182.lab
 es
 cierto
@@ -2792,6 +2973,7 @@ del
 resto
 del
 mundo
+.
 */mavir03_183.lab
 y
 claro
@@ -2846,6 +3028,7 @@ de
 los
 otros
 idiomas
+.
 */mavir03_184.lab
 porque
 los
@@ -2874,10 +3057,12 @@ segunda
 lengua
 el
 inglés
+.
 */mavir03_185.lab
 son
 teorías
 apasionantes
+.
 */mavir03_186.lab
 no
 me
@@ -2886,6 +3071,7 @@ que
 no
 tiene
 miga
+.
 */mavir03_187.lab
 intentad
 discutir
@@ -2900,6 +3086,7 @@ o
 no
 es
 cierto
+.
 */mavir03_188.lab
 la
 tercera
@@ -2922,6 +3109,7 @@ es
 razones
 de
 negocio
+.
 */mavir03_189.lab
 hay
 una
@@ -2929,6 +3117,7 @@ cosa
 que
 es
 evidente
+.
 */mavir03_190.lab
 si
 Google
@@ -2981,14 +3170,17 @@ mismo
 tiene
 en
 Latinoamérica
+.
 */mavir03_191.lab
 de
 momento
 la
 desprecia
+.
 */mavir03_192.lab
 por
 qué
+.
 */mavir03_193.lab
 vamos
 al
@@ -2996,6 +3188,7 @@ caso
 de
 nuestro
 país
+.
 */mavir03_194.lab
 en
 nuestro
@@ -3025,6 +3218,7 @@ en
 motores
 de
 búsqueda
+.
 */mavir03_195.lab
 en
 Estados
@@ -3069,6 +3263,7 @@ va
 a
 medios
 online
+.
 */mavir03_196.lab
 del
 cual
@@ -3090,6 +3285,7 @@ a
 motores
 de
 búsqueda
+.
 */mavir03_197.lab
 es
 tremendamente
@@ -3106,6 +3302,7 @@ búsqueda
 en
 Estados
 Unidos
+.
 */mavir03_198.lab
 y
 sin
@@ -3115,6 +3312,7 @@ nuestro
 país
 es
 paupérrimo
+.
 */mavir03_199.lab
 cuando
 hablas
@@ -3139,6 +3337,7 @@ en
 motores
 de
 búsqueda
+.
 */mavir03_200.lab
 coge
 McCann
@@ -3150,6 +3349,7 @@ a
 ver
 una
 cosa
+.
 */mavir03_201.lab
 yo
 muevo
@@ -3180,6 +3380,7 @@ en
 toda
 la
 inversión
+.
 */mavir03_202.lab
 que
 yo
@@ -3195,16 +3396,19 @@ clientes
 publicidad
 en
 motores
+.
 */mavir03_203.lab
 hombre
 no
 fastidies
+.
 */mavir03_204.lab
 sólo
 si
 me
 lo
 piden
+.
 */mavir03_205.lab
 pero
 me
@@ -3213,6 +3417,7 @@ tienen
 que
 pedir
 mucho
+.
 */mavir03_206.lab
 tengo
 que
@@ -3221,6 +3426,7 @@ en
 publicidad
 en
 televisión
+.
 */mavir03_207.lab
 que
 es
@@ -3229,6 +3435,7 @@ le
 saco
 más
 dinero
+.
 */mavir03_208.lab
 donde
 le
@@ -3237,12 +3444,14 @@ que
 vender
 las
 campañas
+.
 */mavir03_209.lab
 va
 por
 ahí
 el
 tema
+.
 */mavir03_210.lab
 claro
 eso
@@ -3271,6 +3480,7 @@ es
 la
 lengua
 inglesa
+.
 */mavir03_211.lab
 otra
 teoría
@@ -3279,6 +3489,7 @@ daría
 para
 discutir
 mucho
+.
 */mavir03_212.lab
 porque
 claro
@@ -3297,9 +3508,11 @@ este
 tipo
 de
 motores
+.
 */mavir03_213.lab
 es
 verdad
+.
 */mavir03_214.lab
 le
 decía
@@ -3328,6 +3541,7 @@ intentar
 mejorar
 el
 mundo
+.
 */mavir03_215.lab
 es
 que
@@ -3345,16 +3559,19 @@ ve
 fatal
 por
 ahí
+.
 */mavir03_216.lab
 para
 qué
 intentas
 engañarme
+.
 */mavir03_217.lab
 me
 estás
 vendiendo
 algo
+.
 */mavir03_218.lab
 me
 metes
@@ -3364,6 +3581,7 @@ hasta
 en
 la
 sopa
+.
 */mavir03_219.lab
 la
 cuarta
@@ -3376,6 +3594,7 @@ me
 preocupa
 a
 mí
+.
 */mavir03_220.lab
 que
 es
@@ -3389,6 +3608,7 @@ nuestros
 espacios
 en
 Internet
+.
 */mavir03_221.lab
 desde
 luego
@@ -3439,6 +3659,7 @@ de
 momento
 que
 esté
+.
 */mavir03_222.lab
 porque
 si
@@ -3446,6 +3667,7 @@ no
 no
 es
 accesible
+.
 */mavir03_223.lab
 puede
 que
@@ -3463,6 +3685,7 @@ visible
 para
 ningún
 usuario
+.
 */mavir03_224.lab
 es
 cierto
@@ -3476,6 +3699,7 @@ inmadurez
 en
 Internet
 importante
+.
 */mavir03_225.lab
 en
 SEO
@@ -3484,6 +3708,7 @@ tienes
 que
 estar
 viendo
+.
 */mavir03_226.lab
 los
 pasos
@@ -3494,6 +3719,7 @@ se
 dan
 muy
 atrás
+.
 */mavir03_227.lab
 la
 web
@@ -3518,12 +3744,14 @@ de
 los
 países
 occidentales
+.
 */mavir03_228.lab
 y
 este
 es
 un
 problema
+.
 */mavir03_229.lab
 porque
 los
@@ -3538,6 +3766,7 @@ no
 les
 pueden
 indexar
+.
 */mavir03_230.lab
 porque
 nos
@@ -3553,10 +3782,12 @@ pero
 muy
 poco
 útiles
+.
 */mavir03_231.lab
 muy
 poco
 rastreables
+.
 */mavir03_232.lab
 escuchaba
 a
@@ -3588,6 +3819,7 @@ tuvo
 una
 semana
 pensando
+.
 */mavir03_233.lab
 dice
 pero
@@ -3623,6 +3855,7 @@ ordenador
 en
 su
 despacho
+.
 */mavir03_234.lab
 claro
 en
@@ -3651,6 +3884,7 @@ pero
 no
 tienen
 ordenador
+.
 */mavir03_235.lab
 explícale
 tú
@@ -3670,12 +3904,14 @@ corporativa
 útil
 y
 rastreable
+.
 */mavir03_236.lab
 je
 si
 es
 casi
 imposible
+.
 */mavir03_237.lab
 el
 otro
@@ -3696,6 +3932,7 @@ que
 era
 muy
 curiosa
+.
 */mavir03_238.lab
 me
 decía
@@ -3708,6 +3945,7 @@ es
 la
 información
 bursátil
+.
 */mavir03_239.lab
 decía
 claro
@@ -3735,12 +3973,14 @@ hace
 diez
 años
 pues
+.
 */mavir03_240.lab
 probablemente
 no
 lo
 veas
 no
+.
 */mavir03_241.lab
 así
 que
@@ -3758,12 +3998,14 @@ nuestros
 espacios
 en
 Internet
+.
 */mavir03_242.lab
 qué
 significa
 el
 caso
 Picasso
+.
 */mavir03_243.lab
 bueno
 el
@@ -3790,6 +4032,7 @@ la
 información
 está
 oculta
+.
 */mavir03_244.lab
 no
 no
@@ -3798,6 +4041,7 @@ tenemos
 acceso
 a
 ella
+.
 */mavir03_245.lab
 cuando
 buscamos
@@ -3815,6 +4059,7 @@ información
 no
 está
 rastreada
+.
 */mavir03_246.lab
 como
 no
@@ -3834,6 +4079,7 @@ podemos
 acceder
 a
 ella
+.
 */mavir03_247.lab
 esto
 en
@@ -3897,6 +4143,7 @@ se
 va
 al
 garete
+.
 */mavir03_248.lab
 porque
 no
@@ -3904,12 +4151,14 @@ les
 vale
 para
 nada
+.
 */mavir03_249.lab
 porque
 no
 logran
 estar
 indexados
+.
 */mavir03_250.lab
 os
 pongo
@@ -3921,6 +4170,7 @@ SEO
 del
 mundo
 SEO
+.
 */mavir03_251.lab
 haciendo
 una
@@ -3953,6 +4203,7 @@ una
 cosa
 muy
 curiosa
+.
 */mavir03_252.lab
 y
 es
@@ -3994,6 +4245,7 @@ hablando
 de
 la
 opa
+.
 */mavir03_253.lab
 aunque
 en
@@ -4007,6 +4259,7 @@ hablando
 de
 la
 opa
+.
 */mavir03_254.lab
 y
 sin
@@ -4024,6 +4277,7 @@ en
 los
 tres
 idiomas
+.
 */mavir03_255.lab
 EON
 estaba
@@ -4032,6 +4286,7 @@ su
 apuesta
 en
 Internet
+.
 */mavir03_256.lab
 y
 sin
@@ -4043,6 +4298,7 @@ perdiendo
 una
 gran
 oportunidad
+.
 */mavir03_257.lab
 también
 es
@@ -4074,6 +4330,7 @@ y
 seis
 por
 Google
+.
 */mavir03_258.lab
 un
 problema
@@ -4083,16 +4340,19 @@ claro
 de
 su
 web
+.
 */mavir03_259.lab
 por
 cierto
 un
 flash
 precioso
+.
 */mavir03_260.lab
 una
 cosa
 preciosa
+.
 */mavir03_261.lab
 España
 hoy
@@ -4110,6 +4370,7 @@ de
 oro
 en
 Internet
+.
 */mavir03_262.lab
 la
 tiene
@@ -4124,6 +4385,7 @@ mundial
 en
 este
 espacio
+.
 */mavir03_263.lab
 si
 yo
@@ -4169,6 +4431,7 @@ importante
 incremento
 somos
 nosotros
+.
 */mavir03_264.lab
 tenemos
 un
@@ -4221,6 +4484,7 @@ crecimiento
 tremendo
 por
 delante
+.
 */mavir03_265.lab
 sabes
 quién
@@ -4230,12 +4494,15 @@ aprovechando
 de
 este
 mercado
+.
 */mavir03_266.lab
 los
 mexicanos
+.
 */mavir03_267.lab
 qué
 tíos
+.
 */mavir03_268.lab
 han
 visto
@@ -4265,11 +4532,13 @@ alto
 que
 el
 español
+.
 */mavir03_269.lab
 se
 han
 dado
 cuenta
+.
 */mavir03_270.lab
 es
 cierto
@@ -4281,6 +4550,7 @@ muy
 cercana
 la
 frontera
+.
 */mavir03_271.lab
 pero
 ahora
@@ -4288,6 +4558,7 @@ separada
 por
 un
 muro
+.
 */mavir03_272.lab
 es
 que
@@ -4295,6 +4566,7 @@ no
 me
 podía
 resistir
+.
 */mavir03_273.lab
 también
 además
@@ -4314,6 +4586,7 @@ mayor
 consumo
 en
 contenidos
+.
 */mavir03_274.lab
 la
 cultura
@@ -4341,6 +4614,7 @@ en
 el
 último
 año
+.
 */mavir03_275.lab
 y
 en
@@ -4355,6 +4629,7 @@ a
 decir
 del
 turismo
+.
 */mavir03_276.lab
 si
 todos
@@ -4367,6 +4642,7 @@ cosita
 en
 en
 Internet
+.
 */mavir03_277.lab
 pues
 España
@@ -4374,12 +4650,14 @@ es
 una
 potencia
 turística
+.
 */mavir03_278.lab
 y
 es
 una
 potencia
 cultural
+.
 */mavir03_279.lab
 deberíamos
 a
@@ -4387,12 +4665,14 @@ lo
 mejor
 poder
 aprovecharlo
+.
 */mavir03_280.lab
 cómo
 podemos
 aprovechar
 este
 escenario
+.
 */mavir03_281.lab
 en
 primer
@@ -4414,6 +4694,7 @@ acceso
 a
 los
 contenidos
+.
 */mavir03_282.lab
 tanto
 los
@@ -4434,6 +4715,7 @@ iconos
 culturales
 y
 sociales
+.
 */mavir03_283.lab
 debemos
 mejorar
@@ -4444,6 +4726,7 @@ nuestra
 presencia
 en
 Internet
+.
 */mavir03_284.lab
 debemos
 abrir
@@ -4480,6 +4763,7 @@ día
 la
 web
 social
+.
 */mavir03_285.lab
 es
 verdad
@@ -4500,6 +4784,7 @@ nuestros
 idiomas
 de
 referencia
+.
 */mavir03_286.lab
 tenemos
 la
@@ -4516,6 +4801,7 @@ debemos
 explotar
 esa
 posibilidad
+.
 */mavir03_287.lab
 además
 debemos
@@ -4533,6 +4819,7 @@ acerca
 de
 los
 internautas
+.
 */mavir03_288.lab
 esto
 lo
@@ -4548,6 +4835,7 @@ principio
 podemos
 grabar
 la
+.
 */mavir03_289.lab
 jope
 pues
@@ -4556,6 +4844,7 @@ verás
 cuando
 lo
 difundáis
+.
 */mavir03_290.lab
 porque
 es
@@ -4568,6 +4857,7 @@ con
 todo
 el
 mundo
+.
 */mavir03_291.lab
 esto
 lo
@@ -4590,6 +4880,7 @@ además
 es
 buen
 amigo
+.
 */mavir03_292.lab
 Domingo
 pregunta
@@ -4606,11 +4897,13 @@ el
 usuario
 en
 Internet
+.
 */mavir03_293.lab
 o
 sea
 hacemos
 encuestas
+.
 */mavir03_294.lab
 pero
 algo
@@ -4622,6 +4915,7 @@ no
 mienta
 de
 acuerdo
+.
 */mavir03_295.lab
 porque
 por
@@ -4631,6 +4925,7 @@ sistemáticamente
 a
 esa
 encuesta
+.
 */mavir03_296.lab
 me
 preguntan
@@ -4639,21 +4934,25 @@ para
 qué
 quiere
 Internet
+.
 */mavir03_297.lab
 digo
 para
 buscar
 información
+.
 */mavir03_298.lab
 no
 no
 no
 no
 no
+.
 */mavir03_299.lab
 para
 descargarme
 discos
+.
 */mavir03_300.lab
 porque
 a
@@ -4668,6 +4967,7 @@ enamorado
 de
 la
 música
+.
 */mavir03_301.lab
 estoy
 todo
@@ -4683,6 +4983,7 @@ arriba
 y
 para
 abajo
+.
 */mavir03_302.lab
 pero
 no
@@ -4691,6 +4992,7 @@ digo
 en
 la
 encuesta
+.
 */mavir03_303.lab
 no
 lo
@@ -4704,6 +5006,7 @@ por
 un
 problema
 técnico
+.
 */mavir03_304.lab
 no
 será
@@ -4714,14 +5017,17 @@ un
 peer
 to
 peer
+.
 */mavir03_305.lab
 no
 no
 yo
 no
+.
 */mavir03_306.lab
 yo
 no
+.
 */mavir03_307.lab
 estaba
 ahí
@@ -4730,7 +5036,9 @@ y
 se
 ha
 roto
+.
 */mavir03_308.lab
+.
 */mavir03_309.lab
 pero
 yo
@@ -4738,10 +5046,12 @@ no
 he
 hecho
 nada
+.
 */mavir03_310.lab
 eso
 es
 verdad
+.
 */mavir03_311.lab
 hoy
 en
@@ -4761,6 +5071,7 @@ están
 buscando
 los
 internautas
+.
 */mavir03_312.lab
 qué
 qué
@@ -4774,6 +5085,7 @@ es
 el
 número
 uno
+.
 */mavir03_313.lab
 Google
 es
@@ -4796,11 +5108,13 @@ que
 busca
 la
 gente
+.
 */mavir03_314.lab
 saben
 lo
 que
 quieren
+.
 */mavir03_315.lab
 Gmail
 no
@@ -4825,6 +5139,7 @@ hacemos
 un
 correo
 electrónico
+.
 */mavir03_316.lab
 no
 es
@@ -4846,11 +5161,13 @@ más
 buscada
 en
 Internet
+.
 */mavir03_317.lab
 como
 aplicación
 y
 servicio
+.
 */mavir03_318.lab
 chato
 hay
@@ -4858,16 +5175,20 @@ que
 ir
 por
 ahí
+.
 */mavir03_319.lab
 lógico
+.
 */mavir03_320.lab
 Google
 Maps
 localizarse
+.
 */mavir03_321.lab
 pero
 por
 qué
+.
 */mavir03_322.lab
 porque
 saben
@@ -4876,6 +5197,7 @@ que
 busca
 la
 gente
+.
 */mavir03_323.lab
 y
 además
@@ -4896,6 +5218,7 @@ conocer
 mejor
 al
 usuario
+.
 */mavir03_324.lab
 bueno
 pues
@@ -4929,6 +5252,7 @@ que
 quieren
 los
 internautas
+.
 */mavir03_325.lab
 pero
 no
@@ -4938,6 +5262,7 @@ sofisticadas
 con
 herramientas
 sencillas
+.
 */mavir03_326.lab
 también
 debemos
@@ -4965,6 +5290,7 @@ gente
 que
 la
 genera
+.
 */mavir03_327.lab
 que
 se
@@ -4986,6 +5312,7 @@ de
 la
 administración
 pública
+.
 */mavir03_328.lab
 sino
 que
@@ -5030,11 +5357,13 @@ para
 que
 sea
 atractiva
+.
 */mavir03_329.lab
 eso
 tiene
 que
 saltar
+.
 */mavir03_330.lab
 tiene
 que
@@ -5052,6 +5381,7 @@ cómo
 crear
 una
 pyme
+.
 */mavir03_331.lab
 señor
 si
@@ -5066,6 +5396,7 @@ en
 el
 mercado
 virtual
+.
 */mavir03_332.lab
 pero
 además
@@ -5078,6 +5409,7 @@ en
 el
 mercado
 virtual
+.
 */mavir03_333.lab
 no
 piense
@@ -5106,6 +5438,7 @@ vende
 en
 la
 calle
+.
 */mavir03_334.lab
 no
 no
@@ -5114,6 +5447,7 @@ gente
 no
 busca
 papelería
+.
 */mavir03_335.lab
 me
 decía
@@ -5146,20 +5480,24 @@ cuando
 todos
 buscamos
 foto
+.
 */mavir03_336.lab
 no
 ponemos
 fotografía
+.
 */mavir03_337.lab
 ponemos
 foto
 para
 todo
+.
 */mavir03_338.lab
 y
 ellos
 ponen
 fotografía
+.
 */mavir03_339.lab
 pues
 ese
@@ -5180,6 +5518,7 @@ de
 una
 página
 web
+.
 */mavir03_340.lab
 y
 por
@@ -5201,9 +5540,11 @@ a
 la
 industria
 tecnológica
+.
 */mavir03_341.lab
 es
 increíble
+.
 */mavir03_342.lab
 no
 creo
@@ -5242,6 +5583,7 @@ tecnologías
 de
 la
 información
+.
 */mavir03_343.lab
 yo
 no
@@ -5276,6 +5618,7 @@ país
 fuera
 de
 EON
+.
 */mavir03_344.lab
 o
 que
@@ -5292,6 +5635,7 @@ televisiva
 fuera
 la
 CNN
+.
 */mavir03_345.lab
 bueno
 pues
@@ -5301,6 +5645,7 @@ a
 hacer
 una
 prueba
+.
 */mavir03_346.lab
 durante
 un
@@ -5326,6 +5671,7 @@ productos
 que
 estáis
 utilizando
+.
 */mavir03_347.lab
 mirad
 a
@@ -5341,9 +5687,11 @@ creada
 en
 nuestro
 país
+.
 */mavir03_348.lab
 es
 tremendo
+.
 */mavir03_349.lab
 esta
 misma
@@ -5385,9 +5733,11 @@ creado
 por
 empresas
 españolas
+.
 */mavir03_350.lab
 ninguno
 ninguno
+.
 */mavir03_351.lab
 y
 claro
@@ -5397,10 +5747,12 @@ no
 me
 des
 subvenciones
+.
 */mavir03_352.lab
 cómprame
 los
 productos
+.
 */mavir03_353.lab
 si
 me
@@ -5413,6 +5765,7 @@ y
 no
 hago
 nada
+.
 */mavir03_354.lab
 si
 me
@@ -5427,12 +5780,14 @@ que
 desarrollarlos
 y
 mejorarlos
+.
 */mavir03_355.lab
 esto
 es
 muy
 razonable
 no
+.
 */mavir03_356.lab
 en
 ese
@@ -5441,6 +5796,7 @@ hay
 tres
 grandes
 líneas
+.
 */mavir03_357.lab
 hay
 que
@@ -5451,6 +5807,7 @@ universitarias
 y
 las
 empresariales
+.
 */mavir03_358.lab
 a
 lo
@@ -5474,6 +5831,7 @@ gente
 de
 la
 UNED
+.
 */mavir03_359.lab
 hemos
 empezado
@@ -5481,6 +5839,7 @@ a
 compartir
 ideas
 conceptos
+.
 */mavir03_360.lab
 hemos
 descubierto
@@ -5498,6 +5857,7 @@ nosotros
 somos
 tan
 malos
+.
 */mavir03_361.lab
 pensábamos
 que
@@ -5512,6 +5872,7 @@ estarán
 haciendo
 los
 universitarios
+.
 */mavir03_362.lab
 bah
 cosas
@@ -5519,6 +5880,7 @@ que
 no
 son
 útiles
+.
 */mavir03_363.lab
 ellos
 pensaban
@@ -5533,9 +5895,11 @@ piensan
 en
 ganar
 dinero
+.
 */mavir03_364.lab
 pues
 claro
+.
 */mavir03_365.lab
 tenemos
 que
@@ -5547,11 +5911,13 @@ todos
 los
 que
 estamos
+.
 */mavir03_366.lab
 pero
 eso
 es
 evidente
+.
 */mavir03_367.lab
 así
 que
@@ -5580,6 +5946,7 @@ en
 la
 colaboración
 mutua
+.
 */mavir03_368.lab
 tiene
 que
@@ -5588,6 +5955,7 @@ beneficiaria
 para
 ambos
 dos
+.
 */mavir03_369.lab
 y
 beneficiaria
@@ -5597,6 +5965,7 @@ empresa
 es
 ganar
 dinero
+.
 */mavir03_370.lab
 esto
 suena
@@ -5604,6 +5973,7 @@ mal
 pero
 es
 así
+.
 */mavir03_371.lab
 nosotros
 no
@@ -5637,6 +6007,7 @@ los
 que
 nos
 circundan
+.
 */mavir03_372.lab
 hombre
 lo
@@ -5677,10 +6048,12 @@ seguir
 creciendo
 como
 empresa
+.
 */mavir03_373.lab
 es
 una
 realidad
+.
 */mavir03_374.lab
 el
 segundo
@@ -5694,6 +6067,7 @@ nuevos
 servicios
 y
 aplicaciones
+.
 */mavir03_375.lab
 creer
 en
@@ -5706,6 +6080,7 @@ cosas
 pero
 nuevas
 nuevas
+.
 */mavir03_376.lab
 no
 decir
@@ -5716,6 +6091,7 @@ desarrollando
 software
 de
 seguridad
+.
 */mavir03_377.lab
 Irlanda
 es
@@ -5732,15 +6108,18 @@ pequeños
 desarrollos
 para
 terceros
+.
 */mavir03_378.lab
 hagamos
 lo
 mismo
+.
 */mavir03_379.lab
 hombre
 no
 me
 fastidies
+.
 */mavir03_380.lab
 pero
 si
@@ -5750,6 +6129,7 @@ ya
 la
 hace
 Israel
+.
 */mavir03_381.lab
 si
 hacemos
@@ -5758,6 +6138,7 @@ nosotros
 la
 llevamos
 clara
+.
 */mavir03_382.lab
 hay
 que
@@ -5767,6 +6148,7 @@ sean
 nuevas
 de
 verdad
+.
 */mavir03_383.lab
 y
 que
@@ -5815,6 +6197,7 @@ que
 decir
 más
 cosas
+.
 */mavir03_384.lab
 no
 quedarnos
@@ -5822,6 +6205,7 @@ sólo
 en
 ese
 concepto
+.
 */mavir03_385.lab
 y
 en
@@ -5843,6 +6227,7 @@ productos
 en
 nuestro
 país
+.
 */mavir03_386.lab
 yo
 esto
@@ -5867,6 +6252,7 @@ en
 la
 administración
 pública
+.
 */mavir03_387.lab
 la
 administración
@@ -5879,6 +6265,7 @@ un
 catálogo
 de
 patrimonio
+.
 */mavir03_388.lab
 sabéis
 lo
@@ -5888,15 +6275,20 @@ un
 catálogo
 de
 patrimonio
+.
 */mavir03_389.lab
 es
+.
 */mavir03_390.lab
 desgraciadamente
 sí
+.
 */mavir03_391.lab
+.
 */mavir03_392.lab
 lo
 sabéis
+.
 */mavir03_393.lab
 un
 catálogo
@@ -5954,11 +6346,13 @@ un
 poco
 más
 ágil
+.
 */mavir03_394.lab
 un
 poco
 más
 ágil
+.
 */mavir03_395.lab
 dos
 meses
@@ -5972,6 +6366,7 @@ compra
 de
 un
 producto
+.
 */mavir03_396.lab
 bueno
 pues
@@ -5980,6 +6375,7 @@ una
 cosa
 muy
 curiosa
+.
 */mavir03_397.lab
 sabéis
 desde
@@ -5996,6 +6392,7 @@ patrimonio
 en
 nuestro
 país
+.
 */mavir03_398.lab
 desde
 el
@@ -6004,6 +6401,7 @@ dos
 mil
 dos
 mil
+.
 */mavir03_399.lab
 o
 sea
@@ -6037,6 +6435,7 @@ la
 administración
 pública
 española
+.
 */mavir03_400.lab
 se
 lo
@@ -6046,6 +6445,7 @@ pero
 con
 muchas
 dificultades
+.
 */mavir03_401.lab
 conozco
 cientos
@@ -6065,6 +6465,7 @@ de
 Boecilla
 en
 Valladolid
+.
 */mavir03_402.lab
 gente
 que
@@ -6077,6 +6478,7 @@ de
 gestión
 de
 contenidos
+.
 */mavir03_403.lab
 se
 vuelven
@@ -6086,6 +6488,7 @@ venderle
 a
 la
 administración
+.
 */mavir03_404.lab
 tienen
 que
@@ -6099,10 +6502,12 @@ a
 la
 administración
 pública
+.
 */mavir03_405.lab
 y
 es
 curioso
+.
 */mavir03_406.lab
 el
 catálogo
@@ -6113,6 +6518,7 @@ del
 Ministerio
 de
 Industria
+.
 */mavir03_407.lab
 el
 mismo
@@ -6122,6 +6528,7 @@ la
 patente
 del
 software
+.
 */mavir03_408.lab
 podíamos
 obtener
@@ -6136,6 +6543,7 @@ el
 catálogo
 de
 patrimonio
+.
 */mavir03_409.lab
 y
 así
@@ -6156,11 +6564,13 @@ a
 la
 administración
 pública
+.
 */mavir03_410.lab
 pues
 no
 no
 pasa
+.
 */mavir03_411.lab
 esas
 trabas
@@ -6175,6 +6585,7 @@ tecnológicos
 de
 nuestro
 país
+.
 */mavir03_412.lab
 y
 hay
@@ -6183,6 +6594,7 @@ intentar
 eliminar
 esas
 barreras
+.
 */mavir03_413.lab
 pero
 me
@@ -6203,6 +6615,7 @@ ver
 con
 MAVIR
 creo
+.
 */mavir03_414.lab
 y
 es
@@ -6221,6 +6634,7 @@ ejes
 de
 ese
 desarrollo
+.
 */mavir03_415.lab
 no
 es
@@ -6249,10 +6663,12 @@ que
 hablan
 en
 español
+.
 */mavir03_416.lab
 no
 no
 no
+.
 */mavir03_417.lab
 pero
 la
@@ -6264,6 +6680,7 @@ escenario
 de
 desarrollo
 tecnológico
+.
 */mavir03_418.lab
 y
 aquellos
@@ -6303,6 +6720,7 @@ tener
 en
 el
 mercado
+.
 */mavir03_419.lab
 y
 esa
@@ -6332,10 +6750,12 @@ como
 un
 idioma
 deseable
+.
 */mavir03_420.lab
 es
 un
 idioma
+.
 */mavir03_421.lab
 pero
 todavía
@@ -6344,6 +6764,7 @@ es
 el
 primer
 objetivo
+.
 */mavir03_422.lab
 tienen
 todavía
@@ -6355,6 +6776,7 @@ como
 plantearse
 otras
 cosas
+.
 */mavir03_423.lab
 así
 que
@@ -6406,6 +6828,7 @@ claro
 y
 muy
 evidente
+.
 */mavir03_424.lab
 y
 en
@@ -6434,11 +6857,13 @@ de
 las
 que
 disponemos
+.
 */mavir03_425.lab
 tenemos
 contenidos
 y
 credibilidad
+.
 */mavir03_426.lab
 nadie
 discute
@@ -6460,6 +6885,7 @@ de
 cómo
 los
 creamos
+.
 */mavir03_427.lab
 tenemos
 un
@@ -6472,8 +6898,10 @@ veinte
 millones
 de
 personas
+.
 */mavir03_428.lab
 pensad
+.
 */mavir03_429.lab
 nosotros
 no
@@ -6493,12 +6921,14 @@ viven
 en
 nuestro
 país
+.
 */mavir03_430.lab
 tenemos
 mercado
 natural
 de
 expansión
+.
 */mavir03_431.lab
 un
 mercado
@@ -6506,6 +6936,7 @@ absolutamente
 a
 nuestro
 alcance
+.
 */mavir03_432.lab
 y
 además
@@ -6520,6 +6951,7 @@ sabemos
 hacia
 dónde
 conduce
+.
 */mavir03_433.lab
 y
 esto
@@ -6527,6 +6959,7 @@ es
 que
 es
 genial
+.
 */mavir03_434.lab
 porque
 muchas
@@ -6543,6 +6976,7 @@ Unidos
 hace
 tres
 años
+.
 */mavir03_435.lab
 a
 ver
@@ -6551,6 +6985,7 @@ a
 hacer
 de
 Nostradamus
+.
 */mavir03_436.lab
 este
 año
@@ -6565,9 +7000,11 @@ pegar
 un
 pepinazo
 espectacular
+.
 */mavir03_437.lab
 acierto
 fijo
+.
 */mavir03_438.lab
 hace
 tres
@@ -6590,6 +7027,7 @@ través
 de
 unas
 navidades
+.
 */mavir03_439.lab
 si
 no
@@ -6600,11 +7038,13 @@ el
 año
 que
 viene
+.
 */mavir03_440.lab
 pero
 va
 a
 ocurrir
+.
 */mavir03_441.lab
 qué
 compraron
@@ -6613,6 +7053,7 @@ norteamericanos
 en
 la
 red
+.
 */mavir03_442.lab
 eso
 es
@@ -6625,6 +7066,7 @@ mejor
 que
 estar
 pensando
+.
 */mavir03_443.lab
 porque
 esos
@@ -6638,17 +7080,20 @@ en
 nuestro
 país
 eh
+.
 */mavir03_444.lab
 no
 no
 lo
 dudemos
+.
 */mavir03_445.lab
 con
 un
 un
 matiz
 local
+.
 */mavir03_446.lab
 espero
 que
@@ -6671,6 +7116,7 @@ con
 ese
 matiz
 local
+.
 */mavir03_447.lab
 pero
 sin
@@ -6682,6 +7128,7 @@ hacer
 en
 nuestro
 país
+.
 */mavir03_448.lab
 os
 pongo
@@ -6692,6 +7139,7 @@ de
 oportunidades
 de
 negocio
+.
 */mavir03_449.lab
 hoy
 se
@@ -6700,6 +7148,7 @@ hablado
 mucho
 de
 una
+.
 */mavir03_450.lab
 ha
 habido
@@ -6717,6 +7166,7 @@ ido
 en
 esa
 línea
+.
 */mavir03_451.lab
 la
 publicidad
@@ -6763,6 +7213,7 @@ herramientas
 de
 publicidad
 contextual
+.
 */mavir03_452.lab
 estamos
 hablando
@@ -6789,11 +7240,13 @@ al
 cinco
 por
 ciento
+.
 */mavir03_453.lab
 y
 lo
 sabemos
 fijo
+.
 */mavir03_454.lab
 va
 a
@@ -6801,6 +7254,7 @@ pasar
 en
 cuatro
 años
+.
 */mavir03_455.lab
 es
 que
@@ -6810,6 +7264,7 @@ ocurrir
 sin
 ninguna
 duda
+.
 */mavir03_456.lab
 y
 ese
@@ -6821,10 +7276,12 @@ nuevas
 herramientas
 nuevas
 interfaces
+.
 */mavir03_457.lab
 necesita
 inteligencia
 lingüística
+.
 */mavir03_458.lab
 esa
 estructura
@@ -6835,6 +7292,7 @@ hay
 que
 desarrollarla
 más
+.
 */mavir03_459.lab
 yo
 no
@@ -6857,10 +7315,12 @@ la
 publicidad
 en
 castellano
+.
 */mavir03_460.lab
 no
 funciona
 bien
+.
 */mavir03_461.lab
 o
 no
@@ -6870,6 +7330,7 @@ lo
 mejor
 utilizarla
 apropiadamente
+.
 */mavir03_462.lab
 y
 un
@@ -6878,6 +7339,7 @@ segundo
 los
 propios
 buscadores
+.
 */mavir03_463.lab
 en
 un
@@ -6931,6 +7393,7 @@ cuarenta
 por
 ciento
 anual
+.
 */mavir03_464.lab
 yo
 monto
@@ -6939,6 +7402,7 @@ zapatería
 en
 ese
 sitio
+.
 */mavir03_465.lab
 lo
 que
@@ -6950,6 +7414,7 @@ cómo
 lo
 vendo
 mejor
+.
 */mavir03_466.lab
 y
 aunque
@@ -6973,6 +7438,7 @@ mercado
 que
 es
 interesante
+.
 */mavir03_467.lab
 pensad
 el
@@ -6999,6 +7465,7 @@ de
 los
 buscadores
 focalizados
+.
 */mavir03_468.lab
 ambos
 tres
@@ -7008,6 +7475,7 @@ una
 cosa
 muy
 importante
+.
 */mavir03_469.lab
 hablan
 de
@@ -7030,6 +7498,7 @@ grandes
 motores
 de
 búsqueda
+.
 */mavir03_470.lab
 y
 hablan
@@ -7066,6 +7535,7 @@ muy
 muy
 muy
 lejos
+.
 */mavir03_471.lab
 así
 que
@@ -7084,10 +7554,12 @@ de
 decir
 mercado
 potencial
+.
 */mavir03_472.lab
 tenemos
 mercado
 potencial
+.
 */mavir03_473.lab
 en
 el
@@ -7095,6 +7567,7 @@ el
 de
 la
 lengua
+.
 */mavir03_474.lab
 es
 el
@@ -7113,6 +7586,7 @@ país
 sin
 ninguna
 duda
+.
 */mavir03_475.lab
 y
 ahora
@@ -7120,6 +7594,7 @@ vuelvo
 a
 como
 empecé
+.
 */mavir03_476.lab
 soy
 Nick
@@ -7146,21 +7621,27 @@ estoy
 hablando
 con
 
+.
 */mavir03_477.lab
 no
 sé
+.
 */mavir03_478.lab
 con
 Manfred
 Mann
+.
 */mavir03_479.lab
 venga
+.
 */mavir03_480.lab
 vamos
 a
 vender
 discos
+.
 */mavir03_481.lab
 muchas
 gracias
+.
 */mavir03_482.lab

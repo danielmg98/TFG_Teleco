@@ -67,6 +67,7 @@ mavir1.close()
 mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new6.txt','r')
 mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new7.txt','w')
 
+#Elimino espacios sobrantes
 f.eliminar_espacios(mavir,mavir1)
 
 mavir.close()
@@ -75,6 +76,7 @@ mavir1.close()
 mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new7.txt','r')
 mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new8.txt','w')
 
+#Elimino sangrias
 f.eliminar_espacios_inicio(mavir,mavir1)
 
 mavir.close()
@@ -83,7 +85,7 @@ mavir1.close()
 mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new8.txt','r')
 mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt','w')
 
-
+#Paso a palabra por linea
 f.cambiar_espacios_lineas(mavir,mavir1)
 
 mavir.close()
@@ -93,6 +95,7 @@ mavir1.close()
 mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt','r')
 mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt','w')
 
+#Cambiar tiempos por puntos
 f.cambiar_horas_puntos(mavir,mavir1)
 
 mavir.close()
@@ -102,6 +105,7 @@ mavir1.close()
 mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt','r')
 mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt','w')
 
+#Cambiar puntos por labels
 f.formato_htk(mavir,mavir1,i)
 
 mavir.close()
