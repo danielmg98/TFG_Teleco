@@ -34,6 +34,12 @@ def eliminar_archivos_existentes(i):
 	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt'):
 		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt')
 
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new12.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new12.txt')
+
+	if os.path.isfile('../nuevo/htk/mavir0'+i+'_htk.txt'):
+		os.remove('../nuevo/htk/mavir0'+i+'_htk.txt')
+
 def eliminar_especiales(original, nuevo):
 	while 1:
 		char = original.read(1)
@@ -168,6 +174,24 @@ def cambiar_espacios_lineas(original, nuevo):
 			nuevo.write('\n')
 		else:
 			nuevo.write(char)
+
+def eliminar_horas(original,nuevo,horas):
+
+	hora = horas.readline()
+
+	while 1:
+
+		line = original.readline()
+		if not line:
+			break
+		if line[0].isnumeric():
+			if line[1].isnumeric() or line[1] == ':':
+				if line[0:] == hora[0:]:
+					nuevo.write(line)
+					hora = horas.readline()
+		else:
+	
+			nuevo.write(line)
 
 
 def cambiar_horas_puntos(original,nuevo):

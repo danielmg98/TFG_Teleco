@@ -12,33 +12,24 @@ horas2 = open('./antiguas/horas0'+mavir+'.txt','r')
 nuevo = open('./nuevas/horas0'+mavir+'_new.txt','w')
 
 line = horas.readline()
-nuevo.write(line)
-nextline = horas2.readline()
+line2 = horas2.readline()
+time = line[0:-1]
+nuevo.write(time+'\n')
 dif_sec = 0
 
 while 1:
 
-	if not line:
+	nextline = horas2.readline()
+	if not nextline:
 		break
-	i=0
-	for c in line:
-		if c == '\n':
-			time = line[0:i]
-			nextline = horas2.readline()
-			j=0
-			for x in nextline:
-				if x == '\n':
-					time2 = nextline[0:j]
-					j=j+1
-	
+	time2 = nextline[0:-1]
 	dif_sec = f.diferencia_segundos(time,time2)
-	
-	
-	if dif_sec >= 4:
-		nuevo.write(nextline)
+	if int(dif_sec) >= 4:
+		nuevo.write(time2+'\n')
 	
 	line = horas.readline()
-	nextline = horas2.readline()
+	time = line[0:-1]
+	
 
 horas.close()
 horas2.close()

@@ -33,53 +33,60 @@ def diferencia_segundos(inicio,fin):
 
 		if fin_min == inicio_min:
 			dif_sec = fin_sec - inicio_sec
+			return int(dif_sec)
 
-		if fin_min >= inicio_min and fin_sec >= inicio_sec:
+		elif fin_min >= inicio_min and fin_sec >= inicio_sec:
 			dif_min = fin_min - inicio_min
 			dif_sec = (fin_sec - inicio_sec) + 60*dif_min
-
-		if fin_min >= inicio_min and fin_sec < inicio_sec:
+			return int(dif_sec)
+		elif fin_min >= inicio_min and fin_sec < inicio_sec:
 			dif_min = fin_min - inicio_min
 			dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1)
-	
-	if len(fin) == 7 and len(inicio) == 7:
+			return int(dif_sec)
+				
+	elif len(fin) == 7 and len(inicio) == 7:
 	
 		if fin_hora == inicio_hora:
 						
 			if fin_min == inicio_min:
 				dif_sec = fin_sec - inicio_sec
-
-			if fin_min > inicio_min and fin_sec >= inicio_sec:
+				return int(dif_sec)
+			elif fin_min > inicio_min and fin_sec >= inicio_sec:
 				dif_min = fin_min - inicio_min
 				dif_sec = (fin_sec - inicio_sec) + 60*dif_min
-
-			if fin_min > inicio_min and fin_sec < inicio_sec:
+				return int(dif_sec)
+			elif fin_min > inicio_min and fin_sec < inicio_sec:
 				dif_min = fin_min - inicio_min
-				dif_sec = (60 - inicio_sec) + fin_sec + 60*dif_min
-		if fin_hora > inicio_hora:
+				dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1)			
+				return int(dif_sec)
+		elif fin_hora > inicio_hora:
 	
 			dif_hora = fin_hora - inicio_hora
 			
 			if fin_min == inicio_min:
 				dif_sec = fin_sec - inicio_sec+3600*dif_hora
-
-			if fin_min > inicio_min and fin_sec >= inicio_sec:
+				return int(dif_sec)
+			elif fin_min > inicio_min and fin_sec >= inicio_sec:
 				dif_min = fin_min - inicio_min
-				dif_sec = (fin_sec - inicio_sec) + 60*dif_min + 3600* dif_hora
+				dif_sec = (fin_sec - inicio_sec) + 60*dif_min + 3600* dif_hora			
+				return int(dif_sec)
 
-			if fin_min > inicio_min and fin_sec < inicio_sec:
+			elif fin_min > inicio_min and fin_sec < inicio_sec:
 				dif_min = fin_min - inicio_min
-				dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1) + 3600*dif_hora
+				dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1) + 3600*dif_hora	
+				return int(dif_sec)
 
-			if inicio_min > fin_min and fin_sec > inicio_sec:
-				dif_min = (60-inicio_min)+fin_min + 3600*(fin_hora-1)
+			elif inicio_min > fin_min and fin_sec > inicio_sec:
+				dif_min = (60-inicio_min)+fin_min + 3600*(fin_hora-1)			
 				dif_sec = fin_sec - inicio_sec + 60*dif_min			
-			if inicio_min > fin_min and inicio_sec > fin_sec:
+				return int(dif_sec)			
+			elif inicio_min > fin_min and inicio_sec > fin_sec:
 				
 				dif_min = 60-inicio_min+fin_min+3600*(fin_hora-1)
 				dif_sec = 60-inicio_sec+fin_sec+60*(dif_min-1)			
+				return int(dif_sec)
 			
-	if len(fin)>len(inicio):
+	elif len(fin)>len(inicio):
 
 		inicio_hora = 0
 
@@ -87,26 +94,27 @@ def diferencia_segundos(inicio,fin):
 			
 		if fin_min == inicio_min:
 			dif_sec = fin_sec - inicio_sec+3600*dif_hora
-
-		if fin_min > inicio_min and fin_sec >= inicio_sec:
+			return int(dif_sec)
+		elif fin_min > inicio_min and fin_sec >= inicio_sec:
 			dif_min = fin_min - inicio_min
-			dif_sec = (fin_sec - inicio_sec) + 60*dif_min + 3600* dif_hora
+			dif_sec = (fin_sec - inicio_sec) + 60*dif_min + 3600* dif_hora		
+			return int(dif_sec)
 
-		if fin_min > inicio_min and fin_sec < inicio_sec:
+		elif fin_min > inicio_min and fin_sec < inicio_sec:
 			dif_min = fin_min - inicio_min
-			dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1) + 3600*dif_hora
+			dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1) + 3600*dif_hora		
+			return int(dif_sec)
 
-		if inicio_min > fin_min and fin_sec > inicio_sec:
+		elif inicio_min > fin_min and fin_sec > inicio_sec:
 			dif_min = (60-inicio_min)+fin_min + 3600*(fin_hora-1)
-			dif_sec = fin_sec - inicio_sec + 60*dif_min			
-		if inicio_min > fin_min and inicio_sec > fin_sec:
+			dif_sec = fin_sec - inicio_sec + 60*dif_min
+			return int(dif_sec)	
+		elif inicio_min > fin_min and inicio_sec > fin_sec:
 			
 			dif_min = 60-inicio_min+fin_min+3600*(fin_hora-1)
-			dif_sec = 60-inicio_sec+fin_sec+60*(dif_min-1)			
+			dif_sec = 60-inicio_sec+fin_sec+60*(dif_min-1)	
+			return int(dif_sec)			
 			
-
-	
-	return dif_sec
 
 
 

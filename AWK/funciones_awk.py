@@ -62,7 +62,7 @@ def diferencia_segundos(inicio,fin,nuevo):
 
 		if fin_min >= inicio_min and fin_sec < inicio_sec:
 			dif_min = fin_min - inicio_min
-			dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1)
+			dif_sec = (60-inicio_sec)+fin_sec+60*(dif_min-1)
 	
 	if len(fin) == 7 and len(inicio) == 7:
 	
@@ -77,7 +77,7 @@ def diferencia_segundos(inicio,fin,nuevo):
 
 			if fin_min > inicio_min and fin_sec < inicio_sec:
 				dif_min = fin_min - inicio_min
-				dif_sec = (60 - inicio_sec) + fin_sec + 60*dif_min
+				dif_sec = (60 - inicio_sec) + fin_sec + 60*(dif_min-1)
 		if fin_hora > inicio_hora:
 	
 			dif_hora = fin_hora - inicio_hora

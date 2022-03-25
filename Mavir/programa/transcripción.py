@@ -91,9 +91,18 @@ f.cambiar_espacios_lineas(mavir,mavir1)
 mavir.close()
 mavir1.close()
 
-
 mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new9.txt','r')
 mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt','w')
+horas = open('../horas/nuevas/horas0'+i+'_new.txt','r')
+
+#Elimino las horas
+f.eliminar_horas(mavir,mavir1,horas)
+
+mavir.close()
+mavir1.close()
+
+mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt','r')
+mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt','w')
 
 #Cambiar tiempos por puntos
 f.cambiar_horas_puntos(mavir,mavir1)
@@ -102,8 +111,8 @@ mavir.close()
 mavir1.close()
 
 
-mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new10.txt','r')
-mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt','w')
+mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt','r')
+mavir1 = open('../nuevo/htk/mavir0'+i+'_htk.txt','w')
 
 #Cambiar puntos por labels
 f.formato_htk(mavir,mavir1,i)

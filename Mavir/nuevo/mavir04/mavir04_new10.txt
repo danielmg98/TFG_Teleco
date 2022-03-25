@@ -1,12 +1,11 @@
 veamos
-.
+00:03
 en
 la
 sesión
 que
 tenemos
 ahora
-.
 bueno
 yo
 soy
@@ -29,7 +28,7 @@ de
 Manuel
 de
 Buenaga
-.
+00:09
 entonces
 me
 ha
@@ -66,7 +65,7 @@ dominio
 médico
 y
 cultural
-.
+00:22
 le
 he
 puesto
@@ -95,7 +94,7 @@ donde
 están
 estas
 aplicaciones
-.
+00:30
 nosotros
 tenemos
 estructurado
@@ -132,7 +131,7 @@ esta
 red
 de
 grupos
-.
+00:45
 aquí
 he
 puesto
@@ -170,7 +169,7 @@ de
 información
 que
 tenemos
-.
+00:56
 lo
 que
 sí
@@ -210,7 +209,7 @@ conocimientos
 en
 aplicaciones
 reales
-.
+01:11
 y
 y
 tenemos
@@ -236,7 +235,7 @@ una
 de
 las
 aplicaciones
-.
+01:19
 el
 objetivo
 a
@@ -303,7 +302,7 @@ que
 podamos
 transferirlas
 ya
-.
+01:41
 por
 tanto
 concurrir
@@ -341,7 +340,7 @@ nos
 da
 este
 programa
-.
+01:55
 inicialmente
 nuestros
 dos
@@ -378,7 +377,7 @@ en
 en
 la
 red
-.
+02:09
 pero
 también
 consideramos
@@ -440,7 +439,7 @@ nuevos
 productos
 y
 servicios
-.
+02:30
 y
 de
 hecho
@@ -483,14 +482,13 @@ clientes
 a
 esas
 tecnologías
-.
+02:45
 no
 cuento
 nada
 más
 de
 eso
-.
 sí
 que
 subrayar
@@ -498,7 +496,7 @@ que
 estamos
 trabajando
 activamente
-.
+02:53
 este
 hemos
 puesto
@@ -527,7 +525,7 @@ bueno
 ya
 está
 funcionando
-.
+03:02
 es
 un
 plan
@@ -536,7 +534,7 @@ unos
 pasos
 bien
 definidos
-.
+03:06
 bueno
 o
 o
@@ -558,7 +556,7 @@ red
 de
 tantas
 personas
-.
+03:11
 y
 dentro
 de
@@ -589,7 +587,7 @@ describir
 los
 ponentes
 obviamente
-.
+03:21
 el
 el
 primero
@@ -613,7 +611,7 @@ presentar
 Manuel
 de
 Buenaga
-.
+03:26
 el
 segundo
 en
@@ -625,7 +623,7 @@ lo
 presenta
 Isidro
 Aguillo
-.
+03:31
 y
 el
 tercero
@@ -639,7 +637,7 @@ el
 de
 la
 Biomedicina
-.
+03:35
 entonces
 lo
 que
@@ -674,7 +672,7 @@ queréis
 vosotros
 que
 hagamos
-.
+03:45
 y
 entonces
 ese
@@ -690,7 +688,7 @@ nos
 sugiráis
 cosas
 no
-.
+03:49
 entonces
 sin
 más
@@ -700,22 +698,19 @@ palabra
 a
 a
 Manuel
-.
 gracias
-.
 bueno
 pues
 muchas
 gracias
 José
 María
-.
+04:07
 muchas
 gracias
 a
 todos
 también
-.
 y
 y
 bueno
@@ -724,7 +719,7 @@ en
 intentaré
 ser
 breve
-.
+04:25
 y
 lo
 que
@@ -757,7 +752,7 @@ comentaba
 antes
 José
 María
-.
+04:36
 que
 al
 principio
@@ -776,7 +771,7 @@ casos
 de
 uso
 no
-.
+04:42
 lo
 que
 queríamos
@@ -815,7 +810,7 @@ en
 las
 universidades
 no
-.
+04:53
 así
 que
 pues
@@ -881,7 +876,7 @@ un
 proyecto
 PROFIT
 no
-.
+05:18
 para
 presentar
 una
@@ -905,7 +900,7 @@ en
 en
 gran
 parte
-.
+05:27
 pero
 bueno
 podría
@@ -915,7 +910,6 @@ otro
 tipo
 de
 programa
-.
 entonces
 sobre
 esa
@@ -963,7 +957,7 @@ en
 en
 MAVIR
 no
-.
+05:50
 y
 empezar
 ya
@@ -1045,7 +1039,7 @@ como
 caso
 de
 uso
-.
+06:20
 entonces
 pues
 bueno
@@ -1069,7 +1063,7 @@ apunto
 aquí
 el
 tiempo
-.
+06:27
 pues
 el
 el
@@ -1079,7 +1073,7 @@ básicamente
 pues
 eso
 no
-.
+06:32
 ver
 un
 poquito
@@ -1099,7 +1093,7 @@ trabajo
 muy
 inicial
 vale
-.
+06:39
 después
 ver
 una
@@ -1195,7 +1189,7 @@ tenemos
 perfiles
 diferentes
 no
-.
+07:13
 los
 dos
 desarrolladores
@@ -1230,7 +1224,7 @@ investigación
 y
 desarrollo
 no
-.
+07:25
 una
 cuestión
 que
@@ -1261,7 +1255,7 @@ es
 el
 usuario
 no
-.
+07:35
 porque
 el
 papel
@@ -1327,7 +1321,7 @@ un
 un
 bosquejo
 no
-.
+07:56
 y
 después
 en
@@ -1384,7 +1378,7 @@ por
 por
 perfilar
 no
-.
+08:12
 bueno
 entonces
 aquí
@@ -1475,7 +1469,7 @@ de
 grupos
 de
 trabajo
-.
+08:41
 en
 concreto
 esta
@@ -1520,7 +1514,7 @@ de
 los
 historiales
 médicos
-.
+08:58
 entonces
 esa
 fue
@@ -1550,10 +1544,9 @@ reorientamos
 quizá
 en
 parte
-.
+09:06
 objetivos
 de
-.
 esta
 fue
 la
@@ -1568,7 +1561,7 @@ en
 en
 este
 grupo
-.
+09:13
 los
 objetivos
 eran
@@ -1593,7 +1586,7 @@ de
 su
 historial
 médico
-.
+09:21
 esta
 es
 una
@@ -1685,7 +1678,7 @@ y
 completan
 esos
 registros
-.
+09:51
 entonces
 eso
 pues
@@ -1712,7 +1705,7 @@ informático
 que
 automatizase
 eso
-.
+09:59
 y
 estaba
 también
@@ -1725,7 +1718,7 @@ del
 programa
 MAVIR
 no
-.
+10:03
 entonces
 pues
 bueno
@@ -1775,7 +1768,7 @@ y
 la
 Autónoma
 no
-.
+10:17
 la
 reunión
 que
@@ -1810,7 +1803,7 @@ por
 Internet
 etcétera
 tal
-.
+10:30
 pero
 el
 momento
@@ -1835,7 +1828,7 @@ dos
 mil
 seis
 no
-.
+10:38
 y
 también
 lo
@@ -1880,7 +1873,7 @@ esta
 puesta
 en
 común
-.
+10:51
 así
 que
 lo
@@ -1937,14 +1930,13 @@ proyecto
 de
 investigación
 no
-.
+11:10
 bueno
 quiénes
 estuvimos
 en
 aquella
 reunión
-.
 pues
 somos
 los
@@ -1956,7 +1948,7 @@ la
 en
 la
 diapositiva
-.
+11:16
 pues
 Antonio
 Antonio
@@ -1979,14 +1971,13 @@ Luis
 de
 DAEDALUS
 Paz
-.
+11:26
 se
 han
 quedado
 en
 orden
 alfabético
-.
 Paz
 del
 hospital
@@ -2000,7 +1991,7 @@ por
 la
 Universidad
 Europea
-.
+11:34
 bueno
 esto
 es
@@ -2011,7 +2002,7 @@ partimos
 en
 la
 reunión
-.
+11:38
 y
 bueno
 pues
@@ -2070,7 +2061,7 @@ que
 lo
 tenemos
 no
-.
+11:58
 el
 objetivo
 del
@@ -2116,7 +2107,7 @@ un
 poquito
 en
 ello
-.
+12:12
 ver
 qué
 qué
@@ -2125,11 +2116,9 @@ hacer
 cada
 uno
 no
-.
 que
 somos
 diferentes
-.
 también
 en
 la
@@ -2142,7 +2131,7 @@ de
 uso
 y
 funcionalidades
-.
+12:21
 es
 decir
 en
@@ -2160,7 +2149,7 @@ podía
 ser
 de
 utilidad
-.
+12:27
 bueno
 resultados
 de
@@ -2173,7 +2162,7 @@ una
 pequeña
 referencia
 no
-.
+12:32
 pues
 en
 la
@@ -2234,7 +2223,7 @@ jugar
 el
 hospital
 etcétera
-.
+12:49
 así
 que
 fue
@@ -2258,7 +2247,7 @@ de
 aspectos
 de
 MAVIR
-.
+12:54
 planteamos
 dos
 dos
@@ -2271,7 +2260,7 @@ las
 que
 habíamos
 partido
-.
+13:00
 uno
 que
 es
@@ -2336,7 +2325,7 @@ que
 fuese
 nuestro
 objetivo
-.
+13:19
 pero
 sí
 que
@@ -2377,7 +2366,7 @@ mismos
 la
 Universidad
 Europea
-.
+13:32
 entonces
 nos
 planteamos
@@ -2393,7 +2382,7 @@ búsqueda
 de
 información
 multimodal
-.
+13:37
 algo
 así
 como
@@ -2411,7 +2400,7 @@ distintos
 segmentos
 de
 información
-.
+13:46
 el
 propio
 texto
@@ -2434,7 +2423,7 @@ del
 hospital
 etcétera
 no
-.
+13:53
 también
 analizamos
 una
@@ -2478,7 +2467,7 @@ pues
 podía
 resultar
 útil
-.
+14:10
 también
 para
 podía
@@ -2512,7 +2501,7 @@ resulta
 útil
 o
 no
-.
+14:20
 también
 le
 podía
@@ -2542,7 +2531,7 @@ congresos
 os
 decía
 no
-.
+14:31
 nos
 definimos
 cómo
@@ -2563,7 +2552,7 @@ que
 estamos
 teniendo
 hoy
-.
+14:39
 así
 que
 lo
@@ -2611,7 +2600,7 @@ las
 fuentes
 de
 información
-.
+14:54
 con
 qué
 información
@@ -2624,7 +2613,7 @@ trabajar
 en
 el
 proyecto
-.
+14:59
 bueno
 entonces
 aquí
@@ -2652,7 +2641,7 @@ participantes
 en
 este
 proyecto
-.
+15:10
 por
 lo
 que
@@ -2724,7 +2713,7 @@ el
 usuario
 en
 concreto
-.
+15:33
 luego
 si
 acaso
@@ -2748,7 +2737,7 @@ aquí
 pues
 podemos
 profundizar
-.
+15:42
 y
 esto
 pues
@@ -2758,7 +2747,6 @@ decir
 para
 todos
 no
-.
 también
 vimos
 que
@@ -2784,7 +2772,7 @@ Universidad
 Autónoma
 de
 Madrid
-.
+15:55
 este
 era
 un
@@ -2817,7 +2805,7 @@ universidad
 pues
 también
 no
-.
+16:04
 en
 la
 ayuda
@@ -2836,7 +2824,7 @@ propuestas
 que
 ellos
 presentaban
-.
+16:11
 como
 por
 ejemplo
@@ -2866,7 +2854,7 @@ automática
 para
 rellenar
 formularios
-.
+16:22
 DAEDALUS
 bueno
 aquí
@@ -2895,7 +2883,7 @@ de
 desglose
 en
 tres
-.
+16:33
 esto
 es
 una
@@ -2908,7 +2896,6 @@ queríamos
 era
 eso
 no
-.
 puede
 ser
 una
@@ -2927,11 +2914,10 @@ un
 poquito
 más
 sólida
-.
+16:39
 era
 el
 objetivo
-.
 entonces
 por
 ejemplo
@@ -3005,7 +2991,7 @@ análisis
 de
 la
 imagen
-.
+17:05
 bueno
 hacíamos
 también
@@ -3016,7 +3002,7 @@ dos
 funcionalidades
 parecidas
 no
-.
+17:16
 pues
 en
 la
@@ -3048,7 +3034,7 @@ al
 proceso
 de
 diagnóstico
-.
+17:27
 por
 ejemplo
 se
@@ -3065,7 +3051,7 @@ planteaba
 sobre
 el
 buscador
-.
+17:32
 se
 podía
 hacer
@@ -3085,7 +3071,7 @@ interés
 al
 hospital
 no
-.
+17:38
 y
 después
 también
@@ -3131,7 +3117,7 @@ o
 menos
 están
 interrelacionadas
-.
+17:52
 o
 sea
 que
@@ -3157,7 +3143,7 @@ que
 tenemos
 en
 marcha
-.
+17:59
 el
 hospital
 de
@@ -3171,7 +3157,7 @@ realizar
 en
 los
 proyectos
-.
+18:06
 pues
 pues
 podía
@@ -3210,7 +3196,7 @@ ejemplo
 íbamos
 a
 trabajar
-.
+18:19
 colaborar
 en
 la
@@ -3252,7 +3238,7 @@ de
 la
 Universidad
 Autónoma
-.
+18:36
 ser
 probador
 de
@@ -3301,7 +3287,7 @@ punto
 es
 útil
 no
-.
+18:50
 y
 también
 participar
@@ -3311,7 +3297,6 @@ ciclo
 de
 mejora
 continua
-.
 respecto
 a
 las
@@ -3324,7 +3309,7 @@ en
 una
 diapositiva
 siguiente
-.
+18:57
 la
 Universidad
 Autónoma
@@ -3347,12 +3332,11 @@ MAVIR
 que
 podían
 colaborar
-.
+19:06
 tienen
 un
 perfil
 complementario
-.
 Antonio
 Moreno
 pues
@@ -3386,7 +3370,7 @@ tiene
 el
 perfil
 informático
-.
+19:20
 bueno
 había
 una
@@ -3396,7 +3380,7 @@ contribuciones
 que
 podían
 hacer
-.
+19:24
 hacían
 énfasis
 en
@@ -3417,7 +3401,7 @@ aplicado
 al
 dominio
 médico
-.
+19:32
 es
 decir
 analizando
@@ -3446,7 +3430,7 @@ interés
 para
 el
 buscador
-.
+19:42
 o
 sea
 pues
@@ -3472,7 +3456,7 @@ hospitales
 sacar
 esas
 relaciones
-.
+19:52
 bueno
 pues
 toda
@@ -3482,7 +3466,7 @@ de
 de
 de
 cuestiones
-.
+19:59
 el
 papel
 de
@@ -3491,7 +3475,6 @@ Universidad
 Europea
 pues
 igualmente
-.
 aquí
 el
 equipo
@@ -3570,7 +3553,7 @@ que
 podía
 trabajar
 aquí
-.
+20:27
 y
 había
 distintos
@@ -3584,7 +3567,7 @@ hacer
 en
 el
 proyecto
-.
+20:33
 por
 ejemplo
 podíamos
@@ -3618,7 +3601,7 @@ particular
 en
 este
 programa
-.
+20:42
 como
 os
 decía
@@ -3670,7 +3653,7 @@ el
 papel
 de
 coordinador
-.
+20:56
 también
 buscar
 oportunidades
@@ -3687,7 +3670,7 @@ que
 ahora
 mismo
 participamos
-.
+21:02
 tenemos
 dos
 proyectos
@@ -3726,7 +3709,7 @@ el
 de
 la
 Medicina
-.
+21:15
 y
 después
 el
@@ -3756,7 +3739,7 @@ de
 desarrollo
 de
 tecnología
-.
+21:26
 bueno
 son
 dos
@@ -3783,7 +3766,7 @@ todo
 este
 trabajo
 relaciones
-.
+21:35
 aquí
 en
 esta
@@ -3805,7 +3788,7 @@ hospital
 proponía
 para
 trabajar
-.
+21:43
 así
 que
 tienen
@@ -3888,7 +3871,7 @@ salud
 concretos
 que
 tiene
-.
+22:12
 obviamente
 todo
 este
@@ -3899,7 +3882,6 @@ hay
 que
 anonimizarla
 no
-.
 esta
 incluso
 es
@@ -3908,7 +3890,6 @@ cuestión
 bastante
 relevante
 no
-.
 entrar
 en
 ese
@@ -3922,7 +3903,7 @@ técnicamente
 y
 cuestiones
 legales
-.
+22:23
 y
 bueno
 pues
@@ -3951,7 +3932,7 @@ relevantes
 para
 un
 proyecto
-.
+22:30
 para
 plantear
 la
@@ -3984,7 +3965,7 @@ de
 puesta
 en
 común
-.
+22:42
 pues
 hay
 que
@@ -3994,11 +3975,9 @@ una
 serie
 de
 interrogantes
-.
 ahí
 aparecen
 algunos
-.
 lo
 primero
 es
@@ -4018,7 +3997,7 @@ convocatorias
 tenemos
 que
 resolverla
-.
+22:51
 tenemos
 por
 ejemplo
@@ -4061,12 +4040,11 @@ bueno
 no
 lo
 sé
-.
+23:02
 el
 consorcio
 cómo
 fijarlo
-.
 pues
 aquí
 estamos
@@ -4075,7 +4053,6 @@ cuatro
 entidades
 de
 MAVIR
-.
 la
 orientación
 es
@@ -4083,7 +4060,6 @@ que
 esto
 estuviese
 abierto
-.
 pues
 ver
 si
@@ -4120,12 +4096,11 @@ proyectos
 en
 distintos
 programas
-.
+23:22
 qué
 tipo
 de
 proyecto
-.
 dentro
 esto
 sería
@@ -4141,7 +4116,7 @@ de
 la
 convocatoria
 PROFIT
-.
+23:30
 pues
 hay
 diferentes
@@ -4149,7 +4124,6 @@ tipos
 de
 de
 proyectos
-.
 por
 ejemplo
 el
@@ -4174,7 +4148,7 @@ de
 desarrollo
 previo
 competitivo
-.
+23:40
 interrogantes
 funcionalidades
 hemos
@@ -4190,7 +4164,7 @@ más
 pero
 podríamos
 ampliarlas
-.
+23:47
 otra
 cuestión
 también
@@ -4218,7 +4192,7 @@ es
 el
 propio
 presupuesto
-.
+23:55
 como
 referencia
 por
@@ -4248,7 +4222,7 @@ y
 solicitada
 una
 ampliación
-.
+24:05
 la
 fase
 uno
@@ -4264,7 +4238,7 @@ doscientos
 treinta
 y
 cuatro
-.
+24:09
 es
 esto
 suficiente
@@ -4273,7 +4247,6 @@ lo
 que
 queremos
 hacer
-.
 cuántas
 entidades
 participantes
@@ -4288,14 +4261,13 @@ términos
 económicos
 estamos
 hablando
-.
+24:17
 pues
 también
 hay
 que
 verlo
 no
-.
 si
 es
 una
@@ -4307,22 +4279,19 @@ una
 mucho
 más
 grande
-.
 y
 con
 esto
 termino
 por
 ahora
-.
+24:25
 muchas
 gracias
-.
 pues
 muchas
 gracias
 Manolo
-.
 le
 agradecemos
 la
@@ -4336,7 +4305,7 @@ sobre
 el
 tiempo
 estimado
-.
+24:32
 ahora
 Isidro
 creo
@@ -4345,14 +4314,14 @@ aprovechará
 esos
 tres
 minutos
-.
+24:36
 pues
 hola
 buenos
 días
 a
 todos
-.
+24:57
 esta
 es
 una
@@ -4397,7 +4366,7 @@ Información
 y
 Documentación
 Científica
-.
+25:11
 hemos
 puesto
 la
@@ -4417,7 +4386,7 @@ trabajan
 en
 este
 idioma
-.
+25:18
 lamentablemente
 como
 mi
@@ -4462,12 +4431,11 @@ todos
 ustedes
 puedan
 entenderlo
-.
+25:33
 es
 la
 única
 razón
-.
 bueno
 dicho
 esto
@@ -4494,7 +4462,7 @@ fundamentalmente
 con
 los
 contenidos
-.
+25:45
 es
 decir
 la
@@ -4536,7 +4504,7 @@ centrarse
 en
 los
 contenidos
-.
+26:01
 y
 por
 tanto
@@ -4546,7 +4514,6 @@ es
 trabajar
 esos
 contenidos
-.
 vamos
 a
 hacerlo
@@ -4589,7 +4556,7 @@ poco
 un
 poco
 raro
-.
+26:22
 así
 que
 en
@@ -4631,7 +4598,7 @@ fundamentalmente
 en
 la
 Web
-.
+26:35
 vamos
 a
 intentar
@@ -4693,7 +4660,7 @@ cierto
 grado
 de
 solapamiento
-.
+26:57
 veremos
 cuáles
 son
@@ -4743,7 +4710,7 @@ poder
 desarrollar
 el
 trabajo
-.
+27:17
 lo
 primero
 lo
@@ -4770,7 +4737,7 @@ que
 está
 creciendo
 exponencialmente
-.
+27:27
 es
 decir
 de
@@ -4804,7 +4771,7 @@ en
 en
 esa
 estructura
-.
+27:40
 lo
 que
 hacemos
@@ -4842,7 +4809,7 @@ un
 fuerte
 componente
 institucional
-.
+27:55
 es
 decir
 que
@@ -4876,7 +4843,7 @@ permitan
 un
 análisis
 comparativo
-.
+28:08
 por
 tanto
 la
@@ -4902,7 +4869,7 @@ trabajar
 con
 todo
 esto
-.
+28:17
 pero
 les
 voy
@@ -5012,13 +4979,12 @@ momento
 no
 estamos
 logrando
-.
+28:52
 existen
 unas
 importantes
 brechas
 digitales
-.
 brechas
 digitales
 algunas
@@ -5036,7 +5002,7 @@ los
 profundas
 que
 son
-.
+29:00
 y
 sobre
 todo
@@ -5077,13 +5043,12 @@ moviendo
 el
 mundo
 académico
-.
+29:12
 por
 qué
 elegimos
 la
 academia
-.
 bueno
 pues
 es
@@ -5137,7 +5102,7 @@ vamos
 a
 a
 obtener
-.
+29:32
 es
 evidente
 que
@@ -5166,7 +5131,7 @@ aplicando
 con
 mayor
 fuerza
-.
+29:43
 también
 es
 cierto
@@ -5203,7 +5168,7 @@ también
 facilita
 nuestra
 labor
-.
+29:58
 también
 es
 fácil
@@ -5247,7 +5212,7 @@ los
 motores
 de
 búsqueda
-.
+30:13
 de
 aquí
 nos
@@ -5294,7 +5259,7 @@ a
 a
 la
 Internet
-.
+30:29
 el
 último
 punto
@@ -5356,12 +5321,11 @@ universalidad
 que
 permita
 trabajar
-.
+30:52
 cómo
 vamos
 a
 hacerlo
-.
 pues
 en
 principio
@@ -5386,7 +5350,7 @@ lo
 más
 explicativo
 posible
-.
+31:01
 vamos
 a
 intentar
@@ -5433,7 +5397,7 @@ publica
 en
 la
 web
-.
+31:17
 la
 medida
 que
@@ -5446,7 +5410,7 @@ medida
 fundamentalmente
 de
 visibilidad
-.
+31:21
 y
 vuelvo
 a
@@ -5459,7 +5423,6 @@ dicho
 los
 compañeros
 anteriormente
-.
 la
 visibilidad
 hoy
@@ -5492,7 +5455,7 @@ estuviera
 en
 la
 red
-.
+31:32
 por
 tanto
 vamos
@@ -5506,7 +5469,7 @@ obtener
 los
 datos
 cuantitativos
-.
+31:38
 y
 lo
 que
@@ -5551,13 +5514,12 @@ de
 los
 enlaces
 hipertextuales
-.
+31:52
 que
 tienen
 algunas
 ventajas
 evidentes
-.
 la
 más
 obvia
@@ -5604,7 +5566,7 @@ se
 establezca
 un
 enlace
-.
+32:11
 vuelvo
 en
 esta
@@ -5637,7 +5599,7 @@ proceso
 de
 comunicación
 académica
-.
+32:22
 pero
 se
 puede
@@ -5692,7 +5654,7 @@ los
 procesos
 de
 comunicación
-.
+32:41
 les
 he
 puesto
@@ -5718,7 +5680,7 @@ la
 Universidad
 de
 Harvard
-.
+32:48
 es
 simplemente
 un
@@ -5738,7 +5700,7 @@ mil
 trescientas
 subunidades
 reconocidas
-.
+32:54
 o
 por
 ejemplo
@@ -5785,7 +5747,7 @@ presencia
 en
 la
 red
-.
+33:08
 como
 pueden
 ver
@@ -5842,7 +5804,7 @@ compromiso
 con
 la
 Web
-.
+33:25
 es
 decir
 si
@@ -5859,13 +5821,12 @@ qué
 volumen
 de
 información
-.
+33:29
 con
 qué
 tipo
 de
 información
-.
 y
 sobre
 todo
@@ -5881,7 +5842,7 @@ está
 generando
 enlaces
 externos
-.
+33:36
 los
 resultados
 son
@@ -5927,7 +5888,7 @@ de
 lo
 que
 parece
-.
+33:52
 fíjense
 ustedes
 que
@@ -5998,7 +5959,7 @@ el
 peso
 es
 abrumador
-.
+34:17
 yo
 siempre
 señalo
@@ -6009,24 +5970,19 @@ las
 presencias
 las
 carencias
-.
 dónde
 está
 España
-.
 dónde
 está
 Francia
-.
 dónde
 está
 Italia
-.
 qué
 peso
 tiene
 Japón
-.
 parece
 increíble
 pero
@@ -6041,7 +5997,7 @@ claramente
 en
 esta
 lista
-.
+34:32
 les
 diré
 que
@@ -6064,7 +6020,7 @@ y
 ocho
 del
 mundo
-.
+34:37
 cuáles
 son
 los
@@ -6080,7 +6036,7 @@ vamos
 a
 intentar
 resolver
-.
+34:42
 bueno
 pues
 en
@@ -6114,7 +6070,7 @@ un
 carácter
 estrictamente
 académico
-.
+34:54
 algunos
 pueden
 ser
@@ -6127,7 +6083,7 @@ ajenos
 a
 este
 mundo
-.
+34:59
 hablemos
 pues
 de
@@ -6149,7 +6105,7 @@ pueden
 ser
 muy
 significativas
-.
+35:07
 el
 problema
 es
@@ -6219,7 +6175,7 @@ un
 millón
 de
 subunidades
-.
+35:28
 lo
 cual
 no
@@ -6227,7 +6183,6 @@ es
 una
 cantidad
 excesiva
-.
 creemos
 que
 no
@@ -6254,7 +6209,7 @@ términos
 en
 herramientas
 automáticas
-.
+35:39
 aparte
 de
 eso
@@ -6295,7 +6250,7 @@ de
 las
 propias
 páginas
-.
+35:51
 incluso
 cuando
 nos
@@ -6328,7 +6283,7 @@ un
 control
 que
 digamos
-.
+36:02
 el
 problema
 es
@@ -6354,7 +6309,7 @@ que
 aparecen
 distintos
 idiomas
-.
+36:10
 en
 esas
 tres
@@ -6398,7 +6353,7 @@ extenderlo
 a
 estas
 áreas
-.
+36:28
 un
 un
 un
@@ -6420,7 +6375,7 @@ la
 gran
 institución
 eh
-.
+36:35
 que
 puede
 tener
@@ -6466,7 +6421,7 @@ nivel
 que
 hemos
 comentado
-.
+36:51
 y
 finalmente
 el
@@ -6492,7 +6447,7 @@ corresponda
 a
 entidades
 comparables
-.
+37:01
 habrá
 grupos
 de
@@ -6559,13 +6514,12 @@ comparaciones
 estas
 tengan
 sentido
-.
+37:25
 cómo
 lo
 vamos
 a
 hacer
-.
 pues
 evidentemente
 contamos
@@ -6582,7 +6536,7 @@ de
 procesamiento
 del
 lenguaje
-.
+37:32
 nuestra
 idea
 es
@@ -6615,7 +6569,7 @@ o
 veinticinco
 grandes
 disciplinas
-.
+37:47
 la
 idea
 fundamental
@@ -6638,7 +6592,7 @@ un
 mayor
 peso
 político
-.
+37:55
 piensen
 que
 en
@@ -6662,7 +6616,7 @@ UNESCO
 utiliza
 ya
 eh
-.
+38:02
 en
 España
 sin
@@ -6725,7 +6679,7 @@ el
 BOE
 español
 eh
-.
+38:23
 aparte
 de
 eso
@@ -6753,7 +6707,7 @@ aproximadamente
 veintiséis
 mil
 subunidades
-.
+38:35
 fíjense
 estamos
 proponiendo
@@ -6797,7 +6751,7 @@ Europea
 de
 los
 quince
-.
+38:50
 este
 resultado
 pues
@@ -6809,7 +6763,7 @@ de
 ayuda
 al
 trabajo
-.
+38:55
 aparte
 de
 la
@@ -6856,7 +6810,7 @@ como
 a
 nivel
 geográfico
-.
+39:14
 institucional
 pues
 el
@@ -6896,7 +6850,7 @@ desarrollo
 con
 países
 desarrollados
-.
+39:30
 esto
 obviamente
 estamos
@@ -6918,7 +6872,7 @@ nivel
 de
 idioma
 etcétera
-.
+39:37
 este
 es
 el
@@ -6947,7 +6901,7 @@ dado
 veintiséis
 mil
 subunidades
-.
+39:48
 este
 es
 un
@@ -7007,7 +6961,7 @@ realizar
 las
 programaciones
 oportunas
-.
+40:08
 o
 por
 ejemplo
@@ -7060,14 +7014,13 @@ una
 universidad
 de
 Escocia
-.
+40:26
 los
 criterios
 los
 tenemos
 que
 definir
-.
 hay
 que
 hacer
@@ -7077,7 +7030,6 @@ trabajo
 en
 este
 sentido
-.
 aquí
 les
 saco
@@ -7105,7 +7057,7 @@ pesos
 ad
 ad
 hoc
-.
+40:39
 que
 no
 necesariamente
@@ -7136,7 +7088,7 @@ mejorar
 en
 el
 futuro
-.
+40:52
 el
 objetivo
 último
@@ -7153,7 +7105,7 @@ datos
 intentaremos
 construir
 indicadores
-.
+40:57
 a
 partir
 de
@@ -7164,7 +7116,7 @@ análisis
 y
 sacaremos
 conclusiones
-.
+41:02
 yo
 creo
 que
@@ -7173,7 +7125,6 @@ principal
 ya
 la
 adelanto
-.
 es
 combatir
 un
@@ -7211,7 +7162,7 @@ es
 un
 problema
 real
-.
+41:16
 e
 intentaremos
 sacarlo
@@ -7240,7 +7191,7 @@ análisis
 tradicional
 de
 contenidos
-.
+41:26
 algo
 también
 muy
@@ -7265,7 +7216,7 @@ que
 creemos
 muy
 importante
-.
+41:33
 e
 incluso
 desde
@@ -7297,7 +7248,7 @@ que
 que
 se
 dé
-.
+41:42
 al
 final
 nuestro
@@ -7312,7 +7263,7 @@ y
 de
 más
 áreas
-.
+41:48
 como
 he
 comentado
@@ -7369,13 +7320,12 @@ de
 nuestros
 objetivos
 finales
-.
+42:09
 cómo
 lo
 vamos
 a
 financiar
-.
 yo
 le
 doy
@@ -7406,7 +7356,7 @@ convocatoria
 del
 plan
 nacional
-.
+42:20
 Felisa
 ha
 aceptado
@@ -7414,7 +7364,6 @@ dirigir
 el
 el
 consorcio
-.
 y
 la
 idea
@@ -7428,7 +7377,7 @@ resolver
 los
 dos
 problemas
-.
+42:27
 la
 parte
 de
@@ -7504,7 +7453,7 @@ será
 avanzar
 más
 adelante
-.
+42:53
 y
 si
 quieren
@@ -7520,12 +7469,10 @@ estamos
 a
 su
 disposición
-.
+42:58
 muchísimas
 gracias
-.
 gracias
-.
 pues
 también
 te
@@ -7547,10 +7494,9 @@ que
 podías
 haber
 contado
-.
+43:11
 muchas
 gracias
-.
 y
 ahora
 ya
@@ -7559,13 +7505,12 @@ damos
 paso
 a
 Paloma
-.
 bueno
 buenos
 días
 a
 todos
-.
+43:29
 yo
 os
 voy
@@ -7599,7 +7544,7 @@ el
 marco
 del
 MAVIR
-.
+43:40
 bueno
 ha
 sido
@@ -7615,7 +7560,6 @@ se
 han
 presentado
 aquí
-.
 es
 también
 en
@@ -7667,7 +7611,7 @@ ido
 por
 otros
 derroteros
-.
+44:05
 lo
 que
 voy
@@ -7695,7 +7639,7 @@ la
 Universidad
 Carlos
 III
-.
+44:13
 es
 plantear
 una
@@ -7734,7 +7678,7 @@ el
 seis
 de
 noviembre
-.
+44:24
 en
 esa
 reunión
@@ -7778,7 +7722,7 @@ García
 y
 Paz
 Iglesias
-.
+44:37
 entonces
 dios
 mío
@@ -7820,7 +7764,7 @@ en
 las
 que
 trabajar
-.
+45:02
 ver
 un
 poco
@@ -7857,7 +7801,7 @@ a
 transmitir
 hoy
 aquí
-.
+45:14
 y
 luego
 centrarnos
@@ -7872,7 +7816,7 @@ del
 plan
 de
 trabajo
-.
+45:18
 no
 es
 que
@@ -7892,7 +7836,7 @@ nosotros
 eran
 muy
 importantes
-.
+45:24
 el
 problema
 es
@@ -7935,7 +7879,7 @@ distintos
 servicios
 del
 hospital
-.
+45:41
 y
 nos
 dijeron
@@ -7997,7 +7941,7 @@ ontología
 sobre
 terminología
 médica
-.
+46:06
 pues
 querían
 centrar
@@ -8011,7 +7955,7 @@ a
 este
 recurso
 no
-.
+46:11
 en
 este
 primer
@@ -8019,7 +7963,6 @@ paso
 de
 estandarización
 digamos
-.
 lo
 que
 buscaban
@@ -8046,7 +7989,7 @@ trabajando
 con
 distintas
 fuentes
-.
+46:25
 y
 que
 todos
@@ -8068,7 +8011,7 @@ este
 a
 este
 recurso
-.
+46:31
 entonces
 bueno
 de
@@ -8090,7 +8033,7 @@ unas
 dimensiones
 bastante
 interesantes
-.
+46:41
 es
 una
 especie
@@ -8141,7 +8084,7 @@ novecientas
 mil
 relaciones
 semánticas
-.
+47:08
 bueno
 además
 incorpora
@@ -8162,7 +8105,7 @@ se
 puede
 trabajar
 no
-.
+47:14
 de
 alguna
 manera
@@ -8192,7 +8135,7 @@ de
 estandarización
 de
 formularios
-.
+47:29
 es
 decir
 no
@@ -8236,7 +8179,7 @@ ajuste
 a
 esta
 ontología
-.
+47:44
 algunos
 tienen
 dominios
@@ -8248,7 +8191,7 @@ son
 texto
 texto
 libre
-.
+47:53
 entonces
 esto
 les
@@ -8267,7 +8210,7 @@ en
 estos
 formularios
 no
-.
+47:58
 que
 tienen
 en
@@ -8276,7 +8219,6 @@ en
 todos
 los
 servicios
-.
 entonces
 quieren
 manejar
@@ -8292,7 +8234,7 @@ de
 dentro
 del
 hospital
-.
+48:07
 esto
 les
 interesa
@@ -8321,7 +8263,7 @@ sanitaria
 en
 los
 pacientes
-.
+48:18
 es
 el
 dominio
@@ -8334,7 +8276,7 @@ empezar
 a
 a
 trabajar
-.
+48:22
 además
 también
 les
@@ -8355,7 +8297,7 @@ trabajar
 es
 estudios
 epidemiológicos
-.
+48:33
 es
 sobre
 precisamente
@@ -8375,7 +8317,7 @@ resulta
 difícil
 obtener
 indicadores
-.
+48:43
 por
 ahora
 obtienen
@@ -8406,7 +8348,7 @@ de
 data
 mining
 no
-.
+48:54
 por
 ejemplo
 aquí
@@ -8441,7 +8383,7 @@ un
 poco
 compleja
 no
-.
+49:06
 estos
 que
 aparecen
@@ -8475,7 +8417,7 @@ de
 estos
 formularios
 no
-.
+49:17
 entonces
 el
 tema
@@ -8494,7 +8436,7 @@ de
 las
 alergias
 no
-.
+49:21
 que
 no
 puedas
@@ -8529,7 +8471,7 @@ pues
 esté
 esté
 controlado
-.
+49:33
 como
 tercer
 tercera
@@ -8571,7 +8513,7 @@ en
 distintas
 fuentes
 no
-.
+49:53
 entonces
 de
 manera
@@ -8592,7 +8534,7 @@ Google
 del
 paciente
 no
-.
+49:59
 de
 tal
 manera
@@ -8638,7 +8580,7 @@ de
 manera
 manual
 no
-.
+50:19
 bueno
 pues
 además
@@ -8672,7 +8614,7 @@ luego
 también
 navegación
 semántica
-.
+50:32
 esta
 es
 otra
@@ -8698,7 +8640,7 @@ también
 importante
 para
 ellos
-.
+50:39
 la
 última
 es
@@ -8712,7 +8654,6 @@ de
 gestión
 de
 formularios
-.
 es
 en
 la
@@ -8750,7 +8691,7 @@ y
 en
 algo
 puntual
-.
+50:56
 para
 ver
 cómo
@@ -8781,7 +8722,7 @@ de
 de
 instalable
 no
-.
+51:05
 y
 que
 se
@@ -8810,7 +8751,7 @@ introducción
 de
 de
 datos
-.
+51:16
 el
 objetivo
 de
@@ -8834,7 +8775,7 @@ hospitales
 de
 la
 CAM
-.
+51:23
 es
 que
 bueno
@@ -8853,7 +8794,7 @@ la
 historia
 clínica
 electrónica
-.
+51:30
 y
 no
 quieren
@@ -8891,7 +8832,7 @@ que
 no
 son
 estándares
-.
+51:44
 si
 por
 ejemplo
@@ -8919,7 +8860,7 @@ para
 normalizar
 información
 médica
-.
+51:54
 ellos
 saben
 que
@@ -8961,7 +8902,7 @@ de
 estandarización
 y
 normalización
-.
+52:11
 entonces
 este
 primer
@@ -8981,7 +8922,7 @@ además
 existe
 en
 castellano
-.
+52:19
 o
 sea
 los
@@ -9006,7 +8947,7 @@ donde
 hasta
 donde
 sabemos
-.
+52:25
 bueno
 esto
 en
@@ -9019,7 +8960,7 @@ que
 nos
 han
 planteado
-.
+52:30
 nos
 han
 planteado
@@ -9074,7 +9015,7 @@ gestión
 espacio
 temporal
 no
-.
+52:48
 pues
 tratar
 las
@@ -9125,7 +9066,7 @@ de
 tumores
 por
 ejemplo
-.
+53:08
 y
 bueno
 yo
@@ -9140,7 +9081,7 @@ había
 más
 más
 posibilidades
-.
+53:14
 lo
 que
 nosotros
@@ -9188,7 +9129,7 @@ genérico
 dentro
 del
 hospital
-.
+53:32
 y
 pues
 intentar
@@ -9199,7 +9140,7 @@ estos
 cuatro
 grandes
 bloques
-.
+53:38
 por
 ejemplo
 pues
@@ -9228,7 +9169,7 @@ de
 seguridad
 en
 pacientes
-.
+53:49
 pero
 no
 se
@@ -9245,7 +9186,7 @@ a
 ser
 en
 particular
-.
+53:53
 en
 cuanto
 al
@@ -9309,7 +9250,7 @@ gestión
 de
 de
 ontologías
-.
+54:23
 por
 parte
 de
@@ -9340,7 +9281,7 @@ de
 búsqueda
 de
 respuestas
-.
+54:35
 y
 también
 esta
@@ -9354,7 +9295,7 @@ base
 de
 datos
 espaciotemporales
-.
+54:40
 pero
 no
 tenemos
@@ -9374,7 +9315,7 @@ falta
 en
 este
 proyecto
-.
+54:46
 por
 ejemplo
 no
@@ -9396,7 +9337,7 @@ Google
 del
 del
 paciente
-.
+54:53
 en
 cuanto
 al
@@ -9422,7 +9363,7 @@ los
 análisis
 de
 requisitos
-.
+55:02
 sobre
 todo
 aportar
@@ -9479,7 +9420,7 @@ sobre
 la
 que
 trabajar
-.
+55:21
 y
 por
 supuesto
@@ -9495,7 +9436,7 @@ falta
 otros
 participantes
 no
-.
+55:26
 ya
 solamente
 deciros
@@ -9526,7 +9467,7 @@ con
 de
 distintas
 fuentes
-.
+55:41
 pues
 el
 objetivo
@@ -9558,7 +9499,7 @@ las
 que
 trabajáramos
 no
-.
+55:53
 y
 aquí
 estas
@@ -9587,7 +9528,7 @@ y
 gestión
 de
 formularios
-.
+56:07
 con
 prioridad
 al
@@ -9608,7 +9549,7 @@ más
 más
 importante
 no
-.
+56:14
 y
 bueno
 en
@@ -9657,7 +9598,7 @@ intentar
 implantar
 esta
 ontología
-.
+56:36
 para
 luego
 trabajar
@@ -9706,7 +9647,7 @@ muy
 muy
 breve
 no
-.
+56:52
 esta
 espiral
 que
@@ -9744,7 +9685,7 @@ distintos
 a
 distintos
 dominios
-.
+57:06
 para
 ver
 si
@@ -9773,7 +9714,7 @@ a
 un
 único
 dominio
-.
+57:19
 y
 bueno
 pues
@@ -9782,4 +9723,3 @@ mi
 parte
 nada
 más
-.

@@ -13,7 +13,7 @@ casi
 todos
 lo
 conocéis
-.
+00:07
 nació
 en
 el
@@ -42,7 +42,7 @@ cultura
 española
 hispánica
 internacionalmente
-.
+00:18
 en
 la
 actualidad
@@ -61,7 +61,7 @@ otras
 diez
 aulas
 virtuales
-.
+00:24
 llamamos
 aulas
 virtuales
@@ -73,7 +73,7 @@ de
 las
 universidades
 internacionales
-.
+00:32
 uno
 de
 los
@@ -95,7 +95,7 @@ del
 español
 en
 Internet
-.
+00:39
 ya
 desde
 sus
@@ -119,7 +119,7 @@ poco
 es
 tan
 reciente
-.
+00:46
 el
 Instituto
 Cervantes
@@ -152,7 +152,7 @@ días
 de
 la
 semana
-.
+00:59
 el
 centro
 virtual
@@ -176,7 +176,7 @@ medio
 de
 visitas
 mensuales
-.
+01:08
 os
 he
 puesto
@@ -196,7 +196,7 @@ tenido
 en
 las
 visitas
-.
+01:15
 tan
 importante
 como
@@ -223,7 +223,7 @@ puedan
 ser
 localizados
 fácilmente
-.
+01:26
 desde
 ese
 punto
@@ -265,7 +265,7 @@ en
 español
 en
 general
-.
+01:43
 entonces
 creó
 o
@@ -331,7 +331,7 @@ y
 el
 idioma
 español
-.
+02:06
 este
 motor
 también
@@ -359,7 +359,7 @@ URLs
 o
 direcciones
 especializadas
-.
+02:19
 en
 la
 transparencia
@@ -377,7 +377,7 @@ compone
 el
 proyecto
 no
-.
+02:27
 hay
 un
 metabuscador
@@ -430,7 +430,7 @@ que
 complementan
 esa
 información
-.
+02:52
 hay
 un
 robot
@@ -466,7 +466,7 @@ inteligente
 a
 la
 información
-.
+03:10
 en
 el
 Instituto
@@ -498,7 +498,7 @@ del
 ce
 uve
 ce
-.
+03:22
 contempla
 más
 de
@@ -524,7 +524,7 @@ realizar
 búsquedas
 más
 amplias
-.
+03:34
 estos
 enlaces
 están
@@ -555,7 +555,7 @@ espera
 de
 esas
 páginas
-.
+03:49
 y
 bueno
 un
@@ -607,15 +607,14 @@ existentes
 en
 lengua
 española
-.
+04:06
 muchas
 gracias
-.
 buenos
 días
 a
 todos
-.
+04:12
 mi
 intención
 es
@@ -657,7 +656,7 @@ el
 proyecto
 en
 sí
-.
+04:30
 Telefónica
 a
 través
@@ -702,7 +701,7 @@ y
 subvencionando
 ciertos
 proyectos
-.
+04:54
 ciertos
 proyectos
 actividades
@@ -718,7 +717,7 @@ un
 sociocultural
 y
 educativo
-.
+05:04
 de
 esta
 forma
@@ -785,7 +784,7 @@ de
 los
 menores
 trabajadores
-.
+05:37
 otro
 programa
 bastante
@@ -830,7 +829,7 @@ como
 Arte
 y
 Tecnología
-.
+06:02
 Arte
 y
 tecnología
@@ -852,7 +851,7 @@ noventa
 la
 Fundación
 Telefónica
-.
+06:09
 y
 nació
 para
@@ -864,7 +863,7 @@ artístico
 cultural
 y
 tecnológico
-.
+06:16
 actualmente
 tiene
 una
@@ -911,7 +910,6 @@ recreaciones
 hechas
 con
 tecnologías
-3D
 de
 los
 más
@@ -928,7 +926,7 @@ presencia
 la
 Fundación
 Telefónica
-.
+06:42
 por
 último
 un
@@ -964,7 +962,7 @@ o
 de
 algunos
 otros
-.
+07:02
 la
 dirección
 general
@@ -1027,12 +1025,11 @@ mejora
 de
 la
 educación
-.
+07:37
 te
 importa
 volver
 atrás
-.
 alguno
 de
 estos
@@ -1145,9 +1142,8 @@ virtual
 Miguel
 de
 Cervantes
-.
+08:30
 gracias
-.
 el
 patrocinio
 de
@@ -1184,7 +1180,7 @@ con
 los
 organismos
 implicados
-.
+08:47
 en
 cuanto
 a
@@ -1207,7 +1203,7 @@ ID
 y
 Telefónica
 Soluciones
-.
+08:55
 y
 bien
 estas
@@ -1245,7 +1241,7 @@ la
 de
 la
 Cogolla
-.
+09:12
 son
 proyectos
 de
@@ -1296,7 +1292,7 @@ de
 de
 Telefónica
 Soluciones
-.
+09:39
 otros
 proyectos
 un
@@ -1332,7 +1328,7 @@ nivel
 de
 soporte
 técnico
-.
+09:52
 ofreció
 para
 la
@@ -1351,7 +1347,7 @@ las
 pruebas
 del
 proyecto
-.
+10:01
 y
 de
 acuerdo
@@ -1399,7 +1395,7 @@ implementación
 de
 este
 proyecto
-.
+10:21
 y
 yo
 sin
@@ -1408,26 +1404,23 @@ pasaría
 a
 la
 presentación
-.
+10:25
 muchas
 gracias
-.
 buenos
 días
 a
 todos
 muchas
 gracias
-.
+10:30
 micrófono
 micrófono
-.
 muy
 buenos
 días
 a
 todos
-.
 bueno
 pues
 ya
@@ -1447,7 +1440,7 @@ técnica
 del
 asunto
 no
-.
+10:42
 la
 el
 diseño
@@ -1469,7 +1462,7 @@ hemos
 llevado
 a
 cabo
-.
+10:48
 desde
 un
 primer
@@ -1506,7 +1499,7 @@ que
 cumplir
 el
 proyecto
-.
+11:00
 la
 primera
 pues
@@ -1514,7 +1507,6 @@ es
 desarrollar
 un
 sistema
-.
 era
 un
 sistema
@@ -1531,7 +1523,7 @@ cultura
 y
 lengua
 española
-.
+11:08
 eso
 palabra
 panhispánico
@@ -1545,7 +1537,7 @@ en
 todo
 el
 mundo
-.
+11:14
 y
 centrado
 especialmente
@@ -1553,7 +1545,7 @@ en
 contenidos
 de
 calidad
-.
+11:18
 para
 eso
 existen
@@ -1595,7 +1587,7 @@ sino
 con
 algo
 más
-.
+11:35
 las
 direcciones
 entonces
@@ -1614,7 +1606,7 @@ ese
 conjunto
 de
 expertos
-.
+11:43
 y
 luego
 bueno
@@ -1661,7 +1653,7 @@ de
 los
 la
 información
-.
+12:02
 ésta
 es
 un
@@ -1711,7 +1703,7 @@ español
 en
 la
 red
-.
+12:17
 ya
 todos
 sabemos
@@ -1759,7 +1751,7 @@ a
 la
 lengua
 española
-.
+12:34
 todos
 estos
 eran
@@ -1810,7 +1802,7 @@ forma
 modular
 de
 forma
-.
+12:51
 y
 en
 este
@@ -1842,7 +1834,7 @@ os
 ha
 puesto
 Rosa
-.
+13:01
 la
 idea
 de
@@ -1866,7 +1858,7 @@ una
 serie
 de
 fichas
-.
+13:11
 o
 sea
 a
@@ -1899,7 +1891,7 @@ el
 concepto
 de
 ficha
-.
+13:21
 una
 ficha
 está
@@ -1928,7 +1920,7 @@ un
 poco
 de
 ella
-.
+13:32
 y
 además
 pues
@@ -1968,7 +1960,7 @@ que
 aporta
 esa
 ficha
-.
+13:45
 bueno
 pues
 bien
@@ -2003,7 +1995,7 @@ un
 equipo
 de
 catalogadores
-.
+13:56
 siempre
 me
 ha
@@ -2018,7 +2010,7 @@ bueno
 es
 verdad
 no
-.
+14:00
 entonces
 el
 equipo
@@ -2057,7 +2049,7 @@ diferentes
 motores
 en
 Internet
-.
+14:15
 el
 sistema
 es
@@ -2102,7 +2094,7 @@ Google
 Altavista
 y
 Alltheweb
-.
+14:28
 entonces
 el
 metabuscador
@@ -2161,7 +2153,7 @@ resultados
 y
 se
 almacenan
-.
+14:53
 entonces
 después
 cuando
@@ -2208,7 +2200,7 @@ información
 de
 alto
 valor
-.
+15:10
 esas
 fichas
 se
@@ -2236,7 +2228,7 @@ almacenado
 en
 esa
 ficha
-.
+15:24
 después
 se
 define
@@ -2301,7 +2293,7 @@ parte
 del
 catálogo
 general
-.
+15:46
 bueno
 el
 caso
@@ -2353,7 +2345,7 @@ de
 recuperación
 de
 información
-.
+16:03
 en
 concreto
 bueno
@@ -2384,7 +2376,7 @@ y
 vectores
 típico
 tradicional
-.
+16:18
 y
 luego
 pues
@@ -2404,7 +2396,7 @@ objetivo
 último
 del
 sistema
-.
+16:25
 todos
 estos
 módulos
@@ -2518,7 +2510,7 @@ de
 la
 ficha
 no
-.
+17:08
 esto
 es
 lo
@@ -2540,7 +2532,7 @@ de
 la
 arquitectura
 general
-.
+17:15
 como
 decía
 bueno
@@ -2551,7 +2543,6 @@ un
 poco
 repetición
 no
-.
 pues
 encontrar
 el
@@ -2559,7 +2550,6 @@ localizador
 de
 enlaces
 simplemente
-.
 una
 posibilidad
 que
@@ -2612,7 +2602,7 @@ llevar
 un
 cierto
 tiempo
-.
+17:37
 entonces
 se
 vio
@@ -2645,7 +2635,7 @@ poco
 offline
 si
 queréis
-.
+17:48
 pues
 primero
 se
@@ -2658,7 +2648,7 @@ ya
 se
 procesarán
 esos
-.
+17:53
 las
 se
 utilizan
@@ -2666,7 +2656,7 @@ diferentes
 criterios
 de
 búsqueda
-.
+17:57
 es
 un
 buen
@@ -2699,14 +2689,13 @@ que
 aportan
 los
 tres
-.
+18:08
 entonces
 vamos
 los
 los
 ene
 buscadores
-.
 en
 este
 caso
@@ -2744,7 +2733,7 @@ tenemos
 HTML
 pdf
 etcétera
-.
+18:22
 y
 y
 además
@@ -2769,7 +2758,7 @@ resultados
 en
 diferentes
 buscadores
-.
+18:32
 entonces
 tenemos
 que
@@ -2782,7 +2771,7 @@ que
 ya
 están
 catalogados
-.
+18:36
 los
 enlaces
 tenemos
@@ -2800,7 +2789,7 @@ tiene
 que
 estar
 consistente
-.
+18:44
 además
 se
 definen
@@ -2841,12 +2830,11 @@ los
 que
 otros
 buscadores
-.
+18:56
 es
 un
 ejemplo
 simplemente
-.
 respecto
 a
 la
@@ -2870,7 +2858,7 @@ catalogador
 crea
 una
 ficha
-.
+19:09
 esa
 ficha
 se
@@ -2947,7 +2935,7 @@ extracción
 de
 frases
 no
-.
+19:41
 se
 detecta
 el
@@ -3012,7 +3000,7 @@ ser
 de
 diferente
 temática
-.
+20:04
 y
 además
 dentro
@@ -3031,7 +3019,7 @@ tipos
 de
 categorías
 temáticas
-.
+20:12
 por
 ejemplo
 pues
@@ -3072,7 +3060,7 @@ principal
 y
 una
 secundaria
-.
+20:30
 toda
 esa
 información
@@ -3103,7 +3091,7 @@ facilitar
 la
 la
 labor
-.
+20:41
 entonces
 toda
 esta
@@ -3130,7 +3118,7 @@ a
 a
 los
 catalogadores
-.
+20:50
 además
 cada
 ficha
@@ -3175,7 +3163,7 @@ variar
 en
 el
 futuro
-.
+21:07
 entonces
 pues
 existe
@@ -3197,7 +3185,7 @@ lo
 largo
 del
 tiempo
-.
+21:14
 y
 por
 último
@@ -3281,7 +3269,7 @@ no
 el
 módulo
 buscador
-.
+21:49
 además
 bueno
 la
@@ -3343,7 +3331,7 @@ excluidos
 y
 demás
 historias
-.
+22:10
 entonces
 esos
 la
@@ -3397,7 +3385,7 @@ de
 alta
 calidad
 no
-.
+22:32
 el
 resto
 de
@@ -3419,7 +3407,7 @@ general
 se
 llama
 general
-.
+22:41
 las
 búsquedas
 ahí
@@ -3456,11 +3444,10 @@ pues
 está
 extraído
 automáticamente
-.
+22:52
 no
 está
 revisado
-.
 las
 propiedades
 de
@@ -3480,7 +3467,7 @@ alta
 pero
 puede
 fallar
-.
+22:58
 ese
 estilo
 de
@@ -3507,14 +3494,13 @@ extracción
 de
 información
 automática
-.
+23:06
 y
 ese
 es
 el
 catálogo
 general
-.
 por
 supuesto
 también
@@ -3559,7 +3545,7 @@ hay
 que
 actualizar
 periódicamente
-.
+23:28
 cada
 colección
 tiene
@@ -3568,7 +3554,6 @@ criterios
 diferentes
 de
 actualización
-.
 pues
 unas
 colecciones
@@ -3608,7 +3593,7 @@ simplemente
 colecciones
 de
 documentos
-.
+23:48
 pues
 todo
 eso
@@ -3618,7 +3603,6 @@ el
 robot
 de
 indexación
-.
 también
 es
 el
@@ -3649,7 +3633,7 @@ viniera
 en
 otros
 canales
-.
+24:04
 y
 bueno
 por
@@ -3675,7 +3659,7 @@ por
 todo
 el
 mundo
-.
+24:14
 el
 resto
 de
@@ -3740,7 +3724,7 @@ metido
 sobre
 esas
 fichas
-.
+24:39
 se
 han
 definido
@@ -3773,7 +3757,7 @@ al
 máximo
 al
 usuario
-.
+24:50
 buscando
 los
 diferentes
@@ -3808,7 +3792,7 @@ asistentes
 a
 los
 usuarios
-.
+25:06
 incidiendo
 en
 la
@@ -3819,7 +3803,7 @@ lingüístico
 de
 las
 consultas
-.
+25:11
 no
 hay
 que
@@ -3864,7 +3848,7 @@ directamente
 a
 la
 imagen
-.
+25:29
 es
 triste
 o
@@ -3874,7 +3858,7 @@ desafortunadamente
 pues
 pasa
 eso
-.
+25:34
 entonces
 hay
 que
@@ -3885,7 +3869,6 @@ mucho
 en
 esa
 calidad
-.
 se
 ofrecen
 múltiples
@@ -3918,7 +3901,7 @@ o
 piezas
 o
 escritos
-.
+25:49
 y
 se
 ofrecen
@@ -3966,7 +3949,7 @@ ahora
 en
 la
 demo
-.
+26:05
 y
 por
 último
@@ -3986,7 +3969,7 @@ definir
 todos
 estos
 parámetros
-.
+26:12
 esto
 es
 un
@@ -4020,7 +4003,7 @@ para
 configurar
 diferentes
 cosas
-.
+26:25
 pues
 entonces
 está
@@ -4055,7 +4038,7 @@ los
 procedimientos
 de
 backup
-.
+26:36
 todo
 ese
 tipo
@@ -4082,7 +4065,7 @@ sí
 que
 es
 importante
-.
+26:44
 y
 es
 uno
@@ -4097,7 +4080,7 @@ de
 del
 del
 sistema
-.
+26:51
 bueno
 pues
 esto
@@ -4106,7 +4089,7 @@ a
 la
 arquitectura
 software
-.
+26:55
 respecto
 a
 la
@@ -4196,7 +4179,7 @@ está
 implementado
 en
 PHP
-.
+27:31
 y
 bueno
 y
@@ -4217,7 +4200,7 @@ entre
 C
 y
 Java
-.
+27:40
 veis
 que
 un
@@ -4232,7 +4215,7 @@ complejo
 siempre
 pasa
 no
-.
+27:48
 en
 concreto
 respecto
@@ -4256,7 +4239,7 @@ vistas
 a
 su
 lanzamiento
-.
+27:56
 ya
 ha
 contado
@@ -4304,7 +4287,7 @@ menos
 las
 misma
 visitas
-.
+28:10
 entonces
 el
 el
@@ -4371,7 +4354,7 @@ catalogación
 y
 de
 indexación
-.
+28:38
 esas
 fichas
 son
@@ -4387,7 +4370,7 @@ pero
 eso
 está
 subiendo
-.
+28:43
 al
 final
 la
@@ -4422,7 +4405,7 @@ creciendo
 todos
 los
 días
-.
+28:55
 se
 supone
 que
@@ -4455,4 +4438,4 @@ se
 encarguen
 diferentes
 organizaciones
-.
+29:08

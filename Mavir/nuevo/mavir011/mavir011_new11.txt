@@ -1,8 +1,5 @@
-#!MLF!#
-*/mavir011_1.lab
 hola
 .
-*/mavir011_2.lab
 vale
 muchas
 gracias
@@ -16,7 +13,6 @@ por
 la
 presentación
 .
-*/mavir011_3.lab
 y
 bueno
 ya
@@ -43,7 +39,6 @@ ganado
 este
 premio
 .
-*/mavir011_4.lab
 y
 quería
 empezar
@@ -75,7 +70,6 @@ podemos
 ver
 aquí
 .
-*/mavir011_5.lab
 mi
 mayor
 también
@@ -93,7 +87,6 @@ tomar
 la
 decisión
 .
-*/mavir011_6.lab
 mi
 mayor
 agradecimiento
@@ -120,7 +113,6 @@ mi
 carrera
 investigadora
 .
-*/mavir011_7.lab
 también
 dar
 las
@@ -155,7 +147,6 @@ con
 mis
 investigaciones
 .
-*/mavir011_8.lab
 y
 en
 último
@@ -177,7 +168,6 @@ toda
 mi
 familia
 .
-*/mavir011_9.lab
 bueno
 vamos
 ahora
@@ -185,8 +175,6 @@ a
 ver
 la
 presentación
-.
-*/mavir011_10.lab
 este
 es
 el
@@ -198,8 +186,6 @@ seguir
 durante
 la
 presentación
-.
-*/mavir011_11.lab
 comenzaré
 realizando
 una
@@ -222,7 +208,6 @@ de
 la
 presentación
 .
-*/mavir011_12.lab
 entre
 ellos
 está
@@ -248,7 +233,6 @@ de
 este
 tipo
 .
-*/mavir011_13.lab
 a
 continuación
 realizaré
@@ -267,7 +251,6 @@ validación
 de
 respuestas
 .
-*/mavir011_14.lab
 y
 terminaré
 dando
@@ -284,13 +267,10 @@ que
 dio
 lugar
 .
-*/mavir011_15.lab
 empezamos
 por
 la
 introducción
-.
-*/mavir011_16.lab
 los
 sistemas
 de
@@ -324,7 +304,6 @@ de
 dicha
 respuesta
 .
-*/mavir011_17.lab
 al
 contrario
 de
@@ -368,7 +347,6 @@ nosotros
 las
 respuestas
 .
-*/mavir011_18.lab
 con
 lo
 cual
@@ -378,8 +356,6 @@ acceso
 a
 la
 información
-.
-*/mavir011_19.lab
 un
 ejemplo
 puede
@@ -388,8 +364,6 @@ el
 que
 muestro
 aquí
-.
-*/mavir011_20.lab
 para
 la
 pregunta
@@ -400,8 +374,6 @@ longitud
 de
 río
 Tajo
-.
-*/mavir011_21.lab
 podemos
 obtener
 de
@@ -409,8 +381,6 @@ un
 sistema
 la
 respuesta
-.
-*/mavir011_22.lab
 mil
 siete
 kilómetros
@@ -452,7 +422,6 @@ obtenida
 es
 correcta
 .
-*/mavir011_23.lab
 por
 otro
 lado
@@ -483,7 +452,6 @@ o
 no
 correctas
 .
-*/mavir011_24.lab
 para
 ello
 un
@@ -539,7 +507,6 @@ al
 texto
 soporte
 .
-*/mavir011_25.lab
 en
 el
 ejemplo
@@ -561,7 +528,6 @@ según
 el
 texto
 .
-*/mavir011_26.lab
 de
 este
 modo
@@ -602,7 +568,6 @@ validación
 de
 respuestas
 .
-*/mavir011_27.lab
 y
 ahora
 voy
@@ -614,7 +579,6 @@ de
 implicación
 textual
 .
-*/mavir011_28.lab
 es
 una
 tarea
@@ -662,7 +626,6 @@ del
 primer
 texto
 .
-*/mavir011_29.lab
 un
 ejemplo
 muy
@@ -671,8 +634,6 @@ lo
 podemos
 ver
 aquí
-.
-*/mavir011_30.lab
 dado
 el
 texto
@@ -688,7 +649,6 @@ enero
 en
 Madrid
 .
-*/mavir011_31.lab
 y
 la
 hipótesis
@@ -698,8 +658,6 @@ el
 marido
 de
 Ana
-.
-*/mavir011_32.lab
 si
 no
 tenemos
@@ -721,7 +679,6 @@ el
 texto
 hipótesis
 .
-*/mavir011_33.lab
 usando
 esta
 idea
@@ -750,7 +707,6 @@ la
 metodología
 propuesta
 .
-*/mavir011_34.lab
 para
 ello
 propusimos
@@ -762,7 +718,6 @@ la
 siguiente
 arquitectura
 .
-*/mavir011_35.lab
 tenemos
 la
 arquitectura
@@ -793,7 +748,6 @@ un
 texto
 soporte
 .
-*/mavir011_36.lab
 y
 por
 otro
@@ -823,7 +777,6 @@ búsqueda
 de
 respuestas
 .
-*/mavir011_37.lab
 de
 tal
 manera
@@ -842,7 +795,6 @@ o
 no
 correcta
 .
-*/mavir011_38.lab
 en
 caso
 de
@@ -874,7 +826,6 @@ una
 respuesta
 correcta
 .
-*/mavir011_39.lab
 al
 usar
 implicación
@@ -908,7 +859,6 @@ generación
 de
 hipótesis
 .
-*/mavir011_40.lab
 ese
 es
 el
@@ -929,7 +879,6 @@ validación
 de
 respuestas
 .
-*/mavir011_41.lab
 es
 por
 ello
@@ -958,7 +907,6 @@ preguntas
 y
 respuestas
 .
-*/mavir011_42.lab
 de
 tal
 modo
@@ -971,8 +919,6 @@ quién
 es
 Vicente
 Fox
-.
-*/mavir011_43.lab
 y
 la
 respuesta
@@ -986,7 +932,6 @@ presidente
 de
 Méjico
 .
-*/mavir011_44.lab
 una
 posible
 hipótesis
@@ -999,7 +944,6 @@ presidente
 de
 Méjico
 .
-*/mavir011_45.lab
 teniendo
 ya
 esa
@@ -1035,7 +979,6 @@ o
 no
 válida
 .
-*/mavir011_46.lab
 una
 vez
 tenemos
@@ -1061,7 +1004,6 @@ utilizan
 implicación
 textual
 .
-*/mavir011_47.lab
 por
 tanto
 nosotros
@@ -1097,7 +1039,6 @@ a
 dichas
 respuestas
 .
-*/mavir011_48.lab
 el
 el
 objetivo
@@ -1117,15 +1058,12 @@ va
 a
 evaluar
 .
-*/mavir011_49.lab
 primer
 paso
 es
 crear
 las
 hipótesis
-.
-*/mavir011_50.lab
 para
 ello
 necesitamos
@@ -1156,7 +1094,6 @@ las
 distintas
 respuestas
 .
-*/mavir011_51.lab
 lo
 podemos
 ver
@@ -1165,8 +1102,6 @@ aquí
 en
 el
 ejemplo
-.
-*/mavir011_52.lab
 si
 tenemos
 la
@@ -1177,8 +1112,6 @@ la
 capital
 de
 Croacia
-.
-*/mavir011_53.lab
 podemos
 crear
 como
@@ -1195,7 +1128,6 @@ capital
 de
 Croacia
 .
-*/mavir011_54.lab
 y
 ya
 con
@@ -1216,7 +1148,6 @@ instanciando
 este
 patrón
 .
-*/mavir011_55.lab
 de
 tal
 manera
@@ -1231,15 +1162,12 @@ tener
 la
 hipótesis
 .
-*/mavir011_56.lab
 Zagreb
 es
 la
 capital
 de
 Croacia
-.
-*/mavir011_57.lab
 de
 este
 modo
@@ -1262,7 +1190,6 @@ esta
 respuesta
 generada
 .
-*/mavir011_58.lab
 el
 siguiente
 paso
@@ -1276,7 +1203,6 @@ a
 este
 par
 .
-*/mavir011_59.lab
 dado
 que
 en
@@ -1308,7 +1234,6 @@ hacer
 una
 transformación
 .
-*/mavir011_60.lab
 es
 por
 ello
@@ -1318,7 +1243,6 @@ proponemos
 esta
 transformación
 .
-*/mavir011_61.lab
 caso
 de
 respuesta
@@ -1341,7 +1265,6 @@ por
 el
 texto
 .
-*/mavir011_62.lab
 por
 lo
 tanto
@@ -1370,7 +1293,6 @@ positivo
 de
 implicación
 .
-*/mavir011_63.lab
 caso
 de
 respuestas
@@ -1398,7 +1320,6 @@ el
 texto
 soporte
 .
-*/mavir011_64.lab
 en
 este
 caso
@@ -1416,7 +1337,6 @@ por
 el
 texto
 .
-*/mavir011_65.lab
 por
 tanto
 no
@@ -1425,8 +1345,6 @@ implicación
 y
 lo
 indicamos
-.
-*/mavir011_66.lab
 caso
 de
 respuestas
@@ -1437,7 +1355,6 @@ es
 es
 semejante
 .
-*/mavir011_67.lab
 no
 el
 texto
@@ -1461,7 +1378,6 @@ a
 haber
 implicación
 .
-*/mavir011_68.lab
 caso
 de
 las
@@ -1473,8 +1389,6 @@ un
 caso
 más
 difícil
-.
-*/mavir011_69.lab
 este
 tipo
 de
@@ -1503,7 +1417,6 @@ lo
 estrictamente
 necesario
 .
-*/mavir011_70.lab
 las
 hipótesis
 que
@@ -1518,7 +1431,6 @@ ciertas
 o
 no
 .
-*/mavir011_71.lab
 teniendo
 en
 cuenta
@@ -1543,7 +1455,6 @@ fines
 de
 evaluación
 .
-*/mavir011_72.lab
 una
 vez
 tenemos
@@ -1574,7 +1485,6 @@ los
 distintos
 sistemas
 .
-*/mavir011_73.lab
 decidimos
 descartar
 el
@@ -1621,7 +1531,6 @@ del
 del
 CLEF
 .
-*/mavir011_74.lab
 y
 se
 tenía
@@ -1676,7 +1585,6 @@ fines
 de
 evaluación
 .
-*/mavir011_75.lab
 es
 por
 ello
@@ -1694,7 +1602,6 @@ de
 respuestas
 correctas
 .
-*/mavir011_76.lab
 nosotros
 proponemos
 medir
@@ -1715,14 +1622,11 @@ las
 respuestas
 correctas
 .
-*/mavir011_77.lab
 aquí
 podemos
 ver
 las
 fórmulas
-.
-*/mavir011_78.lab
 en
 el
 caso
@@ -1742,7 +1646,6 @@ prediciendo
 respuestas
 correctas
 .
-*/mavir011_79.lab
 caso
 de
 la
@@ -1766,7 +1669,6 @@ correctas
 que
 existen
 .
-*/mavir011_80.lab
 y
 la
 medida
@@ -1783,7 +1685,6 @@ la
 misma
 importancia
 .
-*/mavir011_81.lab
 una
 vez
 desarrollamos
@@ -1814,7 +1715,6 @@ ha
 hablado
 Paul
 .
-*/mavir011_82.lab
 y
 que
 la
@@ -1824,8 +1724,6 @@ el
 dos
 mil
 seis
-.
-*/mavir011_83.lab
 también
 se
 ha
@@ -1837,8 +1735,6 @@ realizando
 los
 siguientes
 años
-.
-*/mavir011_84.lab
 y
 nuestro
 objetivo
@@ -1856,7 +1752,6 @@ validación
 de
 respuestas
 .
-*/mavir011_85.lab
 para
 ello
 tomamos
@@ -1881,7 +1776,6 @@ eran
 sistemas
 reales
 .
-*/mavir011_86.lab
 y
 lo
 pudimos
@@ -1897,7 +1791,6 @@ siete
 lenguas
 distintas
 .
-*/mavir011_87.lab
 tuvimos
 una
 gran
@@ -1922,7 +1815,6 @@ en
 distintos
 idiomas
 .
-*/mavir011_88.lab
 ahora
 voy
 a
@@ -1943,7 +1835,6 @@ reconocimiento
 de
 entidades
 .
-*/mavir011_89.lab
 para
 ello
 primero
@@ -1958,7 +1849,6 @@ nosotros
 consideramos
 entidades
 .
-*/mavir011_90.lab
 nosotros
 llamamos
 entidades
@@ -1988,7 +1878,6 @@ las
 expresiones
 temporales
 .
-*/mavir011_91.lab
 nuestra
 motivación
 para
@@ -2028,7 +1917,6 @@ una
 entidad
 no
 .
-*/mavir011_92.lab
 pues
 ser
 un
@@ -2041,7 +1929,6 @@ persona
 una
 organización
 .
-*/mavir011_93.lab
 son
 las
 consultas
@@ -2049,8 +1936,6 @@ más
 frecuentes
 que
 hay
-.
-*/mavir011_94.lab
 además
 en
 implicación
@@ -2084,7 +1969,6 @@ porcentaje
 de
 entidades
 .
-*/mavir011_95.lab
 con
 lo
 cual
@@ -2096,7 +1980,6 @@ en
 esta
 tarea
 .
-*/mavir011_96.lab
 dado
 que
 en
@@ -2153,7 +2036,6 @@ en
 el
 texto
 .
-*/mavir011_97.lab
 de
 este
 modo
@@ -2167,7 +2049,6 @@ implicación
 de
 entidades
 .
-*/mavir011_98.lab
 en
 nuestra
 primera
@@ -2189,7 +2070,6 @@ numéricas
 expresiones
 temporales
 .
-*/mavir011_99.lab
 de
 este
 modo
@@ -2222,7 +2102,6 @@ de
 la
 segunda
 .
-*/mavir011_100.lab
 en
 el
 ejemplo
@@ -2240,7 +2119,6 @@ mil
 novecientos
 noventa
 .
-*/mavir011_101.lab
 lo
 cual
 podemos
@@ -2251,8 +2129,6 @@ este
 caso
 es
 correcto
-.
-*/mavir011_102.lab
 nuestra
 segunda
 aproximación
@@ -2276,7 +2152,6 @@ actuales
 de
 entidades
 .
-*/mavir011_103.lab
 diferenciamos
 entre
 nombres
@@ -2302,7 +2177,6 @@ entidad
 que
 tenemos
 .
-*/mavir011_104.lab
 caso
 de
 nombres
@@ -2310,15 +2184,11 @@ semejante
 a
 la
 anterior
-.
-*/mavir011_105.lab
 una
 entidad
 implica
 a
 otra
-.
-*/mavir011_106.lab
 si
 la
 primera
@@ -2330,8 +2200,6 @@ contiene
 a
 la
 segunda
-.
-*/mavir011_107.lab
 en
 el
 ejemplo
@@ -2339,8 +2207,6 @@ Yasir
 Arafat
 implica
 Arafat
-.
-*/mavir011_108.lab
 lo
 cual
 podemos
@@ -2348,8 +2214,6 @@ ver
 que
 es
 claro
-.
-*/mavir011_109.lab
 caso
 de
 expresiones
@@ -2374,7 +2238,6 @@ en
 la
 segunda
 .
-*/mavir011_110.lab
 un
 ejemplo
 muy
@@ -2389,7 +2252,6 @@ implica
 a
 agosto
 .
-*/mavir011_111.lab
 podemos
 ver
 que
@@ -2417,7 +2279,6 @@ de
 tiempo
 mayor
 .
-*/mavir011_112.lab
 caso
 de
 expresiones
@@ -2442,15 +2303,12 @@ de
 la
 primera
 .
-*/mavir011_113.lab
 de
 manera
 similar
 a
 expresiones
 temporales
-.
-*/mavir011_114.lab
 podemos
 ver
 en
@@ -2464,15 +2322,11 @@ más
 de
 dos
 mil
-.
-*/mavir011_115.lab
 lo
 cual
 también
 está
 claro
-.
-*/mavir011_116.lab
 con
 el
 fin
@@ -2527,7 +2381,6 @@ de
 pares
 acertados
 .
-*/mavir011_117.lab
 y
 nuestra
 hipótesis
@@ -2550,7 +2403,6 @@ obtener
 mejores
 resultados
 .
-*/mavir011_118.lab
 sin
 embargo
 viendo
@@ -2577,7 +2429,6 @@ los
 actuales
 reconocedores
 .
-*/mavir011_119.lab
 se
 puede
 ver
@@ -2608,7 +2459,6 @@ como
 un
 número
 .
-*/mavir011_120.lab
 en
 esta
 expresión
@@ -2633,7 +2483,6 @@ y
 un
 problema
 .
-*/mavir011_121.lab
 por
 ello
 decidimos
@@ -2663,7 +2512,6 @@ es
 más
 sencillo
 .
-*/mavir011_122.lab
 usando
 este
 método
@@ -2675,8 +2523,6 @@ experimentos
 en
 el
 AVE
-.
-*/mavir011_123.lab
 también
 la
 realizamos
@@ -2690,7 +2536,6 @@ realizar
 un
 estudio
 .
-*/mavir011_124.lab
 el
 primero
 de
@@ -2729,7 +2574,6 @@ en
 el
 texto
 .
-*/mavir011_125.lab
 por
 bigramas
 me
@@ -2742,7 +2586,6 @@ tres
 lemas
 consecutivos
 .
-*/mavir011_126.lab
 son
 son
 atributos
@@ -2751,7 +2594,6 @@ solapamiento
 muy
 sencillos
 .
-*/mavir011_127.lab
 el
 segundo
 sistema
@@ -2809,7 +2651,6 @@ en
 caso
 contrario
 .
-*/mavir011_128.lab
 y
 también
 decidimos
@@ -2825,7 +2666,6 @@ de
 estos
 sistemas
 .
-*/mavir011_129.lab
 podemos
 ver
 que
@@ -2838,7 +2678,6 @@ de
 usar
 perdón
 .
-*/mavir011_130.lab
 perdón
 nuestro
 sistema
@@ -2868,7 +2707,6 @@ por
 la
 organización
 .
-*/mavir011_131.lab
 y
 se
 quedaba
@@ -2885,9 +2723,6 @@ en
 el
 AVE
 .
-*/mavir011_132.lab
-.
-*/mavir011_133.lab
 también
 quisimos
 poner
@@ -2929,8 +2764,6 @@ mejor
 sistema
 del
 AVE
-.
-*/mavir011_134.lab
 que
 era
 un
@@ -2941,7 +2774,6 @@ procesamientos
 más
 complejos
 .
-*/mavir011_135.lab
 decidimos
 que
 dada
@@ -2980,7 +2812,6 @@ el
 sistema
 SVM
 .
-*/mavir011_136.lab
 de
 tal
 manera
@@ -3011,7 +2842,6 @@ en
 cuáles
 no
 .
-*/mavir011_137.lab
 nuestra
 intuición
 no
@@ -3028,7 +2858,6 @@ sistemas
 que
 combinaba
 .
-*/mavir011_138.lab
 y
 otra
 combinación
@@ -3053,7 +2882,6 @@ en
 el
 SVM
 .
-*/mavir011_139.lab
 en
 este
 caso
@@ -3078,7 +2906,6 @@ del
 mejor
 sistema
 .
-*/mavir011_140.lab
 esto
 nos
 hace
@@ -3134,7 +2961,6 @@ de
 sus
 sistemas
 .
-*/mavir011_141.lab
 también
 decidimos
 probar
@@ -3194,7 +3020,6 @@ y
 resumen
 automático
 .
-*/mavir011_142.lab
 en
 en
 las
@@ -3222,7 +3047,6 @@ extracción
 de
 información
 .
-*/mavir011_143.lab
 la
 información
 que
@@ -3245,7 +3069,6 @@ todavía
 más
 información
 .
-*/mavir011_144.lab
 sin
 embargo
 seguíamos
@@ -3257,7 +3080,6 @@ búsqueda
 de
 respuestas
 .
-*/mavir011_145.lab
 de
 hecho
 era
@@ -3265,8 +3087,6 @@ donde
 mejor
 resultados
 obteníamos
-.
-*/mavir011_146.lab
 y
 ahora
 algunas
@@ -3296,7 +3116,6 @@ de
 implicación
 textual
 .
-*/mavir011_147.lab
 por
 ello
 realizamos
@@ -3329,7 +3148,6 @@ realizando
 esa
 tarea
 .
-*/mavir011_148.lab
 también
 estudiamos
 una
@@ -3352,7 +3170,6 @@ obtuvimos
 resultados
 prometedores
 .
-*/mavir011_149.lab
 pero
 pero
 vimos
@@ -3375,7 +3192,6 @@ obtener
 mejores
 resultados
 .
-*/mavir011_150.lab
 estas
 son
 las
@@ -3388,7 +3204,6 @@ lugar
 este
 trabajo
 .
-*/mavir011_151.lab
 y
 su
 continuación
@@ -3401,7 +3216,6 @@ a
 más
 publicaciones
 .
-*/mavir011_152.lab
 y
 ya
 este
@@ -3411,22 +3225,16 @@ fin
 de
 la
 presentación
-.
-*/mavir011_153.lab
 si
 tenéis
 alguna
 duda
-.
-*/mavir011_154.lab
 bueno
 muchas
 gracias
 por
 atender
 primero
-.
-*/mavir011_155.lab
 si
 tenéis
 alguna
@@ -3435,5 +3243,3 @@ estaré
 encantado
 de
 resolvérosla
-.
-*/mavir011_156.lab

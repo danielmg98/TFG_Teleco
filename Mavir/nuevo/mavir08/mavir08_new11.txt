@@ -1,5 +1,3 @@
-#!MLF!#
-*/mavir08_1.lab
 la
 tesis
 va
@@ -12,7 +10,6 @@ en
 dominios
 específicos
 .
-*/mavir08_2.lab
 ha
 sido
 dirigida
@@ -24,8 +21,6 @@ doctor
 don
 Anselmo
 Peñas
-.
-*/mavir08_3.lab
 y
 en
 primer
@@ -43,14 +38,11 @@ estos
 dominios
 específicos
 .
-*/mavir08_4.lab
 en
 Internet
 tenemos
 mucha
 información
-.
-*/mavir08_5.lab
 la
 primera
 clasificación
@@ -88,7 +80,6 @@ personales
 tiendas
 etcétera
 .
-*/mavir08_6.lab
 dominios
 específicos
 sería
@@ -109,7 +100,6 @@ toda
 esta
 información
 .
-*/mavir08_7.lab
 sobre
 uno
 de
@@ -126,7 +116,6 @@ sería
 el
 teatro
 .
-*/mavir08_8.lab
 dentro
 de
 teatro
@@ -144,7 +133,6 @@ hablan
 de
 teatro
 .
-*/mavir08_9.lab
 entonces
 el
 marco
@@ -178,7 +166,6 @@ del
 teatro
 no
 .
-*/mavir08_10.lab
 podría
 ser
 aplicable
@@ -205,7 +192,6 @@ un
 marco
 específico
 .
-*/mavir08_11.lab
 el
 porqué
 a
@@ -230,7 +216,6 @@ líneas
 de
 futuro
 .
-*/mavir08_12.lab
 %eh
 los
 buscadores
@@ -257,7 +242,6 @@ de
 grano
 fino
 .
-*/mavir08_13.lab
 no
 puedes
 decirle
@@ -280,13 +264,10 @@ de
 una
 universidad
 .
-*/mavir08_14.lab
 eso
 ya
 lo
 sabe
-.
-*/mavir08_15.lab
 tienes
 que
 darle
@@ -297,7 +278,6 @@ esté
 buscando
 vale
 .
-*/mavir08_16.lab
 estructuramos
 la
 la
@@ -355,7 +335,6 @@ futuras
 que
 requeriría
 .
-*/mavir08_17.lab
 la
 web
 es
@@ -363,7 +342,6 @@ es
 muy
 grande
 .
-*/mavir08_18.lab
 es
 el
 mayor
@@ -373,16 +351,12 @@ información
 en
 la
 actualidad
-.
-*/mavir08_19.lab
 es
 una
 información
 muy
 dinámica
 eh
-.
-*/mavir08_20.lab
 se
 utiliza
 para
@@ -419,7 +393,6 @@ necesita
 dar
 orden
 .
-*/mavir08_21.lab
 como
 es
 tan
@@ -446,7 +419,6 @@ de
 clasificación
 automática
 .
-*/mavir08_22.lab
 por
 otro
 lado
@@ -478,7 +450,6 @@ de
 estar
 protegidos
 .
-*/mavir08_23.lab
 el
 ejemplo
 más
@@ -524,31 +495,23 @@ o
 de
 juegos
 .
-*/mavir08_24.lab
 además
 la
 web
 está
 evolucionando
-.
-*/mavir08_25.lab
 la
 web
-20
 está
 muy
 de
 moda
-.
-*/mavir08_26.lab
 está
 marcando
 las
 tendencias
 de
 futuro
-.
-*/mavir08_27.lab
 toda
 la
 colaboración
@@ -559,15 +522,11 @@ ir
 creando
 servicios
 avanzados
-.
-*/mavir08_28.lab
 y
 cómo
 no
 los
 blogs
-.
-*/mavir08_29.lab
 los
 blogs
 están
@@ -575,8 +534,6 @@ teniendo
 una
 auge
 bestial
-.
-*/mavir08_30.lab
 todo
 el
 mundo
@@ -591,8 +548,6 @@ blog
 hoy
 en
 día
-.
-*/mavir08_31.lab
 esto
 se
 traduce
@@ -605,7 +560,6 @@ de
 esta
 información
 .
-*/mavir08_32.lab
 Google
 tiene
 un
@@ -647,13 +601,11 @@ con
 tus
 palabras
 .
-*/mavir08_33.lab
 no
 son
 realmente
 blogs
 .
-*/mavir08_34.lab
 entonces
 todo
 esto
@@ -667,7 +619,6 @@ tipo
 de
 páginas
 .
-*/mavir08_35.lab
 con
 ello
 se
@@ -683,7 +634,6 @@ de
 la
 investigación
 .
-*/mavir08_36.lab
 proponer
 una
 representación
@@ -717,7 +667,6 @@ mucho
 más
 eficiente
 .
-*/mavir08_37.lab
 todo
 ello
 además
@@ -738,7 +687,6 @@ potencia
 del
 método
 .
-*/mavir08_38.lab
 y
 para
 guiar
@@ -805,7 +753,6 @@ validar
 nuestros
 resultados
 .
-*/mavir08_39.lab
 los
 experimentos
 de
@@ -823,7 +770,6 @@ colección
 de
 pruebas
 .
-*/mavir08_40.lab
 no
 se
 ha
@@ -833,8 +779,6 @@ colección
 de
 pruebas
 estándar
-.
-*/mavir08_41.lab
 no
 en
 primer
@@ -852,7 +796,6 @@ específico
 como
 éste
 .
-*/mavir08_42.lab
 existen
 muchas
 genéricas
@@ -862,15 +805,12 @@ dominio
 específico
 no
 habría
-.
-*/mavir08_43.lab
 y
 se
 realiza
 un
 crawl
 .
-*/mavir08_44.lab
 se
 obtienen
 todas
@@ -894,7 +834,6 @@ mil
 ochocientas
 páginas
 .
-*/mavir08_45.lab
 eh
 la
 disparidad
@@ -912,7 +851,6 @@ es
 bastante
 grande
 .
-*/mavir08_46.lab
 esto
 afectará
 a
@@ -934,7 +872,6 @@ entrenamientos
 son
 defectuosos
 .
-*/mavir08_47.lab
 la
 colección
 de
@@ -942,8 +879,6 @@ pruebas
 se
 ha
 dividido
-.
-*/mavir08_48.lab
 pero
 básicamente
 las
@@ -960,7 +895,6 @@ relación
 entre
 ellas
 .
-*/mavir08_49.lab
 han
 sido
 creadas
@@ -969,8 +903,6 @@ por
 un
 mismo
 diseñador
-.
-*/mavir08_50.lab
 hablan
 más
 o
@@ -978,8 +910,6 @@ menos
 de
 lo
 mismo
-.
-*/mavir08_51.lab
 va
 a
 dar
@@ -995,7 +925,6 @@ debería
 de
 dar
 .
-*/mavir08_52.lab
 además
 se
 ha
@@ -1020,7 +949,6 @@ dominio
 del
 teatro
 .
-*/mavir08_53.lab
 para
 ello
 esto
@@ -1033,8 +961,6 @@ páginas
 de
 tipo
 blog
-.
-*/mavir08_54.lab
 se
 han
 obtenido
@@ -1055,7 +981,6 @@ de
 manera
 previa
 .
-*/mavir08_55.lab
 y
 además
 se
@@ -1081,7 +1006,6 @@ como
 del
 idioma
 .
-*/mavir08_56.lab
 y
 se
 ha
@@ -1119,7 +1043,6 @@ mil
 doscientas
 páginas
 .
-*/mavir08_57.lab
 la
 necesidad
 del
@@ -1130,7 +1053,6 @@ experimento
 pasarlo
 rápidamente
 .
-*/mavir08_58.lab
 el
 marco
 de
@@ -1138,7 +1060,6 @@ evaluación
 es
 importante
 .
-*/mavir08_59.lab
 nos
 hemos
 basado
@@ -1167,14 +1088,11 @@ número
 de
 errores
 .
-*/mavir08_60.lab
 no
 se
 ha
 introducido
 coste
-.
-*/mavir08_61.lab
 y
 además
 se
@@ -1210,7 +1128,6 @@ cierta
 importancia
 estadística
 .
-*/mavir08_62.lab
 el
 método
 de
@@ -1230,7 +1147,6 @@ para
 para
 esto
 .
-*/mavir08_63.lab
 es
 el
 el
@@ -1238,8 +1154,6 @@ denominado
 dos
 por
 dos
-.
-*/mavir08_64.lab
 el
 problema
 está
@@ -1264,7 +1178,6 @@ los
 de
 validación
 .
-*/mavir08_65.lab
 como
 ya
 decimos
@@ -1288,7 +1201,6 @@ relación
 entre
 ellas
 .
-*/mavir08_66.lab
 por
 lo
 tanto
@@ -1320,7 +1232,6 @@ un
 sólo
 sitio
 .
-*/mavir08_67.lab
 y
 se
 ha
@@ -1330,8 +1241,6 @@ validación
 cruzada
 entre
 ellas
-.
-*/mavir08_68.lab
 primero
 se
 ha
@@ -1355,8 +1264,6 @@ ha
 sacado
 la
 media
-.
-*/mavir08_69.lab
 un
 método
 como
@@ -1371,7 +1278,6 @@ con
 menos
 iteraciones
 .
-*/mavir08_70.lab
 con
 este
 marco
@@ -1388,7 +1294,6 @@ razón
 fue
 éste
 .
-*/mavir08_71.lab
 realizamos
 una
 validación
@@ -1397,8 +1302,6 @@ y
 obtuvimos
 unos
 resultados
-.
-*/mavir08_72.lab
 esto
 es
 un
@@ -1417,7 +1320,6 @@ pretratamiento
 de
 nada
 .
-*/mavir08_73.lab
 y
 con
 una
@@ -1436,7 +1338,6 @@ un
 estadístico
 efe
 .
-*/mavir08_74.lab
 eso
 de
 entrada
@@ -1444,8 +1345,6 @@ es
 seguramente
 es
 falso
-.
-*/mavir08_75.lab
 casi
 todos
 los
@@ -1460,8 +1359,6 @@ al
 cuarenta
 por
 cien
-.
-*/mavir08_76.lab
 entonces
 con
 el
@@ -1483,7 +1380,6 @@ diez
 por
 cien
 .
-*/mavir08_77.lab
 a
 las
 necesidades
@@ -1499,7 +1395,6 @@ proyectos
 de
 minería
 .
-*/mavir08_78.lab
 en
 éste
 %eh
@@ -1512,7 +1407,6 @@ y
 tratamiento
 lingüístico
 .
-*/mavir08_79.lab
 una
 aplicación
 de
@@ -1539,7 +1433,6 @@ un
 corpus
 específico
 .
-*/mavir08_80.lab
 los
 experimentos
 también
@@ -1549,7 +1442,6 @@ claros
 con
 esto
 .
-*/mavir08_81.lab
 el
 no
 es
@@ -1572,7 +1464,6 @@ más
 importante
 aún
 .
-*/mavir08_82.lab
 determinar
 un
 baseline
@@ -1580,7 +1471,6 @@ es
 es
 necesaria
 .
-*/mavir08_83.lab
 con
 todo
 esto
@@ -1601,7 +1491,6 @@ y
 poder
 compararla
 .
-*/mavir08_84.lab
 la
 baseline
 es
@@ -1659,7 +1548,6 @@ en
 la
 URL
 .
-*/mavir08_85.lab
 es
 un
 método
@@ -1683,14 +1571,11 @@ hemos
 querido
 comparar
 .
-*/mavir08_86.lab
 los
 resultados
 también
 son
 claros
-.
-*/mavir08_87.lab
 ninguna
 de
 ellas
@@ -1713,7 +1598,6 @@ por
 cien
 incluso
 .
-*/mavir08_88.lab
 pero
 sí
 que
@@ -1734,14 +1618,11 @@ daba
 mucha
 certeza
 .
-*/mavir08_89.lab
 esto
 es
 fácil
 de
 entender
-.
-*/mavir08_90.lab
 una
 página
 que
@@ -1768,7 +1649,6 @@ la
 categoría
 festivales
 .
-*/mavir08_91.lab
 una
 página
 que
@@ -1780,8 +1660,6 @@ a
 ser
 un
 blog
-.
-*/mavir08_92.lab
 a
 partir
 de
@@ -1827,7 +1705,6 @@ la
 página
 web
 .
-*/mavir08_93.lab
 el
 resumen
 se
@@ -1836,8 +1713,6 @@ hacer
 de
 dos
 maneras
-.
-*/mavir08_94.lab
 o
 lo
 puede
@@ -1862,7 +1737,6 @@ haces
 la
 clasificación
 .
-*/mavir08_95.lab
 o
 utilizas
 un
@@ -1890,10 +1764,8 @@ proyecto
 de
 investigación
 .
-*/mavir08_96.lab
 eh
 .
-*/mavir08_97.lab
 el
 problema
 de
@@ -1905,8 +1777,6 @@ no
 siempre
 está
 informada
-.
-*/mavir08_98.lab
 el
 problema
 de
@@ -1919,8 +1789,6 @@ del
 tipo
 pincha
 aquí
-.
-*/mavir08_99.lab
 entonces
 por
 sí
@@ -1929,8 +1797,6 @@ no
 no
 ofrecen
 información
-.
-*/mavir08_100.lab
 combinándolos
 una
 ponderación
@@ -1939,26 +1805,19 @@ fastidiar
 a
 la
 otra
-.
-*/mavir08_101.lab
 entonces
 decidimos
 triplicar
 esta
 característica
-.
-*/mavir08_102.lab
 vale
 .
-*/mavir08_103.lab
 los
 resultados
 son
 son
 bastante
 claros
-.
-*/mavir08_104.lab
 en
 las
 tablas
@@ -1967,8 +1826,6 @@ muestran
 en
 en
 negrita
-.
-*/mavir08_105.lab
 no
 sé
 si
@@ -1976,8 +1833,6 @@ se
 ven
 las
 negritas
-.
-*/mavir08_106.lab
 pero
 vamos
 la
@@ -2015,7 +1870,6 @@ en
 este
 estadístico
 .
-*/mavir08_107.lab
 como
 se
 puede
@@ -2029,26 +1883,19 @@ acabo
 de
 comentar
 .
-*/mavir08_108.lab
 este
 sería
 el
 intervalo
 de
 confianza
-.
-*/mavir08_109.lab
 con
 otro
 cálculo
-.
-*/mavir08_110.lab
 pero
 tenemos
 lo
 mismo
-.
-*/mavir08_111.lab
 el
 error
 de
@@ -2070,14 +1917,11 @@ que
 se
 propone
 .
-*/mavir08_112.lab
 ahora
 las
 conclusiones
 son
 directas
-.
-*/mavir08_113.lab
 se
 ha
 obtenido
@@ -2085,8 +1929,6 @@ una
 una
 mejora
 significativa
-.
-*/mavir08_114.lab
 pero
 también
 hay
@@ -2106,17 +1948,13 @@ tengan
 suficientemente
 información
 .
-*/mavir08_115.lab
 es
 bastante
 sensible
 estos
 casos
-.
-*/mavir08_116.lab
 eh
 .
-*/mavir08_117.lab
 le
 cualquier
 persona
@@ -2152,7 +1990,6 @@ es
 un
 blog
 .
-*/mavir08_118.lab
 eso
 son
 características
@@ -2185,7 +2022,6 @@ como
 de
 idioma
 .
-*/mavir08_119.lab
 el
 método
 es
@@ -2206,13 +2042,10 @@ de
 los
 blogs
 .
-*/mavir08_120.lab
 y
 básicamente
 es
 eso
-.
-*/mavir08_121.lab
 tú
 ves
 un
@@ -2233,7 +2066,6 @@ va
 escribiendo
 POST
 .
-*/mavir08_122.lab
 estos
 POSTs
 están
@@ -2243,8 +2075,6 @@ el
 título
 del
 POST
-.
-*/mavir08_123.lab
 pueden
 ser
 etiquetas
@@ -2254,15 +2084,12 @@ diferentes
 etiquetas
 HTML
 .
-*/mavir08_124.lab
 suele
 tener
 una
 fecha
 de
 publicación
-.
-*/mavir08_125.lab
 y
 suele
 tener
@@ -2276,7 +2103,6 @@ con
 el
 usuario
 .
-*/mavir08_126.lab
 además
 aparecen
 un
@@ -2309,7 +2135,6 @@ de
 del
 blog
 .
-*/mavir08_127.lab
 además
 palabras
 palabras
@@ -2334,7 +2159,6 @@ propia
 palabra
 blog
 .
-*/mavir08_128.lab
 y
 además
 los
@@ -2344,7 +2168,6 @@ tener
 suscripción
 RSSATOM
 .
-*/mavir08_129.lab
 no
 es
 exclusiva
@@ -2363,7 +2186,6 @@ que
 da
 certeza
 .
-*/mavir08_130.lab
 todas
 estas
 características
@@ -2379,7 +2201,6 @@ que
 que
 utilizamos
 .
-*/mavir08_131.lab
 los
 resultados
 son
@@ -2387,7 +2208,6 @@ bastante
 bastante
 claros
 .
-*/mavir08_132.lab
 en
 la
 prueba
@@ -2403,7 +2223,6 @@ noventa
 por
 ciento
 .
-*/mavir08_133.lab
 en
 el
 caso
@@ -2431,7 +2250,6 @@ se
 indica
 así
 .
-*/mavir08_134.lab
 comparándolo
 con
 la
@@ -2440,7 +2258,6 @@ son
 bastante
 elevados
 .
-*/mavir08_135.lab
 la
 estándar
 está
@@ -2449,8 +2266,6 @@ del
 treinta
 por
 cien
-.
-*/mavir08_136.lab
 el
 nuestro
 ha
@@ -2461,8 +2276,6 @@ y
 dos
 por
 cien
-.
-*/mavir08_137.lab
 la
 que
 propusimos
@@ -2496,7 +2309,6 @@ inferior
 a
 ésta
 .
-*/mavir08_138.lab
 por
 y
 en
@@ -2506,8 +2318,6 @@ de
 error
 lo
 mismo
-.
-*/mavir08_139.lab
 están
 muy
 por
@@ -2531,7 +2341,6 @@ cien
 de
 confianza
 .
-*/mavir08_140.lab
 la
 conclusiones
 que
@@ -2557,7 +2366,6 @@ estado
 del
 arte
 .
-*/mavir08_141.lab
 esta
 representación
 nos
@@ -2572,10 +2380,8 @@ del
 del
 teatro
 .
-*/mavir08_142.lab
 eh
 .
-*/mavir08_143.lab
 los
 resultados
 también
@@ -2583,8 +2389,6 @@ son
 bastante
 claros
 no
-.
-*/mavir08_144.lab
 seguimos
 manteniéndonos
 por
@@ -2599,7 +2403,6 @@ el
 estadístico
 efe
 .
-*/mavir08_145.lab
 %eh
 el
 error
@@ -2616,7 +2419,6 @@ incluso
 se
 disminuye
 .
-*/mavir08_146.lab
 se
 queda
 por
@@ -2626,8 +2428,6 @@ del
 uno
 por
 cien
-.
-*/mavir08_147.lab
 está
 en
 el
@@ -2637,14 +2437,11 @@ cien
 de
 error
 .
-*/mavir08_148.lab
 ha
 aparecido
 un
 pequeño
 problema
-.
-*/mavir08_149.lab
 en
 la
 matriz
@@ -2652,13 +2449,9 @@ de
 contingencia
 se
 ve
-.
-*/mavir08_150.lab
 hay
 falsos
 positivos
-.
-*/mavir08_151.lab
 es
 decir
 hay
@@ -2680,7 +2473,6 @@ ciento
 de
 ellas
 .
-*/mavir08_152.lab
 y
 estudiando
 fueron
@@ -2699,14 +2491,11 @@ a
 los
 blogs
 .
-*/mavir08_153.lab
 entonces
 las
 conclusiones
 son
 claras
-.
-*/mavir08_154.lab
 el
 rendimiento
 se
@@ -2716,8 +2505,6 @@ en
 en
 otros
 dominios
-.
-*/mavir08_155.lab
 se
 ha
 demostrado
@@ -2734,7 +2521,6 @@ de
 los
 blogs
 .
-*/mavir08_156.lab
 da
 igual
 de
@@ -2745,8 +2531,6 @@ escriba
 en
 el
 blog
-.
-*/mavir08_157.lab
 incluso
 es
 independiente
@@ -2757,8 +2541,6 @@ el
 que
 esté
 escrito
-.
-*/mavir08_158.lab
 el
 problema
 que
@@ -2771,14 +2553,11 @@ los
 falsos
 positivos
 .
-*/mavir08_159.lab
 se
 catalogan
 noticias
 como
 blogs
-.
-*/mavir08_160.lab
 una
 recapitulación
 de
@@ -2787,7 +2566,6 @@ y
 las
 conclusiones
 .
-*/mavir08_161.lab
 la
 principal
 conclusión
@@ -2810,7 +2588,6 @@ y
 el
 baseline
 .
-*/mavir08_162.lab
 que
 mejora
 la
@@ -2834,7 +2611,6 @@ como
 como
 veíamos
 .
-*/mavir08_163.lab
 pero
 que
 es
@@ -2852,7 +2628,6 @@ tienen
 suficientemente
 información
 .
-*/mavir08_164.lab
 páginas
 flash
 que
@@ -2872,7 +2647,6 @@ en
 la
 cabecera
 .
-*/mavir08_165.lab
 y
 encima
 la
@@ -2880,8 +2654,6 @@ URL
 es
 muy
 genérica
-.
-*/mavir08_166.lab
 esas
 páginas
 no
@@ -2890,8 +2662,6 @@ suelen
 tener
 buenos
 resultados
-.
-*/mavir08_167.lab
 el
 método
 de
@@ -2933,7 +2703,6 @@ grupos
 de
 noticias
 .
-*/mavir08_168.lab
 todo
 esto
 nos
@@ -2951,7 +2720,6 @@ aplicaciones
 de
 esto
 .
-*/mavir08_169.lab
 en
 cuanto
 al
@@ -2989,15 +2757,12 @@ su
 su
 veracidad
 .
-*/mavir08_170.lab
 habría
 que
 introducir
 alguna
 nueva
 característica
-.
-*/mavir08_171.lab
 habría
 que
 investigar
@@ -3010,15 +2775,12 @@ tienen
 suficientemente
 información
 .
-*/mavir08_172.lab
 quizás
 habría
 que
 meter
 tratamiento
 lingüístico
-.
-*/mavir08_173.lab
 habría
 que
 probarlo
@@ -3038,7 +2800,6 @@ alguna
 cosa
 así
 .
-*/mavir08_174.lab
 podría
 ser
 interesante
@@ -3071,7 +2832,6 @@ habría
 que
 investigarlo
 .
-*/mavir08_175.lab
 los
 los
 clientes
@@ -3116,7 +2876,6 @@ trabajo
 por
 ejemplo
 .
-*/mavir08_176.lab
 entonces
 lo
 primero
@@ -3130,13 +2889,10 @@ búsqueda
 de
 empleo
 .
-*/mavir08_177.lab
 estamos
 trabajando
 en
 ello
-.
-*/mavir08_178.lab
 el
 tema
 de
@@ -3153,7 +2909,6 @@ peliagudo
 bastante
 jodido
 .
-*/mavir08_179.lab
 estamos
 dentro
 de
@@ -3186,7 +2941,6 @@ contacto
 con
 menores
 .
-*/mavir08_180.lab
 la
 aplicación
 debería
@@ -3202,7 +2956,6 @@ si
 se
 adapta
 .
-*/mavir08_181.lab
 y
 bueno
 combinándolo
@@ -3243,7 +2996,6 @@ cosas
 así
 no
 .
-*/mavir08_182.lab
 si
 se
 analiza
@@ -3282,20 +3034,15 @@ dando
 una
 discordancia
 .
-*/mavir08_183.lab
 es
 posible
 que
 eso
 sirva
-.
-*/mavir08_184.lab
 eso
 es
 una
 especulación
-.
-*/mavir08_185.lab
 por
 otro
 lado
@@ -3320,7 +3067,6 @@ obtuviera
 resultados
 mejores
 .
-*/mavir08_186.lab
 pues
 incorporarlo
 en
@@ -3343,19 +3089,12 @@ realmente
 sean
 blogs
 .
-*/mavir08_187.lab
 vale
-.
-*/mavir08_188.lab
 con
 todo
 ello
 terminaría
-.
-*/mavir08_189.lab
 si
 tienen
 alguna
 pregunta
-.
-*/mavir08_190.lab

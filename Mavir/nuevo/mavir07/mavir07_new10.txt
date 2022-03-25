@@ -10,7 +10,7 @@ va
 a
 ser
 larga
-.
+00:03
 lo
 queresmos
 contar
@@ -26,7 +26,7 @@ acceso
 inteligente
 a
 contenidos
-.
+00:08
 y
 luego
 contaros
@@ -53,7 +53,7 @@ su
 modelo
 de
 negocio
-.
+00:19
 entonces
 primero
 definir
@@ -66,7 +66,7 @@ a
 a
 cliente
 no
-.
+00:23
 este
 mundo
 viene
@@ -77,7 +77,6 @@ mundo
 de
 los
 buscadores
-.
 hasta
 hasta
 hoy
@@ -111,7 +110,7 @@ si
 es
 en
 web
-.
+00:36
 entonces
 el
 año
@@ -136,7 +135,7 @@ por
 acceso
 a
 información
-.
+00:45
 o
 sea
 ya
@@ -161,7 +160,7 @@ de
 de
 esta
 tecnología
-.
+00:51
 y
 si
 os
@@ -179,7 +178,7 @@ mercado
 es
 es
 bestial
-.
+00:57
 o
 sea
 es
@@ -210,7 +209,7 @@ se
 está
 consolidando
 todavía
-.
+01:08
 si
 lo
 comparais
@@ -239,7 +238,7 @@ denso
 que
 cualquier
 otro
-.
+01:17
 y
 eso
 que
@@ -260,7 +259,7 @@ como
 como
 líderes
 no
-.
+01:24
 Autonomy
 compra
 Verity
@@ -274,7 +273,7 @@ compra
 al
 número
 dos
-.
+01:28
 Google
 está
 todavía
@@ -284,11 +283,9 @@ aunque
 nos
 parece
 mentira
-.
 las
 cifras
 crecen
-.
 las
 cifras
 sobre
@@ -297,7 +294,6 @@ en
 Estados
 Unidos
 crecen
-.
 y
 aunque
 a
@@ -325,7 +321,7 @@ saturado
 no
 es
 así
-.
+01:44
 las
 previsiones
 son
@@ -337,7 +333,6 @@ ir
 mucho
 más
 allá
-.
 en
 cuanto
 a
@@ -346,13 +341,12 @@ que
 se
 usan
 aquí
-.
+01:52
 me
 voy
 a
 saltar
 esta
-.
 esto
 es
 otro
@@ -369,7 +363,7 @@ sobre
 todo
 en
 web
-.
+01:59
 cómo
 se
 ve
@@ -383,7 +377,7 @@ en
 acceso
 a
 información
-.
+02:04
 entonces
 el
 caso
@@ -401,7 +395,7 @@ de
 la
 web
 semántica
-.
+02:09
 tiene
 mucho
 que
@@ -414,7 +408,6 @@ que
 habéis
 oído
 antes
-.
 y
 tiene
 mucho
@@ -430,7 +423,7 @@ el
 acceso
 a
 ella
-.
+02:17
 entonces
 lo
 que
@@ -478,7 +471,7 @@ haya
 modelos
 de
 negocio
-.
+02:32
 o
 sea
 todavía
@@ -510,7 +503,7 @@ acceso
 a
 la
 información
-.
+02:42
 lo
 que
 vais
@@ -541,7 +534,7 @@ para
 qué
 sirve
 esto
-.
+02:53
 pues
 es
 es
@@ -561,7 +554,7 @@ acceso
 a
 la
 información
-.
+03:00
 y
 es
 entender
@@ -600,7 +593,7 @@ o
 en
 comparación
 léxica
-.
+03:14
 entonces
 Fermín
 nos
@@ -623,12 +616,11 @@ portal
 Once
 Ocho
 Once
-.
+03:22
 dónde
 vá
 todo
 esto
-.
 cuál
 sería
 la
@@ -656,7 +648,7 @@ la
 gestión
 del
 contenido
-.
+03:34
 entonces
 lo
 primero
@@ -666,7 +658,7 @@ nos
 ocurre
 es
 buscar
-.
+03:38
 buscar
 información
 porque
@@ -691,7 +683,7 @@ no
 no
 estamos
 viendo
-.
+03:48
 siguiente
 paso
 sería
@@ -703,14 +695,13 @@ un
 un
 oráculo
 no
-.
+03:53
 de
 que
 un
 buscador
 de
 respuestas
-.
 no
 sé
 cuál
@@ -732,7 +723,7 @@ de
 buscador
 de
 respuestas
-.
+04:02
 o
 sea
 que
@@ -748,7 +739,7 @@ cosa
 y
 me
 responda
-.
+04:07
 pero
 que
 no
@@ -771,18 +762,16 @@ coma
 cero
 un
 segundo
-.
+04:13
 yo
 quiero
 respuestas
-.
 cuál
 es
 el
 PIB
 de
 Portugal
-.
 el
 PIB
 de
@@ -793,7 +782,6 @@ mil
 millones
 de
 euros
-.
 cuál
 es
 el
@@ -803,12 +791,10 @@ de
 no
 sé
 qué
-.
 pues
 quiero
 el
 número
-.
 no
 quiero
 documentos
@@ -816,7 +802,6 @@ que
 contengan
 estos
 títulos
-.
 este
 sería
 el
@@ -851,7 +836,7 @@ como
 como
 primeras
 aplicaciones
-.
+04:35
 el
 siguiente
 paso
@@ -864,7 +849,7 @@ de
 gestión
 de
 diálogo
-.
+04:40
 o
 sea
 yo
@@ -876,7 +861,6 @@ con
 con
 una
 máquina
-.
 quiero
 incluso
 superar
@@ -902,13 +886,12 @@ información
 que
 yo
 necesito
-.
+04:52
 eso
 sería
 el
 siguiente
 paso
-.
 en
 paralelo
 a
@@ -923,7 +906,7 @@ es
 la
 la
 personalización
-.
+04:59
 si
 habláis
 con
@@ -950,7 +933,7 @@ ciudadanos
 de
 manera
 personalizada
-.
+05:07
 o
 sea
 todo
@@ -980,7 +963,7 @@ en
 el
 momento
 adecuado
-.
+05:17
 entonces
 hablamos
 de
@@ -1000,7 +983,7 @@ la
 información
 que
 necesita
-.
+05:26
 y
 ya
 por
@@ -1034,7 +1017,7 @@ pero
 hacía
 allá
 vamos
-.
+05:36
 queremos
 software
 que
@@ -1057,7 +1040,7 @@ información
 que
 por
 nosotros
-.
+05:42
 ejemplos
 ejemplos
 que
@@ -1072,7 +1055,7 @@ que
 hay
 por
 ahí
-.
+05:49
 pasaré
 muy
 rápido
@@ -1090,7 +1073,7 @@ suyo
 en
 en
 particular
-.
+05:55
 uno
 es
 el
@@ -1122,14 +1105,13 @@ de
 la
 administración
 local
-.
+06:06
 o
 sea
 parecen
 dos
 idiomas
 distintos
-.
 si
 uno
 quisiera
@@ -1177,7 +1159,7 @@ ge
 eran
 diez
 minutos
-.
+06:25
 diez
 minutos
 hasta
@@ -1193,7 +1175,7 @@ de
 la
 Consejería
 Medioambiente
-.
+06:29
 entrabais
 a
 la
@@ -1209,7 +1191,7 @@ recogida
 de
 grandes
 objetos
-.
+06:35
 entonces
 sí
 que
@@ -1229,7 +1211,7 @@ de
 uno
 a
 otro
-.
+06:42
 o
 sea
 yo
@@ -1237,7 +1219,6 @@ quiero
 tirar
 una
 nevera
-.
 para
 el
 Ayuntamiento
@@ -1248,7 +1229,6 @@ de
 un
 objeto
 grande
-.
 siguiente
 tipo
 de
@@ -1275,7 +1255,7 @@ información
 para
 geoposicionar
 recursos
-.
+06:57
 Flicker
 bueno
 un
@@ -1283,7 +1263,6 @@ montón
 de
 de
 Web
-20
 nos
 permiten
 geoposicionar
@@ -1300,7 +1279,7 @@ en
 una
 estructura
 geográfica
-.
+07:11
 otro
 tipo
 de
@@ -1313,7 +1292,7 @@ una
 especie
 de
 diálogo
-.
+07:17
 esto
 viene
 dado
@@ -1361,7 +1340,7 @@ no
 sé
 qué
 país
-.
+07:32
 esto
 todo
 es
@@ -1385,7 +1364,7 @@ sea
 se
 puede
 utilizar
-.
+07:39
 y
 esto
 lo
@@ -1402,7 +1381,7 @@ entrar
 y
 pueda
 probar
-.
+07:46
 no
 os
 imaginais
@@ -1415,7 +1394,6 @@ frecuente
 a
 este
 buscador
-.
 la
 pregunta
 más
@@ -1426,12 +1404,10 @@ es
 la
 más
 guapa
-.
 y
 ahí
 se
 quedaba
-.
 entonces
 sí
 que
@@ -1466,7 +1442,7 @@ sistema
 de
 búsqueda
 perfecta
-.
+08:06
 o
 sea
 no
@@ -1483,7 +1459,7 @@ para
 poder
 interaccionar
 con
-.
+08:12
 entonces
 aquí
 este
@@ -1504,7 +1480,7 @@ que
 no
 es
 poco
-.
+08:19
 es
 mira
 no
@@ -1519,7 +1495,7 @@ estás
 preguntando
 esto
 vale
-.
+08:23
 para
 poco
 rebajar
@@ -1531,7 +1507,7 @@ de
 de
 del
 usuario
-.
+08:28
 y
 ya
 una
@@ -1557,7 +1533,7 @@ de
 un
 coche
 no
-.
+08:40
 entonces
 ya
 las
@@ -1581,7 +1557,7 @@ interaccionar
 con
 nuestros
 vehículos
-.
+08:49
 y
 no
 simplemente
@@ -1600,7 +1576,7 @@ CD
 no
 sé
 qué
-.
+08:56
 sino
 que
 cuando
@@ -1609,7 +1585,6 @@ digo
 qué
 es
 esto
-.
 el
 coche
 sepa
@@ -1646,7 +1621,7 @@ de
 pasar
 alrededor
 no
-.
+09:09
 entonces
 ya
 cada
@@ -1686,7 +1661,7 @@ de
 de
 los
 sistemas
-.
+09:21
 bueno
 no
 os
@@ -1703,7 +1678,7 @@ ya
 el
 caso
 concreto
-.
+09:26
 bueno
 lo
 que
@@ -1757,7 +1732,7 @@ estamos
 pasando
 a
 Internet
-.
+09:51
 y
 lo
 primero
@@ -1772,7 +1747,7 @@ operadores
 dando
 información
 información
-.
+09:59
 y
 cuando
 damos
@@ -1782,7 +1757,7 @@ hablando
 de
 teléfonos
 direcciones
-.
+10:03
 pero
 la
 lo
@@ -1840,7 +1815,7 @@ el
 concepto
 de
 portal
-.
+10:23
 entonces
 portal
 de
@@ -1865,7 +1840,7 @@ dar
 soluciones
 al
 usuario
-.
+10:32
 estamos
 hablando
 de
@@ -1878,7 +1853,7 @@ que
 estaba
 totalmente
 regulado
-.
+10:36
 había
 un
 teléfono
@@ -1906,7 +1881,7 @@ el
 dos
 mil
 tres
-.
+10:43
 y
 se
 convirtió
@@ -1915,7 +1890,7 @@ el
 once
 ocho
 dieciocho
-.
+10:48
 que
 es
 un
@@ -1923,7 +1898,6 @@ teléfono
 subvencionado
 entre
 comillas
-.
 porque
 subvencionado
 quiere
@@ -1945,7 +1919,7 @@ llegar
 a
 números
 negros
-.
+11:00
 ese
 número
 que
@@ -1959,11 +1933,9 @@ teléfono
 y
 te
 cuelgan
-.
 y
 se
 acabó
-.
 y
 además
 te
@@ -1972,7 +1944,6 @@ dan
 con
 una
 máquina
-.
 nosotros
 lo
 que
@@ -1997,7 +1968,7 @@ pretendemos
 es
 dar
 soluciones
-.
+11:16
 es
 decir
 nos
@@ -2027,7 +1998,7 @@ lo
 más
 rápido
 posible
-.
+11:23
 lo
 más
 rápido
@@ -2077,7 +2048,7 @@ atendidas
 en
 veinte
 segundos
-.
+11:40
 es
 decir
 lo
@@ -2097,7 +2068,7 @@ de
 taxis
 por
 ejemplo
-.
+11:44
 en
 veinte
 segundos
@@ -2118,7 +2089,7 @@ una
 multa
 del
 Ministerio
-.
+11:49
 quién
 es
 quién
@@ -2136,7 +2107,7 @@ el
 Once
 Ocho
 Once
-.
+11:55
 el
 Once
 Ocho
@@ -2166,13 +2137,12 @@ número
 dos
 del
 mercado
-.
+12:04
 compite
 con
 Deutsche
 Deutsche
 Telecom
-.
 somos
 el
 número
@@ -2204,7 +2174,7 @@ italiano
 y
 ha
 privatizado
-.
+12:15
 estamos
 en
 Francia
@@ -2224,7 +2194,7 @@ ocho
 cero
 cero
 cero
-.
+12:21
 y
 en
 España
@@ -2249,7 +2219,7 @@ bases
 de
 datos
 internacionales
-.
+12:29
 en
 cualquier
 país
@@ -2267,7 +2237,7 @@ podíamos
 encontrar
 una
 información
-.
+12:34
 el
 otro
 día
@@ -2304,7 +2274,7 @@ el
 teléfono
 de
 Sarkozy
-.
+12:43
 y
 fuimos
 capaces
@@ -2357,7 +2327,7 @@ cola
 de
 espera
 no
-.
+12:58
 como
 digo
 empresa
@@ -2384,7 +2354,7 @@ Austria
 ya
 también
 estamos
-.
+13:07
 esto
 es
 lo
@@ -2394,7 +2364,6 @@ lo
 que
 pone
 aquí
-.
 tenemos
 callcenters
 en
@@ -2425,7 +2394,7 @@ solo
 sitio
 en
 Madrid
-.
+13:19
 estamos
 cuatrocientos
 operadores
@@ -2443,11 +2412,10 @@ la
 nacional
 seis
 perdón
-.
+13:27
 y
 en
 Francia
-.
 en
 Francia
 tenemos
@@ -2481,13 +2449,12 @@ y
 por
 cercanía
 no
-.
+13:39
 qué
 es
 lo
 que
 ofrecemos
-.
 bueno
 un
 servicio
@@ -2514,7 +2481,7 @@ de
 todo
 el
 mundo
-.
+13:49
 aparte
 que
 tenemos
@@ -2576,7 +2543,7 @@ mundo
 en
 alemán
 no
-.
+14:06
 también
 enviamos
 información
@@ -2644,7 +2611,7 @@ además
 un
 portal
 WAP
-.
+14:31
 es
 decir
 lo
@@ -2652,7 +2619,6 @@ que
 nosotros
 llamamos
 WAP
-.
 básicamente
 es
 que
@@ -2678,10 +2644,9 @@ donde
 ya
 puedes
 navegar
-.
+14:41
 nuestra
 misión
-.
 bueno
 pues
 no
@@ -2699,7 +2664,7 @@ no
 sólo
 dar
 información
-.
+14:50
 entonces
 en
 línea
@@ -2739,7 +2704,7 @@ de
 organismos
 públicos
 gestiones
-.
+15:09
 lo
 que
 es
@@ -2755,7 +2720,6 @@ no
 busca
 una
 dirección
-.
 entonces
 nos
 planteamos
@@ -2775,7 +2739,7 @@ pura
 búsqueda
 web
 acuerdos
-.
+15:21
 yo
 por
 ejemplo
@@ -2823,7 +2787,7 @@ ya
 no
 estoy
 allí
-.
+15:34
 teníamos
 una
 alianza
@@ -2831,7 +2795,6 @@ con
 el
 Instituto
 Cervantes
-.
 vamos
 a
 intentar
@@ -2848,7 +2811,7 @@ ningún
 interés
 comercial
 no
-.
+15:41
 pero
 tener
 esa
@@ -2864,7 +2827,7 @@ solicitan
 los
 los
 usuarios
-.
+15:46
 nos
 dimos
 cuenta
@@ -2887,7 +2850,7 @@ y
 con
 intereses
 comercial
-.
+15:53
 y
 por
 otro
@@ -2910,7 +2873,7 @@ en
 coste
 de
 personal
-.
+16:01
 entonces
 se
 nos
@@ -2930,7 +2893,7 @@ agentes
 son
 muy
 heterogéneos
-.
+16:09
 son
 agentes
 que
@@ -2943,7 +2906,7 @@ para
 ser
 agentes
 telefónicos
-.
+16:13
 tienen
 niveles
 culturales
@@ -2961,7 +2924,7 @@ teléfono
 es
 muy
 diferente
-.
+16:20
 en
 la
 llegada
@@ -2973,7 +2936,6 @@ unos
 cursos
 para
 homogeneizar
-.
 pero
 lo
 que
@@ -2993,7 +2955,7 @@ cliente
 que
 le
 llama
-.
+16:29
 ni
 por
 su
@@ -3027,13 +2989,12 @@ webs
 que
 están
 permitidas
-.
+16:38
 nosotros
 tenemos
 homologadas
 determinadas
 webs
-.
 no
 damos
 salida
@@ -3074,7 +3035,7 @@ en
 cada
 momento
 no
-.
+16:52
 por
 otro
 lado
@@ -3092,7 +3053,7 @@ mismo
 no
 es
 verdad
-.
+16:57
 el
 dieciocho
 no
@@ -3113,14 +3074,12 @@ soluciones
 da
 un
 teléfono
-.
+17:03
 y
 fuera
-.
 y
 te
 cuelga
-.
 te
 lo
 da
@@ -3131,7 +3090,6 @@ y
 te
 cuelga
 no
-.
 puedes
 seguir
 hablando
@@ -3144,12 +3102,10 @@ conectada
 y
 te
 cuelga
-.
 %eh
 entonces
 necesitamos
 diferenciarnos
-.
 diferenciarnos
 de
 nuestros
@@ -3169,13 +3125,12 @@ posible
 sino
 también
 soluciones
-.
+17:20
 entonces
 qué
 se
 nos
 ocurrió
-.
 pues
 que
 en
@@ -3205,7 +3160,7 @@ ya
 desde
 nuestro
 operador
-.
+17:31
 no
 dar
 un
@@ -3215,7 +3170,6 @@ llamas
 puede
 estar
 cerrado
-.
 puede
 ser
 que
@@ -3315,10 +3269,9 @@ llamar
 al
 organismo
 público
-.
+18:04
 quizás
 llame
-.
 y
 se
 lo
@@ -3332,7 +3285,6 @@ mandamos
 por
 SMS
 gratuito
-.
 incluso
 la
 web
@@ -3345,7 +3297,7 @@ puede
 ver
 cómo
 ir
-.
+18:13
 incluso
 puede
 meter
@@ -3401,7 +3353,7 @@ que
 estamos
 intentando
 hacer
-.
+18:30
 se
 nos
 ocurrió
@@ -3433,7 +3385,7 @@ operadores
 que
 tenemos
 diariamente
-.
+18:43
 que
 buscara
 en
@@ -3454,7 +3406,7 @@ nacional
 regional
 y
 local
-.
+18:50
 y
 que
 además
@@ -3478,7 +3430,7 @@ ha
 hecho
 el
 usuario
-.
+18:59
 es
 decir
 que
@@ -3523,7 +3475,7 @@ de
 una
 manera
 coloquial
-.
+19:14
 esto
 implica
 detrás
@@ -3575,14 +3527,13 @@ es
 una
 consulta
 real
-.
+19:34
 no
 sé
 si
 lo
 han
 visto
-.
 nosotros
 hemos
 vamos
@@ -3601,7 +3552,7 @@ nos
 cuenta
 nuestro
 callcenter
-.
+19:40
 hace
 poco
 nos
@@ -3621,13 +3572,12 @@ Radio
 Nacional
 de
 España
-.
+19:47
 entonces
 contamos
 una
 anécdota
 real
-.
 hicieron
 incluso
 hicieron
@@ -3646,7 +3596,7 @@ preguntando
 por
 por
 Berga
-.
+19:57
 y
 entonces
 el
@@ -3659,7 +3609,6 @@ be
 o
 con
 uve
-.
 entonces
 el
 el
@@ -3674,7 +3623,7 @@ somos
 muy
 decentes
 no
-.
+20:04
 pero
 yo
 lo
@@ -3690,7 +3639,6 @@ el
 el
 nombre
 exacto
-.
 bueno
 pues
 para
@@ -3751,7 +3699,7 @@ nuestra
 base
 de
 datos
-.
+20:25
 o
 sea
 de
@@ -3766,14 +3714,13 @@ las
 categorías
 más
 buscadas
-.
+20:33
 y
 además
 un
 tesauro
 de
 sinónimos
-.
 de
 manera
 que
@@ -3799,7 +3746,7 @@ tanto
 dar
 resultados
 iguales
-.
+20:45
 aquí
 tenemos
 un
@@ -3823,7 +3770,7 @@ encontrar
 un
 perro
 muerto
-.
+20:53
 quiero
 no
 quiero
@@ -3831,7 +3778,6 @@ vacunar
 a
 mi
 perro
-.
 había
 otro
 que
@@ -3841,7 +3787,6 @@ encontrado
 un
 perro
 muerto
-.
 o
 también
 puedes
@@ -3850,14 +3795,12 @@ me
 lo
 quiero
 quedar
-.
 o
 me
 quiero
 desprender
 de
 él
-.
 y
 entonces
 daba
@@ -3879,7 +3822,7 @@ llamaba
 desde
 desde
 Madrid
-.
+21:06
 entonces
 no
 le
@@ -3891,7 +3834,7 @@ no
 no
 da
 teléfonos
-.
+21:10
 da
 sitios
 donde
@@ -3920,7 +3863,7 @@ dinero
 hay
 que
 llevar
-.
+21:16
 lo
 de
 los
@@ -3946,7 +3889,7 @@ en
 el
 estanco
 no
-.
+21:22
 y
 esto
 es
@@ -4010,7 +3953,6 @@ el
 el
 el
 usuario
-.
+21:43
 muchísimas
 gracias
-.

@@ -1,5 +1,5 @@
 hola
-.
+00:01
 vale
 muchas
 gracias
@@ -12,7 +12,7 @@ todos
 por
 la
 presentación
-.
+00:08
 y
 bueno
 ya
@@ -38,7 +38,7 @@ he
 ganado
 este
 premio
-.
+00:13
 y
 quería
 empezar
@@ -69,7 +69,7 @@ que
 podemos
 ver
 aquí
-.
+00:27
 mi
 mayor
 también
@@ -86,7 +86,7 @@ que
 tomar
 la
 decisión
-.
+00:33
 mi
 mayor
 agradecimiento
@@ -112,7 +112,7 @@ sido
 mi
 carrera
 investigadora
-.
+00:41
 también
 dar
 las
@@ -146,7 +146,7 @@ cabeza
 con
 mis
 investigaciones
-.
+00:53
 y
 en
 último
@@ -167,7 +167,7 @@ a
 toda
 mi
 familia
-.
+00:59
 bueno
 vamos
 ahora
@@ -175,7 +175,6 @@ a
 ver
 la
 presentación
-.
 este
 es
 el
@@ -187,7 +186,6 @@ seguir
 durante
 la
 presentación
-.
 comenzaré
 realizando
 una
@@ -209,7 +207,7 @@ resto
 de
 la
 presentación
-.
+01:13
 entre
 ellos
 está
@@ -234,7 +232,7 @@ sistemas
 de
 este
 tipo
-.
+01:21
 a
 continuación
 realizaré
@@ -252,7 +250,7 @@ la
 validación
 de
 respuestas
-.
+01:30
 y
 terminaré
 dando
@@ -268,12 +266,11 @@ las
 que
 dio
 lugar
-.
+01:35
 empezamos
 por
 la
 introducción
-.
 los
 sistemas
 de
@@ -306,7 +303,7 @@ veracidad
 de
 dicha
 respuesta
-.
+01:50
 al
 contrario
 de
@@ -349,7 +346,7 @@ buscar
 nosotros
 las
 respuestas
-.
+02:04
 con
 lo
 cual
@@ -359,7 +356,6 @@ acceso
 a
 la
 información
-.
 un
 ejemplo
 puede
@@ -368,7 +364,6 @@ el
 que
 muestro
 aquí
-.
 para
 la
 pregunta
@@ -379,7 +374,6 @@ longitud
 de
 río
 Tajo
-.
 podemos
 obtener
 de
@@ -387,7 +381,6 @@ un
 sistema
 la
 respuesta
-.
 mil
 siete
 kilómetros
@@ -428,7 +421,7 @@ respuesta
 obtenida
 es
 correcta
-.
+02:28
 por
 otro
 lado
@@ -458,7 +451,7 @@ son
 o
 no
 correctas
-.
+02:38
 para
 ello
 un
@@ -513,7 +506,7 @@ acuerdo
 al
 texto
 soporte
-.
+02:57
 en
 el
 ejemplo
@@ -534,7 +527,7 @@ correcta
 según
 el
 texto
-.
+03:04
 de
 este
 modo
@@ -574,7 +567,7 @@ sin
 validación
 de
 respuestas
-.
+03:19
 y
 ahora
 voy
@@ -585,7 +578,7 @@ reconocimiento
 de
 implicación
 textual
-.
+03:24
 es
 una
 tarea
@@ -632,7 +625,7 @@ partir
 del
 primer
 texto
-.
+03:39
 un
 ejemplo
 muy
@@ -641,7 +634,6 @@ lo
 podemos
 ver
 aquí
-.
 dado
 el
 texto
@@ -656,7 +648,7 @@ de
 enero
 en
 Madrid
-.
+03:46
 y
 la
 hipótesis
@@ -666,7 +658,6 @@ el
 marido
 de
 Ana
-.
 si
 no
 tenemos
@@ -687,7 +678,7 @@ entre
 el
 texto
 hipótesis
-.
+03:55
 usando
 esta
 idea
@@ -715,7 +706,7 @@ mismo
 la
 metodología
 propuesta
-.
+04:06
 para
 ello
 propusimos
@@ -726,7 +717,7 @@ de
 la
 siguiente
 arquitectura
-.
+04:11
 tenemos
 la
 arquitectura
@@ -756,7 +747,7 @@ y
 un
 texto
 soporte
-.
+04:22
 y
 por
 otro
@@ -785,7 +776,7 @@ de
 búsqueda
 de
 respuestas
-.
+04:32
 de
 tal
 manera
@@ -803,7 +794,7 @@ es
 o
 no
 correcta
-.
+04:38
 en
 caso
 de
@@ -834,7 +825,7 @@ caso
 una
 respuesta
 correcta
-.
+04:47
 al
 usar
 implicación
@@ -867,7 +858,7 @@ de
 generación
 de
 hipótesis
-.
+04:59
 ese
 es
 el
@@ -887,7 +878,7 @@ la
 validación
 de
 respuestas
-.
+05:05
 es
 por
 ello
@@ -915,7 +906,7 @@ combinando
 preguntas
 y
 respuestas
-.
+05:19
 de
 tal
 modo
@@ -928,7 +919,6 @@ quién
 es
 Vicente
 Fox
-.
 y
 la
 respuesta
@@ -941,7 +931,7 @@ es
 presidente
 de
 Méjico
-.
+05:26
 una
 posible
 hipótesis
@@ -953,7 +943,7 @@ el
 presidente
 de
 Méjico
-.
+05:30
 teniendo
 ya
 esa
@@ -988,7 +978,7 @@ es
 o
 no
 válida
-.
+05:43
 una
 vez
 tenemos
@@ -1013,7 +1003,7 @@ que
 utilizan
 implicación
 textual
-.
+05:56
 por
 tanto
 nosotros
@@ -1048,7 +1038,7 @@ humanos
 a
 dichas
 respuestas
-.
+06:10
 el
 el
 objetivo
@@ -1067,14 +1057,13 @@ se
 va
 a
 evaluar
-.
+06:18
 primer
 paso
 es
 crear
 las
 hipótesis
-.
 para
 ello
 necesitamos
@@ -1104,7 +1093,7 @@ instancian
 las
 distintas
 respuestas
-.
+06:32
 lo
 podemos
 ver
@@ -1113,7 +1102,6 @@ aquí
 en
 el
 ejemplo
-.
 si
 tenemos
 la
@@ -1124,7 +1112,6 @@ la
 capital
 de
 Croacia
-.
 podemos
 crear
 como
@@ -1140,7 +1127,7 @@ la
 capital
 de
 Croacia
-.
+06:44
 y
 ya
 con
@@ -1160,7 +1147,7 @@ hipótesis
 instanciando
 este
 patrón
-.
+06:52
 de
 tal
 manera
@@ -1174,14 +1161,13 @@ podemos
 tener
 la
 hipótesis
-.
+06:56
 Zagreb
 es
 la
 capital
 de
 Croacia
-.
 de
 este
 modo
@@ -1203,7 +1189,7 @@ para
 esta
 respuesta
 generada
-.
+07:06
 el
 siguiente
 paso
@@ -1216,7 +1202,7 @@ otorgar
 a
 este
 par
-.
+07:12
 dado
 que
 en
@@ -1247,7 +1233,7 @@ necesario
 hacer
 una
 transformación
-.
+07:23
 es
 por
 ello
@@ -1256,7 +1242,7 @@ nosotros
 proponemos
 esta
 transformación
-.
+07:27
 caso
 de
 respuesta
@@ -1278,7 +1264,7 @@ soportada
 por
 el
 texto
-.
+07:35
 por
 lo
 tanto
@@ -1306,7 +1292,7 @@ valor
 positivo
 de
 implicación
-.
+07:44
 caso
 de
 respuestas
@@ -1333,7 +1319,7 @@ con
 el
 texto
 soporte
-.
+07:55
 en
 este
 caso
@@ -1350,7 +1336,7 @@ implicada
 por
 el
 texto
-.
+08:00
 por
 tanto
 no
@@ -1359,7 +1345,6 @@ implicación
 y
 lo
 indicamos
-.
 caso
 de
 respuestas
@@ -1369,7 +1354,7 @@ también
 es
 es
 semejante
-.
+08:09
 no
 el
 texto
@@ -1392,7 +1377,7 @@ va
 a
 haber
 implicación
-.
+08:16
 caso
 de
 las
@@ -1404,7 +1389,6 @@ un
 caso
 más
 difícil
-.
 este
 tipo
 de
@@ -1432,7 +1416,7 @@ de
 lo
 estrictamente
 necesario
-.
+08:31
 las
 hipótesis
 que
@@ -1446,7 +1430,7 @@ son
 ciertas
 o
 no
-.
+08:35
 teniendo
 en
 cuenta
@@ -1470,7 +1454,7 @@ nuestros
 fines
 de
 evaluación
-.
+08:45
 una
 vez
 tenemos
@@ -1500,7 +1484,7 @@ comparar
 los
 distintos
 sistemas
-.
+08:58
 decidimos
 descartar
 el
@@ -1546,7 +1530,7 @@ respuestas
 del
 del
 CLEF
-.
+09:17
 y
 se
 tenía
@@ -1600,7 +1584,7 @@ nuestros
 fines
 de
 evaluación
-.
+09:35
 es
 por
 ello
@@ -1617,7 +1601,7 @@ detección
 de
 respuestas
 correctas
-.
+09:41
 nosotros
 proponemos
 medir
@@ -1637,13 +1621,12 @@ sobre
 las
 respuestas
 correctas
-.
+09:49
 aquí
 podemos
 ver
 las
 fórmulas
-.
 en
 el
 caso
@@ -1662,7 +1645,7 @@ sistemas
 prediciendo
 respuestas
 correctas
-.
+10:01
 caso
 de
 la
@@ -1685,7 +1668,7 @@ respuestas
 correctas
 que
 existen
-.
+10:09
 y
 la
 medida
@@ -1701,7 +1684,7 @@ dándoles
 la
 misma
 importancia
-.
+10:14
 una
 vez
 desarrollamos
@@ -1731,7 +1714,7 @@ que
 ha
 hablado
 Paul
-.
+10:28
 y
 que
 la
@@ -1741,7 +1724,6 @@ el
 dos
 mil
 seis
-.
 también
 se
 ha
@@ -1753,7 +1735,6 @@ realizando
 los
 siguientes
 años
-.
 y
 nuestro
 objetivo
@@ -1770,7 +1751,7 @@ para
 validación
 de
 respuestas
-.
+10:40
 para
 ello
 tomamos
@@ -1794,7 +1775,7 @@ que
 eran
 sistemas
 reales
-.
+10:48
 y
 lo
 pudimos
@@ -1809,7 +1790,7 @@ en
 siete
 lenguas
 distintas
-.
+10:55
 tuvimos
 una
 gran
@@ -1833,7 +1814,7 @@ ejecuciones
 en
 distintos
 idiomas
-.
+11:03
 ahora
 voy
 a
@@ -1853,7 +1834,7 @@ en
 reconocimiento
 de
 entidades
-.
+11:12
 para
 ello
 primero
@@ -1867,7 +1848,7 @@ que
 nosotros
 consideramos
 entidades
-.
+11:17
 nosotros
 llamamos
 entidades
@@ -1896,7 +1877,7 @@ y
 las
 expresiones
 temporales
-.
+11:29
 nuestra
 motivación
 para
@@ -1935,7 +1916,7 @@ respuesta
 una
 entidad
 no
-.
+11:46
 pues
 ser
 un
@@ -1947,7 +1928,7 @@ una
 persona
 una
 organización
-.
+11:51
 son
 las
 consultas
@@ -1955,7 +1936,6 @@ más
 frecuentes
 que
 hay
-.
 además
 en
 implicación
@@ -1988,7 +1968,7 @@ alto
 porcentaje
 de
 entidades
-.
+12:05
 con
 lo
 cual
@@ -1999,7 +1979,7 @@ importancia
 en
 esta
 tarea
-.
+12:09
 dado
 que
 en
@@ -2055,7 +2035,7 @@ el
 en
 el
 texto
-.
+12:29
 de
 este
 modo
@@ -2068,7 +2048,7 @@ sobre
 implicación
 de
 entidades
-.
+12:36
 en
 nuestra
 primera
@@ -2089,7 +2069,7 @@ expresiones
 numéricas
 expresiones
 temporales
-.
+12:44
 de
 este
 modo
@@ -2121,7 +2101,7 @@ texto
 de
 la
 segunda
-.
+12:53
 en
 el
 ejemplo
@@ -2138,7 +2118,7 @@ implicaría
 mil
 novecientos
 noventa
-.
+12:59
 lo
 cual
 podemos
@@ -2149,7 +2129,6 @@ este
 caso
 es
 correcto
-.
 nuestra
 segunda
 aproximación
@@ -2172,7 +2151,7 @@ reconocedores
 actuales
 de
 entidades
-.
+13:11
 diferenciamos
 entre
 nombres
@@ -2197,7 +2176,7 @@ de
 entidad
 que
 tenemos
-.
+13:20
 caso
 de
 nombres
@@ -2205,13 +2184,11 @@ semejante
 a
 la
 anterior
-.
 una
 entidad
 implica
 a
 otra
-.
 si
 la
 primera
@@ -2223,7 +2200,6 @@ contiene
 a
 la
 segunda
-.
 en
 el
 ejemplo
@@ -2231,7 +2207,6 @@ Yasir
 Arafat
 implica
 Arafat
-.
 lo
 cual
 podemos
@@ -2239,7 +2214,6 @@ ver
 que
 es
 claro
-.
 caso
 de
 expresiones
@@ -2263,7 +2237,7 @@ incluido
 en
 la
 segunda
-.
+13:40
 un
 ejemplo
 muy
@@ -2277,7 +2251,7 @@ agosto
 implica
 a
 agosto
-.
+13:45
 podemos
 ver
 que
@@ -2304,7 +2278,7 @@ periodo
 de
 tiempo
 mayor
-.
+13:52
 caso
 de
 expresiones
@@ -2328,14 +2302,13 @@ rango
 de
 la
 primera
-.
+14:01
 de
 manera
 similar
 a
 expresiones
 temporales
-.
 podemos
 ver
 en
@@ -2349,13 +2322,11 @@ más
 de
 dos
 mil
-.
 lo
 cual
 también
 está
 claro
-.
 con
 el
 fin
@@ -2409,7 +2380,7 @@ porcentaje
 de
 pares
 acertados
-.
+14:29
 y
 nuestra
 hipótesis
@@ -2431,7 +2402,7 @@ a
 obtener
 mejores
 resultados
-.
+14:36
 sin
 embargo
 viendo
@@ -2457,7 +2428,7 @@ de
 los
 actuales
 reconocedores
-.
+14:47
 se
 puede
 ver
@@ -2487,7 +2458,7 @@ reconoce
 como
 un
 número
-.
+14:56
 en
 esta
 expresión
@@ -2511,7 +2482,7 @@ error
 y
 un
 problema
-.
+15:04
 por
 ello
 decidimos
@@ -2540,7 +2511,7 @@ además
 es
 más
 sencillo
-.
+15:15
 usando
 este
 método
@@ -2552,7 +2523,6 @@ experimentos
 en
 el
 AVE
-.
 también
 la
 realizamos
@@ -2565,7 +2535,7 @@ para
 realizar
 un
 estudio
-.
+15:27
 el
 primero
 de
@@ -2603,7 +2573,7 @@ hipótesis
 en
 el
 texto
-.
+15:43
 por
 bigramas
 me
@@ -2615,7 +2585,7 @@ trigramas
 tres
 lemas
 consecutivos
-.
+15:47
 son
 son
 atributos
@@ -2623,7 +2593,7 @@ de
 solapamiento
 muy
 sencillos
-.
+15:51
 el
 segundo
 sistema
@@ -2680,7 +2650,7 @@ no
 en
 caso
 contrario
-.
+16:12
 y
 también
 decidimos
@@ -2695,7 +2665,7 @@ combinaciones
 de
 estos
 sistemas
-.
+16:17
 podemos
 ver
 que
@@ -2707,7 +2677,7 @@ pesar
 de
 usar
 perdón
-.
+16:24
 perdón
 nuestro
 sistema
@@ -2736,7 +2706,7 @@ la
 por
 la
 organización
-.
+16:49
 y
 se
 quedaba
@@ -2752,8 +2722,7 @@ sistema
 en
 el
 AVE
-.
-.
+16:54
 también
 quisimos
 poner
@@ -2795,7 +2764,6 @@ mejor
 sistema
 del
 AVE
-.
 que
 era
 un
@@ -2805,7 +2773,7 @@ utilizaba
 procesamientos
 más
 complejos
-.
+17:16
 decidimos
 que
 dada
@@ -2843,7 +2811,7 @@ para
 el
 sistema
 SVM
-.
+17:30
 de
 tal
 manera
@@ -2873,7 +2841,7 @@ y
 en
 cuáles
 no
-.
+17:40
 nuestra
 intuición
 no
@@ -2889,7 +2857,7 @@ los
 sistemas
 que
 combinaba
-.
+17:49
 y
 otra
 combinación
@@ -2913,7 +2881,7 @@ aprendizaje
 en
 el
 SVM
-.
+17:57
 en
 este
 caso
@@ -2937,7 +2905,7 @@ los
 del
 mejor
 sistema
-.
+18:06
 esto
 nos
 hace
@@ -2992,7 +2960,7 @@ importantes
 de
 sus
 sistemas
-.
+18:25
 también
 decidimos
 probar
@@ -3051,7 +3019,7 @@ información
 y
 resumen
 automático
-.
+18:50
 en
 en
 las
@@ -3078,7 +3046,7 @@ la
 extracción
 de
 información
-.
+19:00
 la
 información
 que
@@ -3100,7 +3068,7 @@ necesaria
 todavía
 más
 información
-.
+19:08
 sin
 embargo
 seguíamos
@@ -3111,7 +3079,7 @@ en
 búsqueda
 de
 respuestas
-.
+19:12
 de
 hecho
 era
@@ -3119,7 +3087,6 @@ donde
 mejor
 resultados
 obteníamos
-.
 y
 ahora
 algunas
@@ -3148,7 +3115,7 @@ reconocimiento
 de
 implicación
 textual
-.
+19:28
 por
 ello
 realizamos
@@ -3180,7 +3147,7 @@ seguido
 realizando
 esa
 tarea
-.
+19:40
 también
 estudiamos
 una
@@ -3202,7 +3169,7 @@ cuales
 obtuvimos
 resultados
 prometedores
-.
+19:49
 pero
 pero
 vimos
@@ -3224,7 +3191,7 @@ para
 obtener
 mejores
 resultados
-.
+19:57
 estas
 son
 las
@@ -3236,7 +3203,7 @@ dio
 lugar
 este
 trabajo
-.
+20:02
 y
 su
 continuación
@@ -3248,7 +3215,7 @@ todavía
 a
 más
 publicaciones
-.
+20:06
 y
 ya
 este
@@ -3258,19 +3225,16 @@ fin
 de
 la
 presentación
-.
 si
 tenéis
 alguna
 duda
-.
 bueno
 muchas
 gracias
 por
 atender
 primero
-.
 si
 tenéis
 alguna
@@ -3279,4 +3243,3 @@ estaré
 encantado
 de
 resolvérosla
-.
