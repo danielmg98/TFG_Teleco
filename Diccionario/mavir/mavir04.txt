@@ -1,8 +1,5 @@
-#!MLF!#
-"*/mavir04_1.lab"
 veamos
 .
-"*/mavir04_2.lab"
 en
 la
 sesión
@@ -32,7 +29,6 @@ manuel
 de
 buenaga
 .
-"*/mavir04_3.lab"
 entonces
 me
 ha
@@ -70,7 +66,6 @@ médico
 y
 cultural
 .
-"*/mavir04_4.lab"
 le
 he
 puesto
@@ -100,7 +95,6 @@ están
 estas
 aplicaciones
 .
-"*/mavir04_5.lab"
 nosotros
 tenemos
 estructurado
@@ -138,7 +132,6 @@ red
 de
 grupos
 .
-"*/mavir04_6.lab"
 aquí
 he
 puesto
@@ -177,7 +170,6 @@ información
 que
 tenemos
 .
-"*/mavir04_7.lab"
 lo
 que
 sí
@@ -218,7 +210,6 @@ en
 aplicaciones
 reales
 .
-"*/mavir04_8.lab"
 y
 y
 tenemos
@@ -245,7 +236,6 @@ de
 las
 aplicaciones
 .
-"*/mavir04_9.lab"
 el
 objetivo
 a
@@ -313,7 +303,6 @@ podamos
 transferirlas
 ya
 .
-"*/mavir04_10.lab"
 por
 tanto
 concurrir
@@ -352,7 +341,6 @@ da
 este
 programa
 .
-"*/mavir04_11.lab"
 inicialmente
 nuestros
 dos
@@ -390,7 +378,6 @@ en
 la
 red
 .
-"*/mavir04_12.lab"
 pero
 también
 consideramos
@@ -453,7 +440,6 @@ productos
 y
 servicios
 .
-"*/mavir04_13.lab"
 y
 de
 hecho
@@ -497,7 +483,6 @@ a
 esas
 tecnologías
 .
-"*/mavir04_14.lab"
 no
 cuento
 nada
@@ -512,7 +497,6 @@ estamos
 trabajando
 activamente
 .
-"*/mavir04_15.lab"
 este
 hemos
 puesto
@@ -542,7 +526,6 @@ ya
 está
 funcionando
 .
-"*/mavir04_16.lab"
 es
 un
 plan
@@ -552,7 +535,6 @@ pasos
 bien
 definidos
 .
-"*/mavir04_17.lab"
 bueno
 o
 o
@@ -575,7 +557,6 @@ de
 tantas
 personas
 .
-"*/mavir04_18.lab"
 y
 dentro
 de
@@ -607,7 +588,6 @@ los
 ponentes
 obviamente
 .
-"*/mavir04_19.lab"
 el
 el
 primero
@@ -632,7 +612,6 @@ manuel
 de
 buenaga
 .
-"*/mavir04_20.lab"
 el
 segundo
 en
@@ -645,7 +624,6 @@ presenta
 isidro
 aguillo
 .
-"*/mavir04_21.lab"
 y
 el
 tercero
@@ -660,7 +638,6 @@ de
 la
 biomedicina
 .
-"*/mavir04_22.lab"
 entonces
 lo
 que
@@ -696,7 +673,6 @@ vosotros
 que
 hagamos
 .
-"*/mavir04_23.lab"
 y
 entonces
 ese
@@ -713,7 +689,6 @@ sugiráis
 cosas
 no
 .
-"*/mavir04_24.lab"
 entonces
 sin
 más
@@ -731,7 +706,6 @@ gracias
 josé
 maría
 .
-"*/mavir04_25.lab"
 muchas
 gracias
 a
@@ -746,7 +720,6 @@ intentaré
 ser
 breve
 .
-"*/mavir04_26.lab"
 y
 lo
 que
@@ -780,7 +753,6 @@ antes
 josé
 maría
 .
-"*/mavir04_27.lab"
 que
 al
 principio
@@ -800,7 +772,6 @@ de
 uso
 no
 .
-"*/mavir04_28.lab"
 lo
 que
 queríamos
@@ -840,7 +811,6 @@ las
 universidades
 no
 .
-"*/mavir04_29.lab"
 así
 que
 pues
@@ -907,7 +877,6 @@ proyecto
 profit
 no
 .
-"*/mavir04_30.lab"
 para
 presentar
 una
@@ -932,7 +901,6 @@ en
 gran
 parte
 .
-"*/mavir04_31.lab"
 pero
 bueno
 podría
@@ -990,7 +958,6 @@ en
 mavir
 no
 .
-"*/mavir04_32.lab"
 y
 empezar
 ya
@@ -1073,7 +1040,6 @@ caso
 de
 uso
 .
-"*/mavir04_33.lab"
 entonces
 pues
 bueno
@@ -1098,7 +1064,6 @@ aquí
 el
 tiempo
 .
-"*/mavir04_34.lab"
 pues
 el
 el
@@ -1109,7 +1074,6 @@ pues
 eso
 no
 .
-"*/mavir04_35.lab"
 ver
 un
 poquito
@@ -1130,7 +1094,6 @@ muy
 inicial
 vale
 .
-"*/mavir04_36.lab"
 después
 ver
 una
@@ -1227,7 +1190,6 @@ perfiles
 diferentes
 no
 .
-"*/mavir04_37.lab"
 los
 dos
 desarrolladores
@@ -1263,7 +1225,6 @@ y
 desarrollo
 no
 .
-"*/mavir04_38.lab"
 una
 cuestión
 que
@@ -1295,7 +1256,6 @@ el
 usuario
 no
 .
-"*/mavir04_39.lab"
 porque
 el
 papel
@@ -1362,7 +1322,6 @@ un
 bosquejo
 no
 .
-"*/mavir04_40.lab"
 y
 después
 en
@@ -1420,7 +1379,6 @@ por
 perfilar
 no
 .
-"*/mavir04_41.lab"
 bueno
 entonces
 aquí
@@ -1512,7 +1470,6 @@ grupos
 de
 trabajo
 .
-"*/mavir04_42.lab"
 en
 concreto
 esta
@@ -1558,7 +1515,6 @@ los
 historiales
 médicos
 .
-"*/mavir04_43.lab"
 entonces
 esa
 fue
@@ -1589,7 +1545,6 @@ quizá
 en
 parte
 .
-"*/mavir04_44.lab"
 objetivos
 de
 esta
@@ -1607,7 +1562,6 @@ en
 este
 grupo
 .
-"*/mavir04_45.lab"
 los
 objetivos
 eran
@@ -1633,7 +1587,6 @@ su
 historial
 médico
 .
-"*/mavir04_46.lab"
 esta
 es
 una
@@ -1726,7 +1679,6 @@ completan
 esos
 registros
 .
-"*/mavir04_47.lab"
 entonces
 eso
 pues
@@ -1754,7 +1706,6 @@ que
 automatizase
 eso
 .
-"*/mavir04_48.lab"
 y
 estaba
 también
@@ -1768,7 +1719,6 @@ programa
 mavir
 no
 .
-"*/mavir04_49.lab"
 entonces
 pues
 bueno
@@ -1819,7 +1769,6 @@ la
 autónoma
 no
 .
-"*/mavir04_50.lab"
 la
 reunión
 que
@@ -1855,7 +1804,6 @@ internet
 etcétera
 tal
 .
-"*/mavir04_51.lab"
 pero
 el
 momento
@@ -1881,7 +1829,6 @@ mil
 seis
 no
 .
-"*/mavir04_52.lab"
 y
 también
 lo
@@ -1927,7 +1874,6 @@ puesta
 en
 común
 .
-"*/mavir04_53.lab"
 así
 que
 lo
@@ -1985,7 +1931,6 @@ de
 investigación
 no
 .
-"*/mavir04_54.lab"
 bueno
 quiénes
 estuvimos
@@ -2004,7 +1949,6 @@ en
 la
 diapositiva
 .
-"*/mavir04_55.lab"
 pues
 antonio
 antonio
@@ -2028,7 +1972,6 @@ de
 daedalus
 paz
 .
-"*/mavir04_56.lab"
 se
 han
 quedado
@@ -2049,7 +1992,6 @@ la
 universidad
 europea
 .
-"*/mavir04_57.lab"
 bueno
 esto
 es
@@ -2061,7 +2003,6 @@ en
 la
 reunión
 .
-"*/mavir04_58.lab"
 y
 bueno
 pues
@@ -2121,7 +2062,6 @@ lo
 tenemos
 no
 .
-"*/mavir04_59.lab"
 el
 objetivo
 del
@@ -2168,7 +2108,6 @@ poquito
 en
 ello
 .
-"*/mavir04_60.lab"
 ver
 qué
 qué
@@ -2193,7 +2132,6 @@ uso
 y
 funcionalidades
 .
-"*/mavir04_61.lab"
 es
 decir
 en
@@ -2212,7 +2150,6 @@ ser
 de
 utilidad
 .
-"*/mavir04_62.lab"
 bueno
 resultados
 de
@@ -2226,7 +2163,6 @@ pequeña
 referencia
 no
 .
-"*/mavir04_63.lab"
 pues
 en
 la
@@ -2288,7 +2224,6 @@ el
 hospital
 etcétera
 .
-"*/mavir04_64.lab"
 así
 que
 fue
@@ -2313,7 +2248,6 @@ aspectos
 de
 mavir
 .
-"*/mavir04_65.lab"
 planteamos
 dos
 dos
@@ -2327,7 +2261,6 @@ que
 habíamos
 partido
 .
-"*/mavir04_66.lab"
 uno
 que
 es
@@ -2393,7 +2326,6 @@ fuese
 nuestro
 objetivo
 .
-"*/mavir04_67.lab"
 pero
 sí
 que
@@ -2435,7 +2367,6 @@ la
 universidad
 europea
 .
-"*/mavir04_68.lab"
 entonces
 nos
 planteamos
@@ -2452,7 +2383,6 @@ de
 información
 multimodal
 .
-"*/mavir04_69.lab"
 algo
 así
 como
@@ -2471,7 +2401,6 @@ segmentos
 de
 información
 .
-"*/mavir04_70.lab"
 el
 propio
 texto
@@ -2495,7 +2424,6 @@ hospital
 etcétera
 no
 .
-"*/mavir04_71.lab"
 también
 analizamos
 una
@@ -2540,7 +2468,6 @@ podía
 resultar
 útil
 .
-"*/mavir04_72.lab"
 también
 para
 podía
@@ -2575,7 +2502,6 @@ resulta
 o
 no
 .
-"*/mavir04_73.lab"
 también
 le
 podía
@@ -2606,7 +2532,6 @@ os
 decía
 no
 .
-"*/mavir04_74.lab"
 nos
 definimos
 cómo
@@ -2628,7 +2553,6 @@ estamos
 teniendo
 hoy
 .
-"*/mavir04_75.lab"
 así
 que
 lo
@@ -2677,7 +2601,6 @@ fuentes
 de
 información
 .
-"*/mavir04_76.lab"
 con
 qué
 información
@@ -2691,7 +2614,6 @@ en
 el
 proyecto
 .
-"*/mavir04_77.lab"
 bueno
 entonces
 aquí
@@ -2720,7 +2642,6 @@ en
 este
 proyecto
 .
-"*/mavir04_78.lab"
 por
 lo
 que
@@ -2793,7 +2714,6 @@ usuario
 en
 concreto
 .
-"*/mavir04_79.lab"
 luego
 si
 acaso
@@ -2818,7 +2738,6 @@ pues
 podemos
 profundizar
 .
-"*/mavir04_80.lab"
 y
 esto
 pues
@@ -2854,7 +2773,6 @@ autónoma
 de
 madrid
 .
-"*/mavir04_81.lab"
 este
 era
 un
@@ -2888,7 +2806,6 @@ pues
 también
 no
 .
-"*/mavir04_82.lab"
 en
 la
 ayuda
@@ -2908,7 +2825,6 @@ que
 ellos
 presentaban
 .
-"*/mavir04_83.lab"
 como
 por
 ejemplo
@@ -2939,7 +2855,6 @@ para
 rellenar
 formularios
 .
-"*/mavir04_84.lab"
 daedalus
 bueno
 aquí
@@ -2969,7 +2884,6 @@ desglose
 en
 tres
 .
-"*/mavir04_85.lab"
 esto
 es
 una
@@ -3001,7 +2915,6 @@ poquito
 más
 sólida
 .
-"*/mavir04_86.lab"
 era
 el
 objetivo
@@ -3079,7 +2992,6 @@ de
 la
 imagen
 .
-"*/mavir04_87.lab"
 bueno
 hacíamos
 también
@@ -3091,7 +3003,6 @@ funcionalidades
 parecidas
 no
 .
-"*/mavir04_88.lab"
 pues
 en
 la
@@ -3124,7 +3035,6 @@ proceso
 de
 diagnóstico
 .
-"*/mavir04_89.lab"
 por
 ejemplo
 se
@@ -3142,7 +3052,6 @@ sobre
 el
 buscador
 .
-"*/mavir04_90.lab"
 se
 podía
 hacer
@@ -3163,7 +3072,6 @@ al
 hospital
 no
 .
-"*/mavir04_91.lab"
 y
 después
 también
@@ -3210,7 +3118,6 @@ menos
 están
 interrelacionadas
 .
-"*/mavir04_92.lab"
 o
 sea
 que
@@ -3237,7 +3144,6 @@ tenemos
 en
 marcha
 .
-"*/mavir04_93.lab"
 el
 hospital
 de
@@ -3252,7 +3158,6 @@ en
 los
 proyectos
 .
-"*/mavir04_94.lab"
 pues
 pues
 podía
@@ -3292,7 +3197,6 @@ ejemplo
 a
 trabajar
 .
-"*/mavir04_95.lab"
 colaborar
 en
 la
@@ -3335,7 +3239,6 @@ la
 universidad
 autónoma
 .
-"*/mavir04_96.lab"
 ser
 probador
 de
@@ -3385,7 +3288,6 @@ es
 útil
 no
 .
-"*/mavir04_97.lab"
 y
 también
 participar
@@ -3408,7 +3310,6 @@ una
 diapositiva
 siguiente
 .
-"*/mavir04_98.lab"
 la
 universidad
 autónoma
@@ -3432,7 +3333,6 @@ que
 podían
 colaborar
 .
-"*/mavir04_99.lab"
 tienen
 un
 perfil
@@ -3471,7 +3371,6 @@ el
 perfil
 informático
 .
-"*/mavir04_100.lab"
 bueno
 había
 una
@@ -3482,7 +3381,6 @@ que
 podían
 hacer
 .
-"*/mavir04_101.lab"
 hacían
 énfasis
 en
@@ -3504,7 +3402,6 @@ al
 dominio
 médico
 .
-"*/mavir04_102.lab"
 es
 decir
 analizando
@@ -3534,7 +3431,6 @@ para
 el
 buscador
 .
-"*/mavir04_103.lab"
 o
 sea
 pues
@@ -3561,7 +3457,6 @@ sacar
 esas
 relaciones
 .
-"*/mavir04_104.lab"
 bueno
 pues
 toda
@@ -3572,7 +3467,6 @@ de
 de
 cuestiones
 .
-"*/mavir04_105.lab"
 el
 papel
 de
@@ -3660,7 +3554,6 @@ podía
 trabajar
 aquí
 .
-"*/mavir04_106.lab"
 y
 había
 distintos
@@ -3675,7 +3568,6 @@ en
 el
 proyecto
 .
-"*/mavir04_107.lab"
 por
 ejemplo
 podíamos
@@ -3710,7 +3602,6 @@ en
 este
 programa
 .
-"*/mavir04_108.lab"
 como
 os
 decía
@@ -3763,7 +3654,6 @@ papel
 de
 coordinador
 .
-"*/mavir04_109.lab"
 también
 buscar
 oportunidades
@@ -3781,7 +3671,6 @@ ahora
 mismo
 participamos
 .
-"*/mavir04_110.lab"
 tenemos
 dos
 proyectos
@@ -3821,7 +3710,6 @@ de
 la
 medicina
 .
-"*/mavir04_111.lab"
 y
 después
 el
@@ -3852,7 +3740,6 @@ desarrollo
 de
 tecnología
 .
-"*/mavir04_112.lab"
 bueno
 son
 dos
@@ -3880,7 +3767,6 @@ este
 trabajo
 relaciones
 .
-"*/mavir04_113.lab"
 aquí
 en
 esta
@@ -3903,7 +3789,6 @@ proponía
 para
 trabajar
 .
-"*/mavir04_114.lab"
 así
 que
 tienen
@@ -3987,7 +3872,6 @@ concretos
 que
 tiene
 .
-"*/mavir04_115.lab"
 obviamente
 todo
 este
@@ -4020,7 +3904,6 @@ y
 cuestiones
 legales
 .
-"*/mavir04_116.lab"
 y
 bueno
 pues
@@ -4050,7 +3933,6 @@ para
 un
 proyecto
 .
-"*/mavir04_117.lab"
 para
 plantear
 la
@@ -4084,7 +3966,6 @@ puesta
 en
 común
 .
-"*/mavir04_118.lab"
 pues
 hay
 que
@@ -4117,7 +3998,6 @@ tenemos
 que
 resolverla
 .
-"*/mavir04_119.lab"
 tenemos
 por
 ejemplo
@@ -4161,7 +4041,6 @@ no
 lo
 sé
 .
-"*/mavir04_120.lab"
 el
 consorcio
 cómo
@@ -4218,7 +4097,6 @@ en
 distintos
 programas
 .
-"*/mavir04_121.lab"
 qué
 tipo
 de
@@ -4239,7 +4117,6 @@ la
 convocatoria
 profit
 .
-"*/mavir04_122.lab"
 pues
 hay
 diferentes
@@ -4272,7 +4149,6 @@ desarrollo
 previo
 competitivo
 .
-"*/mavir04_123.lab"
 interrogantes
 funcionalidades
 hemos
@@ -4289,7 +4165,6 @@ pero
 podríamos
 ampliarlas
 .
-"*/mavir04_124.lab"
 otra
 cuestión
 también
@@ -4318,7 +4193,6 @@ el
 propio
 presupuesto
 .
-"*/mavir04_125.lab"
 como
 referencia
 por
@@ -4349,7 +4223,6 @@ solicitada
 una
 ampliación
 .
-"*/mavir04_126.lab"
 la
 fase
 uno
@@ -4366,7 +4239,6 @@ treinta
 y
 cuatro
 .
-"*/mavir04_127.lab"
 es
 esto
 suficiente
@@ -4390,7 +4262,6 @@ económicos
 estamos
 hablando
 .
-"*/mavir04_128.lab"
 pues
 también
 hay
@@ -4415,7 +4286,6 @@ termino
 por
 ahora
 .
-"*/mavir04_129.lab"
 muchas
 gracias
 pues
@@ -4436,7 +4306,6 @@ el
 tiempo
 estimado
 .
-"*/mavir04_130.lab"
 ahora
 isidro
 creo
@@ -4446,7 +4315,6 @@ esos
 tres
 minutos
 .
-"*/mavir04_131.lab"
 pues
 hola
 buenos
@@ -4454,7 +4322,6 @@ días
 a
 todos
 .
-"*/mavir04_132.lab"
 esta
 es
 una
@@ -4500,7 +4367,6 @@ y
 documentación
 científica
 .
-"*/mavir04_133.lab"
 hemos
 puesto
 la
@@ -4521,7 +4387,6 @@ en
 este
 idioma
 .
-"*/mavir04_134.lab"
 lamentablemente
 como
 mi
@@ -4567,7 +4432,6 @@ ustedes
 puedan
 entenderlo
 .
-"*/mavir04_135.lab"
 es
 la
 única
@@ -4599,7 +4463,6 @@ con
 los
 contenidos
 .
-"*/mavir04_136.lab"
 es
 decir
 la
@@ -4642,7 +4505,6 @@ en
 los
 contenidos
 .
-"*/mavir04_137.lab"
 y
 por
 tanto
@@ -4695,7 +4557,6 @@ un
 poco
 raro
 .
-"*/mavir04_138.lab"
 así
 que
 en
@@ -4738,7 +4599,6 @@ en
 la
 web
 .
-"*/mavir04_139.lab"
 vamos
 a
 intentar
@@ -4801,7 +4661,6 @@ grado
 de
 solapamiento
 .
-"*/mavir04_140.lab"
 veremos
 cuáles
 son
@@ -4852,7 +4711,6 @@ desarrollar
 el
 trabajo
 .
-"*/mavir04_141.lab"
 lo
 primero
 lo
@@ -4880,7 +4738,6 @@ está
 creciendo
 exponencialmente
 .
-"*/mavir04_142.lab"
 es
 decir
 de
@@ -4915,7 +4772,6 @@ en
 esa
 estructura
 .
-"*/mavir04_143.lab"
 lo
 que
 hacemos
@@ -4954,7 +4810,6 @@ fuerte
 componente
 institucional
 .
-"*/mavir04_144.lab"
 es
 decir
 que
@@ -4989,7 +4844,6 @@ un
 análisis
 comparativo
 .
-"*/mavir04_145.lab"
 por
 tanto
 la
@@ -5016,7 +4870,6 @@ con
 todo
 esto
 .
-"*/mavir04_146.lab"
 pero
 les
 voy
@@ -5127,7 +4980,6 @@ no
 estamos
 logrando
 .
-"*/mavir04_147.lab"
 existen
 unas
 importantes
@@ -5151,7 +5003,6 @@ profundas
 que
 son
 .
-"*/mavir04_148.lab"
 y
 sobre
 todo
@@ -5193,7 +5044,6 @@ el
 mundo
 académico
 .
-"*/mavir04_149.lab"
 por
 qué
 elegimos
@@ -5253,7 +5103,6 @@ a
 a
 obtener
 .
-"*/mavir04_150.lab"
 es
 evidente
 que
@@ -5283,7 +5132,6 @@ con
 mayor
 fuerza
 .
-"*/mavir04_151.lab"
 también
 es
 cierto
@@ -5321,7 +5169,6 @@ facilita
 nuestra
 labor
 .
-"*/mavir04_152.lab"
 también
 es
 fácil
@@ -5366,7 +5213,6 @@ motores
 de
 búsqueda
 .
-"*/mavir04_153.lab"
 de
 aquí
 nos
@@ -5414,7 +5260,6 @@ a
 la
 internet
 .
-"*/mavir04_154.lab"
 el
 último
 punto
@@ -5477,7 +5322,6 @@ que
 permita
 trabajar
 .
-"*/mavir04_155.lab"
 cómo
 vamos
 a
@@ -5507,7 +5351,6 @@ más
 explicativo
 posible
 .
-"*/mavir04_156.lab"
 vamos
 a
 intentar
@@ -5555,7 +5398,6 @@ en
 la
 web
 .
-"*/mavir04_157.lab"
 la
 medida
 que
@@ -5569,7 +5411,6 @@ fundamentalmente
 de
 visibilidad
 .
-"*/mavir04_158.lab"
 y
 vuelvo
 a
@@ -5615,7 +5456,6 @@ en
 la
 red
 .
-"*/mavir04_159.lab"
 por
 tanto
 vamos
@@ -5630,7 +5470,6 @@ los
 datos
 cuantitativos
 .
-"*/mavir04_160.lab"
 y
 lo
 que
@@ -5676,7 +5515,6 @@ los
 enlaces
 hipertextuales
 .
-"*/mavir04_161.lab"
 que
 tienen
 algunas
@@ -5729,7 +5567,6 @@ establezca
 un
 enlace
 .
-"*/mavir04_162.lab"
 vuelvo
 en
 esta
@@ -5763,7 +5600,6 @@ de
 comunicación
 académica
 .
-"*/mavir04_163.lab"
 pero
 se
 puede
@@ -5819,7 +5655,6 @@ procesos
 de
 comunicación
 .
-"*/mavir04_164.lab"
 les
 he
 puesto
@@ -5846,7 +5681,6 @@ universidad
 de
 harvard
 .
-"*/mavir04_165.lab"
 es
 simplemente
 un
@@ -5867,7 +5701,6 @@ trescientas
 subunidades
 reconocidas
 .
-"*/mavir04_166.lab"
 o
 por
 ejemplo
@@ -5915,7 +5748,6 @@ en
 la
 red
 .
-"*/mavir04_167.lab"
 como
 pueden
 ver
@@ -5973,7 +5805,6 @@ con
 la
 web
 .
-"*/mavir04_168.lab"
 es
 decir
 si
@@ -5991,7 +5822,6 @@ volumen
 de
 información
 .
-"*/mavir04_169.lab"
 con
 qué
 tipo
@@ -6013,7 +5843,6 @@ generando
 enlaces
 externos
 .
-"*/mavir04_170.lab"
 los
 resultados
 son
@@ -6060,7 +5889,6 @@ lo
 que
 parece
 .
-"*/mavir04_171.lab"
 fíjense
 ustedes
 que
@@ -6132,7 +5960,6 @@ peso
 es
 abrumador
 .
-"*/mavir04_172.lab"
 yo
 siempre
 señalo
@@ -6171,7 +5998,6 @@ en
 esta
 lista
 .
-"*/mavir04_173.lab"
 les
 diré
 que
@@ -6195,7 +6021,6 @@ ocho
 del
 mundo
 .
-"*/mavir04_174.lab"
 cuáles
 son
 los
@@ -6212,7 +6037,6 @@ a
 intentar
 resolver
 .
-"*/mavir04_175.lab"
 bueno
 pues
 en
@@ -6247,7 +6071,6 @@ carácter
 estrictamente
 académico
 .
-"*/mavir04_176.lab"
 algunos
 pueden
 ser
@@ -6261,7 +6084,6 @@ a
 este
 mundo
 .
-"*/mavir04_177.lab"
 hablemos
 pues
 de
@@ -6284,7 +6106,6 @@ ser
 muy
 significativas
 .
-"*/mavir04_178.lab"
 el
 problema
 es
@@ -6355,7 +6176,6 @@ millón
 de
 subunidades
 .
-"*/mavir04_179.lab"
 lo
 cual
 no
@@ -6390,7 +6210,6 @@ en
 herramientas
 automáticas
 .
-"*/mavir04_180.lab"
 aparte
 de
 eso
@@ -6432,7 +6251,6 @@ las
 propias
 páginas
 .
-"*/mavir04_181.lab"
 incluso
 cuando
 nos
@@ -6466,7 +6284,6 @@ control
 que
 digamos
 .
-"*/mavir04_182.lab"
 el
 problema
 es
@@ -6493,7 +6310,6 @@ aparecen
 distintos
 idiomas
 .
-"*/mavir04_183.lab"
 en
 esas
 tres
@@ -6538,7 +6354,6 @@ a
 estas
 áreas
 .
-"*/mavir04_184.lab"
 un
 un
 un
@@ -6561,7 +6376,6 @@ gran
 institución
 eh
 .
-"*/mavir04_185.lab"
 que
 puede
 tener
@@ -6608,7 +6422,6 @@ que
 hemos
 comentado
 .
-"*/mavir04_186.lab"
 y
 finalmente
 el
@@ -6635,7 +6448,6 @@ a
 entidades
 comparables
 .
-"*/mavir04_187.lab"
 habrá
 grupos
 de
@@ -6703,7 +6515,6 @@ estas
 tengan
 sentido
 .
-"*/mavir04_188.lab"
 cómo
 lo
 vamos
@@ -6726,7 +6537,6 @@ procesamiento
 del
 lenguaje
 .
-"*/mavir04_189.lab"
 nuestra
 idea
 es
@@ -6760,7 +6570,6 @@ veinticinco
 grandes
 disciplinas
 .
-"*/mavir04_190.lab"
 la
 idea
 fundamental
@@ -6784,7 +6593,6 @@ mayor
 peso
 político
 .
-"*/mavir04_191.lab"
 piensen
 que
 en
@@ -6809,7 +6617,6 @@ utiliza
 ya
 eh
 .
-"*/mavir04_192.lab"
 en
 españa
 sin
@@ -6873,7 +6680,6 @@ boe
 español
 eh
 .
-"*/mavir04_193.lab"
 aparte
 de
 eso
@@ -6902,7 +6708,6 @@ veintiséis
 mil
 subunidades
 .
-"*/mavir04_194.lab"
 fíjense
 estamos
 proponiendo
@@ -6947,7 +6752,6 @@ de
 los
 quince
 .
-"*/mavir04_195.lab"
 este
 resultado
 pues
@@ -6960,7 +6764,6 @@ ayuda
 al
 trabajo
 .
-"*/mavir04_196.lab"
 aparte
 de
 la
@@ -7008,7 +6811,6 @@ a
 nivel
 geográfico
 .
-"*/mavir04_197.lab"
 institucional
 pues
 el
@@ -7049,7 +6851,6 @@ con
 países
 desarrollados
 .
-"*/mavir04_198.lab"
 esto
 obviamente
 estamos
@@ -7072,7 +6873,6 @@ de
 idioma
 etcétera
 .
-"*/mavir04_199.lab"
 este
 es
 el
@@ -7102,7 +6902,6 @@ veintiséis
 mil
 subunidades
 .
-"*/mavir04_200.lab"
 este
 es
 un
@@ -7163,7 +6962,6 @@ las
 programaciones
 oportunas
 .
-"*/mavir04_201.lab"
 o
 por
 ejemplo
@@ -7217,7 +7015,6 @@ universidad
 de
 escocia
 .
-"*/mavir04_202.lab"
 los
 criterios
 los
@@ -7261,7 +7058,6 @@ ad
 ad
 hoc
 .
-"*/mavir04_203.lab"
 que
 no
 necesariamente
@@ -7293,7 +7089,6 @@ en
 el
 futuro
 .
-"*/mavir04_204.lab"
 el
 objetivo
 último
@@ -7311,7 +7106,6 @@ intentaremos
 construir
 indicadores
 .
-"*/mavir04_205.lab"
 a
 partir
 de
@@ -7323,7 +7117,6 @@ y
 sacaremos
 conclusiones
 .
-"*/mavir04_206.lab"
 yo
 creo
 que
@@ -7370,7 +7163,6 @@ un
 problema
 real
 .
-"*/mavir04_207.lab"
 e
 intentaremos
 sacarlo
@@ -7400,7 +7192,6 @@ tradicional
 de
 contenidos
 .
-"*/mavir04_208.lab"
 algo
 también
 muy
@@ -7426,7 +7217,6 @@ creemos
 muy
 importante
 .
-"*/mavir04_209.lab"
 e
 incluso
 desde
@@ -7459,7 +7249,6 @@ que
 se
 dé
 .
-"*/mavir04_210.lab"
 al
 final
 nuestro
@@ -7475,7 +7264,6 @@ de
 más
 áreas
 .
-"*/mavir04_211.lab"
 como
 he
 comentado
@@ -7533,7 +7321,6 @@ nuestros
 objetivos
 finales
 .
-"*/mavir04_212.lab"
 cómo
 lo
 vamos
@@ -7570,7 +7357,6 @@ del
 plan
 nacional
 .
-"*/mavir04_213.lab"
 felisa
 ha
 aceptado
@@ -7592,7 +7378,6 @@ los
 dos
 problemas
 .
-"*/mavir04_214.lab"
 la
 parte
 de
@@ -7669,7 +7454,6 @@ avanzar
 más
 adelante
 .
-"*/mavir04_215.lab"
 y
 si
 quieren
@@ -7686,7 +7470,6 @@ a
 su
 disposición
 .
-"*/mavir04_216.lab"
 muchísimas
 gracias
 gracias
@@ -7712,7 +7495,6 @@ podías
 haber
 contado
 .
-"*/mavir04_217.lab"
 muchas
 gracias
 y
@@ -7729,7 +7511,6 @@ días
 a
 todos
 .
-"*/mavir04_218.lab"
 yo
 os
 voy
@@ -7764,7 +7545,6 @@ marco
 del
 mavir
 .
-"*/mavir04_219.lab"
 bueno
 ha
 sido
@@ -7832,7 +7612,6 @@ por
 otros
 derroteros
 .
-"*/mavir04_220.lab"
 lo
 que
 voy
@@ -7861,7 +7640,6 @@ universidad
 carlos
 iii
 .
-"*/mavir04_221.lab"
 es
 plantear
 una
@@ -7901,7 +7679,6 @@ seis
 de
 noviembre
 .
-"*/mavir04_222.lab"
 en
 esa
 reunión
@@ -7946,7 +7723,6 @@ y
 paz
 iglesias
 .
-"*/mavir04_223.lab"
 entonces
 dios
 mío
@@ -7989,7 +7765,6 @@ las
 que
 trabajar
 .
-"*/mavir04_224.lab"
 ver
 un
 poco
@@ -8027,7 +7802,6 @@ transmitir
 hoy
 aquí
 .
-"*/mavir04_225.lab"
 y
 luego
 centrarnos
@@ -8043,7 +7817,6 @@ plan
 de
 trabajo
 .
-"*/mavir04_226.lab"
 no
 es
 que
@@ -8064,7 +7837,6 @@ eran
 muy
 importantes
 .
-"*/mavir04_227.lab"
 el
 problema
 es
@@ -8108,7 +7880,6 @@ servicios
 del
 hospital
 .
-"*/mavir04_228.lab"
 y
 nos
 dijeron
@@ -8171,7 +7942,6 @@ sobre
 terminología
 médica
 .
-"*/mavir04_229.lab"
 pues
 querían
 centrar
@@ -8186,7 +7956,6 @@ este
 recurso
 no
 .
-"*/mavir04_230.lab"
 en
 este
 primer
@@ -8221,7 +7990,6 @@ con
 distintas
 fuentes
 .
-"*/mavir04_231.lab"
 y
 que
 todos
@@ -8244,7 +8012,6 @@ a
 este
 recurso
 .
-"*/mavir04_232.lab"
 entonces
 bueno
 de
@@ -8267,7 +8034,6 @@ dimensiones
 bastante
 interesantes
 .
-"*/mavir04_233.lab"
 es
 una
 especie
@@ -8319,7 +8085,6 @@ mil
 relaciones
 semánticas
 .
-"*/mavir04_234.lab"
 bueno
 además
 incorpora
@@ -8341,7 +8106,6 @@ puede
 trabajar
 no
 .
-"*/mavir04_235.lab"
 de
 alguna
 manera
@@ -8372,7 +8136,6 @@ estandarización
 de
 formularios
 .
-"*/mavir04_236.lab"
 es
 decir
 no
@@ -8417,7 +8180,6 @@ a
 esta
 ontología
 .
-"*/mavir04_237.lab"
 algunos
 tienen
 dominios
@@ -8430,7 +8192,6 @@ texto
 texto
 libre
 .
-"*/mavir04_238.lab"
 entonces
 esto
 les
@@ -8450,7 +8211,6 @@ estos
 formularios
 no
 .
-"*/mavir04_239.lab"
 que
 tienen
 en
@@ -8475,7 +8235,6 @@ dentro
 del
 hospital
 .
-"*/mavir04_240.lab"
 esto
 les
 interesa
@@ -8505,7 +8264,6 @@ en
 los
 pacientes
 .
-"*/mavir04_241.lab"
 es
 el
 dominio
@@ -8519,7 +8277,6 @@ a
 a
 trabajar
 .
-"*/mavir04_242.lab"
 además
 también
 les
@@ -8541,7 +8298,6 @@ es
 estudios
 epidemiológicos
 .
-"*/mavir04_243.lab"
 es
 sobre
 precisamente
@@ -8562,7 +8318,6 @@ difícil
 obtener
 indicadores
 .
-"*/mavir04_244.lab"
 por
 ahora
 obtienen
@@ -8594,7 +8349,6 @@ data
 mining
 no
 .
-"*/mavir04_245.lab"
 por
 ejemplo
 aquí
@@ -8630,7 +8384,6 @@ poco
 compleja
 no
 .
-"*/mavir04_246.lab"
 estos
 que
 aparecen
@@ -8665,7 +8418,6 @@ estos
 formularios
 no
 .
-"*/mavir04_247.lab"
 entonces
 el
 tema
@@ -8685,7 +8437,6 @@ las
 alergias
 no
 .
-"*/mavir04_248.lab"
 que
 no
 puedas
@@ -8721,7 +8472,6 @@ esté
 esté
 controlado
 .
-"*/mavir04_249.lab"
 como
 tercer
 tercera
@@ -8764,7 +8514,6 @@ distintas
 fuentes
 no
 .
-"*/mavir04_250.lab"
 entonces
 de
 manera
@@ -8786,7 +8535,6 @@ del
 paciente
 no
 .
-"*/mavir04_251.lab"
 de
 tal
 manera
@@ -8833,7 +8581,6 @@ manera
 manual
 no
 .
-"*/mavir04_252.lab"
 bueno
 pues
 además
@@ -8868,7 +8615,6 @@ también
 navegación
 semántica
 .
-"*/mavir04_253.lab"
 esta
 es
 otra
@@ -8895,7 +8641,6 @@ importante
 para
 ellos
 .
-"*/mavir04_254.lab"
 la
 última
 es
@@ -8947,7 +8692,6 @@ en
 algo
 puntual
 .
-"*/mavir04_255.lab"
 para
 ver
 cómo
@@ -8979,7 +8723,6 @@ de
 instalable
 no
 .
-"*/mavir04_256.lab"
 y
 que
 se
@@ -9009,7 +8752,6 @@ de
 de
 datos
 .
-"*/mavir04_257.lab"
 el
 objetivo
 de
@@ -9034,7 +8776,6 @@ de
 la
 cam
 .
-"*/mavir04_258.lab"
 es
 que
 bueno
@@ -9054,7 +8795,6 @@ historia
 clínica
 electrónica
 .
-"*/mavir04_259.lab"
 y
 no
 quieren
@@ -9093,7 +8833,6 @@ no
 son
 estándares
 .
-"*/mavir04_260.lab"
 si
 por
 ejemplo
@@ -9122,7 +8861,6 @@ normalizar
 información
 médica
 .
-"*/mavir04_261.lab"
 ellos
 saben
 que
@@ -9165,7 +8903,6 @@ estandarización
 y
 normalización
 .
-"*/mavir04_262.lab"
 entonces
 este
 primer
@@ -9186,7 +8923,6 @@ existe
 en
 castellano
 .
-"*/mavir04_263.lab"
 o
 sea
 los
@@ -9212,7 +8948,6 @@ hasta
 donde
 sabemos
 .
-"*/mavir04_264.lab"
 bueno
 esto
 en
@@ -9226,7 +8961,6 @@ nos
 han
 planteado
 .
-"*/mavir04_265.lab"
 nos
 han
 planteado
@@ -9282,7 +9016,6 @@ espacio
 temporal
 no
 .
-"*/mavir04_266.lab"
 pues
 tratar
 las
@@ -9334,7 +9067,6 @@ tumores
 por
 ejemplo
 .
-"*/mavir04_267.lab"
 y
 bueno
 yo
@@ -9350,7 +9082,6 @@ más
 más
 posibilidades
 .
-"*/mavir04_268.lab"
 lo
 que
 nosotros
@@ -9399,7 +9130,6 @@ dentro
 del
 hospital
 .
-"*/mavir04_269.lab"
 y
 pues
 intentar
@@ -9411,7 +9141,6 @@ cuatro
 grandes
 bloques
 .
-"*/mavir04_270.lab"
 por
 ejemplo
 pues
@@ -9441,7 +9170,6 @@ seguridad
 en
 pacientes
 .
-"*/mavir04_271.lab"
 pero
 no
 se
@@ -9459,7 +9187,6 @@ ser
 en
 particular
 .
-"*/mavir04_272.lab"
 en
 cuanto
 al
@@ -9524,7 +9251,6 @@ de
 de
 ontologías
 .
-"*/mavir04_273.lab"
 por
 parte
 de
@@ -9556,7 +9282,6 @@ búsqueda
 de
 respuestas
 .
-"*/mavir04_274.lab"
 y
 también
 esta
@@ -9571,7 +9296,6 @@ de
 datos
 espaciotemporales
 .
-"*/mavir04_275.lab"
 pero
 no
 tenemos
@@ -9592,7 +9316,6 @@ en
 este
 proyecto
 .
-"*/mavir04_276.lab"
 por
 ejemplo
 no
@@ -9615,7 +9338,6 @@ del
 del
 paciente
 .
-"*/mavir04_277.lab"
 en
 cuanto
 al
@@ -9642,7 +9364,6 @@ análisis
 de
 requisitos
 .
-"*/mavir04_278.lab"
 sobre
 todo
 aportar
@@ -9700,7 +9421,6 @@ la
 que
 trabajar
 .
-"*/mavir04_279.lab"
 y
 por
 supuesto
@@ -9717,7 +9437,6 @@ otros
 participantes
 no
 .
-"*/mavir04_280.lab"
 ya
 solamente
 deciros
@@ -9749,7 +9468,6 @@ de
 distintas
 fuentes
 .
-"*/mavir04_281.lab"
 pues
 el
 objetivo
@@ -9782,7 +9500,6 @@ que
 trabajáramos
 no
 .
-"*/mavir04_282.lab"
 y
 aquí
 estas
@@ -9812,7 +9529,6 @@ gestión
 de
 formularios
 .
-"*/mavir04_283.lab"
 con
 prioridad
 al
@@ -9834,7 +9550,6 @@ más
 importante
 no
 .
-"*/mavir04_284.lab"
 y
 bueno
 en
@@ -9884,7 +9599,6 @@ implantar
 esta
 ontología
 .
-"*/mavir04_285.lab"
 para
 luego
 trabajar
@@ -9934,7 +9648,6 @@ muy
 breve
 no
 .
-"*/mavir04_286.lab"
 esta
 espiral
 que
@@ -9973,7 +9686,6 @@ a
 distintos
 dominios
 .
-"*/mavir04_287.lab"
 para
 ver
 si
@@ -10003,7 +9715,6 @@ un
 único
 dominio
 .
-"*/mavir04_288.lab"
 y
 bueno
 pues

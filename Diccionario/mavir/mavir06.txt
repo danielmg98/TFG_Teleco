@@ -1,5 +1,3 @@
-#!MLF!#
-"*/mavir06_1.lab"
 bueno
 primero
 un
@@ -16,7 +14,6 @@ todos
 lo
 conocéis
 .
-"*/mavir06_2.lab"
 nació
 en
 el
@@ -46,7 +43,6 @@ española
 hispánica
 internacionalmente
 .
-"*/mavir06_3.lab"
 en
 la
 actualidad
@@ -66,7 +62,6 @@ diez
 aulas
 virtuales
 .
-"*/mavir06_4.lab"
 llamamos
 aulas
 virtuales
@@ -79,7 +74,6 @@ las
 universidades
 internacionales
 .
-"*/mavir06_5.lab"
 uno
 de
 los
@@ -102,7 +96,6 @@ español
 en
 internet
 .
-"*/mavir06_6.lab"
 ya
 desde
 sus
@@ -127,7 +120,6 @@ es
 tan
 reciente
 .
-"*/mavir06_7.lab"
 el
 instituto
 cervantes
@@ -161,7 +153,6 @@ de
 la
 semana
 .
-"*/mavir06_8.lab"
 el
 centro
 virtual
@@ -186,7 +177,6 @@ de
 visitas
 mensuales
 .
-"*/mavir06_9.lab"
 os
 he
 puesto
@@ -207,7 +197,6 @@ en
 las
 visitas
 .
-"*/mavir06_10.lab"
 tan
 importante
 como
@@ -235,7 +224,6 @@ ser
 localizados
 fácilmente
 .
-"*/mavir06_11.lab"
 desde
 ese
 punto
@@ -278,7 +266,6 @@ español
 en
 general
 .
-"*/mavir06_12.lab"
 entonces
 creó
 o
@@ -345,7 +332,6 @@ el
 idioma
 español
 .
-"*/mavir06_13.lab"
 este
 motor
 también
@@ -374,7 +360,6 @@ o
 direcciones
 especializadas
 .
-"*/mavir06_14.lab"
 en
 la
 transparencia
@@ -393,7 +378,6 @@ el
 proyecto
 no
 .
-"*/mavir06_15.lab"
 hay
 un
 metabuscador
@@ -447,7 +431,6 @@ complementan
 esa
 información
 .
-"*/mavir06_16.lab"
 hay
 un
 robot
@@ -484,7 +467,6 @@ a
 la
 información
 .
-"*/mavir06_17.lab"
 en
 el
 instituto
@@ -517,7 +499,6 @@ ce
 uve
 ce
 .
-"*/mavir06_18.lab"
 contempla
 más
 de
@@ -544,7 +525,6 @@ búsquedas
 más
 amplias
 .
-"*/mavir06_19.lab"
 estos
 enlaces
 están
@@ -576,7 +556,6 @@ de
 esas
 páginas
 .
-"*/mavir06_20.lab"
 y
 bueno
 un
@@ -629,7 +608,6 @@ en
 lengua
 española
 .
-"*/mavir06_21.lab"
 muchas
 gracias
 buenos
@@ -637,7 +615,6 @@ días
 a
 todos
 .
-"*/mavir06_22.lab"
 mi
 intención
 es
@@ -680,7 +657,6 @@ proyecto
 en
 sí
 .
-"*/mavir06_23.lab"
 telefónica
 a
 través
@@ -726,7 +702,6 @@ subvencionando
 ciertos
 proyectos
 .
-"*/mavir06_24.lab"
 ciertos
 proyectos
 actividades
@@ -743,7 +718,6 @@ sociocultural
 y
 educativo
 .
-"*/mavir06_25.lab"
 de
 esta
 forma
@@ -811,7 +785,6 @@ los
 menores
 trabajadores
 .
-"*/mavir06_26.lab"
 otro
 programa
 bastante
@@ -857,7 +830,6 @@ arte
 y
 tecnología
 .
-"*/mavir06_27.lab"
 arte
 y
 tecnología
@@ -880,7 +852,6 @@ la
 fundación
 telefónica
 .
-"*/mavir06_28.lab"
 y
 nació
 para
@@ -893,7 +864,6 @@ cultural
 y
 tecnológico
 .
-"*/mavir06_29.lab"
 actualmente
 tiene
 una
@@ -957,7 +927,6 @@ la
 fundación
 telefónica
 .
-"*/mavir06_30.lab"
 por
 último
 un
@@ -994,7 +963,6 @@ de
 algunos
 otros
 .
-"*/mavir06_31.lab"
 la
 dirección
 general
@@ -1058,7 +1026,6 @@ de
 la
 educación
 .
-"*/mavir06_32.lab"
 te
 importa
 volver
@@ -1176,7 +1143,6 @@ miguel
 de
 cervantes
 .
-"*/mavir06_33.lab"
 gracias
 el
 patrocinio
@@ -1215,7 +1181,6 @@ los
 organismos
 implicados
 .
-"*/mavir06_34.lab"
 en
 cuanto
 a
@@ -1239,7 +1204,6 @@ y
 telefónica
 soluciones
 .
-"*/mavir06_35.lab"
 y
 bien
 estas
@@ -1278,7 +1242,6 @@ de
 la
 cogolla
 .
-"*/mavir06_36.lab"
 son
 proyectos
 de
@@ -1330,7 +1293,6 @@ de
 telefónica
 soluciones
 .
-"*/mavir06_37.lab"
 otros
 proyectos
 un
@@ -1367,7 +1329,6 @@ de
 soporte
 técnico
 .
-"*/mavir06_38.lab"
 ofreció
 para
 la
@@ -1387,7 +1348,6 @@ pruebas
 del
 proyecto
 .
-"*/mavir06_39.lab"
 y
 de
 acuerdo
@@ -1436,7 +1396,6 @@ de
 este
 proyecto
 .
-"*/mavir06_40.lab"
 y
 yo
 sin
@@ -1446,7 +1405,6 @@ a
 la
 presentación
 .
-"*/mavir06_41.lab"
 muchas
 gracias
 buenos
@@ -1456,7 +1414,6 @@ todos
 muchas
 gracias
 .
-"*/mavir06_42.lab"
 micrófono
 micrófono
 muy
@@ -1484,7 +1441,6 @@ del
 asunto
 no
 .
-"*/mavir06_43.lab"
 la
 el
 diseño
@@ -1507,7 +1463,6 @@ llevado
 a
 cabo
 .
-"*/mavir06_44.lab"
 desde
 un
 primer
@@ -1545,7 +1500,6 @@ cumplir
 el
 proyecto
 .
-"*/mavir06_45.lab"
 la
 primera
 pues
@@ -1570,7 +1524,6 @@ y
 lengua
 española
 .
-"*/mavir06_46.lab"
 eso
 palabra
 panhispánico
@@ -1585,7 +1538,6 @@ todo
 el
 mundo
 .
-"*/mavir06_47.lab"
 y
 centrado
 especialmente
@@ -1594,7 +1546,6 @@ contenidos
 de
 calidad
 .
-"*/mavir06_48.lab"
 para
 eso
 existen
@@ -1637,7 +1588,6 @@ con
 algo
 más
 .
-"*/mavir06_49.lab"
 las
 direcciones
 entonces
@@ -1657,7 +1607,6 @@ conjunto
 de
 expertos
 .
-"*/mavir06_50.lab"
 y
 luego
 bueno
@@ -1705,7 +1654,6 @@ los
 la
 información
 .
-"*/mavir06_51.lab"
 ésta
 es
 un
@@ -1756,7 +1704,6 @@ en
 la
 red
 .
-"*/mavir06_52.lab"
 ya
 todos
 sabemos
@@ -1805,7 +1752,6 @@ la
 lengua
 española
 .
-"*/mavir06_53.lab"
 todos
 estos
 eran
@@ -1857,7 +1803,6 @@ modular
 de
 forma
 .
-"*/mavir06_54.lab"
 y
 en
 este
@@ -1890,7 +1835,6 @@ ha
 puesto
 rosa
 .
-"*/mavir06_55.lab"
 la
 idea
 de
@@ -1915,7 +1859,6 @@ serie
 de
 fichas
 .
-"*/mavir06_56.lab"
 o
 sea
 a
@@ -1949,7 +1892,6 @@ concepto
 de
 ficha
 .
-"*/mavir06_57.lab"
 una
 ficha
 está
@@ -1979,7 +1921,6 @@ poco
 de
 ella
 .
-"*/mavir06_58.lab"
 y
 además
 pues
@@ -2020,7 +1961,6 @@ aporta
 esa
 ficha
 .
-"*/mavir06_59.lab"
 bueno
 pues
 bien
@@ -2056,7 +1996,6 @@ equipo
 de
 catalogadores
 .
-"*/mavir06_60.lab"
 siempre
 me
 ha
@@ -2072,7 +2011,6 @@ es
 verdad
 no
 .
-"*/mavir06_61.lab"
 entonces
 el
 equipo
@@ -2112,7 +2050,6 @@ motores
 en
 internet
 .
-"*/mavir06_62.lab"
 el
 sistema
 es
@@ -2158,7 +2095,6 @@ altavista
 y
 alltheweb
 .
-"*/mavir06_63.lab"
 entonces
 el
 metabuscador
@@ -2218,7 +2154,6 @@ y
 se
 almacenan
 .
-"*/mavir06_64.lab"
 entonces
 después
 cuando
@@ -2266,7 +2201,6 @@ de
 alto
 valor
 .
-"*/mavir06_65.lab"
 esas
 fichas
 se
@@ -2295,7 +2229,6 @@ en
 esa
 ficha
 .
-"*/mavir06_66.lab"
 después
 se
 define
@@ -2361,7 +2294,6 @@ del
 catálogo
 general
 .
-"*/mavir06_67.lab"
 bueno
 el
 caso
@@ -2414,7 +2346,6 @@ recuperación
 de
 información
 .
-"*/mavir06_68.lab"
 en
 concreto
 bueno
@@ -2446,7 +2377,6 @@ vectores
 típico
 tradicional
 .
-"*/mavir06_69.lab"
 y
 luego
 pues
@@ -2467,7 +2397,6 @@ objetivo
 del
 sistema
 .
-"*/mavir06_70.lab"
 todos
 estos
 módulos
@@ -2582,7 +2511,6 @@ la
 ficha
 no
 .
-"*/mavir06_71.lab"
 esto
 es
 lo
@@ -2605,7 +2533,6 @@ la
 arquitectura
 general
 .
-"*/mavir06_72.lab"
 como
 decía
 bueno
@@ -2676,7 +2603,6 @@ un
 cierto
 tiempo
 .
-"*/mavir06_73.lab"
 entonces
 se
 vio
@@ -2710,7 +2636,6 @@ offline
 si
 queréis
 .
-"*/mavir06_74.lab"
 pues
 primero
 se
@@ -2724,7 +2649,6 @@ se
 procesarán
 esos
 .
-"*/mavir06_75.lab"
 las
 se
 utilizan
@@ -2733,7 +2657,6 @@ criterios
 de
 búsqueda
 .
-"*/mavir06_76.lab"
 es
 un
 buen
@@ -2767,7 +2690,6 @@ aportan
 los
 tres
 .
-"*/mavir06_77.lab"
 entonces
 vamos
 los
@@ -2812,7 +2734,6 @@ html
 pdf
 etcétera
 .
-"*/mavir06_78.lab"
 y
 y
 además
@@ -2838,7 +2759,6 @@ en
 diferentes
 buscadores
 .
-"*/mavir06_79.lab"
 entonces
 tenemos
 que
@@ -2852,7 +2772,6 @@ ya
 están
 catalogados
 .
-"*/mavir06_80.lab"
 los
 enlaces
 tenemos
@@ -2871,7 +2790,6 @@ que
 estar
 consistente
 .
-"*/mavir06_81.lab"
 además
 se
 definen
@@ -2913,7 +2831,6 @@ que
 otros
 buscadores
 .
-"*/mavir06_82.lab"
 es
 un
 ejemplo
@@ -2942,7 +2859,6 @@ crea
 una
 ficha
 .
-"*/mavir06_83.lab"
 esa
 ficha
 se
@@ -3020,7 +2936,6 @@ de
 frases
 no
 .
-"*/mavir06_84.lab"
 se
 detecta
 el
@@ -3086,7 +3001,6 @@ de
 diferente
 temática
 .
-"*/mavir06_85.lab"
 y
 además
 dentro
@@ -3106,7 +3020,6 @@ de
 categorías
 temáticas
 .
-"*/mavir06_86.lab"
 por
 ejemplo
 pues
@@ -3148,7 +3061,6 @@ y
 una
 secundaria
 .
-"*/mavir06_87.lab"
 toda
 esa
 información
@@ -3180,7 +3092,6 @@ la
 la
 labor
 .
-"*/mavir06_88.lab"
 entonces
 toda
 esta
@@ -3208,7 +3119,6 @@ a
 los
 catalogadores
 .
-"*/mavir06_89.lab"
 además
 cada
 ficha
@@ -3254,7 +3164,6 @@ en
 el
 futuro
 .
-"*/mavir06_90.lab"
 entonces
 pues
 existe
@@ -3277,7 +3186,6 @@ largo
 del
 tiempo
 .
-"*/mavir06_91.lab"
 y
 por
 último
@@ -3362,7 +3270,6 @@ el
 módulo
 buscador
 .
-"*/mavir06_92.lab"
 además
 bueno
 la
@@ -3425,7 +3332,6 @@ y
 demás
 historias
 .
-"*/mavir06_93.lab"
 entonces
 esos
 la
@@ -3480,7 +3386,6 @@ alta
 calidad
 no
 .
-"*/mavir06_94.lab"
 el
 resto
 de
@@ -3503,7 +3408,6 @@ se
 llama
 general
 .
-"*/mavir06_95.lab"
 las
 búsquedas
 ahí
@@ -3541,7 +3445,6 @@ está
 extraído
 automáticamente
 .
-"*/mavir06_96.lab"
 no
 está
 revisado
@@ -3565,7 +3468,6 @@ pero
 puede
 fallar
 .
-"*/mavir06_97.lab"
 ese
 estilo
 de
@@ -3593,7 +3495,6 @@ de
 información
 automática
 .
-"*/mavir06_98.lab"
 y
 ese
 es
@@ -3645,7 +3546,6 @@ que
 actualizar
 periódicamente
 .
-"*/mavir06_99.lab"
 cada
 colección
 tiene
@@ -3694,7 +3594,6 @@ colecciones
 de
 documentos
 .
-"*/mavir06_100.lab"
 pues
 todo
 eso
@@ -3735,7 +3634,6 @@ en
 otros
 canales
 .
-"*/mavir06_101.lab"
 y
 bueno
 por
@@ -3762,7 +3660,6 @@ todo
 el
 mundo
 .
-"*/mavir06_102.lab"
 el
 resto
 de
@@ -3828,7 +3725,6 @@ sobre
 esas
 fichas
 .
-"*/mavir06_103.lab"
 se
 han
 definido
@@ -3862,7 +3758,6 @@ máximo
 al
 usuario
 .
-"*/mavir06_104.lab"
 buscando
 los
 diferentes
@@ -3898,7 +3793,6 @@ a
 los
 usuarios
 .
-"*/mavir06_105.lab"
 incidiendo
 en
 la
@@ -3910,7 +3804,6 @@ de
 las
 consultas
 .
-"*/mavir06_106.lab"
 no
 hay
 que
@@ -3956,7 +3849,6 @@ a
 la
 imagen
 .
-"*/mavir06_107.lab"
 es
 triste
 o
@@ -3967,7 +3859,6 @@ pues
 pasa
 eso
 .
-"*/mavir06_108.lab"
 entonces
 hay
 que
@@ -4011,7 +3902,6 @@ piezas
 o
 escritos
 .
-"*/mavir06_109.lab"
 y
 se
 ofrecen
@@ -4060,7 +3950,6 @@ en
 la
 demo
 .
-"*/mavir06_110.lab"
 y
 por
 último
@@ -4081,7 +3970,6 @@ todos
 estos
 parámetros
 .
-"*/mavir06_111.lab"
 esto
 es
 un
@@ -4116,7 +4004,6 @@ configurar
 diferentes
 cosas
 .
-"*/mavir06_112.lab"
 pues
 entonces
 está
@@ -4152,7 +4039,6 @@ procedimientos
 de
 backup
 .
-"*/mavir06_113.lab"
 todo
 ese
 tipo
@@ -4180,7 +4066,6 @@ que
 es
 importante
 .
-"*/mavir06_114.lab"
 y
 es
 uno
@@ -4196,7 +4081,6 @@ del
 del
 sistema
 .
-"*/mavir06_115.lab"
 bueno
 pues
 esto
@@ -4206,7 +4090,6 @@ la
 arquitectura
 software
 .
-"*/mavir06_116.lab"
 respecto
 a
 la
@@ -4297,7 +4180,6 @@ implementado
 en
 php
 .
-"*/mavir06_117.lab"
 y
 bueno
 y
@@ -4319,7 +4201,6 @@ c
 y
 java
 .
-"*/mavir06_118.lab"
 veis
 que
 un
@@ -4335,7 +4216,6 @@ siempre
 pasa
 no
 .
-"*/mavir06_119.lab"
 en
 concreto
 respecto
@@ -4360,7 +4240,6 @@ a
 su
 lanzamiento
 .
-"*/mavir06_120.lab"
 ya
 ha
 contado
@@ -4409,7 +4288,6 @@ las
 misma
 visitas
 .
-"*/mavir06_121.lab"
 entonces
 el
 el
@@ -4477,7 +4355,6 @@ y
 de
 indexación
 .
-"*/mavir06_122.lab"
 esas
 fichas
 son
@@ -4494,7 +4371,6 @@ eso
 está
 subiendo
 .
-"*/mavir06_123.lab"
 al
 final
 la
@@ -4530,7 +4406,6 @@ todos
 los
 días
 .
-"*/mavir06_124.lab"
 se
 supone
 que
@@ -4564,4 +4439,3 @@ encarguen
 diferentes
 organizaciones
 .
-"*/mavir06_125.lab"

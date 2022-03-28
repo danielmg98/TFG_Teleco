@@ -112,10 +112,19 @@ mavir1.close()
 
 
 mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new11.txt','r')
+mavir1 = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new12.txt','w')
+
+f.cambiar_minusculas(mavir,mavir1)
+
+mavir.close()
+mavir1.close()
+
+mavir = open('../nuevo/mavir0'+i+'/mavir0'+i+'_new12.txt','r')
 mavir1 = open('../nuevo/htk/mavir0'+i+'_htk.txt','w')
 
-#Cambiar puntos por labels
 f.formato_htk(mavir,mavir1,i)
 
 mavir.close()
 mavir1.close()
+
+

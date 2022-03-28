@@ -1,5 +1,3 @@
-#!MLF!#
-"*/mavir07_1.lab"
 bueno
 esta
 presentación
@@ -13,7 +11,6 @@ a
 ser
 larga
 .
-"*/mavir07_2.lab"
 lo
 queresmos
 contar
@@ -30,7 +27,6 @@ inteligente
 a
 contenidos
 .
-"*/mavir07_3.lab"
 y
 luego
 contaros
@@ -58,7 +54,6 @@ modelo
 de
 negocio
 .
-"*/mavir07_4.lab"
 entonces
 primero
 definir
@@ -72,7 +67,6 @@ a
 cliente
 no
 .
-"*/mavir07_5.lab"
 este
 mundo
 viene
@@ -117,7 +111,6 @@ es
 en
 web
 .
-"*/mavir07_6.lab"
 entonces
 el
 año
@@ -143,7 +136,6 @@ acceso
 a
 información
 .
-"*/mavir07_7.lab"
 o
 sea
 ya
@@ -169,7 +161,6 @@ de
 esta
 tecnología
 .
-"*/mavir07_8.lab"
 y
 si
 os
@@ -188,7 +179,6 @@ es
 es
 bestial
 .
-"*/mavir07_9.lab"
 o
 sea
 es
@@ -220,7 +210,6 @@ está
 consolidando
 todavía
 .
-"*/mavir07_10.lab"
 si
 lo
 comparais
@@ -250,7 +239,6 @@ que
 cualquier
 otro
 .
-"*/mavir07_11.lab"
 y
 eso
 que
@@ -272,7 +260,6 @@ como
 líderes
 no
 .
-"*/mavir07_12.lab"
 autonomy
 compra
 verity
@@ -287,7 +274,6 @@ al
 número
 dos
 .
-"*/mavir07_13.lab"
 google
 está
 todavía
@@ -336,7 +322,6 @@ no
 es
 así
 .
-"*/mavir07_14.lab"
 las
 previsiones
 son
@@ -357,7 +342,6 @@ se
 usan
 aquí
 .
-"*/mavir07_15.lab"
 me
 voy
 a
@@ -380,7 +364,6 @@ todo
 en
 web
 .
-"*/mavir07_16.lab"
 cómo
 se
 ve
@@ -395,7 +378,6 @@ acceso
 a
 información
 .
-"*/mavir07_17.lab"
 entonces
 el
 caso
@@ -414,7 +396,6 @@ la
 web
 semántica
 .
-"*/mavir07_18.lab"
 tiene
 mucho
 que
@@ -443,7 +424,6 @@ acceso
 a
 ella
 .
-"*/mavir07_19.lab"
 entonces
 lo
 que
@@ -492,7 +472,6 @@ modelos
 de
 negocio
 .
-"*/mavir07_20.lab"
 o
 sea
 todavía
@@ -525,7 +504,6 @@ a
 la
 información
 .
-"*/mavir07_21.lab"
 lo
 que
 vais
@@ -557,7 +535,6 @@ qué
 sirve
 esto
 .
-"*/mavir07_22.lab"
 pues
 es
 es
@@ -578,7 +555,6 @@ a
 la
 información
 .
-"*/mavir07_23.lab"
 y
 es
 entender
@@ -618,7 +594,6 @@ en
 comparación
 léxica
 .
-"*/mavir07_24.lab"
 entonces
 fermín
 nos
@@ -642,7 +617,6 @@ once
 ocho
 once
 .
-"*/mavir07_25.lab"
 dónde
 vá
 todo
@@ -675,7 +649,6 @@ gestión
 del
 contenido
 .
-"*/mavir07_26.lab"
 entonces
 lo
 primero
@@ -686,7 +659,6 @@ ocurre
 es
 buscar
 .
-"*/mavir07_27.lab"
 buscar
 información
 porque
@@ -712,7 +684,6 @@ no
 estamos
 viendo
 .
-"*/mavir07_28.lab"
 siguiente
 paso
 sería
@@ -725,7 +696,6 @@ un
 oráculo
 no
 .
-"*/mavir07_29.lab"
 de
 que
 un
@@ -754,7 +724,6 @@ buscador
 de
 respuestas
 .
-"*/mavir07_30.lab"
 o
 sea
 que
@@ -771,7 +740,6 @@ y
 me
 responda
 .
-"*/mavir07_31.lab"
 pero
 que
 no
@@ -795,7 +763,6 @@ cero
 un
 segundo
 .
-"*/mavir07_32.lab"
 yo
 quiero
 respuestas
@@ -870,7 +837,6 @@ como
 primeras
 aplicaciones
 .
-"*/mavir07_33.lab"
 el
 siguiente
 paso
@@ -884,7 +850,6 @@ gestión
 de
 diálogo
 .
-"*/mavir07_34.lab"
 o
 sea
 yo
@@ -922,7 +887,6 @@ que
 yo
 necesito
 .
-"*/mavir07_35.lab"
 eso
 sería
 el
@@ -943,7 +907,6 @@ la
 la
 personalización
 .
-"*/mavir07_36.lab"
 si
 habláis
 con
@@ -971,7 +934,6 @@ de
 manera
 personalizada
 .
-"*/mavir07_37.lab"
 o
 sea
 todo
@@ -1002,7 +964,6 @@ el
 momento
 adecuado
 .
-"*/mavir07_38.lab"
 entonces
 hablamos
 de
@@ -1023,7 +984,6 @@ información
 que
 necesita
 .
-"*/mavir07_39.lab"
 y
 ya
 por
@@ -1058,7 +1018,6 @@ hacía
 allá
 vamos
 .
-"*/mavir07_40.lab"
 queremos
 software
 que
@@ -1082,7 +1041,6 @@ que
 por
 nosotros
 .
-"*/mavir07_41.lab"
 ejemplos
 ejemplos
 que
@@ -1098,7 +1056,6 @@ hay
 por
 ahí
 .
-"*/mavir07_42.lab"
 pasaré
 muy
 rápido
@@ -1117,7 +1074,6 @@ en
 en
 particular
 .
-"*/mavir07_43.lab"
 uno
 es
 el
@@ -1150,7 +1106,6 @@ la
 administración
 local
 .
-"*/mavir07_44.lab"
 o
 sea
 parecen
@@ -1205,7 +1160,6 @@ eran
 diez
 minutos
 .
-"*/mavir07_45.lab"
 diez
 minutos
 hasta
@@ -1222,7 +1176,6 @@ la
 consejería
 medioambiente
 .
-"*/mavir07_46.lab"
 entrabais
 a
 la
@@ -1239,7 +1192,6 @@ de
 grandes
 objetos
 .
-"*/mavir07_47.lab"
 entonces
 sí
 que
@@ -1260,7 +1212,6 @@ uno
 a
 otro
 .
-"*/mavir07_48.lab"
 o
 sea
 yo
@@ -1305,7 +1256,6 @@ para
 geoposicionar
 recursos
 .
-"*/mavir07_49.lab"
 flicker
 bueno
 un
@@ -1330,7 +1280,6 @@ una
 estructura
 geográfica
 .
-"*/mavir07_50.lab"
 otro
 tipo
 de
@@ -1344,7 +1293,6 @@ especie
 de
 diálogo
 .
-"*/mavir07_51.lab"
 esto
 viene
 dado
@@ -1393,7 +1341,6 @@ sé
 qué
 país
 .
-"*/mavir07_52.lab"
 esto
 todo
 es
@@ -1418,7 +1365,6 @@ se
 puede
 utilizar
 .
-"*/mavir07_53.lab"
 y
 esto
 lo
@@ -1436,7 +1382,6 @@ y
 pueda
 probar
 .
-"*/mavir07_54.lab"
 no
 os
 imaginais
@@ -1498,7 +1443,6 @@ de
 búsqueda
 perfecta
 .
-"*/mavir07_55.lab"
 o
 sea
 no
@@ -1516,7 +1460,6 @@ poder
 interaccionar
 con
 .
-"*/mavir07_56.lab"
 entonces
 aquí
 este
@@ -1538,7 +1481,6 @@ no
 es
 poco
 .
-"*/mavir07_57.lab"
 es
 mira
 no
@@ -1554,7 +1496,6 @@ preguntando
 esto
 vale
 .
-"*/mavir07_58.lab"
 para
 poco
 rebajar
@@ -1567,7 +1508,6 @@ de
 del
 usuario
 .
-"*/mavir07_59.lab"
 y
 ya
 una
@@ -1594,7 +1534,6 @@ un
 coche
 no
 .
-"*/mavir07_60.lab"
 entonces
 ya
 las
@@ -1619,7 +1558,6 @@ con
 nuestros
 vehículos
 .
-"*/mavir07_61.lab"
 y
 no
 simplemente
@@ -1639,7 +1577,6 @@ no
 sé
 qué
 .
-"*/mavir07_62.lab"
 sino
 que
 cuando
@@ -1685,7 +1622,6 @@ pasar
 alrededor
 no
 .
-"*/mavir07_63.lab"
 entonces
 ya
 cada
@@ -1726,7 +1662,6 @@ de
 los
 sistemas
 .
-"*/mavir07_64.lab"
 bueno
 no
 os
@@ -1744,7 +1679,6 @@ el
 caso
 concreto
 .
-"*/mavir07_65.lab"
 bueno
 lo
 que
@@ -1799,7 +1733,6 @@ pasando
 a
 internet
 .
-"*/mavir07_66.lab"
 y
 lo
 primero
@@ -1815,7 +1748,6 @@ dando
 información
 información
 .
-"*/mavir07_67.lab"
 y
 cuando
 damos
@@ -1826,7 +1758,6 @@ de
 teléfonos
 direcciones
 .
-"*/mavir07_68.lab"
 pero
 la
 lo
@@ -1885,7 +1816,6 @@ concepto
 de
 portal
 .
-"*/mavir07_69.lab"
 entonces
 portal
 de
@@ -1911,7 +1841,6 @@ soluciones
 al
 usuario
 .
-"*/mavir07_70.lab"
 estamos
 hablando
 de
@@ -1925,7 +1854,6 @@ estaba
 totalmente
 regulado
 .
-"*/mavir07_71.lab"
 había
 un
 teléfono
@@ -1954,7 +1882,6 @@ dos
 mil
 tres
 .
-"*/mavir07_72.lab"
 y
 se
 convirtió
@@ -1964,7 +1891,6 @@ once
 ocho
 dieciocho
 .
-"*/mavir07_73.lab"
 que
 es
 un
@@ -1994,7 +1920,6 @@ a
 números
 negros
 .
-"*/mavir07_74.lab"
 ese
 número
 que
@@ -2044,7 +1969,6 @@ es
 dar
 soluciones
 .
-"*/mavir07_75.lab"
 es
 decir
 nos
@@ -2075,7 +1999,6 @@ más
 rápido
 posible
 .
-"*/mavir07_76.lab"
 lo
 más
 rápido
@@ -2126,7 +2049,6 @@ en
 veinte
 segundos
 .
-"*/mavir07_77.lab"
 es
 decir
 lo
@@ -2147,7 +2069,6 @@ taxis
 por
 ejemplo
 .
-"*/mavir07_78.lab"
 en
 veinte
 segundos
@@ -2169,7 +2090,6 @@ multa
 del
 ministerio
 .
-"*/mavir07_79.lab"
 quién
 es
 quién
@@ -2188,7 +2108,6 @@ once
 ocho
 once
 .
-"*/mavir07_80.lab"
 el
 once
 ocho
@@ -2219,7 +2138,6 @@ dos
 del
 mercado
 .
-"*/mavir07_81.lab"
 compite
 con
 deutsche
@@ -2257,7 +2175,6 @@ y
 ha
 privatizado
 .
-"*/mavir07_82.lab"
 estamos
 en
 francia
@@ -2278,7 +2195,6 @@ cero
 cero
 cero
 .
-"*/mavir07_83.lab"
 y
 en
 españa
@@ -2304,7 +2220,6 @@ de
 datos
 internacionales
 .
-"*/mavir07_84.lab"
 en
 cualquier
 país
@@ -2323,7 +2238,6 @@ encontrar
 una
 información
 .
-"*/mavir07_85.lab"
 el
 otro
 día
@@ -2361,7 +2275,6 @@ teléfono
 de
 sarkozy
 .
-"*/mavir07_86.lab"
 y
 fuimos
 capaces
@@ -2415,7 +2328,6 @@ de
 espera
 no
 .
-"*/mavir07_87.lab"
 como
 digo
 empresa
@@ -2443,7 +2355,6 @@ ya
 también
 estamos
 .
-"*/mavir07_88.lab"
 esto
 es
 lo
@@ -2484,7 +2395,6 @@ sitio
 en
 madrid
 .
-"*/mavir07_89.lab"
 estamos
 cuatrocientos
 operadores
@@ -2503,7 +2413,6 @@ nacional
 seis
 perdón
 .
-"*/mavir07_90.lab"
 y
 en
 francia
@@ -2541,7 +2450,6 @@ por
 cercanía
 no
 .
-"*/mavir07_91.lab"
 qué
 es
 lo
@@ -2574,7 +2482,6 @@ todo
 el
 mundo
 .
-"*/mavir07_92.lab"
 aparte
 que
 tenemos
@@ -2637,7 +2544,6 @@ en
 alemán
 no
 .
-"*/mavir07_93.lab"
 también
 enviamos
 información
@@ -2706,7 +2612,6 @@ un
 portal
 wap
 .
-"*/mavir07_94.lab"
 es
 decir
 lo
@@ -2740,7 +2645,6 @@ ya
 puedes
 navegar
 .
-"*/mavir07_95.lab"
 nuestra
 misión
 bueno
@@ -2761,7 +2665,6 @@ sólo
 dar
 información
 .
-"*/mavir07_96.lab"
 entonces
 en
 línea
@@ -2802,7 +2705,6 @@ organismos
 públicos
 gestiones
 .
-"*/mavir07_97.lab"
 lo
 que
 es
@@ -2838,7 +2740,6 @@ búsqueda
 web
 acuerdos
 .
-"*/mavir07_98.lab"
 yo
 por
 ejemplo
@@ -2887,7 +2788,6 @@ no
 estoy
 allí
 .
-"*/mavir07_99.lab"
 teníamos
 una
 alianza
@@ -2912,7 +2812,6 @@ interés
 comercial
 no
 .
-"*/mavir07_100.lab"
 pero
 tener
 esa
@@ -2929,7 +2828,6 @@ los
 los
 usuarios
 .
-"*/mavir07_101.lab"
 nos
 dimos
 cuenta
@@ -2953,7 +2851,6 @@ con
 intereses
 comercial
 .
-"*/mavir07_102.lab"
 y
 por
 otro
@@ -2977,7 +2874,6 @@ coste
 de
 personal
 .
-"*/mavir07_103.lab"
 entonces
 se
 nos
@@ -2998,7 +2894,6 @@ son
 muy
 heterogéneos
 .
-"*/mavir07_104.lab"
 son
 agentes
 que
@@ -3012,7 +2907,6 @@ ser
 agentes
 telefónicos
 .
-"*/mavir07_105.lab"
 tienen
 niveles
 culturales
@@ -3031,7 +2925,6 @@ es
 muy
 diferente
 .
-"*/mavir07_106.lab"
 en
 la
 llegada
@@ -3063,7 +2956,6 @@ que
 le
 llama
 .
-"*/mavir07_107.lab"
 ni
 por
 su
@@ -3098,7 +2990,6 @@ que
 están
 permitidas
 .
-"*/mavir07_108.lab"
 nosotros
 tenemos
 homologadas
@@ -3145,7 +3036,6 @@ cada
 momento
 no
 .
-"*/mavir07_109.lab"
 por
 otro
 lado
@@ -3164,7 +3054,6 @@ no
 es
 verdad
 .
-"*/mavir07_110.lab"
 el
 dieciocho
 no
@@ -3186,7 +3075,6 @@ da
 un
 teléfono
 .
-"*/mavir07_111.lab"
 y
 fuera
 y
@@ -3238,7 +3126,6 @@ sino
 también
 soluciones
 .
-"*/mavir07_112.lab"
 entonces
 qué
 se
@@ -3274,7 +3161,6 @@ desde
 nuestro
 operador
 .
-"*/mavir07_113.lab"
 no
 dar
 un
@@ -3384,7 +3270,6 @@ al
 organismo
 público
 .
-"*/mavir07_114.lab"
 quizás
 llame
 y
@@ -3413,7 +3298,6 @@ ver
 cómo
 ir
 .
-"*/mavir07_115.lab"
 incluso
 puede
 meter
@@ -3470,7 +3354,6 @@ estamos
 intentando
 hacer
 .
-"*/mavir07_116.lab"
 se
 nos
 ocurrió
@@ -3503,7 +3386,6 @@ que
 tenemos
 diariamente
 .
-"*/mavir07_117.lab"
 que
 buscara
 en
@@ -3525,7 +3407,6 @@ regional
 y
 local
 .
-"*/mavir07_118.lab"
 y
 que
 además
@@ -3550,7 +3431,6 @@ hecho
 el
 usuario
 .
-"*/mavir07_119.lab"
 es
 decir
 que
@@ -3596,7 +3476,6 @@ una
 manera
 coloquial
 .
-"*/mavir07_120.lab"
 esto
 implica
 detrás
@@ -3649,7 +3528,6 @@ una
 consulta
 real
 .
-"*/mavir07_121.lab"
 no
 sé
 si
@@ -3675,7 +3553,6 @@ cuenta
 nuestro
 callcenter
 .
-"*/mavir07_122.lab"
 hace
 poco
 nos
@@ -3696,7 +3573,6 @@ nacional
 de
 españa
 .
-"*/mavir07_123.lab"
 entonces
 contamos
 una
@@ -3721,7 +3597,6 @@ por
 por
 berga
 .
-"*/mavir07_124.lab"
 y
 entonces
 el
@@ -3749,7 +3624,6 @@ muy
 decentes
 no
 .
-"*/mavir07_125.lab"
 pero
 yo
 lo
@@ -3826,7 +3700,6 @@ base
 de
 datos
 .
-"*/mavir07_126.lab"
 o
 sea
 de
@@ -3842,7 +3715,6 @@ categorías
 más
 buscadas
 .
-"*/mavir07_127.lab"
 y
 además
 un
@@ -3875,7 +3747,6 @@ dar
 resultados
 iguales
 .
-"*/mavir07_128.lab"
 aquí
 tenemos
 un
@@ -3900,7 +3771,6 @@ un
 perro
 muerto
 .
-"*/mavir07_129.lab"
 quiero
 no
 quiero
@@ -3953,7 +3823,6 @@ desde
 desde
 madrid
 .
-"*/mavir07_130.lab"
 entonces
 no
 le
@@ -3966,7 +3835,6 @@ no
 da
 teléfonos
 .
-"*/mavir07_131.lab"
 da
 sitios
 donde
@@ -3996,7 +3864,6 @@ hay
 que
 llevar
 .
-"*/mavir07_132.lab"
 lo
 de
 los
@@ -4023,7 +3890,6 @@ el
 estanco
 no
 .
-"*/mavir07_133.lab"
 y
 esto
 es
@@ -4088,6 +3954,5 @@ el
 el
 usuario
 .
-"*/mavir07_134.lab"
 muchísimas
 gracias

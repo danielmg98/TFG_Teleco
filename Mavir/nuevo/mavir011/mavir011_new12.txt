@@ -1,8 +1,5 @@
-#!MLF!#
-"*/mavir011_1.lab"
 hola
 .
-"*/mavir011_2.lab"
 vale
 muchas
 gracias
@@ -16,7 +13,6 @@ por
 la
 presentación
 .
-"*/mavir011_3.lab"
 y
 bueno
 ya
@@ -43,7 +39,6 @@ ganado
 este
 premio
 .
-"*/mavir011_4.lab"
 y
 quería
 empezar
@@ -75,7 +70,6 @@ podemos
 ver
 aquí
 .
-"*/mavir011_5.lab"
 mi
 mayor
 también
@@ -93,7 +87,6 @@ tomar
 la
 decisión
 .
-"*/mavir011_6.lab"
 mi
 mayor
 agradecimiento
@@ -120,7 +113,6 @@ mi
 carrera
 investigadora
 .
-"*/mavir011_7.lab"
 también
 dar
 las
@@ -155,7 +147,6 @@ con
 mis
 investigaciones
 .
-"*/mavir011_8.lab"
 y
 en
 último
@@ -177,7 +168,6 @@ toda
 mi
 familia
 .
-"*/mavir011_9.lab"
 bueno
 vamos
 ahora
@@ -218,7 +208,6 @@ de
 la
 presentación
 .
-"*/mavir011_10.lab"
 entre
 ellos
 está
@@ -244,7 +233,6 @@ de
 este
 tipo
 .
-"*/mavir011_11.lab"
 a
 continuación
 realizaré
@@ -263,7 +251,6 @@ validación
 de
 respuestas
 .
-"*/mavir011_12.lab"
 y
 terminaré
 dando
@@ -280,7 +267,6 @@ que
 dio
 lugar
 .
-"*/mavir011_13.lab"
 empezamos
 por
 la
@@ -318,7 +304,6 @@ de
 dicha
 respuesta
 .
-"*/mavir011_14.lab"
 al
 contrario
 de
@@ -362,7 +347,6 @@ nosotros
 las
 respuestas
 .
-"*/mavir011_15.lab"
 con
 lo
 cual
@@ -438,7 +422,6 @@ obtenida
 es
 correcta
 .
-"*/mavir011_16.lab"
 por
 otro
 lado
@@ -469,7 +452,6 @@ o
 no
 correctas
 .
-"*/mavir011_17.lab"
 para
 ello
 un
@@ -525,7 +507,6 @@ al
 texto
 soporte
 .
-"*/mavir011_18.lab"
 en
 el
 ejemplo
@@ -547,7 +528,6 @@ según
 el
 texto
 .
-"*/mavir011_19.lab"
 de
 este
 modo
@@ -588,7 +568,6 @@ validación
 de
 respuestas
 .
-"*/mavir011_20.lab"
 y
 ahora
 voy
@@ -600,7 +579,6 @@ de
 implicación
 textual
 .
-"*/mavir011_21.lab"
 es
 una
 tarea
@@ -648,7 +626,6 @@ del
 primer
 texto
 .
-"*/mavir011_22.lab"
 un
 ejemplo
 muy
@@ -672,7 +649,6 @@ enero
 en
 madrid
 .
-"*/mavir011_23.lab"
 y
 la
 hipótesis
@@ -703,7 +679,6 @@ el
 texto
 hipótesis
 .
-"*/mavir011_24.lab"
 usando
 esta
 idea
@@ -732,7 +707,6 @@ la
 metodología
 propuesta
 .
-"*/mavir011_25.lab"
 para
 ello
 propusimos
@@ -744,7 +718,6 @@ la
 siguiente
 arquitectura
 .
-"*/mavir011_26.lab"
 tenemos
 la
 arquitectura
@@ -775,7 +748,6 @@ un
 texto
 soporte
 .
-"*/mavir011_27.lab"
 y
 por
 otro
@@ -805,7 +777,6 @@ búsqueda
 de
 respuestas
 .
-"*/mavir011_28.lab"
 de
 tal
 manera
@@ -824,7 +795,6 @@ o
 no
 correcta
 .
-"*/mavir011_29.lab"
 en
 caso
 de
@@ -856,7 +826,6 @@ una
 respuesta
 correcta
 .
-"*/mavir011_30.lab"
 al
 usar
 implicación
@@ -890,7 +859,6 @@ generación
 de
 hipótesis
 .
-"*/mavir011_31.lab"
 ese
 es
 el
@@ -911,7 +879,6 @@ validación
 de
 respuestas
 .
-"*/mavir011_32.lab"
 es
 por
 ello
@@ -940,7 +907,6 @@ preguntas
 y
 respuestas
 .
-"*/mavir011_33.lab"
 de
 tal
 modo
@@ -966,7 +932,6 @@ presidente
 de
 méjico
 .
-"*/mavir011_34.lab"
 una
 posible
 hipótesis
@@ -979,7 +944,6 @@ presidente
 de
 méjico
 .
-"*/mavir011_35.lab"
 teniendo
 ya
 esa
@@ -1015,7 +979,6 @@ o
 no
 válida
 .
-"*/mavir011_36.lab"
 una
 vez
 tenemos
@@ -1041,7 +1004,6 @@ utilizan
 implicación
 textual
 .
-"*/mavir011_37.lab"
 por
 tanto
 nosotros
@@ -1077,7 +1039,6 @@ a
 dichas
 respuestas
 .
-"*/mavir011_38.lab"
 el
 el
 objetivo
@@ -1097,7 +1058,6 @@ va
 a
 evaluar
 .
-"*/mavir011_39.lab"
 primer
 paso
 es
@@ -1134,7 +1094,6 @@ las
 distintas
 respuestas
 .
-"*/mavir011_40.lab"
 lo
 podemos
 ver
@@ -1169,7 +1128,6 @@ capital
 de
 croacia
 .
-"*/mavir011_41.lab"
 y
 ya
 con
@@ -1190,7 +1148,6 @@ instanciando
 este
 patrón
 .
-"*/mavir011_42.lab"
 de
 tal
 manera
@@ -1205,7 +1162,6 @@ tener
 la
 hipótesis
 .
-"*/mavir011_43.lab"
 zagreb
 es
 la
@@ -1234,7 +1190,6 @@ esta
 respuesta
 generada
 .
-"*/mavir011_44.lab"
 el
 siguiente
 paso
@@ -1248,7 +1203,6 @@ a
 este
 par
 .
-"*/mavir011_45.lab"
 dado
 que
 en
@@ -1280,7 +1234,6 @@ hacer
 una
 transformación
 .
-"*/mavir011_46.lab"
 es
 por
 ello
@@ -1290,7 +1243,6 @@ proponemos
 esta
 transformación
 .
-"*/mavir011_47.lab"
 caso
 de
 respuesta
@@ -1313,7 +1265,6 @@ por
 el
 texto
 .
-"*/mavir011_48.lab"
 por
 lo
 tanto
@@ -1342,7 +1293,6 @@ positivo
 de
 implicación
 .
-"*/mavir011_49.lab"
 caso
 de
 respuestas
@@ -1370,7 +1320,6 @@ el
 texto
 soporte
 .
-"*/mavir011_50.lab"
 en
 este
 caso
@@ -1388,7 +1337,6 @@ por
 el
 texto
 .
-"*/mavir011_51.lab"
 por
 tanto
 no
@@ -1407,7 +1355,6 @@ es
 es
 semejante
 .
-"*/mavir011_52.lab"
 no
 el
 texto
@@ -1431,7 +1378,6 @@ a
 haber
 implicación
 .
-"*/mavir011_53.lab"
 caso
 de
 las
@@ -1471,7 +1417,6 @@ lo
 estrictamente
 necesario
 .
-"*/mavir011_54.lab"
 las
 hipótesis
 que
@@ -1486,7 +1431,6 @@ ciertas
 o
 no
 .
-"*/mavir011_55.lab"
 teniendo
 en
 cuenta
@@ -1511,7 +1455,6 @@ fines
 de
 evaluación
 .
-"*/mavir011_56.lab"
 una
 vez
 tenemos
@@ -1542,7 +1485,6 @@ los
 distintos
 sistemas
 .
-"*/mavir011_57.lab"
 decidimos
 descartar
 el
@@ -1589,7 +1531,6 @@ del
 del
 clef
 .
-"*/mavir011_58.lab"
 y
 se
 tenía
@@ -1644,7 +1585,6 @@ fines
 de
 evaluación
 .
-"*/mavir011_59.lab"
 es
 por
 ello
@@ -1662,7 +1602,6 @@ de
 respuestas
 correctas
 .
-"*/mavir011_60.lab"
 nosotros
 proponemos
 medir
@@ -1683,7 +1622,6 @@ las
 respuestas
 correctas
 .
-"*/mavir011_61.lab"
 aquí
 podemos
 ver
@@ -1708,7 +1646,6 @@ prediciendo
 respuestas
 correctas
 .
-"*/mavir011_62.lab"
 caso
 de
 la
@@ -1732,7 +1669,6 @@ correctas
 que
 existen
 .
-"*/mavir011_63.lab"
 y
 la
 medida
@@ -1749,7 +1685,6 @@ la
 misma
 importancia
 .
-"*/mavir011_64.lab"
 una
 vez
 desarrollamos
@@ -1780,7 +1715,6 @@ ha
 hablado
 paul
 .
-"*/mavir011_65.lab"
 y
 que
 la
@@ -1818,7 +1752,6 @@ validación
 de
 respuestas
 .
-"*/mavir011_66.lab"
 para
 ello
 tomamos
@@ -1843,7 +1776,6 @@ eran
 sistemas
 reales
 .
-"*/mavir011_67.lab"
 y
 lo
 pudimos
@@ -1859,7 +1791,6 @@ siete
 lenguas
 distintas
 .
-"*/mavir011_68.lab"
 tuvimos
 una
 gran
@@ -1884,7 +1815,6 @@ en
 distintos
 idiomas
 .
-"*/mavir011_69.lab"
 ahora
 voy
 a
@@ -1905,7 +1835,6 @@ reconocimiento
 de
 entidades
 .
-"*/mavir011_70.lab"
 para
 ello
 primero
@@ -1920,7 +1849,6 @@ nosotros
 consideramos
 entidades
 .
-"*/mavir011_71.lab"
 nosotros
 llamamos
 entidades
@@ -1950,7 +1878,6 @@ las
 expresiones
 temporales
 .
-"*/mavir011_72.lab"
 nuestra
 motivación
 para
@@ -1990,7 +1917,6 @@ una
 entidad
 no
 .
-"*/mavir011_73.lab"
 pues
 ser
 un
@@ -2003,7 +1929,6 @@ persona
 una
 organización
 .
-"*/mavir011_74.lab"
 son
 las
 consultas
@@ -2044,7 +1969,6 @@ porcentaje
 de
 entidades
 .
-"*/mavir011_75.lab"
 con
 lo
 cual
@@ -2056,7 +1980,6 @@ en
 esta
 tarea
 .
-"*/mavir011_76.lab"
 dado
 que
 en
@@ -2113,7 +2036,6 @@ en
 el
 texto
 .
-"*/mavir011_77.lab"
 de
 este
 modo
@@ -2127,7 +2049,6 @@ implicación
 de
 entidades
 .
-"*/mavir011_78.lab"
 en
 nuestra
 primera
@@ -2149,7 +2070,6 @@ numéricas
 expresiones
 temporales
 .
-"*/mavir011_79.lab"
 de
 este
 modo
@@ -2182,7 +2102,6 @@ de
 la
 segunda
 .
-"*/mavir011_80.lab"
 en
 el
 ejemplo
@@ -2200,7 +2119,6 @@ mil
 novecientos
 noventa
 .
-"*/mavir011_81.lab"
 lo
 cual
 podemos
@@ -2234,7 +2152,6 @@ actuales
 de
 entidades
 .
-"*/mavir011_82.lab"
 diferenciamos
 entre
 nombres
@@ -2260,7 +2177,6 @@ entidad
 que
 tenemos
 .
-"*/mavir011_83.lab"
 caso
 de
 nombres
@@ -2322,7 +2238,6 @@ en
 la
 segunda
 .
-"*/mavir011_84.lab"
 un
 ejemplo
 muy
@@ -2337,7 +2252,6 @@ implica
 a
 agosto
 .
-"*/mavir011_85.lab"
 podemos
 ver
 que
@@ -2365,7 +2279,6 @@ de
 tiempo
 mayor
 .
-"*/mavir011_86.lab"
 caso
 de
 expresiones
@@ -2390,7 +2303,6 @@ de
 la
 primera
 .
-"*/mavir011_87.lab"
 de
 manera
 similar
@@ -2469,7 +2381,6 @@ de
 pares
 acertados
 .
-"*/mavir011_88.lab"
 y
 nuestra
 hipótesis
@@ -2492,7 +2403,6 @@ obtener
 mejores
 resultados
 .
-"*/mavir011_89.lab"
 sin
 embargo
 viendo
@@ -2519,7 +2429,6 @@ los
 actuales
 reconocedores
 .
-"*/mavir011_90.lab"
 se
 puede
 ver
@@ -2550,7 +2459,6 @@ como
 un
 número
 .
-"*/mavir011_91.lab"
 en
 esta
 expresión
@@ -2575,7 +2483,6 @@ y
 un
 problema
 .
-"*/mavir011_92.lab"
 por
 ello
 decidimos
@@ -2605,7 +2512,6 @@ es
 más
 sencillo
 .
-"*/mavir011_93.lab"
 usando
 este
 método
@@ -2630,7 +2536,6 @@ realizar
 un
 estudio
 .
-"*/mavir011_94.lab"
 el
 primero
 de
@@ -2669,7 +2574,6 @@ en
 el
 texto
 .
-"*/mavir011_95.lab"
 por
 bigramas
 me
@@ -2682,7 +2586,6 @@ tres
 lemas
 consecutivos
 .
-"*/mavir011_96.lab"
 son
 son
 atributos
@@ -2691,7 +2594,6 @@ solapamiento
 muy
 sencillos
 .
-"*/mavir011_97.lab"
 el
 segundo
 sistema
@@ -2749,7 +2651,6 @@ en
 caso
 contrario
 .
-"*/mavir011_98.lab"
 y
 también
 decidimos
@@ -2765,7 +2666,6 @@ de
 estos
 sistemas
 .
-"*/mavir011_99.lab"
 podemos
 ver
 que
@@ -2778,7 +2678,6 @@ de
 usar
 perdón
 .
-"*/mavir011_100.lab"
 perdón
 nuestro
 sistema
@@ -2808,7 +2707,6 @@ por
 la
 organización
 .
-"*/mavir011_101.lab"
 y
 se
 quedaba
@@ -2825,7 +2723,6 @@ en
 el
 ave
 .
-"*/mavir011_102.lab"
 también
 quisimos
 poner
@@ -2877,7 +2774,6 @@ procesamientos
 más
 complejos
 .
-"*/mavir011_103.lab"
 decidimos
 que
 dada
@@ -2916,7 +2812,6 @@ el
 sistema
 svm
 .
-"*/mavir011_104.lab"
 de
 tal
 manera
@@ -2947,7 +2842,6 @@ en
 cuáles
 no
 .
-"*/mavir011_105.lab"
 nuestra
 intuición
 no
@@ -2964,7 +2858,6 @@ sistemas
 que
 combinaba
 .
-"*/mavir011_106.lab"
 y
 otra
 combinación
@@ -2989,7 +2882,6 @@ en
 el
 svm
 .
-"*/mavir011_107.lab"
 en
 este
 caso
@@ -3014,7 +2906,6 @@ del
 mejor
 sistema
 .
-"*/mavir011_108.lab"
 esto
 nos
 hace
@@ -3070,7 +2961,6 @@ de
 sus
 sistemas
 .
-"*/mavir011_109.lab"
 también
 decidimos
 probar
@@ -3130,7 +3020,6 @@ y
 resumen
 automático
 .
-"*/mavir011_110.lab"
 en
 en
 las
@@ -3158,7 +3047,6 @@ extracción
 de
 información
 .
-"*/mavir011_111.lab"
 la
 información
 que
@@ -3181,7 +3069,6 @@ todavía
 más
 información
 .
-"*/mavir011_112.lab"
 sin
 embargo
 seguíamos
@@ -3193,7 +3080,6 @@ búsqueda
 de
 respuestas
 .
-"*/mavir011_113.lab"
 de
 hecho
 era
@@ -3230,7 +3116,6 @@ de
 implicación
 textual
 .
-"*/mavir011_114.lab"
 por
 ello
 realizamos
@@ -3263,7 +3148,6 @@ realizando
 esa
 tarea
 .
-"*/mavir011_115.lab"
 también
 estudiamos
 una
@@ -3286,7 +3170,6 @@ obtuvimos
 resultados
 prometedores
 .
-"*/mavir011_116.lab"
 pero
 pero
 vimos
@@ -3309,7 +3192,6 @@ obtener
 mejores
 resultados
 .
-"*/mavir011_117.lab"
 estas
 son
 las
@@ -3322,7 +3204,6 @@ lugar
 este
 trabajo
 .
-"*/mavir011_118.lab"
 y
 su
 continuación
@@ -3335,7 +3216,6 @@ a
 más
 publicaciones
 .
-"*/mavir011_119.lab"
 y
 ya
 este

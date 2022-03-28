@@ -1,5 +1,3 @@
-#!MLF!#
-"*/mavir013_1.lab"
 bueno
 muchas
 gracias
@@ -9,7 +7,6 @@ organización
 por
 invitarme
 .
-"*/mavir013_2.lab"
 y
 en
 particular
@@ -41,7 +38,6 @@ cien
 por
 cien
 .
-"*/mavir013_3.lab"
 está
 bien
 eso
@@ -73,7 +69,6 @@ ningún
 valor
 científico
 .
-"*/mavir013_4.lab"
 me
 voy
 a
@@ -106,7 +101,6 @@ en
 los
 dibujitos
 .
-"*/mavir013_5.lab"
 este
 es
 el
@@ -154,7 +148,6 @@ multilingüe
 en
 general
 .
-"*/mavir013_6.lab"
 y
 dentro
 de
@@ -179,7 +172,6 @@ tipos
 de
 sistemas
 .
-"*/mavir013_7.lab"
 y
 dentro
 de
@@ -228,7 +220,6 @@ perspectiva
 del
 usuario
 .
-"*/mavir013_8.lab"
 y
 este
 es
@@ -305,7 +296,6 @@ todo
 el
 logotipo
 .
-"*/mavir013_9.lab"
 y
 esto
 la
@@ -328,7 +318,6 @@ la
 mejor
 no
 .
-"*/mavir013_10.lab"
 cuando
 está
 el
@@ -359,7 +348,6 @@ charlas
 de
 ayer
 .
-"*/mavir013_11.lab"
 ayer
 marcin
 por
@@ -387,7 +375,6 @@ funcionaba
 muy
 bien
 .
-"*/mavir013_12.lab"
 y
 ponía
 un
@@ -412,7 +399,6 @@ con
 su
 padre
 .
-"*/mavir013_13.lab"
 bueno
 pues
 como
@@ -444,7 +430,6 @@ funciona
 en
 absoluto
 .
-"*/mavir013_14.lab"
 esto
 es
 un
@@ -479,7 +464,6 @@ ilustrar
 mi
 charla
 .
-"*/mavir013_15.lab"
 así
 que
 empecé
@@ -513,7 +497,6 @@ lo
 sé
 exactamente
 .
-"*/mavir013_16.lab"
 esto
 de
 los
@@ -527,7 +510,6 @@ los
 camareros
 no
 .
-"*/mavir013_17.lab"
 si
 les
 pides
@@ -575,7 +557,6 @@ alchemist
 me
 imagino
 .
-"*/mavir013_18.lab"
 así
 que
 a
@@ -599,7 +580,6 @@ la
 otra
 alternativa
 .
-"*/mavir013_19.lab"
 y
 bueno
 pues
@@ -618,7 +598,6 @@ de
 harry
 potter
 .
-"*/mavir013_20.lab"
 no
 no
 conseguí
@@ -649,7 +628,6 @@ un
 buscador
 web
 .
-"*/mavir013_21.lab"
 porque
 un
 buscador
@@ -680,7 +658,6 @@ cosas
 más
 relevantes
 .
-"*/mavir013_22.lab"
 quería
 poneros
 este
@@ -688,7 +665,6 @@ una
 pequeña
 consulta
 .
-"*/mavir013_23.lab"
 bueno
 no
 somos
@@ -714,7 +690,6 @@ flor
 del
 azafrán
 .
-"*/mavir013_24.lab"
 quién
 prefiere
 la
@@ -733,7 +708,6 @@ de
 la
 derecha
 .
-"*/mavir013_25.lab"
 bueno
 no
 está
@@ -742,7 +716,6 @@ estamos
 bastante
 equilibrados
 .
-"*/mavir013_26.lab"
 creo
 que
 gana
@@ -765,7 +738,6 @@ con
 ella
 no
 .
-"*/mavir013_27.lab"
 bueno
 yo
 lo
@@ -807,7 +779,6 @@ la
 relevancia
 no
 .
-"*/mavir013_28.lab"
 en
 el
 caso
@@ -825,7 +796,6 @@ su
 piedra
 filosofal
 .
-"*/mavir013_29.lab"
 en
 este
 caso
@@ -864,7 +834,6 @@ se
 puede
 usar
 .
-"*/mavir013_30.lab"
 así
 yo
 podría
@@ -891,7 +860,6 @@ en
 mi
 artículo
 .
-"*/mavir013_31.lab"
 pero
 si
 me
@@ -910,7 +878,6 @@ fotos
 más
 chulas
 .
-"*/mavir013_32.lab"
 y
 cómo
 demonios
@@ -929,7 +896,6 @@ fotos
 más
 chulas
 .
-"*/mavir013_33.lab"
 es
 francamente
 complicado
@@ -969,7 +935,6 @@ lo
 que
 no
 .
-"*/mavir013_34.lab"
 y
 de
 hecho
@@ -988,7 +953,6 @@ o
 noventa
 veces
 .
-"*/mavir013_35.lab"
 y
 esta
 anotada
@@ -1016,7 +980,6 @@ información
 de
 favoritos
 .
-"*/mavir013_36.lab"
 o
 sea
 que
@@ -1035,7 +998,6 @@ en
 el
 sistema
 .
-"*/mavir013_37.lab"
 parecido
 a
 lo
@@ -1064,7 +1026,6 @@ de
 resultados
 también
 .
-"*/mavir013_38.lab"
 sólo
 hay
 un
@@ -1085,7 +1046,6 @@ resultados
 de
 flickr
 .
-"*/mavir013_39.lab"
 en
 este
 caso
@@ -1096,7 +1056,6 @@ en
 idiomas
 distintos
 .
-"*/mavir013_40.lab"
 y
 es
 una
@@ -1137,7 +1096,6 @@ le
 gusta
 no
 .
-"*/mavir013_41.lab"
 es
 diferente
 si
@@ -1161,7 +1119,6 @@ más
 difícil
 usarlo
 .
-"*/mavir013_42.lab"
 pero
 con
 imágenes
@@ -1179,7 +1136,6 @@ es
 claramente
 beneficioso
 .
-"*/mavir013_43.lab"
 y
 con
 esto
@@ -1217,7 +1173,6 @@ charla
 fue
 complicado
 .
-"*/mavir013_44.lab"
 porque
 sí
 bueno
@@ -1248,7 +1203,6 @@ contenido
 ninguna
 información
 .
-"*/mavir013_45.lab"
 ahora
 si
 de
@@ -1279,7 +1233,6 @@ acabo
 de
 comentar
 .
-"*/mavir013_46.lab"
 hacerlo
 además
 desde
@@ -1313,7 +1266,6 @@ como
 os
 decía
 .
-"*/mavir013_47.lab"
 era
 imposible
 hacer
@@ -1329,7 +1281,6 @@ que
 fuera
 infumable
 .
-"*/mavir013_48.lab"
 así
 que
 bueno
@@ -1377,7 +1328,6 @@ tipo
 de
 contenido
 .
-"*/mavir013_49.lab"
 así
 que
 esta
@@ -1400,7 +1350,6 @@ digamos
 originalmente
 diseñada
 .
-"*/mavir013_50.lab"
 y
 este
 es
@@ -1422,7 +1371,6 @@ perespectiva
 del
 usuario
 .
-"*/mavir013_51.lab"
 esto
 quizás
 desde
@@ -1455,7 +1403,6 @@ los
 seres
 humanos
 .
-"*/mavir013_52.lab"
 la
 perspectiva
 de
@@ -1471,7 +1418,6 @@ es
 ésta
 no
 .
-"*/mavir013_53.lab"
 el
 usuario
 necesita
@@ -1490,7 +1436,6 @@ feliz
 o
 no
 .
-"*/mavir013_54.lab"
 de
 hecho
 a
@@ -1536,7 +1481,6 @@ muy
 apropiado
 no
 .
-"*/mavir013_55.lab"
 es
 una
 máquina
@@ -1562,7 +1506,6 @@ porque
 está
 borracha
 .
-"*/mavir013_56.lab"
 en
 realidad
 claro
@@ -1585,7 +1528,6 @@ incompleta
 y
 absurda
 .
-"*/mavir013_57.lab"
 en
 realidad
 encontrar
@@ -1619,7 +1561,6 @@ y
 muy
 lento
 .
-"*/mavir013_58.lab"
 hay
 que
 aprovechar
@@ -1636,7 +1577,6 @@ del
 humano
 no
 .
-"*/mavir013_59.lab"
 hay
 un
 gran
@@ -1711,7 +1651,6 @@ proceso
 de
 interacción
 .
-"*/mavir013_60.lab"
 así
 que
 si
@@ -1769,7 +1708,6 @@ que
 la
 necesita
 .
-"*/mavir013_61.lab"
 la
 que
 la
@@ -1790,7 +1728,6 @@ listo
 a
 veces
 .
-"*/mavir013_62.lab"
 desde
 luego
 es
@@ -1855,7 +1792,6 @@ caminos
 completamente
 inexplorados
 .
-"*/mavir013_63.lab"
 así
 que
 en
@@ -1879,7 +1815,6 @@ investigadores
 nos
 planteamos
 .
-"*/mavir013_64.lab"
 así
 que
 llega
@@ -1902,7 +1837,6 @@ hacer
 algo
 útil
 .
-"*/mavir013_65.lab"
 y
 en
 ese
@@ -1922,7 +1856,6 @@ más
 se
 recupera
 .
-"*/mavir013_66.lab"
 ahora
 lo
 veremos
@@ -1959,7 +1892,6 @@ información
 en
 general
 .
-"*/mavir013_67.lab"
 esa
 frase
 de
@@ -1984,7 +1916,6 @@ organizadores
 del
 trec
 .
-"*/mavir013_68.lab"
 que
 básicamente
 quiere
@@ -1999,7 +1930,6 @@ estás
 completamente
 perdido
 .
-"*/mavir013_69.lab"
 un
 problema
 que
@@ -2020,7 +1950,6 @@ les
 puede
 resetear
 .
-"*/mavir013_70.lab"
 no
 se
 les
@@ -2070,7 +1999,6 @@ la
 noche
 anterior
 .
-"*/mavir013_71.lab"
 si
 tienen
 hambre
@@ -2133,7 +2061,6 @@ incorpora
 su
 algoritmo
 .
-"*/mavir013_72.lab"
 simplemente
 les
 da
@@ -2199,7 +2126,6 @@ ha
 hecho
 antes
 .
-"*/mavir013_73.lab"
 y
 por
 lo
@@ -2274,7 +2200,6 @@ cuanto
 ponían
 usuarios
 .
-"*/mavir013_74.lab"
 cogían
 sistemas
 completamente
@@ -2330,7 +2255,6 @@ los
 dos
 sistemas
 .
-"*/mavir013_75.lab"
 era
 un
 mensaje
@@ -2358,7 +2282,6 @@ orientadas
 a
 usuarios
 .
-"*/mavir013_76.lab"
 ahora
 bien
 entonces
@@ -2373,7 +2296,6 @@ es
 mejores
 interfaces
 .
-"*/mavir013_77.lab"
 hay
 que
 asistir
@@ -2390,7 +2312,6 @@ encontrará
 la
 información
 .
-"*/mavir013_78.lab"
 no
 tanto
 depende
@@ -2416,7 +2337,6 @@ a
 encontrar
 información
 .
-"*/mavir013_79.lab"
 bueno
 pues
 bien
@@ -2439,7 +2359,6 @@ de
 la
 búsqueda
 .
-"*/mavir013_80.lab"
 conclusión
 era
 realmente
@@ -2468,7 +2387,6 @@ muy
 muy
 entusiastas
 .
-"*/mavir013_81.lab"
 otra
 cosa
 que
@@ -2499,7 +2417,6 @@ perspectiva
 del
 usuario
 .
-"*/mavir013_82.lab"
 hicieron
 una
 experimentación
@@ -2530,7 +2447,6 @@ en
 la
 web
 .
-"*/mavir013_83.lab"
 pues
 el
 típico
@@ -2563,7 +2479,6 @@ hoteles
 razonables
 etcétera
 .
-"*/mavir013_84.lab"
 y
 les
 ponían
@@ -2624,7 +2539,6 @@ y
 ya
 está
 .
-"*/mavir013_85.lab"
 se
 me
 acaba
@@ -2675,7 +2589,6 @@ está
 la
 respuesta
 .
-"*/mavir013_86.lab"
 bueno
 dan
 ganas
@@ -2689,7 +2602,6 @@ a
 casa
 no
 .
-"*/mavir013_87.lab"
 bueno
 pues
 no
@@ -2714,7 +2626,6 @@ cosa
 cambia
 radicalmente
 .
-"*/mavir013_88.lab"
 fijaos
 vais
 a
@@ -2762,7 +2673,6 @@ producto
 en
 ebay
 .
-"*/mavir013_89.lab"
 seguramente
 es
 traducción
@@ -2782,7 +2692,6 @@ y
 ntcs
 ntsc
 .
-"*/mavir013_90.lab"
 a
 mí
 me
@@ -2809,7 +2718,6 @@ pista
 de
 ntsc
 .
-"*/mavir013_91.lab"
 creo
 que
 isidro
@@ -2828,7 +2736,6 @@ nada
 mirad
 esto
 .
-"*/mavir013_92.lab"
 el
 jugador
 especial
@@ -2858,7 +2765,6 @@ sino
 el
 player
 .
-"*/mavir013_93.lab"
 y
 está
 built
@@ -2869,7 +2775,6 @@ del
 del
 navegador
 .
-"*/mavir013_94.lab"
 y
 etcétera
 etcétera
@@ -2892,7 +2797,6 @@ a
 la
 tela
 .
-"*/mavir013_95.lab"
 vosotros
 os
 reís
@@ -2915,7 +2819,6 @@ estaríais
 completamente
 desconcertados
 .
-"*/mavir013_96.lab"
 imaginaos
 que
 un
@@ -2931,7 +2834,6 @@ tipo
 de
 documentos
 .
-"*/mavir013_97.lab"
 primero
 un
 problema
@@ -2954,7 +2856,6 @@ fundamental
 del
 proceso
 .
-"*/mavir013_98.lab"
 el
 sistema
 me
@@ -2971,7 +2872,6 @@ que
 me
 interesa
 .
-"*/mavir013_99.lab"
 perfecto
 con
 este
@@ -3011,7 +2911,6 @@ de
 un
 documento
 .
-"*/mavir013_100.lab"
 fijaos
 que
 son
@@ -3036,7 +2935,6 @@ pasar
 cualquier
 cosa
 .
-"*/mavir013_101.lab"
 o
 sea
 el
@@ -3056,7 +2954,6 @@ es
 un
 caos
 .
-"*/mavir013_102.lab"
 en
 conclusión
 el
@@ -3078,7 +2975,6 @@ en
 modo
 monolingüe
 .
-"*/mavir013_103.lab"
 si
 tiene
 que
@@ -3107,7 +3003,6 @@ consulta
 es
 booleano
 .
-"*/mavir013_104.lab"
 qué
 pasa
 que
@@ -3144,7 +3039,6 @@ dan
 la
 relevante
 .
-"*/mavir013_105.lab"
 pero
 cuando
 estás
@@ -3181,7 +3075,6 @@ sencillo
 como
 a
 .
-"*/mavir013_106.lab"
 o
 sea
 no
@@ -3203,7 +3096,6 @@ un
 idioma
 nuevo
 .
-"*/mavir013_107.lab"
 ahí
 estás
 perdido
@@ -3224,7 +3116,6 @@ investigar
 en
 esto
 .
-"*/mavir013_108.lab"
 en
 cualquier
 caso
@@ -3258,7 +3149,6 @@ de
 información
 multilingüe
 .
-"*/mavir013_109.lab"
 es
 un
 poco
@@ -3299,7 +3189,6 @@ la
 perspectiva
 interactiva
 .
-"*/mavir013_110.lab"
 veis
 la
 diferencia
@@ -3319,7 +3208,6 @@ de
 google
 scholar
 .
-"*/mavir013_111.lab"
 de
 esta
 parte
@@ -3342,7 +3230,6 @@ del
 del
 iclef
 .
-"*/mavir013_112.lab"
 en
 conclusión
 está
@@ -3356,7 +3243,6 @@ atención
 que
 merece
 .
-"*/mavir013_113.lab"
 así
 que
 vamos
@@ -3364,7 +3250,6 @@ a
 decidársela
 nosotros
 .
-"*/mavir013_114.lab"
 vamos
 a
 ver
@@ -3393,7 +3278,6 @@ dos
 haciendo
 experimentos
 .
-"*/mavir013_115.lab"
 y
 siempre
 los
@@ -3408,7 +3292,6 @@ en
 esta
 transparencia
 .
-"*/mavir013_116.lab"
 que
 es
 una
@@ -3453,7 +3336,6 @@ comprobar
 esa
 hipótesis
 .
-"*/mavir013_117.lab"
 después
 diseña
 un
@@ -3473,7 +3355,6 @@ resolver
 los
 usuarios
 .
-"*/mavir013_118.lab"
 y
 después
 tienes
@@ -3521,7 +3402,6 @@ proceso
 de
 aprendizaje
 .
-"*/mavir013_119.lab"
 así
 que
 lo
@@ -3550,7 +3430,6 @@ produzcan
 esos
 problemas
 .
-"*/mavir013_120.lab"
 por
 ejemplo
 también
@@ -3589,7 +3468,6 @@ el
 otro
 sistema
 .
-"*/mavir013_121.lab"
 y
 si
 tienes
@@ -3619,7 +3497,6 @@ son
 más
 torpes
 .
-"*/mavir013_122.lab"
 o
 puede
 darse
@@ -3642,7 +3519,6 @@ las
 otras
 etcétera
 .
-"*/mavir013_123.lab"
 entonces
 para
 eliminar
@@ -3667,7 +3543,6 @@ sistemas
 y
 consultas
 .
-"*/mavir013_124.lab"
 así
 que
 las
@@ -3682,7 +3557,6 @@ es
 completamente
 controlada
 .
-"*/mavir013_125.lab"
 tú
 sientas
 a
@@ -3738,7 +3612,6 @@ información
 sobre
 esto
 .
-"*/mavir013_126.lab"
 hala
 ponte
 a
@@ -3777,7 +3650,6 @@ ahí
 hacer
 abstracción
 .
-"*/mavir013_127.lab"
 lo
 mejor
 de
@@ -3794,7 +3666,6 @@ de
 vista
 científico
 .
-"*/mavir013_128.lab"
 y
 lo
 peor
@@ -3808,7 +3679,6 @@ coste
 beneficio
 desastrosa
 .
-"*/mavir013_129.lab"
 reclutar
 entrenar
 a
@@ -3838,7 +3708,6 @@ a
 la
 vez
 .
-"*/mavir013_130.lab"
 tú
 tienes
 que
@@ -3857,7 +3726,6 @@ probar
 tu
 hipótesis
 .
-"*/mavir013_131.lab"
 para
 qué
 hablaros
@@ -3871,7 +3739,6 @@ conjunto
 de
 funcionalidades
 .
-"*/mavir013_132.lab"
 eso
 es
 prácticamente
@@ -3897,7 +3764,6 @@ reducido
 de
 usuarios
 .
-"*/mavir013_133.lab"
 si
 tienes
 treinta
@@ -3912,7 +3778,6 @@ obra
 del
 escorial
 .
-"*/mavir013_134.lab"
 con
 lo
 cual
@@ -3926,7 +3791,6 @@ sean
 significativas
 estadísticamente
 .
-"*/mavir013_135.lab"
 así
 que
 desde
@@ -3972,7 +3836,6 @@ la
 misma
 fecha
 .
-"*/mavir013_136.lab"
 entonces
 claro
 para
@@ -3990,7 +3853,6 @@ en
 castellano
 no
 .
-"*/mavir013_137.lab"
 el
 escenario
 no
@@ -4028,7 +3890,6 @@ en
 el
 tema
 .
-"*/mavir013_138.lab"
 y
 también
 queríamos
@@ -4041,7 +3902,6 @@ la
 misma
 razón
 .
-"*/mavir013_139.lab"
 así
 que
 nos
@@ -4094,7 +3954,6 @@ muchísimos
 idiomas
 distintos
 .
-"*/mavir013_140.lab"
 y
 la
 prueba
@@ -4125,7 +3984,6 @@ en
 muchos
 idiomas
 .
-"*/mavir013_141.lab"
 en
 este
 ejemplo
@@ -4156,7 +4014,6 @@ que
 comenta
 cosas
 .
-"*/mavir013_142.lab"
 así
 que
 el
@@ -4170,7 +4027,6 @@ tipo
 de
 fenómenos
 .
-"*/mavir013_143.lab"
 y
 quisimos
 cambiar
@@ -4212,7 +4068,6 @@ poquito
 más
 arriesgadas
 .
-"*/mavir013_144.lab"
 una
 tarea
 creativa
@@ -4239,7 +4094,6 @@ azafrán
 en
 italia
 .
-"*/mavir013_145.lab"
 el
 usuario
 se
@@ -4284,7 +4138,6 @@ encontrar
 este
 cangrejo
 .
-"*/mavir013_146.lab"
 una
 vez
 que
@@ -4306,7 +4159,6 @@ de
 la
 playa
 .
-"*/mavir013_147.lab"
 y
 no
 pusimos
@@ -4335,7 +4187,6 @@ gente
 la
 sigue
 .
-"*/mavir013_148.lab"
 entonces
 nosotros
 dijimos
@@ -4374,7 +4225,6 @@ dando
 realmente
 resultados
 .
-"*/mavir013_149.lab"
 y
 por
 lo
@@ -4422,7 +4272,6 @@ a
 las
 tareas
 .
-"*/mavir013_150.lab"
 una
 tarea
 como
@@ -4447,7 +4296,6 @@ que
 tiene
 relevancia
 .
-"*/mavir013_151.lab"
 sólo
 voy
 a
@@ -4461,7 +4309,6 @@ resultados
 que
 tuvimos
 .
-"*/mavir013_152.lab"
 muy
 curioso
 esto
@@ -4495,7 +4342,6 @@ el
 minuto
 veinte
 .
-"*/mavir013_153.lab"
 objetivo
 entontrar
 el
@@ -4507,7 +4353,6 @@ de
 la
 playa
 .
-"*/mavir013_154.lab"
 y
 estas
 barras
@@ -4520,7 +4365,6 @@ facilidades
 de
 traducción
 .
-"*/mavir013_155.lab"
 la
 interfaz
 de
@@ -4536,7 +4380,6 @@ al
 mismo
 tiempo
 .
-"*/mavir013_156.lab"
 tú
 podías
 consultar
@@ -4564,7 +4407,6 @@ seis
 idiomas
 posibles
 .
-"*/mavir013_157.lab"
 cada
 usuario
 sabíamos
@@ -4591,7 +4433,6 @@ todos
 los
 castellanos
 .
-"*/mavir013_158.lab"
 aunque
 no
 sepamos
@@ -4607,7 +4448,6 @@ está
 hablando
 no
 .
-"*/mavir013_159.lab"
 eso
 es
 un
@@ -4644,7 +4484,6 @@ o
 el
 holandés
 .
-"*/mavir013_160.lab"
 bien
 y
 esto
@@ -4668,7 +4507,6 @@ en
 la
 búsqueda
 .
-"*/mavir013_161.lab"
 si
 os
 fijáis
@@ -4682,7 +4520,6 @@ están
 aquí
 abajo
 .
-"*/mavir013_162.lab"
 el
 usuario
 no
@@ -4712,7 +4549,6 @@ que
 no
 conocía
 .
-"*/mavir013_163.lab"
 y
 es
 curioso
@@ -4736,7 +4572,6 @@ hacer
 búsqueda
 multilingüe
 .
-"*/mavir013_164.lab"
 llegaba
 un
 momento
@@ -4754,7 +4589,6 @@ estaban
 completamente
 desesperados
 .
-"*/mavir013_165.lab"
 la
 frase
 normalmente
@@ -4767,7 +4601,6 @@ cangrejo
 con
 variaciones
 .
-"*/mavir013_166.lab"
 y
 a
 partir
@@ -4796,7 +4629,6 @@ estaba
 en
 holandés
 .
-"*/mavir013_167.lab"
 algunos
 hasta
 la
@@ -4855,7 +4687,6 @@ lo
 habíamos
 previsto
 .
-"*/mavir013_168.lab"
 bien
 en
 el
@@ -4875,7 +4706,6 @@ búsqueda
 en
 flickr
 .
-"*/mavir013_169.lab"
 pero
 la
 hemos
@@ -4922,7 +4752,6 @@ extraer
 conclusiones
 sustanciales
 .
-"*/mavir013_170.lab"
 así
 que
 lo
@@ -4942,7 +4771,6 @@ análisis
 de
 logs
 .
-"*/mavir013_171.lab"
 y
 nos
 íbamos
@@ -4957,7 +4785,6 @@ un
 sistema
 multilingüe
 .
-"*/mavir013_172.lab"
 y
 luego
 los
@@ -4993,7 +4820,6 @@ realizan
 búsquedas
 multilingües
 .
-"*/mavir013_173.lab"
 un
 poco
 la
@@ -5009,7 +4835,6 @@ en
 un
 juego
 .
-"*/mavir013_174.lab"
 cómo
 podemos
 conseguir
@@ -5037,7 +4862,6 @@ cosa
 como
 esta
 .
-"*/mavir013_175.lab"
 pues
 dándoles
 dinero
@@ -5095,7 +4919,6 @@ mejor
 o
 peor
 .
-"*/mavir013_176.lab"
 vamos
 a
 probar
@@ -5136,7 +4959,6 @@ iba
 el
 juego
 .
-"*/mavir013_177.lab"
 así
 que
 el
@@ -5161,7 +4983,6 @@ poco
 absurda
 no
 .
-"*/mavir013_178.lab"
 si
 ya
 tengo
@@ -5222,7 +5043,6 @@ mi
 propia
 colección
 .
-"*/mavir013_179.lab"
 o
 sea
 que
@@ -5235,7 +5055,6 @@ bastante
 bastante
 práctica
 .
-"*/mavir013_180.lab"
 y
 entonces
 lo
@@ -5261,7 +5080,6 @@ varios
 idiomas
 simultáneamente
 .
-"*/mavir013_181.lab"
 y
 esa
 interfaz
@@ -5313,7 +5131,6 @@ seis
 que
 contemplamos
 .
-"*/mavir013_182.lab"
 cuánto
 me
 queda
@@ -5334,7 +5151,6 @@ de
 qué
 iba
 .
-"*/mavir013_183.lab"
 esta
 es
 la
@@ -5388,7 +5204,6 @@ cualquiera
 de
 ellos
 .
-"*/mavir013_184.lab"
 y
 entonces
 el
@@ -5413,7 +5228,6 @@ de
 la
 consulta
 .
-"*/mavir013_185.lab"
 lo
 hacíamos
 de
@@ -5462,7 +5276,6 @@ a
 la
 vez
 .
-"*/mavir013_186.lab"
 y
 como
 la
@@ -5501,7 +5314,6 @@ sugerencias
 de
 flickr
 .
-"*/mavir013_187.lab"
 así
 que
 esa
@@ -5517,7 +5329,6 @@ de
 la
 consulta
 .
-"*/mavir013_188.lab"
 y
 luego
 además
@@ -5534,7 +5345,6 @@ entre
 cadenas
 no
 .
-"*/mavir013_189.lab"
 bueno
 sí
 la
@@ -5558,7 +5368,6 @@ se
 parecen
 nada
 .
-"*/mavir013_190.lab"
 así
 que
 bueno
@@ -5584,7 +5393,6 @@ de
 las
 traducciones
 .
-"*/mavir013_191.lab"
 esas
 traducciones
 se
@@ -5594,7 +5402,6 @@ una
 búsqueda
 booleana
 .
-"*/mavir013_192.lab"
 aquí
 tien
 o
@@ -5637,7 +5444,6 @@ traducciones
 posibles
 para
 .
-"*/mavir013_193.lab"
 no
 me
 acuerdo
@@ -5648,7 +5454,6 @@ otra
 estatua
 claro
 .
-"*/mavir013_194.lab"
 gracias
 además
 implementamos
@@ -5689,7 +5494,6 @@ de
 flickr
 estándar
 .
-"*/mavir013_195.lab"
 y
 luego
 además
@@ -5703,7 +5507,6 @@ que
 van
 apareciendo
 .
-"*/mavir013_196.lab"
 cualquier
 momento
 al
@@ -5733,7 +5536,6 @@ volverla
 a
 lanzar
 .
-"*/mavir013_197.lab"
 y
 además
 le
@@ -5770,7 +5572,6 @@ también
 significa
 parque
 .
-"*/mavir013_198.lab"
 una
 cosa
 fundamental
@@ -5782,7 +5583,6 @@ de
 la
 consulta
 .
-"*/mavir013_199.lab"
 la
 idea
 aquí
@@ -5805,7 +5605,6 @@ para
 la
 consulta
 .
-"*/mavir013_200.lab"
 entonces
 si
 en
@@ -5829,7 +5628,6 @@ posibles
 del
 diciconario
 .
-"*/mavir013_201.lab"
 y
 puedes
 o
@@ -5859,7 +5657,6 @@ en
 el
 diccionario
 .
-"*/mavir013_202.lab"
 había
 perfiles
 de
@@ -5920,7 +5717,6 @@ a
 los
 usuarios
 .
-"*/mavir013_203.lab"
 este
 era
 el
@@ -5953,7 +5749,6 @@ encontrar
 las
 imágenes
 .
-"*/mavir013_204.lab"
 y
 además
 también
@@ -5992,7 +5787,6 @@ el
 el
 mejor
 .
-"*/mavir013_205.lab"
 y
 por
 último
@@ -6007,7 +5801,6 @@ mecanismo
 de
 pistas
 .
-"*/mavir013_206.lab"
 por
 qué
 porque
@@ -6043,7 +5836,6 @@ habéis
 vuelto
 locos
 .
-"*/mavir013_207.lab"
 esto
 es
 imposible
@@ -6070,7 +5862,6 @@ sistema
 de
 pistas
 .
-"*/mavir013_208.lab"
 si
 te
 rindes
@@ -6111,7 +5902,6 @@ y
 para
 estudiar
 .
-"*/mavir013_209.lab"
 y
 las
 siguientes
@@ -6123,7 +5913,6 @@ de
 la
 imagen
 .
-"*/mavir013_210.lab"
 en
 un
 momento
@@ -6139,7 +5928,6 @@ pistas
 era
 sencillísimo
 .
-"*/mavir013_211.lab"
 ahora
 eso
 sí
@@ -6155,7 +5943,6 @@ le
 quitamos
 puntos
 .
-"*/mavir013_212.lab"
 con
 esto
 la
@@ -6164,7 +5951,6 @@ empezó
 a
 funcionar
 .
-"*/mavir013_213.lab"
 y
 este
 es
@@ -6208,7 +5994,6 @@ unos
 experimentos
 interactivos
 .
-"*/mavir013_214.lab"
 normalmente
 coges
 los
@@ -6222,7 +6007,6 @@ y
 se
 acabó
 .
-"*/mavir013_215.lab"
 ya
 no
 se
@@ -6272,7 +6056,6 @@ para
 sacar
 conclusiones
 .
-"*/mavir013_216.lab"
 conseguimos
 finalmente
 tener
@@ -6292,7 +6075,6 @@ y
 tres
 países
 .
-"*/mavir013_217.lab"
 ahí
 tenéis
 un
@@ -6307,7 +6089,6 @@ despliegue
 por
 países
 .
-"*/mavir013_218.lab"
 y
 la
 verdad
@@ -6343,7 +6124,6 @@ había
 hecho
 antes
 .
-"*/mavir013_219.lab"
 la
 colección
 como
@@ -6361,7 +6141,6 @@ por
 lo
 menos
 .
-"*/mavir013_220.lab"
 o
 sea
 que
@@ -6417,7 +6196,6 @@ y
 ver
 diferencias
 .
-"*/mavir013_221.lab"
 además
 cada
 sesión
@@ -6439,7 +6217,6 @@ rellenaba
 un
 cuestionario
 .
-"*/mavir013_222.lab"
 así
 que
 tenemos
@@ -6451,7 +6228,6 @@ cuestionarios
 post
 búsqueda
 .
-"*/mavir013_223.lab"
 esto
 es
 maravilloso
@@ -6474,7 +6250,6 @@ completaron
 quince
 búsquedas
 .
-"*/mavir013_224.lab"
 estos
 se
 tiraron
@@ -6501,7 +6276,6 @@ post
 experiencia
 no
 .
-"*/mavir013_225.lab"
 entonces
 ya
 a
@@ -6519,7 +6293,6 @@ fue
 la
 experiencia
 .
-"*/mavir013_226.lab"
 y
 multitud
 de
@@ -6547,7 +6320,6 @@ blogs
 de
 fotografía
 .
-"*/mavir013_227.lab"
 muchos
 estudiantes
 de
@@ -6571,7 +6343,6 @@ cosas
 de
 esas
 .
-"*/mavir013_228.lab"
 en
 fin
 de
@@ -6600,7 +6371,6 @@ porque
 puedes
 observarles
 .
-"*/mavir013_229.lab"
 estudio
 observacional
 es
@@ -6613,7 +6383,6 @@ es
 un
 poco
 .
-"*/mavir013_230.lab"
 gran
 variedad
 de
@@ -6639,7 +6408,6 @@ entre
 los
 perfiles
 .
-"*/mavir013_231.lab"
 aquí
 véis
 que
@@ -6668,7 +6436,6 @@ era
 completamente
 desconocido
 .
-"*/mavir013_232.lab"
 en
 fin
 un
@@ -6679,7 +6446,6 @@ es
 enorme
 variedad
 .
-"*/mavir013_233.lab"
 y
 os
 voy
@@ -6692,7 +6458,6 @@ resultados
 nada
 más
 .
-"*/mavir013_234.lab"
 el
 primero
 es
@@ -6710,7 +6475,6 @@ en
 la
 uned
 .
-"*/mavir013_235.lab"
 dependiendo
 de
 si
@@ -6753,7 +6517,6 @@ cambiaba
 o
 no
 .
-"*/mavir013_236.lab"
 si
 os
 fijáis
@@ -6768,7 +6531,6 @@ no
 hay
 diferencia
 .
-"*/mavir013_237.lab"
 que
 eso
 es
@@ -6805,7 +6567,6 @@ más
 de
 información
 .
-"*/mavir013_238.lab"
 es
 una
 diferencia
@@ -6836,7 +6597,6 @@ las
 las
 tareas
 .
-"*/mavir013_239.lab"
 es
 una
 pregunta
@@ -6847,7 +6607,6 @@ me
 sabe
 contestar
 .
-"*/mavir013_240.lab"
 isidro
 tú
 qué
@@ -6870,7 +6629,6 @@ mecanismo
 de
 pistas
 .
-"*/mavir013_241.lab"
 si
 el
 yo
@@ -6880,7 +6638,6 @@ imagen
 pidiendo
 pistas
 .
-"*/mavir013_242.lab"
 entonces
 en
 un
@@ -6904,7 +6661,6 @@ de
 los
 perfiles
 .
-"*/mavir013_243.lab"
 bueno
 pues
 afortunadamente
@@ -6916,7 +6672,6 @@ que
 nos
 esperábamos
 .
-"*/mavir013_244.lab"
 no
 solamente
 encuentran
@@ -6945,7 +6700,6 @@ bastante
 más
 acierto
 .
-"*/mavir013_245.lab"
 fijaos
 que
 esto
@@ -6977,7 +6731,6 @@ tardas
 en
 completarla
 .
-"*/mavir013_246.lab"
 no
 no
 es
@@ -7062,7 +6815,6 @@ ni
 de
 lejos
 .
-"*/mavir013_247.lab"
 y
 además
 si
@@ -7088,7 +6840,6 @@ el
 tiempo
 es
 .
-"*/mavir013_248.lab"
 teníamos
 la
 información
@@ -7120,7 +6871,6 @@ volvía
 y
 seguía
 .
-"*/mavir013_249.lab"
 o
 incluso
 que
@@ -7138,7 +6888,6 @@ al
 día
 siguiente
 .
-"*/mavir013_250.lab"
 eso
 está
 fuera
@@ -7196,7 +6945,6 @@ es
 la
 misma
 .
-"*/mavir013_251.lab"
 o
 sea
 que
@@ -7213,7 +6961,6 @@ muchas
 más
 interacciones
 .
-"*/mavir013_252.lab"
 o
 sea
 tienen
@@ -7235,7 +6982,6 @@ piden
 más
 pistas
 .
-"*/mavir013_253.lab"
 y
 aún
 así
@@ -7250,7 +6996,6 @@ de
 encontrar
 imágenes
 .
-"*/mavir013_254.lab"
 otro
 aspecto
 interesante
@@ -7258,7 +7003,6 @@ es
 el
 aprendizaje
 .
-"*/mavir013_255.lab"
 también
 pensábamos
 igual
@@ -7295,7 +7039,6 @@ merece
 la
 pena
 .
-"*/mavir013_256.lab"
 estábamos
 muy
 interesados
@@ -7314,7 +7057,6 @@ para
 buscar
 mejor
 .
-"*/mavir013_257.lab"
 y
 esta
 fue
@@ -7333,7 +7075,6 @@ es
 la
 siguiente
 .
-"*/mavir013_258.lab"
 aquí
 vemos
 la
@@ -7372,7 +7113,6 @@ al
 encontrar
 imágenes
 .
-"*/mavir013_259.lab"
 éstas
 son
 estadísticas
@@ -7390,7 +7130,6 @@ de
 de
 experiencias
 .
-"*/mavir013_260.lab"
 pues
 curiosamente
 la
@@ -7443,7 +7182,6 @@ de
 potencia
 no
 .
-"*/mavir013_261.lab"
 y
 entonces
 se
@@ -7470,7 +7208,6 @@ muchísimo
 más
 fácil
 .
-"*/mavir013_262.lab"
 así
 que
 curiosamente
@@ -7486,7 +7223,6 @@ alguna
 pista
 más
 .
-"*/mavir013_263.lab"
 y
 todo
 lo
@@ -7508,7 +7244,6 @@ que
 se
 hacen
 .
-"*/mavir013_264.lab"
 el
 rojo
 es
@@ -7533,7 +7268,6 @@ explora
 el
 ranking
 .
-"*/mavir013_265.lab"
 veis
 que
 es
@@ -7581,7 +7315,6 @@ con
 menos
 esfuerzo
 .
-"*/mavir013_266.lab"
 aquí
 hay
 un
@@ -7603,7 +7336,6 @@ encontraban
 una
 imagen
 .
-"*/mavir013_267.lab"
 de
 esto
 tenemos
@@ -7634,7 +7366,6 @@ para
 encontrar
 imágenes
 .
-"*/mavir013_268.lab"
 entonces
 resulta
 que
@@ -7675,7 +7406,6 @@ idioma
 era
 activo
 .
-"*/mavir013_269.lab"
 y
 el
 y
@@ -7724,7 +7454,6 @@ es
 parecido
 no
 .
-"*/mavir013_270.lab"
 lo
 han
 encontrado
@@ -7757,7 +7486,6 @@ describir
 la
 imagen
 .
-"*/mavir013_271.lab"
 y
 la
 siguiente
@@ -7768,7 +7496,6 @@ había
 demasiadas
 imágenes
 .
-"*/mavir013_272.lab"
 esto
 es
 cuando
@@ -7806,7 +7533,6 @@ anotada
 la
 imagen
 .
-"*/mavir013_273.lab"
 y
 la
 siguiente
@@ -7820,7 +7546,6 @@ traducir
 mi
 consulta
 .
-"*/mavir013_274.lab"
 a
 dónde
 quiero
@@ -7846,7 +7571,6 @@ dificultad
 más
 importante
 .
-"*/mavir013_275.lab"
 ese
 es
 en
@@ -7905,21 +7629,18 @@ concreto
 en
 ella
 .
-"*/mavir013_276.lab"
 hay
 que
 acabar
 no
 vale
 .
-"*/mavir013_277.lab"
 pues
 solamente
 voy
 a
 enseñaros
 .
-"*/mavir013_278.lab"
 bueno
 no
 merece
@@ -7953,7 +7674,6 @@ usaban
 muy
 poco
 .
-"*/mavir013_279.lab"
 es
 verdad
 que
@@ -7999,7 +7719,6 @@ traducción
 para
 mejorarlo
 .
-"*/mavir013_280.lab"
 no
 lo
 vimos
@@ -8026,7 +7745,6 @@ sube
 un
 poco
 .
-"*/mavir013_281.lab"
 pero
 el
 uso
@@ -8036,7 +7754,6 @@ es
 muy
 bajo
 .
-"*/mavir013_282.lab"
 esto
 estamos
 hablando
@@ -8048,7 +7765,6 @@ de
 cada
 diez
 .
-"*/mavir013_283.lab"
 no
 tres
 de
@@ -8065,7 +7781,6 @@ con
 esa
 facilidad
 .
-"*/mavir013_284.lab"
 o
 sea
 que
@@ -8100,7 +7815,6 @@ las
 quince
 búsquedas
 .
-"*/mavir013_285.lab"
 entonces
 decían
 la
@@ -8154,7 +7868,6 @@ o
 nada
 útil
 .
-"*/mavir013_286.lab"
 fijaos
 que
 tenemos
@@ -8171,7 +7884,6 @@ muy
 o
 útil
 .
-"*/mavir013_287.lab"
 y
 esto
 es
@@ -8188,7 +7900,6 @@ que
 están
 contestando
 .
-"*/mavir013_288.lab"
 o
 sea
 lo
@@ -8227,7 +7938,6 @@ búsqueda
 en
 google
 .
-"*/mavir013_289.lab"
 no
 sé
 yo
@@ -8246,7 +7956,6 @@ lo
 tuviera
 estaría
 .
-"*/mavir013_290.lab"
 o
 sea
 si
@@ -8282,7 +7991,6 @@ con
 las
 caras
 .
-"*/mavir013_291.lab"
 normalmente
 no
 lo
@@ -8325,7 +8033,6 @@ en
 varios
 idiomas
 .
-"*/mavir013_292.lab"
 porque
 eso
 a
@@ -8385,7 +8092,6 @@ completar
 la
 tarea
 .
-"*/mavir013_293.lab"
 bueno
 pues
 pues
@@ -8411,7 +8117,6 @@ hemos
 comentado
 ya
 .
-"*/mavir013_294.lab"
 así
 que
 si
@@ -8422,4 +8127,3 @@ para
 el
 cangrejo
 .
-"*/mavir013_295.lab"

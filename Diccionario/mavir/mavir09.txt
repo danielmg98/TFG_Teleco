@@ -1,5 +1,3 @@
-#!MLF!#
-"*/mavir09_1.lab"
 bueno
 pues
 si
@@ -15,7 +13,6 @@ sesión
 es
 doble
 .
-"*/mavir09_2.lab"
 vamos
 a
 dedicar
@@ -38,7 +35,6 @@ en
 la
 web
 .
-"*/mavir09_3.lab"
 y
 especialmente
 por
@@ -77,7 +73,6 @@ tener
 en
 cuenta
 .
-"*/mavir09_4.lab"
 les
 enseñaré
 como
@@ -113,7 +108,6 @@ entraré
 en
 detalles
 .
-"*/mavir09_5.lab"
 y
 la
 segunda
@@ -146,7 +140,6 @@ en
 la
 web
 .
-"*/mavir09_6.lab"
 de
 manera
 que
@@ -181,7 +174,6 @@ ser
 muy
 útiles
 .
-"*/mavir09_7.lab"
 vamos
 a
 ver
@@ -196,7 +188,6 @@ hoy
 en
 internet
 .
-"*/mavir09_8.lab"
 bueno
 pues
 porque
@@ -222,7 +213,6 @@ del
 ámbito
 académico
 .
-"*/mavir09_9.lab"
 es
 decir
 hoy
@@ -277,7 +267,6 @@ vengan
 a
 visitarnos
 .
-"*/mavir09_10.lab"
 es
 evidente
 que
@@ -293,7 +282,6 @@ ha
 facilitado
 esto
 .
-"*/mavir09_11.lab"
 pero
 no
 es
@@ -333,7 +321,6 @@ master
 y
 doctorado
 .
-"*/mavir09_12.lab"
 y
 estamos
 hablando
@@ -347,7 +334,6 @@ la
 zona
 europea
 .
-"*/mavir09_13.lab"
 estamos
 viendo
 cómo
@@ -378,7 +364,6 @@ de
 formación
 investigadora
 .
-"*/mavir09_14.lab"
 y
 este
 es
@@ -395,7 +380,6 @@ a
 esa
 gente
 .
-"*/mavir09_15.lab"
 pues
 evidentemente
 hoy
@@ -434,7 +418,6 @@ a
 nuestra
 institución
 .
-"*/mavir09_16.lab"
 y
 aquí
 es
@@ -451,7 +434,6 @@ también
 una
 competencia
 .
-"*/mavir09_17.lab"
 es
 decir
 no
@@ -474,7 +456,6 @@ otros
 están
 haciendo
 .
-"*/mavir09_18.lab"
 por
 qué
 digo
@@ -505,7 +486,6 @@ lo
 está
 haciendo
 .
-"*/mavir09_19.lab"
 no
 es
 una
@@ -539,7 +519,6 @@ o
 medio
 plazo
 .
-"*/mavir09_20.lab"
 pues
 no
 vamos
@@ -594,7 +573,6 @@ de
 nuevos
 estudiantes
 .
-"*/mavir09_21.lab"
 y
 veremos
 que
@@ -641,7 +619,6 @@ una
 razón
 adicional
 .
-"*/mavir09_22.lab"
 hay
 que
 entender
@@ -674,7 +651,6 @@ con
 otros
 indicadores
 .
-"*/mavir09_23.lab"
 hay
 que
 intentar
@@ -708,7 +684,6 @@ centro
 de
 investigación
 .
-"*/mavir09_24.lab"
 pero
 miren
 todo
@@ -738,7 +713,6 @@ la
 más
 relevante
 .
-"*/mavir09_25.lab"
 por
 qué
 en
@@ -757,7 +731,6 @@ herramienta
 tan
 importante
 .
-"*/mavir09_26.lab"
 por
 una
 sencilla
@@ -780,7 +753,6 @@ de
 las
 mismas
 .
-"*/mavir09_27.lab"
 es
 la
 aportación
@@ -797,7 +769,6 @@ es
 la
 investigación
 .
-"*/mavir09_28.lab"
 el
 número
 de
@@ -832,7 +803,6 @@ de
 esa
 aportación
 .
-"*/mavir09_29.lab"
 pero
 se
 consideraba
@@ -866,7 +836,6 @@ con
 la
 comunidad
 .
-"*/mavir09_30.lab"
 cuál
 es
 la
@@ -892,7 +861,6 @@ las
 páginas
 web
 .
-"*/mavir09_31.lab"
 es
 decir
 cuando
@@ -926,7 +894,6 @@ de
 la
 universidad
 .
-"*/mavir09_32.lab"
 mientras
 que
 las
@@ -937,7 +904,6 @@ difíciles
 de
 medir
 .
-"*/mavir09_33.lab"
 yo
 no
 digo
@@ -953,7 +919,6 @@ realmente
 resulta
 complicado
 .
-"*/mavir09_34.lab"
 pues
 ahí
 está
@@ -978,7 +943,6 @@ midiendo
 comunicación
 informal
 .
-"*/mavir09_35.lab"
 las
 transparencias
 de
@@ -1026,7 +990,6 @@ tipo
 del
 directorio
 .
-"*/mavir09_36.lab"
 y
 fíjense
 algo
@@ -1047,7 +1010,6 @@ sino
 también
 actitudes
 .
-"*/mavir09_37.lab"
 si
 los
 alumnos
@@ -1077,7 +1039,6 @@ web
 se
 incrementa
 .
-"*/mavir09_38.lab"
 si
 vamos
 al
@@ -1103,7 +1064,6 @@ europa
 se
 refleja
 .
-"*/mavir09_39.lab"
 en
 otro
 países
@@ -1118,7 +1078,6 @@ aparece
 para
 nada
 .
-"*/mavir09_40.lab"
 existen
 una
 serie
@@ -1136,7 +1095,6 @@ presencia
 en
 internet
 .
-"*/mavir09_41.lab"
 hablemos
 de
 recursos
@@ -1169,7 +1127,6 @@ generar
 son
 mayores
 .
-"*/mavir09_42.lab"
 por
 tanto
 para
@@ -1196,7 +1153,6 @@ les
 estaba
 comentando
 .
-"*/mavir09_43.lab"
 bueno
 quizá
 estemos
@@ -1214,7 +1170,6 @@ son
 las
 ventajas
 .
-"*/mavir09_44.lab"
 pues
 fíjense
 hay
@@ -1250,7 +1205,6 @@ miles
 de
 lectores
 .
-"*/mavir09_45.lab"
 en
 internet
 las
@@ -1272,7 +1226,6 @@ millones
 de
 internautas
 .
-"*/mavir09_46.lab"
 cualquiera
 de
 ellos
@@ -1285,7 +1238,6 @@ y
 puede
 leerla
 .
-"*/mavir09_47.lab"
 estamos
 hablando
 no
@@ -1312,7 +1264,6 @@ lectores
 sino
 millones
 .
-"*/mavir09_48.lab"
 pero
 fíjense
 qué
@@ -1343,7 +1294,6 @@ nuestro
 público
 objetivo
 .
-"*/mavir09_49.lab"
 no
 porque
 nosotros
@@ -1358,7 +1308,6 @@ facilidad
 de
 acceso
 .
-"*/mavir09_50.lab"
 estamos
 hablando
 de
@@ -1389,7 +1338,6 @@ o
 del
 país
 .
-"*/mavir09_51.lab"
 nuestros
 resultados
 pueden
@@ -1407,7 +1355,6 @@ convertirlos
 en
 tecnología
 .
-"*/mavir09_52.lab"
 estamos
 hablando
 también
@@ -1418,7 +1365,6 @@ en
 su
 conjunto
 .
-"*/mavir09_53.lab"
 hablemos
 de
 si
@@ -1452,7 +1398,6 @@ nosotros
 hemos
 obtenidos
 .
-"*/mavir09_54.lab"
 si
 estamos
 hablando
@@ -1476,7 +1421,6 @@ asociaciones
 culturales
 interesadas
 .
-"*/mavir09_55.lab"
 si
 estamos
 hablando
@@ -1494,7 +1438,6 @@ haya
 políticos
 escuchando
 .
-"*/mavir09_56.lab"
 es
 decir
 nos
@@ -1526,7 +1469,6 @@ componentes
 que
 tiene
 .
-"*/mavir09_57.lab"
 pero
 además
 todos
@@ -1563,7 +1505,6 @@ consecuencia
 importante
 idiomáticos
 .
-"*/mavir09_58.lab"
 por
 qué
 razón
@@ -1580,7 +1521,6 @@ de
 comunicación
 científica
 .
-"*/mavir09_59.lab"
 pues
 evidentemente
 porque
@@ -1597,7 +1537,6 @@ opción
 más
 adecuada
 .
-"*/mavir09_60.lab"
 pero
 por
 qué
@@ -1617,7 +1556,6 @@ además
 del
 inglés
 .
-"*/mavir09_61.lab"
 la
 razón
 es
@@ -1638,7 +1576,6 @@ científico
 en
 papel
 .
-"*/mavir09_62.lab"
 en
 la
 web
@@ -1684,7 +1621,6 @@ fuera
 el
 caso
 .
-"*/mavir09_63.lab"
 es
 decir
 que
@@ -1701,7 +1637,6 @@ además
 del
 inglés
 .
-"*/mavir09_64.lab"
 la
 única
 razón
@@ -1716,7 +1651,6 @@ es
 el
 coste
 .
-"*/mavir09_65.lab"
 pero
 el
 coste
@@ -1752,7 +1686,6 @@ no
 es
 problema
 .
-"*/mavir09_66.lab"
 me
 acuerdo
 en
@@ -1776,7 +1709,6 @@ herramienta
 para
 ricos
 .
-"*/mavir09_67.lab"
 yo
 le
 contesté
@@ -1814,7 +1746,6 @@ ordenadores
 están
 vacíos
 .
-"*/mavir09_68.lab"
 es
 decir
 no
@@ -1848,7 +1779,6 @@ decidido
 no
 utilizarlo
 .
-"*/mavir09_69.lab"
 no
 es
 un
@@ -1863,7 +1793,6 @@ en
 la
 web
 .
-"*/mavir09_70.lab"
 bueno
 esto
 es
@@ -1900,7 +1829,6 @@ ser
 la
 universidad
 .
-"*/mavir09_71.lab"
 hombre
 de
 alguna
@@ -1927,7 +1855,6 @@ ellos
 se
 producen
 .
-"*/mavir09_72.lab"
 por
 tanto
 es
@@ -1943,7 +1870,6 @@ en
 la
 web
 .
-"*/mavir09_73.lab"
 pues
 por
 ejemplo
@@ -1957,7 +1883,6 @@ de
 información
 disponible
 .
-"*/mavir09_74.lab"
 vamos
 a
 verlo
@@ -1979,7 +1904,6 @@ se
 pueden
 utilizar
 .
-"*/mavir09_75.lab"
 bueno
 esto
 es
@@ -2006,7 +1930,6 @@ son
 los
 contenidos
 .
-"*/mavir09_76.lab"
 miren
 yo
 no
@@ -2029,7 +1952,6 @@ de
 ese
 tipo
 .
-"*/mavir09_77.lab"
 en
 realidad
 la
@@ -2060,7 +1982,6 @@ de
 de
 telecomunicaciones
 .
-"*/mavir09_78.lab"
 a
 los
 profesionales
@@ -2079,7 +2000,6 @@ son
 los
 contenidos
 .
-"*/mavir09_79.lab"
 pues
 aquí
 ya
@@ -2090,7 +2010,6 @@ primera
 aproximación
 estratégica
 .
-"*/mavir09_80.lab"
 vamos
 a
 considerar
@@ -2103,7 +2022,6 @@ de
 información
 disponible
 .
-"*/mavir09_81.lab"
 fíjense
 y
 aquí
@@ -2148,7 +2066,6 @@ habla
 de
 contenidos
 .
-"*/mavir09_82.lab"
 y
 es
 la
@@ -2167,7 +2084,6 @@ centramos
 en
 contenidos
 .
-"*/mavir09_83.lab"
 cualquier
 contenido
 antes
@@ -2203,7 +2119,6 @@ los
 contenidos
 científicos
 .
-"*/mavir09_84.lab"
 y
 quién
 da
@@ -2233,7 +2148,6 @@ evaluación
 por
 pares
 .
-"*/mavir09_85.lab"
 lo
 que
 otros
@@ -2252,7 +2166,6 @@ no
 se
 publique
 .
-"*/mavir09_86.lab"
 hay
 gente
 que
@@ -2268,7 +2181,6 @@ para
 la
 web
 .
-"*/mavir09_87.lab"
 eso
 es
 falso
@@ -2293,7 +2205,6 @@ evaluación
 por
 pares
 .
-"*/mavir09_88.lab"
 no
 todos
 los
@@ -2349,7 +2260,6 @@ de
 peer
 review
 .
-"*/mavir09_89.lab"
 pero
 el
 proceso
@@ -2368,7 +2278,6 @@ garantizar
 la
 calidad
 .
-"*/mavir09_90.lab"
 existe
 un
 mecanismo
@@ -2381,7 +2290,6 @@ de
 citas
 recibidas
 .
-"*/mavir09_91.lab"
 ya
 saben
 ustedes
@@ -2425,7 +2333,6 @@ recibido
 de
 terceros
 .
-"*/mavir09_92.lab"
 las
 citas
 o
@@ -2439,7 +2346,6 @@ herramienta
 muy
 potente
 .
-"*/mavir09_93.lab"
 claramente
 nos
 está
@@ -2455,7 +2361,6 @@ una
 determinada
 área
 .
-"*/mavir09_94.lab"
 ahora
 que
 se
@@ -2492,7 +2397,6 @@ próximos
 premios
 nobel
 .
-"*/mavir09_95.lab"
 y
 bueno
 dentro
@@ -2504,7 +2408,6 @@ normalmente
 suelen
 acertar
 .
-"*/mavir09_96.lab"
 bueno
 pues
 en
@@ -2518,7 +2421,6 @@ incluso
 más
 rico
 .
-"*/mavir09_97.lab"
 es
 el
 análisis
@@ -2557,7 +2459,6 @@ a
 esos
 contenidos
 .
-"*/mavir09_98.lab"
 fíjense
 que
 es
@@ -2568,7 +2469,6 @@ tiene
 dos
 características
 .
-"*/mavir09_99.lab"
 una
 no
 es
@@ -2591,7 +2491,6 @@ hecho
 adrede
 eh
 .
-"*/mavir09_100.lab"
 uno
 visita
 una
@@ -2606,7 +2505,6 @@ y
 los
 enlaza
 .
-"*/mavir09_101.lab"
 pero
 además
 para
@@ -2619,7 +2517,6 @@ tener
 página
 propia
 .
-"*/mavir09_102.lab"
 es
 decir
 estamos
@@ -2647,7 +2544,6 @@ calidad
 la
 añade
 .
-"*/mavir09_103.lab"
 y
 el
 segundo
@@ -2665,7 +2561,6 @@ mucho
 más
 variadas
 .
-"*/mavir09_104.lab"
 no
 es
 solamente
@@ -2697,7 +2592,6 @@ un
 valor
 añadido
 .
-"*/mavir09_105.lab"
 y
 por
 último
@@ -2721,7 +2615,6 @@ es
 visitas
 visitantes
 .
-"*/mavir09_106.lab"
 fíjense
 en
 el
@@ -2737,7 +2630,6 @@ nunca
 se
 utiliza
 .
-"*/mavir09_107.lab"
 es
 la
 circulación
@@ -2777,7 +2669,6 @@ número
 de
 personas
 .
-"*/mavir09_108.lab"
 pero
 la
 verdad
@@ -2810,7 +2701,6 @@ esto
 se
 multiplica
 .
-"*/mavir09_109.lab"
 podemos
 saber
 no
@@ -2847,7 +2737,6 @@ en
 nuestra
 página
 .
-"*/mavir09_110.lab"
 una
 serie
 de
@@ -2870,7 +2759,6 @@ tenemos
 más
 disponible
 .
-"*/mavir09_111.lab"
 incluso
 un
 elemento
@@ -2890,7 +2778,6 @@ a
 esas
 visitas
 .
-"*/mavir09_112.lab"
 es
 comprobar
 qué
@@ -2918,7 +2805,6 @@ recuperar
 nuestra
 información
 .
-"*/mavir09_113.lab"
 esto
 es
 algo
@@ -2941,10 +2827,8 @@ nos
 están
 visitando
 .
-"*/mavir09_114.lab"
 bueno
 .
-"*/mavir09_115.lab"
 cómo
 se
 trabaja
@@ -2971,7 +2855,6 @@ la
 unidad
 institucional
 .
-"*/mavir09_116.lab"
 cada
 institución
 tiene
@@ -2999,7 +2882,6 @@ todos
 sus
 contenidos
 .
-"*/mavir09_117.lab"
 por
 ejemplo
 unedes
@@ -3019,7 +2901,6 @@ de
 la
 web
 .
-"*/mavir09_118.lab"
 esto
 es
 una
@@ -3053,7 +2934,6 @@ subdominio
 claramente
 identificado
 .
-"*/mavir09_119.lab"
 es
 un
 inconveniente
@@ -3081,7 +2961,6 @@ niveles
 del
 dominio
 .
-"*/mavir09_120.lab"
 lo
 cual
 por
@@ -3123,7 +3002,6 @@ trabajar
 muy
 bien
 .
-"*/mavir09_121.lab"
 a
 partir
 de
@@ -3145,7 +3023,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_122.lab"
 voy
 a
 a
@@ -3159,7 +3036,6 @@ en
 otras
 transparencias
 .
-"*/mavir09_123.lab"
 simplemente
 aquí
 les
@@ -3207,14 +3083,12 @@ largo
 del
 tiempo
 .
-"*/mavir09_124.lab"
 pero
 no
 siempre
 ocurre
 así
 .
-"*/mavir09_125.lab"
 y
 cuando
 esto
@@ -3225,7 +3099,6 @@ resultado
 es
 catastrófico
 .
-"*/mavir09_126.lab"
 les
 voy
 a
@@ -3252,7 +3125,6 @@ caso
 de
 cataluña
 .
-"*/mavir09_127.lab"
 miren
 no
 me
@@ -3269,7 +3141,6 @@ de
 cuestiones
 políticas
 .
-"*/mavir09_128.lab"
 es
 decir
 cualquier
@@ -3282,7 +3153,6 @@ dominio
 que
 quiera
 .
-"*/mavir09_129.lab"
 a
 mí
 me
@@ -3331,7 +3201,6 @@ dominio
 lingüístico
 cat
 .
-"*/mavir09_130.lab"
 bueno
 no
 hay
@@ -3358,7 +3227,6 @@ todos
 sus
 servidores
 .
-"*/mavir09_131.lab"
 como
 no
 lo
@@ -3402,7 +3270,6 @@ que
 esté
 buscando
 .
-"*/mavir09_132.lab"
 fíjense
 por
 ejemplo
@@ -3419,7 +3286,6 @@ be
 punto
 edu
 .
-"*/mavir09_133.lab"
 pero
 de
 hecho
@@ -3435,7 +3301,6 @@ dominio
 punto
 es
 .
-"*/mavir09_134.lab"
 si
 hablamos
 por
@@ -3465,7 +3330,6 @@ dominio
 punto
 edu
 .
-"*/mavir09_135.lab"
 eso
 sí
 si
@@ -3500,7 +3364,6 @@ be
 punto
 edu
 .
-"*/mavir09_136.lab"
 es
 decir
 que
@@ -3543,7 +3406,6 @@ vía
 punto
 edu
 .
-"*/mavir09_137.lab"
 lo
 mismo
 pasa
@@ -3567,7 +3429,6 @@ casos
 muy
 similares
 .
-"*/mavir09_138.lab"
 el
 dominio
 principal
@@ -3582,7 +3443,6 @@ de
 sus
 contenidos
 .
-"*/mavir09_139.lab"
 bueno
 pues
 esto
@@ -3631,7 +3491,6 @@ las
 tres
 primeras
 .
-"*/mavir09_140.lab"
 es
 una
 consecuencia
@@ -3639,13 +3498,11 @@ que
 deberían
 resolver
 .
-"*/mavir09_141.lab"
 cómo
 construimos
 el
 ranking
 .
-"*/mavir09_142.lab"
 pues
 ya
 han
@@ -3658,7 +3515,6 @@ serie
 de
 indicadores
 .
-"*/mavir09_143.lab"
 hemos
 visto
 una
@@ -3667,7 +3523,6 @@ de
 datos
 numéricos
 .
-"*/mavir09_144.lab"
 pero
 claro
 cómo
@@ -3688,7 +3543,6 @@ un
 modelo
 teórico
 .
-"*/mavir09_145.lab"
 fíjense
 mi
 objetivo
@@ -3705,7 +3559,6 @@ tengo
 que
 reconocer
 .
-"*/mavir09_146.lab"
 ahora
 sí
 que
@@ -3718,7 +3571,6 @@ de
 de
 posicionar
 .
-"*/mavir09_147.lab"
 pero
 nuestro
 objetivo
@@ -3737,7 +3589,6 @@ de
 open
 access
 .
-"*/mavir09_148.lab"
 yo
 siempre
 utilizo
@@ -3754,7 +3605,6 @@ mayoría
 de
 ustedes
 .
-"*/mavir09_149.lab"
 yo
 lo
 que
@@ -3814,7 +3664,6 @@ una
 página
 europea
 .
-"*/mavir09_150.lab"
 la
 mejor
 información
@@ -3835,7 +3684,6 @@ de
 melbourne
 australia
 .
-"*/mavir09_151.lab"
 bueno
 pues
 a
@@ -3847,7 +3695,6 @@ esto
 siguiera
 ocurriendo
 .
-"*/mavir09_152.lab"
 entonces
 por
 qué
@@ -3877,7 +3724,6 @@ a
 cualquier
 persona
 .
-"*/mavir09_153.lab"
 entre
 otras
 muchas
@@ -3900,7 +3746,6 @@ con
 fondos
 públicos
 .
-"*/mavir09_154.lab"
 por
 tanto
 no
@@ -3918,7 +3763,6 @@ de
 manera
 pública
 .
-"*/mavir09_155.lab"
 con
 todas
 las
@@ -3945,7 +3789,6 @@ fundamental
 sería
 ése
 .
-"*/mavir09_156.lab"
 por
 tanto
 en
@@ -3967,7 +3810,6 @@ ranking
 debe
 reconocerlo
 .
-"*/mavir09_157.lab"
 por
 tanto
 ése
@@ -3997,7 +3839,6 @@ en
 el
 mundo
 .
-"*/mavir09_158.lab"
 es
 tener
 en
@@ -4010,7 +3851,6 @@ sino
 el
 impacto
 .
-"*/mavir09_159.lab"
 es
 decir
 tener
@@ -4029,7 +3869,6 @@ número
 de
 citas
 .
-"*/mavir09_160.lab"
 la
 proporción
 el
@@ -4042,7 +3881,6 @@ uno
 a
 uno
 .
-"*/mavir09_161.lab"
 se
 tiene
 en
@@ -4074,7 +3912,6 @@ factor
 de
 impacto
 .
-"*/mavir09_162.lab"
 pues
 aquí
 utilizamos
@@ -4115,7 +3952,6 @@ los
 enlaces
 recibidos
 .
-"*/mavir09_163.lab"
 y
 a
 partir
@@ -4154,7 +3990,6 @@ centros
 de
 investigación
 .
-"*/mavir09_164.lab"
 para
 cada
 uno
@@ -4213,7 +4048,6 @@ son
 artículos
 científicos
 .
-"*/mavir09_165.lab"
 es
 decir
 estamos
@@ -4229,7 +4063,6 @@ cuanto
 a
 actividad
 .
-"*/mavir09_166.lab"
 y
 por
 el
@@ -4268,7 +4101,6 @@ por
 esa
 universidad
 .
-"*/mavir09_167.lab"
 es
 decir
 todos
@@ -4290,7 +4122,6 @@ provienen
 de
 fuera
 .
-"*/mavir09_168.lab"
 y
 a
 partir
@@ -4300,7 +4131,6 @@ construimos
 nuestro
 ranking
 .
-"*/mavir09_169.lab"
 aquí
 tienen
 ustedes
@@ -4322,7 +4152,6 @@ webometrics
 punto
 info
 .
-"*/mavir09_170.lab"
 esta
 disciplina
 se
@@ -4335,7 +4164,6 @@ fuera
 de
 españa
 .
-"*/mavir09_171.lab"
 en
 españa
 nosotros
@@ -4355,7 +4183,6 @@ llame
 webometría
 porque
 .
-"*/mavir09_172.lab"
 bueno
 creo
 que
@@ -4395,7 +4222,6 @@ de
 la
 web
 .
-"*/mavir09_173.lab"
 bueno
 pues
 aquí
@@ -4446,7 +4272,6 @@ se
 crea
 claramente
 .
-"*/mavir09_174.lab"
 y
 además
 proporcionamos
@@ -4462,7 +4287,6 @@ este
 caso
 europa
 .
-"*/mavir09_175.lab"
 pueden
 ver
 ustedes
@@ -4507,7 +4331,6 @@ uno
 puede
 esperar
 .
-"*/mavir09_176.lab"
 es
 decir
 que
@@ -4542,7 +4365,6 @@ que
 uno
 espera
 .
-"*/mavir09_177.lab"
 lo
 cual
 nos
@@ -4557,7 +4379,6 @@ línea
 de
 trabajo
 .
-"*/mavir09_178.lab"
 por
 supuesto
 pueden
@@ -4573,7 +4394,6 @@ su
 propia
 institución
 .
-"*/mavir09_179.lab"
 en
 españa
 la
@@ -4599,7 +4419,6 @@ cosas
 bien
 eh
 .
-"*/mavir09_180.lab"
 pero
 bueno
 eso
@@ -4640,7 +4459,6 @@ uno
 podría
 esperar
 .
-"*/mavir09_181.lab"
 estamos
 hablando
 de
@@ -4672,7 +4490,6 @@ uno
 de
 ellos
 .
-"*/mavir09_182.lab"
 francia
 parece
 estar
@@ -4695,7 +4512,6 @@ está
 muy
 retrasada
 .
-"*/mavir09_183.lab"
 es
 el
 caso
@@ -4715,7 +4531,6 @@ debería
 ser
 superior
 .
-"*/mavir09_184.lab"
 bueno
 pues
 éste
@@ -4735,7 +4550,6 @@ veremos
 más
 adelante
 .
-"*/mavir09_185.lab"
 fíjense
 la
 buena
@@ -4759,7 +4573,6 @@ representación
 bastante
 buena
 .
-"*/mavir09_186.lab"
 en
 realidad
 el
@@ -4792,7 +4605,6 @@ sesenta
 y
 ocho
 .
-"*/mavir09_187.lab"
 es
 francamente
 retrasada
@@ -4811,7 +4623,6 @@ veinte
 son
 españolas
 .
-"*/mavir09_188.lab"
 es
 decir
 que
@@ -4843,7 +4654,6 @@ para
 las
 libres
 .
-"*/mavir09_189.lab"
 son
 datos
 del
@@ -4883,7 +4693,6 @@ una
 organización
 geográfica
 .
-"*/mavir09_190.lab"
 como
 verán
 ustedes
@@ -4966,7 +4775,6 @@ pues
 el
 correspondiente
 .
-"*/mavir09_191.lab"
 vuelvo
 a
 repetir
@@ -5005,7 +4813,6 @@ que
 deberíamos
 buscar
 .
-"*/mavir09_192.lab"
 es
 decir
 que
@@ -5027,7 +4834,6 @@ cien
 primeras
 eh
 .
-"*/mavir09_193.lab"
 y
 apenas
 tenemos
@@ -5064,7 +4870,6 @@ de
 los
 datos
 .
-"*/mavir09_194.lab"
 fíjense
 que
 hemos
@@ -5083,7 +4888,6 @@ países
 están
 representados
 .
-"*/mavir09_195.lab"
 pero
 lo
 que
@@ -5111,7 +4915,6 @@ y
 mil
 primeros
 .
-"*/mavir09_196.lab"
 y
 me
 comparen
@@ -5127,7 +4930,6 @@ situación
 de
 norteamérica
 .
-"*/mavir09_197.lab"
 fíjense
 de
 las
@@ -5142,7 +4944,6 @@ seis
 son
 norteamericanas
 .
-"*/mavir09_198.lab"
 fíjense
 que
 no
@@ -5157,7 +4958,6 @@ hay
 muchas
 canadienses
 .
-"*/mavir09_199.lab"
 bueno
 esto
 empieza
@@ -5191,7 +4991,6 @@ unidos
 y
 europa
 .
-"*/mavir09_200.lab"
 lo
 cual
 es
@@ -5203,7 +5002,6 @@ realidad
 estamos
 aquí
 .
-"*/mavir09_201.lab"
 quiero
 decir
 a
@@ -5223,7 +5021,6 @@ europa
 me
 preocupan
 .
-"*/mavir09_202.lab"
 y
 esto
 es
@@ -5246,7 +5043,6 @@ se
 lo
 cuestionan
 .
-"*/mavir09_203.lab"
 dicen
 hay
 que
@@ -5286,7 +5082,6 @@ los
 doscientos
 primeros
 .
-"*/mavir09_204.lab"
 fíjense
 que
 en
@@ -5306,7 +5101,6 @@ prácticamente
 el
 doble
 .
-"*/mavir09_205.lab"
 y
 sin
 embargo
@@ -5328,7 +5122,6 @@ menos
 se
 equilibran
 .
-"*/mavir09_206.lab"
 qué
 quiere
 decir
@@ -5357,7 +5150,6 @@ universidades
 líderes
 europeas
 .
-"*/mavir09_207.lab"
 sin
 embargo
 digamos
@@ -5383,7 +5175,6 @@ americanos
 y
 europeos
 .
-"*/mavir09_208.lab"
 es
 decir
 es
@@ -5453,7 +5244,6 @@ las
 top
 mil
 .
-"*/mavir09_209.lab"
 el
 resto
 de
@@ -5470,7 +5260,6 @@ presencia
 menos
 relevante
 .
-"*/mavir09_210.lab"
 vamos
 al
 detalle
@@ -5486,7 +5275,6 @@ las
 doscientas
 primeras
 .
-"*/mavir09_211.lab"
 dónde
 está
 francia
@@ -5517,7 +5305,6 @@ con
 ciertas
 características
 .
-"*/mavir09_212.lab"
 fíjense
 por
 ejemplo
@@ -5536,7 +5323,6 @@ un
 sesgo
 idiomático
 .
-"*/mavir09_213.lab"
 es
 decir
 pues
@@ -5549,7 +5335,6 @@ páginas
 en
 inglés
 .
-"*/mavir09_214.lab"
 los
 españoles
 ponemos
@@ -5587,7 +5372,6 @@ colocar
 contenidos
 visibles
 .
-"*/mavir09_215.lab"
 contenidos
 que
 la
@@ -5625,7 +5409,6 @@ lugar
 de
 japonés
 .
-"*/mavir09_216.lab"
 no
 en
 absoluto
@@ -5647,7 +5430,6 @@ uno
 y
 otro
 .
-"*/mavir09_217.lab"
 les
 invito
 por
@@ -5662,7 +5444,6 @@ las
 páginas
 japonesas
 .
-"*/mavir09_218.lab"
 hay
 muchas
 veces
@@ -5676,7 +5457,6 @@ llama
 la
 universidad
 .
-"*/mavir09_219.lab"
 en
 fin
 no
@@ -5699,7 +5479,6 @@ es
 muy
 significativo
 .
-"*/mavir09_220.lab"
 bueno
 pasemos
 a
@@ -5717,7 +5496,6 @@ en
 los
 rankings
 .
-"*/mavir09_221.lab"
 vamos
 a
 ver
@@ -5757,7 +5535,6 @@ o
 incluso
 individual
 .
-"*/mavir09_222.lab"
 cuál
 es
 la
@@ -5787,7 +5564,6 @@ publicar
 o
 perecer
 .
-"*/mavir09_223.lab"
 se
 tiene
 que
@@ -5830,7 +5606,6 @@ donde
 uno
 firma
 .
-"*/mavir09_224.lab"
 uno
 firma
 en
@@ -5858,7 +5633,6 @@ de
 otro
 país
 .
-"*/mavir09_225.lab"
 hay
 que
 publicar
@@ -5883,7 +5657,6 @@ privilegiadas
 que
 otras
 .
-"*/mavir09_226.lab"
 si
 uno
 publica
@@ -5909,7 +5682,6 @@ en
 nietzsche
 eh
 .
-"*/mavir09_227.lab"
 pues
 son
 cuestiones
@@ -5949,7 +5721,6 @@ factor
 de
 impacto
 .
-"*/mavir09_228.lab"
 y
 por
 supuesto
@@ -5964,7 +5735,6 @@ no
 tienen
 validez
 .
-"*/mavir09_229.lab"
 si
 uno
 participa
@@ -5976,7 +5746,6 @@ es
 muy
 poco
 .
-"*/mavir09_230.lab"
 si
 uno
 publica
@@ -6005,7 +5774,6 @@ baja
 etcétera
 etcétera
 .
-"*/mavir09_231.lab"
 es
 decir
 es
@@ -6025,7 +5793,6 @@ del
 siglo
 veinte
 .
-"*/mavir09_232.lab"
 cuál
 es
 la
@@ -6055,7 +5822,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_233.lab"
 nosotros
 llamamos
 con
@@ -6081,7 +5847,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_234.lab"
 invisible
 porque
 realmente
@@ -6114,7 +5879,6 @@ estuviera
 ahora
 mismo
 .
-"*/mavir09_235.lab"
 veremos
 algunos
 detalles
@@ -6127,7 +5891,6 @@ de
 todo
 esto
 .
-"*/mavir09_236.lab"
 pero
 bueno
 casi
@@ -6144,7 +5907,6 @@ a
 estar
 presente
 .
-"*/mavir09_237.lab"
 es
 decir
 se
@@ -6167,7 +5929,6 @@ audiencias
 muchísimo
 mayores
 .
-"*/mavir09_238.lab"
 bueno
 cómo
 se
@@ -6182,7 +5943,6 @@ para
 nuestro
 análisis
 .
-"*/mavir09_239.lab"
 me
 estoy
 refiriendo
@@ -6196,7 +5956,6 @@ hagamos
 análisis
 globales
 .
-"*/mavir09_240.lab"
 bueno
 pues
 primero
@@ -6230,7 +5989,6 @@ ha
 publicado
 ocho
 .
-"*/mavir09_241.lab"
 nueve
 mayor
 que
@@ -6253,7 +6011,6 @@ noventa
 sobre
 ochenta
 .
-"*/mavir09_242.lab"
 hombre
 es
 noventa
@@ -6284,7 +6041,6 @@ son
 mucho
 mayores
 .
-"*/mavir09_243.lab"
 es
 decir
 por
@@ -6298,7 +6054,6 @@ a
 ochenta
 mil
 .
-"*/mavir09_244.lab"
 nueve
 no
 es
@@ -6336,7 +6091,6 @@ que
 estamos
 comentando
 .
-"*/mavir09_245.lab"
 esto
 que
 nosotros
@@ -6351,7 +6105,6 @@ he
 comentado
 antes
 .
-"*/mavir09_246.lab"
 existe
 una
 serie
@@ -6379,7 +6132,6 @@ se
 hace
 esto
 .
-"*/mavir09_247.lab"
 pues
 se
 puede
@@ -6430,7 +6182,6 @@ el
 motor
 correspondiente
 .
-"*/mavir09_248.lab"
 en
 realidad
 no
@@ -6497,7 +6248,6 @@ veces
 no
 funciona
 .
-"*/mavir09_249.lab"
 por
 contra
 los
@@ -6555,7 +6305,6 @@ llegado
 al
 mismo
 .
-"*/mavir09_250.lab"
 es
 un
 problema
@@ -6622,7 +6371,6 @@ usuarios
 los
 contenidos
 .
-"*/mavir09_251.lab"
 por
 tanto
 de
@@ -6647,7 +6395,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_252.lab"
 algo
 parecido
 pasa
@@ -6746,7 +6493,6 @@ sólo
 los
 universitarios
 .
-"*/mavir09_253.lab"
 podemos
 ver
 algunas
@@ -6764,7 +6510,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_254.lab"
 esta
 tabla
 recoge
@@ -6777,7 +6522,6 @@ que
 no
 existen
 .
-"*/mavir09_255.lab"
 yo
 no
 sé
@@ -6803,7 +6547,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_256.lab"
 la
 verdad
 es
@@ -6828,7 +6571,6 @@ datos
 independientes
 eh
 .
-"*/mavir09_257.lab"
 sólo
 hay
 ocho
@@ -6893,7 +6635,6 @@ para
 análisis
 cybermétrico
 .
-"*/mavir09_258.lab"
 apenas
 la
 mitad
@@ -6908,7 +6649,6 @@ con
 fines
 cuantitativos
 .
-"*/mavir09_259.lab"
 aquí
 en
 esta
@@ -6973,7 +6713,6 @@ diferentes
 nombres
 comerciales
 .
-"*/mavir09_260.lab"
 los
 indicadores
 bueno
@@ -6984,7 +6723,6 @@ hemos
 visto
 antes
 .
-"*/mavir09_261.lab"
 hemos
 decidido
 utilizar
@@ -7002,7 +6740,6 @@ número
 de
 visitas
 .
-"*/mavir09_262.lab"
 todos
 estos
 se
@@ -7049,7 +6786,6 @@ un
 área
 disciplinar
 .
-"*/mavir09_263.lab"
 el
 postscript
 lo
@@ -7070,7 +6806,6 @@ no
 utilizan
 postscript
 .
-"*/mavir09_264.lab"
 esto
 es
 interesante
@@ -7115,7 +6850,6 @@ está
 marcando
 nivel
 .
-"*/mavir09_265.lab"
 y
 por
 ejemplo
@@ -7166,7 +6900,6 @@ lo
 lo
 emita
 .
-"*/mavir09_266.lab"
 es
 por
 ejemplo
@@ -7201,7 +6934,6 @@ de
 amigos
 suyos
 .
-"*/mavir09_267.lab"
 bueno
 les
 he
@@ -7246,7 +6978,6 @@ es
 muy
 similar
 .
-"*/mavir09_268.lab"
 por
 ejemplo
 el
@@ -7278,7 +7009,6 @@ he
 enseñado
 ahora
 .
-"*/mavir09_269.lab"
 caso
 en
 este
@@ -7295,7 +7025,6 @@ exalead
 o
 gigablast
 .
-"*/mavir09_270.lab"
 en
 el
 caso
@@ -7359,7 +7088,6 @@ es
 exactamente
 igual
 .
-"*/mavir09_271.lab"
 y
 los
 resultados
@@ -7381,7 +7109,6 @@ les
 he
 hecho
 .
-"*/mavir09_272.lab"
 este
 es
 el
@@ -7399,7 +7126,6 @@ un
 término
 adicional
 .
-"*/mavir09_273.lab"
 hay
 que
 tener
@@ -7412,7 +7138,6 @@ siempre
 son
 exactos
 .
-"*/mavir09_274.lab"
 pero
 cuando
 uno
@@ -7429,7 +7154,6 @@ encontrar
 ciertos
 trucos
 .
-"*/mavir09_275.lab"
 por
 ejemplo
 yahoo
@@ -7447,7 +7171,6 @@ pasamos
 de
 página
 .
-"*/mavir09_276.lab"
 es
 decir
 que
@@ -7487,7 +7210,6 @@ la
 opción
 posible
 .
-"*/mavir09_277.lab"
 en
 este
 caso
@@ -7502,7 +7224,6 @@ ochocientos
 a
 novecientos
 .
-"*/mavir09_278.lab"
 es
 decir
 que
@@ -7550,7 +7271,6 @@ según
 sea
 disponible
 .
-"*/mavir09_279.lab"
 este
 tipo
 de
@@ -7566,7 +7286,6 @@ se
 disminuya
 notablemente
 .
-"*/mavir09_280.lab"
 otro
 caso
 singular
@@ -7586,7 +7305,6 @@ y
 dónde
 interroguemos
 .
-"*/mavir09_281.lab"
 es
 lo
 que
@@ -7622,7 +7340,6 @@ segundo
 a
 otro
 .
-"*/mavir09_282.lab"
 es
 decir
 hacemos
@@ -7669,7 +7386,6 @@ de
 google
 simultáneamente
 .
-"*/mavir09_283.lab"
 de
 los
 valores
@@ -7686,7 +7402,6 @@ el
 valor
 básico
 .
-"*/mavir09_284.lab"
 por
 qué
 razón
@@ -7712,14 +7427,12 @@ así
 de
 sencillo
 .
-"*/mavir09_285.lab"
 seguimos
 trabajando
 con
 con
 delimitadores
 .
-"*/mavir09_286.lab"
 pueden
 ver
 ustedes
@@ -7741,7 +7454,6 @@ incluso
 para
 directorios
 .
-"*/mavir09_287.lab"
 es
 decir
 el
@@ -7773,7 +7485,6 @@ para
 palabras
 sueltas
 .
-"*/mavir09_288.lab"
 podíamos
 hacer
 trabajos
@@ -7808,7 +7519,6 @@ de
 los
 mismos
 .
-"*/mavir09_289.lab"
 lo
 mismo
 ven
@@ -7831,7 +7541,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_290.lab"
 no
 hay
 que
@@ -7847,7 +7556,6 @@ los
 que
 vemos
 .
-"*/mavir09_291.lab"
 éste
 es
 un
@@ -7859,7 +7567,6 @@ medir
 la
 visibilidad
 .
-"*/mavir09_292.lab"
 es
 decir
 el
@@ -7895,7 +7602,6 @@ desde
 páginas
 ajenas
 .
-"*/mavir09_293.lab"
 aquí
 como
 verán
@@ -7922,7 +7628,6 @@ una
 página
 completa
 .
-"*/mavir09_294.lab"
 antes
 hemos
 visto
@@ -7958,7 +7663,6 @@ página
 bastante
 profunda
 .
-"*/mavir09_295.lab"
 esto
 es
 interesante
@@ -7996,7 +7700,6 @@ sea
 punto
 pdf
 .
-"*/mavir09_296.lab"
 bueno
 pues
 con
@@ -8043,7 +7746,6 @@ un
 artículo
 concreto
 .
-"*/mavir09_297.lab"
 algunos
 indicadores
 que
@@ -8062,7 +7764,6 @@ de
 los
 motores
 .
-"*/mavir09_298.lab"
 aquí
 por
 ejemplo
@@ -8079,7 +7780,6 @@ o
 por
 país
 .
-"*/mavir09_299.lab"
 aquí
 ven
 lenguaje
@@ -8106,7 +7806,6 @@ ver
 esta
 situación
 .
-"*/mavir09_300.lab"
 esto
 es
 especialmente
@@ -8128,7 +7827,6 @@ es
 punto
 es
 .
-"*/mavir09_301.lab"
 es
 decir
 por
@@ -8179,7 +7877,6 @@ de
 nuestro
 país
 .
-"*/mavir09_302.lab"
 antes
 les
 he
@@ -8191,7 +7888,6 @@ en
 formatos
 determinados
 .
-"*/mavir09_303.lab"
 ahora
 les
 enseño
@@ -8250,7 +7946,6 @@ donde
 es
 originurlextension
 .
-"*/mavir09_304.lab"
 pero
 el
 funcionamiento
@@ -8279,7 +7974,6 @@ una
 sede
 web
 .
-"*/mavir09_305.lab"
 pero
 también
 puede
@@ -8290,7 +7984,6 @@ una
 pequeña
 biblioteca
 .
-"*/mavir09_306.lab"
 es
 decir
 localizar
@@ -8314,7 +8007,6 @@ uno
 a
 uno
 .
-"*/mavir09_307.lab"
 bueno
 vamos
 a
@@ -8335,7 +8027,6 @@ mejor
 esta
 indicación
 .
-"*/mavir09_308.lab"
 pueden
 ver
 por
@@ -8356,7 +8047,6 @@ el
 formato
 estándar
 .
-"*/mavir09_309.lab"
 ven
 ustedes
 que
@@ -8425,7 +8115,6 @@ de
 las
 regiones
 .
-"*/mavir09_310.lab"
 lo
 cual
 quiere
@@ -8465,7 +8154,6 @@ el
 más
 apropiado
 .
-"*/mavir09_311.lab"
 fíjense
 que
 el
@@ -8493,7 +8181,6 @@ la
 unión
 europea
 .
-"*/mavir09_312.lab"
 y
 finalmente
 el
@@ -8504,7 +8191,6 @@ más
 en
 asia
 .
-"*/mavir09_313.lab"
 quizá
 la
 razón
@@ -8528,7 +8214,6 @@ distribuyen
 como
 pdf
 .
-"*/mavir09_314.lab"
 bueno
 pues
 supuestamente
@@ -8588,7 +8273,6 @@ o
 los
 norteamericanos
 .
-"*/mavir09_315.lab"
 sobre
 todo
 los
@@ -8605,7 +8289,6 @@ powerpoint
 se
 copien
 .
-"*/mavir09_316.lab"
 supongo
 que
 alguien
@@ -8624,7 +8307,6 @@ supuesto
 por
 supuesto
 .
-"*/mavir09_317.lab"
 yo
 soy
 firme
@@ -8664,7 +8346,6 @@ de
 la
 popularidad
 .
-"*/mavir09_318.lab"
 alexa
 es
 una
@@ -8680,7 +8361,6 @@ nos
 mide
 visitas
 .
-"*/mavir09_319.lab"
 no
 son
 visitas
@@ -8715,7 +8395,6 @@ interceptadas
 por
 alexa
 .
-"*/mavir09_320.lab"
 no
 es
 una
@@ -8759,7 +8438,6 @@ el
 entorno
 regional
 .
-"*/mavir09_321.lab"
 por
 ejemplo
 les
@@ -8788,7 +8466,6 @@ resto
 del
 mundo
 .
-"*/mavir09_322.lab"
 bueno
 pues
 sencillamente
@@ -8823,7 +8500,6 @@ es
 bastante
 elevada
 .
-"*/mavir09_323.lab"
 aquí
 tienen
 un
@@ -8833,7 +8509,6 @@ utilización
 de
 visibilidad
 .
-"*/mavir09_324.lab"
 en
 este
 caso
@@ -8861,7 +8536,6 @@ de
 los
 enlaces
 .
-"*/mavir09_325.lab"
 aquí
 les
 he
@@ -8882,7 +8556,6 @@ españa
 del
 español
 .
-"*/mavir09_326.lab"
 del
 español
 que
@@ -8893,7 +8566,6 @@ ordenados
 por
 google
 .
-"*/mavir09_327.lab"
 esta
 ordenación
 lo
@@ -8914,7 +8586,6 @@ un
 valor
 secreto
 .
-"*/mavir09_328.lab"
 de
 hecho
 google
@@ -8937,7 +8608,6 @@ es
 prácticamente
 inútil
 .
-"*/mavir09_329.lab"
 con
 ese
 valor
@@ -8961,7 +8631,6 @@ ocho
 o
 nueve
 .
-"*/mavir09_330.lab"
 es
 decir
 que
@@ -8986,7 +8655,6 @@ en
 un
 ranking
 .
-"*/mavir09_331.lab"
 es
 decir
 el
@@ -9010,7 +8678,6 @@ de
 chile
 etcétera
 .
-"*/mavir09_332.lab"
 es
 decir
 aunque
@@ -9027,7 +8694,6 @@ absoluta
 sino
 relativa
 .
-"*/mavir09_333.lab"
 otra
 herramienta
 interesante
@@ -9038,7 +8704,6 @@ nos
 proporciona
 yahoo
 .
-"*/mavir09_334.lab"
 yahoo
 tiene
 un
@@ -9061,7 +8726,6 @@ de
 una
 serie
 .
-"*/mavir09_335.lab"
 esto
 es
 interesante
@@ -9078,7 +8742,6 @@ un
 dominio
 institucional
 .
-"*/mavir09_336.lab"
 por
 ejemplo
 una
@@ -9097,7 +8760,6 @@ ni
 sus
 departamentos
 .
-"*/mavir09_337.lab"
 son
 u
 ce
@@ -9113,7 +8775,6 @@ sea
 barra
 departamento
 .
-"*/mavir09_338.lab"
 es
 una
 situación
@@ -9135,7 +8796,6 @@ la
 web
 crezca
 .
-"*/mavir09_339.lab"
 sin
 embargo
 hay
@@ -9181,7 +8841,6 @@ al
 menos
 autónoma
 .
-"*/mavir09_340.lab"
 con
 lo
 cual
@@ -9202,7 +8861,6 @@ nosotros
 llamamos
 madurez
 .
-"*/mavir09_341.lab"
 es
 decir
 la
@@ -9228,7 +8886,6 @@ les
 es
 propio
 .
-"*/mavir09_342.lab"
 por
 tanto
 ésta
@@ -9239,7 +8896,6 @@ de
 dicha
 madurez
 .
-"*/mavir09_343.lab"
 bueno
 antes
 les
@@ -9250,7 +8906,6 @@ caso
 de
 alexa
 .
-"*/mavir09_344.lab"
 aquí
 tengo
 un
@@ -9319,7 +8974,6 @@ se
 expresa
 claramente
 .
-"*/mavir09_345.lab"
 fíjense
 ustedes
 todos
@@ -9338,7 +8992,6 @@ servicios
 facultades
 distintas
 .
-"*/mavir09_346.lab"
 fíjense
 que
 la
@@ -9394,7 +9047,6 @@ o
 periodismo
 eh
 .
-"*/mavir09_347.lab"
 esto
 por
 ejemplo
@@ -9416,7 +9068,6 @@ complutense
 no
 sé
 .
-"*/mavir09_348.lab"
 realmente
 el
 número
@@ -9448,7 +9099,6 @@ o
 de
 departamentos
 .
-"*/mavir09_349.lab"
 vuelvo
 a
 repetir
@@ -9475,7 +9125,6 @@ gráfica
 es
 visualización
 .
-"*/mavir09_350.lab"
 es
 el
 vecindario
@@ -9510,7 +9159,6 @@ también
 los
 salientes
 .
-"*/mavir09_351.lab"
 la
 idea
 es
@@ -9524,7 +9172,6 @@ las
 agencias
 matrimoniales
 .
-"*/mavir09_352.lab"
 es
 decir
 si
@@ -9552,7 +9199,6 @@ tiene
 gustos
 parecidos
 .
-"*/mavir09_353.lab"
 sustituyan
 gustos
 por
@@ -9569,7 +9215,6 @@ detrás
 del
 vecindario
 .
-"*/mavir09_354.lab"
 en
 este
 caso
@@ -9594,7 +9239,6 @@ otras
 universidades
 españolas
 .
-"*/mavir09_355.lab"
 es
 decir
 la
@@ -9603,7 +9247,6 @@ no
 se
 presenta
 .
-"*/mavir09_356.lab"
 no
 sé
 si
@@ -9635,7 +9278,6 @@ imparte
 a
 distancia
 .
-"*/mavir09_357.lab"
 es
 decir
 que
@@ -9648,7 +9290,6 @@ un
 poco
 anticuado
 .
-"*/mavir09_358.lab"
 y
 no
 lo
@@ -9677,7 +9318,6 @@ es
 ligeramente
 distinto
 .
-"*/mavir09_359.lab"
 no
 entro
 más
@@ -9692,7 +9332,6 @@ pegan
 al
 salir
 .
-"*/mavir09_360.lab"
 bueno
 cuestiones
 que
@@ -9702,7 +9341,6 @@ tener
 en
 cuenta
 .
-"*/mavir09_361.lab"
 para
 todo
 lo
@@ -9760,7 +9398,6 @@ motor
 de
 búsqueda
 .
-"*/mavir09_362.lab"
 por
 tanto
 sí
@@ -9782,7 +9419,6 @@ de
 los
 webmaster
 .
-"*/mavir09_363.lab"
 lo
 cual
 aunque
@@ -9796,7 +9432,6 @@ no
 es
 cierto
 .
-"*/mavir09_364.lab"
 todo
 el
 mundo
@@ -9819,7 +9454,6 @@ de
 los
 contenidos
 .
-"*/mavir09_365.lab"
 no
 digo
 que
@@ -9839,7 +9473,6 @@ por
 hoy
 tiene
 .
-"*/mavir09_366.lab"
 segundo
 el
 tema
@@ -9859,7 +9492,6 @@ que
 están
 estructurados
 .
-"*/mavir09_367.lab"
 hay
 que
 evitar
@@ -9872,7 +9504,6 @@ una
 sencilla
 razón
 .
-"*/mavir09_368.lab"
 porque
 para
 los
@@ -9886,7 +9517,6 @@ datos
 son
 barreras
 .
-"*/mavir09_369.lab"
 son
 algo
 que
@@ -9933,7 +9563,6 @@ motores
 de
 búsqueda
 .
-"*/mavir09_370.lab"
 hay
 mecanismos
 que
@@ -9951,7 +9580,6 @@ con
 ciertas
 opciones
 .
-"*/mavir09_371.lab"
 hay
 que
 vigilar
@@ -9963,7 +9591,6 @@ ejemplo
 los
 enlaces
 .
-"*/mavir09_372.lab"
 que
 los
 enlaces
@@ -9998,7 +9625,6 @@ el
 tuyo
 propio
 .
-"*/mavir09_373.lab"
 y
 luego
 un
@@ -10016,7 +9642,6 @@ vida
 al
 usuario
 .
-"*/mavir09_374.lab"
 imprimir
 cuarenta
 páginas
@@ -10024,7 +9649,6 @@ html
 es
 complicado
 .
-"*/mavir09_375.lab"
 ya
 no
 les
@@ -10039,7 +9663,6 @@ a
 un
 usb
 .
-"*/mavir09_376.lab"
 es
 muy
 difícil
@@ -10072,7 +9695,6 @@ postcript
 o
 similares
 .
-"*/mavir09_377.lab"
 desde
 luego
 ésa
@@ -10094,7 +9716,6 @@ va
 a
 agradecer
 .
-"*/mavir09_378.lab"
 y
 posiblemente
 signifique
@@ -10131,7 +9752,6 @@ parlamento
 de
 galicia
 .
-"*/mavir09_379.lab"
 el
 parlamento
 de
@@ -10175,7 +9795,6 @@ no
 perdón
 catorce
 .
-"*/mavir09_380.lab"
 miles
 de
 páginas
@@ -10204,7 +9823,6 @@ ellas
 en
 google
 .
-"*/mavir09_381.lab"
 la
 razón
 la
@@ -10220,7 +9838,6 @@ la
 página
 web
 .
-"*/mavir09_382.lab"
 es
 que
 esto
@@ -10247,7 +9864,6 @@ robot
 de
 google
 .
-"*/mavir09_383.lab"
 lo
 que
 significaba
@@ -10274,7 +9890,6 @@ obtenía
 los
 resultados
 .
-"*/mavir09_384.lab"
 les
 comento
 esto
@@ -10303,7 +9918,6 @@ mucho
 ruido
 documental
 .
-"*/mavir09_385.lab"
 no
 eso
 lo
@@ -10325,7 +9939,6 @@ el
 silencio
 documental
 .
-"*/mavir09_386.lab"
 es
 decir
 información
@@ -10342,7 +9955,6 @@ motor
 de
 búsqueda
 .
-"*/mavir09_387.lab"
 lo
 que
 nosotros
@@ -10368,7 +9980,6 @@ en
 recursos
 estáticos
 .
-"*/mavir09_388.lab"
 aquí
 tienen
 un
@@ -10414,7 +10025,6 @@ cómo
 está
 etcétera
 .
-"*/mavir09_389.lab"
 y
 fíjense
 el
@@ -10451,7 +10061,6 @@ recogidos
 en
 google
 .
-"*/mavir09_390.lab"
 por
 qué
 porque
@@ -10470,7 +10079,6 @@ se
 puede
 navegar
 .
-"*/mavir09_391.lab"
 el
 resultado
 que
@@ -10499,7 +10107,6 @@ en
 google
 eh
 .
-"*/mavir09_392.lab"
 son
 mecanismos
 bastante
@@ -10518,7 +10125,6 @@ en
 todo
 esto
 .
-"*/mavir09_393.lab"
 algunas
 ideas
 sobre
@@ -10550,7 +10156,6 @@ en
 primeras
 posiciones
 .
-"*/mavir09_394.lab"
 hombre
 esto
 no
@@ -10572,7 +10177,6 @@ algunas
 ideas
 básicas
 .
-"*/mavir09_395.lab"
 lo
 primero
 de
@@ -10593,7 +10197,6 @@ las
 relaciones
 hipertextuales
 .
-"*/mavir09_396.lab"
 es
 decir
 que
@@ -10608,7 +10211,6 @@ sitios
 muy
 importantes
 .
-"*/mavir09_397.lab"
 bueno
 una
 solución
@@ -10635,7 +10237,6 @@ que
 nosotros
 hacemos
 .
-"*/mavir09_398.lab"
 esto
 puede
 suponer
@@ -10689,7 +10290,6 @@ introduzcan
 los
 enlaces
 .
-"*/mavir09_399.lab"
 hay
 sitios
 que
@@ -10700,7 +10300,6 @@ para
 lograr
 esto
 .
-"*/mavir09_400.lab"
 por
 ejemplo
 el
@@ -10745,7 +10344,6 @@ notablemente
 su
 posición
 .
-"*/mavir09_401.lab"
 es
 decir
 hay
@@ -10771,7 +10369,6 @@ y
 largo
 plazo
 .
-"*/mavir09_402.lab"
 no
 se
 trata
@@ -10792,7 +10389,6 @@ en
 el
 tiempo
 .
-"*/mavir09_403.lab"
 sobre
 todo
 si
@@ -10814,7 +10410,6 @@ tiene
 todavía
 tiempo
 .
-"*/mavir09_404.lab"
 si
 uno
 ya
@@ -10833,7 +10428,6 @@ de
 posicionarse
 bien
 .
-"*/mavir09_405.lab"
 normalmente
 enlace
 que
@@ -10844,7 +10438,6 @@ se
 pierde
 eh
 .
-"*/mavir09_406.lab"
 ésta
 es
 la
@@ -10869,7 +10462,6 @@ el
 criterio
 semántico
 .
-"*/mavir09_407.lab"
 pues
 aunque
 parezca
@@ -10887,7 +10479,6 @@ cría
 de
 conejos
 .
-"*/mavir09_408.lab"
 y
 póngalo
 mucho
@@ -10908,7 +10499,6 @@ por
 esos
 términos
 .
-"*/mavir09_409.lab"
 cuanto
 más
 veces
@@ -10939,7 +10529,6 @@ también
 la
 dirección
 .
-"*/mavir09_410.lab"
 no
 digan
 pongan
@@ -10964,7 +10553,6 @@ lo
 que
 sea
 .
-"*/mavir09_411.lab"
 pues
 no
 biblioteca
@@ -10973,7 +10561,6 @@ pues
 no
 library
 .
-"*/mavir09_412.lab"
 bio
 pues
 no
@@ -10991,7 +10578,6 @@ no
 ponerlo
 expresamente
 .
-"*/mavir09_413.lab"
 y
 desde
 luego
@@ -11015,7 +10601,6 @@ en
 estos
 temas
 .
-"*/mavir09_414.lab"
 que
 aparezcan
 las
@@ -11040,7 +10625,6 @@ los
 metadatos
 eh
 .
-"*/mavir09_415.lab"
 hoy
 por
 hoy
@@ -11075,7 +10659,6 @@ no
 sean
 visibles
 .
-"*/mavir09_416.lab"
 por
 tanto
 hay
@@ -11108,7 +10691,6 @@ expresamente
 a
 ella
 .
-"*/mavir09_417.lab"
 no
 digan
 visiten
@@ -11128,7 +10710,6 @@ sea
 el
 enlace
 .
-"*/mavir09_418.lab"
 pues
 que
 ese
@@ -11170,7 +10751,6 @@ derechos
 de
 autor
 .
-"*/mavir09_419.lab"
 bueno
 pues
 esto
@@ -11185,7 +10765,6 @@ la
 palabra
 ladrones
 .
-"*/mavir09_420.lab"
 bueno
 utilícenlo
 ustedes
@@ -11224,7 +10803,6 @@ de
 su
 selección
 .
-"*/mavir09_421.lab"
 y
 bueno
 pues
@@ -11248,7 +10826,6 @@ enlaces
 etcétera
 etcétera
 .
-"*/mavir09_422.lab"
 les
 voy
 a
@@ -11287,7 +10864,6 @@ agapea
 o
 agapea
 .
-"*/mavir09_423.lab"
 no
 sé
 como
@@ -11320,7 +10896,6 @@ en
 primera
 posición
 .
-"*/mavir09_424.lab"
 pues
 fíjense
 la
@@ -11348,7 +10923,6 @@ de
 él
 completo
 .
-"*/mavir09_425.lab"
 bueno
 pues
 no
@@ -11380,7 +10954,6 @@ correspondiente
 de
 agapea
 .
-"*/mavir09_426.lab"
 dos
 lecciones
 una
@@ -11396,7 +10969,6 @@ de
 la
 url
 .
-"*/mavir09_427.lab"
 a
 nivel
 académico
@@ -11407,7 +10979,6 @@ aparecido
 por
 aquí
 .
-"*/mavir09_428.lab"
 no
 sé
 si
@@ -11425,7 +10996,6 @@ igual
 les
 conocen
 .
-"*/mavir09_429.lab"
 estos
 señores
 son
@@ -11471,7 +11041,6 @@ a
 texto
 completo
 .
-"*/mavir09_430.lab"
 bueno
 pues
 ésta
@@ -11489,7 +11058,6 @@ académico
 es
 básico
 .
-"*/mavir09_431.lab"
 por
 supuesto
 yo
@@ -11515,7 +11083,6 @@ el
 posicionamiento
 notablemente
 .
-"*/mavir09_432.lab"
 entre
 otras
 cosas
@@ -11544,7 +11111,6 @@ al
 artículo
 completo
 .
-"*/mavir09_433.lab"
 y
 luego
 pues
@@ -11555,7 +11121,6 @@ gestión
 del
 éxito
 .
-"*/mavir09_434.lab"
 esta
 transparencia
 en
@@ -11593,7 +11158,6 @@ que
 uno
 obtiene
 .
-"*/mavir09_435.lab"
 fíjense
 esta
 página
@@ -11615,7 +11179,6 @@ cincuenta
 países
 diferentes
 .
-"*/mavir09_436.lab"
 bueno
 para
 mí
@@ -11637,7 +11200,6 @@ de
 este
 calibre
 .
-"*/mavir09_437.lab"
 uno
 empieza
 a
@@ -11651,7 +11213,6 @@ que
 uno
 espera
 .
-"*/mavir09_438.lab"
 fíjense
 que
 aquí
@@ -11690,7 +11251,6 @@ muchos
 otros
 países
 .
-"*/mavir09_439.lab"
 bueno
 pues
 si
@@ -11717,7 +11277,6 @@ mundo
 totalmente
 remotos
 .
-"*/mavir09_440.lab"
 es
 una
 manera
@@ -11756,7 +11315,6 @@ establecer
 con
 terceros
 .
-"*/mavir09_441.lab"
 creo
 que
 eso
@@ -11772,7 +11330,6 @@ bastante
 la
 atención
 .
-"*/mavir09_442.lab"
 voy
 a
 resumir
@@ -11790,7 +11347,6 @@ preguntas
 o
 detalles
 .
-"*/mavir09_443.lab"
 por
 qué
 es
@@ -11798,7 +11354,6 @@ importante
 la
 web
 .
-"*/mavir09_444.lab"
 bueno
 pues
 en
@@ -11838,7 +11393,6 @@ tipo
 de
 publicación
 .
-"*/mavir09_445.lab"
 lo
 cual
 yo
@@ -11865,7 +11419,6 @@ de
 los
 usuarios
 .
-"*/mavir09_446.lab"
 uno
 debe
 reflejar
@@ -11896,7 +11449,6 @@ actividades
 estén
 presentes
 .
-"*/mavir09_447.lab"
 si
 eso
 se
@@ -11924,7 +11476,6 @@ todo
 caso
 complementarlos
 .
-"*/mavir09_448.lab"
 es
 decir
 existe
@@ -11951,7 +11502,6 @@ tienen
 procuren
 tenerla
 .
-"*/mavir09_449.lab"
 es
 decir
 el
@@ -12004,7 +11554,6 @@ de
 otras
 personas
 .
-"*/mavir09_450.lab"
 pero
 también
 ayúdenme
@@ -12014,7 +11563,6 @@ la
 brecha
 digital
 .
-"*/mavir09_451.lab"
 es
 decir
 si
@@ -12042,7 +11590,6 @@ eso
 es
 importante
 .
-"*/mavir09_452.lab"
 y
 y
 quizá
@@ -12061,7 +11608,6 @@ del
 open
 access
 .
-"*/mavir09_453.lab"
 todo
 aquello
 que
@@ -12097,6 +11643,5 @@ disposición
 de
 terceros
 .
-"*/mavir09_454.lab"
 muchísimas
 gracias

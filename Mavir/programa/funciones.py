@@ -37,6 +37,9 @@ def eliminar_archivos_existentes(i):
 	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new12.txt'):
 		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new12.txt')
 
+	if os.path.isfile('../nuevo/mavir0'+i+'/mavir0'+i+'_new13.txt'):
+		os.remove('../nuevo/mavir0'+i+'/mavir0'+i+'_new13.txt')
+
 	if os.path.isfile('../nuevo/htk/mavir0'+i+'_htk.txt'):
 		os.remove('../nuevo/htk/mavir0'+i+'_htk.txt')
 
@@ -214,7 +217,7 @@ def cambiar_horas_puntos(original,nuevo):
 def formato_htk(original,nuevo,i):
 
 	nuevo.write('#!MLF!#\n')
-	nuevo.write('*/mavir0'+i+'_1.lab\n')
+	nuevo.write('"*/mavir0'+i+'_1.lab"\n')
 	j = 2
 
 	while 1:
@@ -223,13 +226,103 @@ def formato_htk(original,nuevo,i):
 			break
 		if line[0] == '.':
 			nuevo.write(line)
-			nuevo.write('*/mavir0'+i+'_'+str(j)+'.lab\n')
+			nuevo.write('"*/mavir0'+i+'_'+str(j)+'.lab"\n')
 			j = j+1
 		else:
 			nuevo.write(line)
 	
 		
+def cambiar_minusculas(original,nuevo):
 
+	while 1:
+		char = original.read(1)
+
+		if not char:
+			break
+
+		if char == 'A':
+			nuevo.write('a')
+
+		elif char == 'B':
+			nuevo.write('b')
+
+		elif char == 'C':
+			nuevo.write('c')
+
+		elif char == 'D':
+			nuevo.write('d')
+
+		elif char == 'E':
+			nuevo.write('e')
+
+		elif char == 'F':
+			nuevo.write('f')
+
+		elif char == 'G':
+			nuevo.write('g')
+
+		elif char == 'H':
+			nuevo.write('h')
+
+		elif char == 'I':
+			nuevo.write('i')
+
+		elif char == 'J':
+			nuevo.write('j')
+
+		elif char == 'K':
+			nuevo.write('k')
+
+		elif char == 'L':
+			nuevo.write('l')
+
+		elif char == 'M':
+			nuevo.write('m')
+
+		elif char == 'N':
+			nuevo.write('n')
+
+		elif char == 'Ñ':
+			nuevo.write('ñ')
+
+		elif char == 'O':
+			nuevo.write('o')
+
+		elif char == 'P':
+			nuevo.write('p')
+
+		elif char == 'Q':
+			nuevo.write('q')
+
+		elif char == 'R':
+			nuevo.write('r')
+
+		elif char == 'S':
+			nuevo.write('s')
+
+		elif char == 'T':
+			nuevo.write('t')
+
+		elif char == 'U':
+			nuevo.write('u')
+
+		elif char == 'V':
+			nuevo.write('v')
+
+		elif char == 'W':
+			nuevo.write('w')
+
+		elif char == 'X':
+			nuevo.write('x')
+
+		elif char == 'Y':
+			nuevo.write('y')
+
+		elif char == 'Z':
+			nuevo.write('z')
+
+		else:
+			nuevo.write(char)
 
 
 
