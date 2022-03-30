@@ -7166,7 +7166,6 @@ animals
 estoy
 hablando
 con
-
 .
 "*/mavir03_250.lab"
 no

@@ -10,17 +10,17 @@ COR  podía haber sido más sencillo si le hubiera dado las líneas  00:09
 
 COR  quiero agradecer a la UNED que   nos invite a participar en  en esta jornada MAVIR  00:15
 
-COR que además tiene un título  Tecnologías de la Lengua en  uve doble uve doble uve doble   {%act: laugh}  dos puntos  retos y mercados potenciales  00:24
+COR que además tiene un título  Tecnologías de la Lengua en  uve doble uve doble uve doble   {laugh}  dos puntos  retos y mercados potenciales  00:24
 
 COR  para un chico de marketing  lo importante es eso de los mercados potenciales  00:28
 
-COR o sea  decir eso me ha captado {%alt: captao}  me ha atrapado {%alt: atrapao} la atención  en los últimos  en las últimas semanas  cuando estaba preparando esta charla  00:35
+COR o sea  decir eso me ha captado {captao}  me ha atrapado {atrapao} la atención  en los últimos  en las últimas semanas  cuando estaba preparando esta charla  00:35
 
-COR y  ayer recordaba una cosa en cuanto a lo del tema del mercado potencial  que ahora hablando Isabel Aguilera   {%act: click}  me ha ayudado a cambiar  00:42
+COR y  ayer recordaba una cosa en cuanto a lo del tema del mercado potencial  que ahora hablando Isabel Aguilera   {click}  me ha ayudado a cambiar  00:42
 
 COR y es  mercado potencial  00:44
 
-COR fijaos {%alt: fijaros}  00:45
+COR fijaos {fijaros}  00:45
 
 COR estaba hablando Isabel Aguilera  dos por ciento de inversión publicitaria  en España  veintisiete por ciento  de toda la audiencia  en Internet  y un medio que tiene el noventa y ocho por ciento  de esa audiencia  que es Google  00:59
 
@@ -30,7 +30,7 @@ COR y lo planteaba dentro de sus objetivos  01:07
 
 COR dice  todavía nos queda muchísimo por recorrer  01:09
 
-COR pues  fijaos {%alt: fijaros} si hay mercado potencial  01:11
+COR pues  fijaos {fijaros} si hay mercado potencial  01:11
 
 COR tenemos un tremendo mercado potencial por delante  01:14
 
@@ -92,7 +92,7 @@ COR  su capacidad de crecer  de incorporar nuevos usuarios a Internet  se ha ral
 
 COR ya tienen una gran penetración de la tecnología  en su país  04:02
 
-COR   {%act: click}  04:03
+COR   {click}  04:03
 
 COR  la gente que habla inglés  en el mundo  ya tiene un grado de penetración del veintisiete por ciento  04:08
 
@@ -186,7 +186,7 @@ COR  Picasso es el primer icono cultural de nuestro país en la red  07:57
 
 COR  o sea  si echamos un vistazo al  WebTrends  la gente por el mundo  el término  ligado a la cultura hispana que más busca  es  Picasso  08:06
 
-COR   {%act: doubt} se supera    a cualquier otro icono cultural  08:10
+COR   {doubt} se supera    a cualquier otro icono cultural  08:10
 
 COR  es verdad que es un icono cultural muy ligado a Europa  08:12
 
@@ -202,7 +202,7 @@ COR cuando le preguntamos a  a Google  cuántos documentos  contiene en su repos
 
 COR  eh  vamos a ver  estoy en la universidad  08:46
 
-COR   {%act: laughs while he speaks}  esos documentos  los calculan mediante  una especie de estimación  que cada diez minutos más o menos varía  y que puede pasar a un millón  a cuatrocientos setenta y cinco mil  a doscientos mil   08:57
+COR   {laughs while he speaks}  esos documentos  los calculan mediante  una especie de estimación  que cada diez minutos más o menos varía  y que puede pasar a un millón  a cuatrocientos setenta y cinco mil  a doscientos mil   08:57
 
 COR  estas tres consultas fueron hechas en el mismo momento  09:01
 
@@ -248,7 +248,7 @@ COR y en segundo  de la estrategia país  que potencia nuestra cultura  dentro  
 
 COR que es nuestro icono cultural  que más podemos vender  del que más podemos extraer  10:54
 
-COR  imaginaos {%alt: imaginaros} lo que supone Picasso  o lo que podría suponer Picasso en términos de   ingresos por turismo en Málaga  11:03
+COR  imaginaos {imaginaros} lo que supone Picasso  o lo que podría suponer Picasso en términos de   ingresos por turismo en Málaga  11:03
 
 COR o en  o de viajes a la Costa del Sol  o al  Museo Picasso  si fuera el primer resultado que ofreciera Google  cuando  se busca Picasso por ejemplo en Nueva York  11:13
 
@@ -262,13 +262,13 @@ COR  ya lo ha subsanado  11:23
 
 COR  esto era  un ejemplo tramposo  11:25
 
-COR   {%act: laugh}   11:26
+COR   {laugh}   11:26
 
 COR  esto está resuelto  11:28
 
 COR cuando nos planteamos cuáles son las razones del caso Picasso  podemos escuchar  un montón diferente de alternativas  11:35
 
-COR  yo ya he escuchado {%alt: escuchao}  vamos a mencionar  cuatro teorías fundamentales  11:39
+COR  yo ya he escuchado {escuchao}  vamos a mencionar  cuatro teorías fundamentales  11:39
 
 COR  dice  bueno  la  la primera evidentemente es que el mayor motor del mundo  no alcanza a cubrir  más allá del cuarenta por ciento de los contenidos en castellano  11:49
 
@@ -306,7 +306,7 @@ COR  decía  siempre  podrá haber  un Cristóbal Colón en la galaxia  que desc
 
 COR pero es muy difícil que haya un Magallanes  que la circunde completa  12:44
 
-COR  y  yo dije  {%act: blow}  esto {%alt: to}  esto {%alt: to} tiene alcance  12:48
+COR  y  yo dije  {blow}  esto {to}  esto {to} tiene alcance  12:48
 
 COR  en Internet nos pasa lo mismo  12:49
 
@@ -360,7 +360,7 @@ COR  la segunda  teoría  que hay para explicar lo de la penetración del   del 
 
 COR que es la facilidad lingüística  14:22
 
-COR  es cierto  que  el inglés  es el idioma preponderante {%alt: preporderante} en el mundo  no sólo porque sea la primera lengua más extendida  lo del chino nunca lo sé porque   está ahí   {%act: laugh}  la primera lengua más extendida  sino porque es la segunda  del resto del mundo  14:38
+COR  es cierto  que  el inglés  es el idioma preponderante {preporderante} en el mundo  no sólo porque sea la primera lengua más extendida  lo del chino nunca lo sé porque   está ahí   {laugh}  la primera lengua más extendida  sino porque es la segunda  del resto del mundo  14:38
 
 COR  y claro  si yo soy un buscador  y sé que no puedo conseguir tener el cien por cien de los contenidos  que hay en Internet  por incapacidad tecnológica  y tengo que decidir  con cuáles me quedo  prefiero quedarme con los que están en inglés  antes de quedarme con los de los otros idiomas  14:53
 
@@ -370,7 +370,7 @@ COR  son teorías apasionantes  15:02
 
 COR  no me digáis que no tiene miga  15:04
 
-COR   intentad {%alt: intentar} discutir acerca de esto sobre si es cierto o no es cierto  15:08
+COR   intentad {intentar} discutir acerca de esto sobre si es cierto o no es cierto  15:08
 
 COR  la tercera teoría  muy  establecida  y ha habido una pregunta antes  a Isabel Aguilera  en esa línea  es razones de negocio  15:14
 
@@ -424,11 +424,11 @@ COR  porque claro  no casa  con la filosofía del don't be evil   que mantienen 
 
 COR  es verdad  17:12
 
-COR  le decía antes a Julio en   aparte  decía {%alt: cía}  qué  qué mal casa  un modelo de negocio publicitario  con la idea de  hay que intentar mejorar el mundo  17:22
+COR  le decía antes a Julio en   aparte  decía {cía}  qué  qué mal casa  un modelo de negocio publicitario  con la idea de  hay que intentar mejorar el mundo  17:22
 
 COR  es que a los publicistas  yo soy publicista de profesión  se nos ve fatal por ahí  17:25
 
-COR   para {%alt: pa} qué intentas engañarme   17:27
+COR   para {pa} qué intentas engañarme   17:27
 
 COR  me estás vendiendo algo  17:28
 
@@ -460,7 +460,7 @@ COR  porque nos  empeñamos en tener webs  que son muy bonitas  pero muy poco ú
 
 COR  muy poco rastreables   18:28
 
-COR   {%act: grumbles incomprehensible words}  escuchaba  a  el día de la presentación del día de Internet  escuchaba a Emilio Ontiveros decir una cosa que es que a mí me  me  me tuvo una semana pensando  18:36
+COR   {grumbles incomprehensible words}  escuchaba  a  el día de la presentación del día de Internet  escuchaba a Emilio Ontiveros decir una cosa que es que a mí me  me  me tuvo una semana pensando  18:36
 
 COR  dice   pero cómo van  a tener las empresas web corporativos útiles  e interesantes  si  noventa y cinco de cada cien grandes directores de empresa que visito  no tiene ni un ordenador en su despacho   18:51
 
@@ -474,7 +474,7 @@ COR  el otro día me decía un presidente de una empresa de alto nivel  una cosa
 
 COR  me decía  la killer application en Internet  es la información bursátil  19:20
 
-COR    {%act: laugh}  decía   {%act: laugh}  claro  debe ser la que tú consultas porque   {%act: laugh}  si te voy a explicar que  los chats  llevan rompiendo la pana  desde hace diez años  pues   19:29
+COR    {laugh}  decía   {laugh}  claro  debe ser la que tú consultas porque   {laugh}  si te voy a explicar que  los chats  llevan rompiendo la pana  desde hace diez años  pues   19:29
 
 COR   probablemente no lo veas  no  19:31
 
@@ -514,7 +514,7 @@ COR  también es cierto que inmediatamente comprobamos  que es que Gas Natural  
 
 COR  un problema de rastreabilidad  claro  de su web  21:21
 
-COR  por cierto  un flash precioso {%com: everybody laughs}  21:23
+COR  por cierto  un flash precioso {everybody laughs}  21:23
 
 COR  una cosa  preciosa  21:27
 
@@ -534,13 +534,13 @@ COR   qué tíos   22:17
 
 COR  han visto tener una oportunidad  con Estados Unidos en la generación de contenidos  y su ritmo de crecimiento tecnológico en Internet es mucho más alto que el español  22:25
 
-COR  se han dado {%alt: dao} cuenta  22:27
+COR  se han dado {dao} cuenta  22:27
 
 COR  es cierto que tienen la demanda muy cercana  la frontera  22:30
 
 COR pero ahora separada por un muro  22:32
 
-COR  es que no me podía resistir   {%act: laugh} {%com: everybody laughs}  22:33
+COR  es que no me podía resistir   {laugh} {everybody laughs}  22:33
 
 COR  también además tenemos la posibilidad de aprovechar  nuestra oferta  en los mercados electrónicos de mayor   consumo  en contenidos  22:46
 
@@ -584,23 +584,23 @@ COR  Domingo  pregunta  Domingo   tenéis herramientas reales para saber  lo que
 
 COR  o sea  hacemos encuestas   24:31
 
-COR  pero algo a lo que yo no mienta  de acuerdo {%com: laugh while speaking}  24:34
+COR  pero algo a lo que yo no mienta  de acuerdo {laugh while speaking}  24:34
 
 COR  porque por defecto  miento sistemáticamente a esa encuesta  24:37
 
 COR  me preguntan   usted para qué quiere Internet   24:39
 
-COR  digo  para {%alt: pa} buscar información  24:41
+COR  digo  para {pa} buscar información  24:41
 
 COR no  no  no  no  no  24:42
 
-COR para {%alt: pa} descargarme discos  24:43
+COR para {pa} descargarme discos  24:43
 
 COR porque a mí me encanta SoulSeek  y soy un enamorado de la música  24:47
 
-COR estoy {%alt: toy} todo el día con el peer to peer para {%alt: pa} arriba y para {%alt: pa} abajo  24:49
+COR estoy {toy} todo el día con el peer to peer para {pa} arriba y para {pa} abajo  24:49
 
-COR   pero no lo digo en la encuesta  {%act: blow}  24:52
+COR   pero no lo digo en la encuesta  {blow}  24:52
 
 COR  no lo digo ni cuando me llama Jazztel por un problema técnico  24:55
 
@@ -610,11 +610,11 @@ COR  no   no  yo no  24:58
 
 COR yo no  24:59
 
-COR {%com: laughs while speaking} estaba {%alt: etaba} ahí navegando  y se ha {%alt: sa} roto  25:02
+COR {laughs while speaking} estaba {etaba} ahí navegando  y se ha {sa} roto  25:02
 
 COR   25:03
 
-COR pero yo no he hecho nada {%alt: na}   {%act: laugh}  25:04
+COR pero yo no he hecho nada {na}   {laugh}  25:04
 
 COR  eso  es verdad  25:07
 
@@ -646,7 +646,7 @@ COR  y además ahora están perfeccionando las herramientas como buena empresa d
 
 COR  bueno  pues cuando un país se plantea cómo explotar las posibilidades que tiene que tener en Internet  evidentemente  tiene que partir de estudiar  e investigar  y analizar  lo que quieren los internautas  25:57
 
-COR  pero no con herramientas sofisticadas  con herramientas sencillas  {%com: consults the laptop}  26:05
+COR  pero no con herramientas sofisticadas  con herramientas sencillas  {consults the laptop}  26:05
 
 COR también debemos contar con un modelo de conocimiento que nos permita que esa información  no radique  sólo  única y exclusivamente en la gente que la genera  26:13
 
@@ -670,11 +670,11 @@ COR  me decía hace poco  un experto en SEO  que el  las webs de  oferta de  com
 
 COR no ponemos fotografía  27:06
 
-COR  ponemos foto  para todo {%alt: pa to}  27:08
+COR  ponemos foto  para todo {pa to}  27:08
 
 COR y ellos ponen  fotografía  27:10
 
-COR  pues ese es un problema  importante  de incoherencia a la hora de montar la estructura de una página web  {%com: consults the laptop}  27:18
+COR  pues ese es un problema  importante  de incoherencia a la hora de montar la estructura de una página web  {consults the laptop}  27:18
 
 COR  y por último  esta frase me encanta  porque  tiene que ver mucho con nuestra empresa  apoyar a la industria tecnológica  27:24
 
@@ -682,15 +682,15 @@ COR   es increíble  27:27
 
 COR  no creo que conozcáis ningún sector  de la actividad económica  que tenga  tal nivel  de penetración  de productos y servicios  de empresas  internacionales  extranjeras  de no capital español  como el mercado de las tecnologías de la información  27:41
 
-COR   {%act: grumbles incomprehensible words}  yo no soy un partidario de la intervención de ningún mercado  pero  imaginaros {%alt: imaginaros} que nos planteamos  que el noventa y ocho por ciento  de la  energía consumida en nuestro país  fuera de EON  27:51
+COR   {grumbles incomprehensible words}  yo no soy un partidario de la intervención de ningún mercado  pero  imaginaros {imaginaros} que nos planteamos  que el noventa y ocho por ciento  de la  energía consumida en nuestro país  fuera de EON  27:51
 
 COR o que el noventa y ocho por ciento de la audiencia televisiva  fuera la CNN  27:56
 
 COR  bueno  pues os animo a hacer una prueba  27:58
 
-COR  durante un día completo  doce horas  todo lo que toquéis en tecnología  sacad {%alt: sacar} una lista de las marcas  de los productos que estáis utilizando  28:08
+COR  durante un día completo  doce horas  todo lo que toquéis en tecnología  sacad {sacar} una lista de las marcas  de los productos que estáis utilizando  28:08
 
-COR  mirad {%alt: mirar} a ver qué nivel de penetración tiene la tecnología creada en nuestro país  28:13
+COR  mirad {mirar} a ver qué nivel de penetración tiene la tecnología creada en nuestro país  28:13
 
 COR  es tremendo  28:15
 
@@ -702,7 +702,7 @@ COR  y claro  le decía  no me des subvenciones  28:35
 
 COR   cómprame los productos   28:36
 
-COR   si me das subvenciones me las gasto y no hago nada {%alt: na}   28:40
+COR   si me das subvenciones me las gasto y no hago nada {na}   28:40
 
 COR   si me compras los productos me obligas a tener que desarrollarlos y mejorarlos   28:43
 
@@ -748,7 +748,7 @@ COR el segundo ámbito  es estimular el lanzamiento de nuevos servicios y aplica
 
 COR  creer en que hay que lanzar nuevas cosas  pero nuevas  nuevas  30:08
 
-COR  no  decir   Israel ha triunfado {%alt: triunfao} desarrollando  software de seguridad  30:14
+COR  no  decir   Israel ha triunfado {triunfao} desarrollando  software de seguridad  30:14
 
 COR Irlanda es una potencia en el desarrollo  de    el outsourcing  de  pequeños desarrollos para terceros  30:20
 
@@ -778,7 +778,7 @@ COR  es 31:03
 
 VER desgraciadamente sí  31:03
 
-VER   {%act: laugh} {%com: everybody laughs}  31:03
+VER   {laugh} {everybody laughs}  31:03
 
 COR lo sabéis  31:04
 
@@ -786,7 +786,7 @@ COR  un catálogo de patrimonio  es un catálogo de  objetos homologados o produ
 
 COR un poco más ágil  31:21
 
-COR dos meses y medio  o  tres  {%act: laugh}  en la compra de un producto  31:25
+COR dos meses y medio  o  tres  {laugh}  en la compra de un producto  31:25
 
 COR  bueno  pues hay una cosa muy curiosa  31:27
 
@@ -816,7 +816,7 @@ COR   podíamos  obtener la patente del software  y entrar en el catálogo de pa
 
 COR  y así  cuando hago una patente de software en nuestro país  se lo puedo vender a la administración pública  32:23
 
-COR   {%act: click}  pues no  no pasa  32:26
+COR   {click}  pues no  no pasa  32:26
 
 COR  esas trabas  evidentemente  impiden el desarrollo  de determinados sectores tecnológicos de nuestro país  32:33
 
@@ -842,7 +842,7 @@ COR pero todavía no es el primer objetivo  33:30
 
 COR  tienen todavía suficientes problemas en inglés como  plantearse  otras cosas  33:34
 
-COR   {%act: click}  así que  no sólo se suma  la capacidad  hacer desarrollos tecnológicos en el mundo de la Lingüística  y de la Lengua  que fueran tremendamente potentes  sino que además se podrían centrar también en el castellano  que tiene un impacto muy importante y tiene un mercado  muy  claro y muy evidente  33:51
+COR   {click}  así que  no sólo se suma  la capacidad  hacer desarrollos tecnológicos en el mundo de la Lingüística  y de la Lengua  que fueran tremendamente potentes  sino que además se podrían centrar también en el castellano  que tiene un impacto muy importante y tiene un mercado  muy  claro y muy evidente  33:51
 
 COR y en ese sentido  lo que  desde el punto de vista  de esta charla quería transmitir  transmitiros es concienciarnos  de las tres oportunidades de las que disponemos  34:01
 
@@ -852,7 +852,7 @@ COR  nadie discute a España desde el punto de vista de la credibilidad de los c
 
 COR  tenemos un público al que dirigirnos  ciento veinte millones de personas  34:14
 
-COR    pensad {%alt: pensar}  34:16
+COR    pensad {pensar}  34:16
 
 COR nosotros no sólo nos  dedicamos  nos dirigimos a los cuarenta y cuatro millones que viven en nuestro país  34:20
 
@@ -920,9 +920,9 @@ COR  no funciona bien  36:14
 
 COR  o no sabemos  a lo mejor utilizarla apropiadamente  36:18
 
-COR  y un segundo ámbito   {%act: click}  los propios buscadores  36:21
+COR  y un segundo ámbito   {click}  los propios buscadores  36:21
 
-COR  en un país  pensad {%alt: pensar} en un pueblo  en el que  una zapatería  vendiera el noventa y ocho por ciento de los zapatos  hubiera  otras tres zapaterías que no venden  nada  y además  esa que vende el noventa y ocho por ciento de los zapatos  crece  a ritmos  del cuarenta por ciento anual  36:42
+COR  en un país  pensad {pensar} en un pueblo  en el que  una zapatería  vendiera el noventa y ocho por ciento de los zapatos  hubiera  otras tres zapaterías que no venden  nada  y además  esa que vende el noventa y ocho por ciento de los zapatos  crece  a ritmos  del cuarenta por ciento anual  36:42
 
 COR yo monto una zapatería   en ese sitio  36:46
 
@@ -930,7 +930,7 @@ COR  lo que tengo que pensar es cómo lo vendo mejor  36:48
 
 COR  y aunque me quede con las migajas  de ese porcentaje que vende ese grande  ya estoy haciendo un  mercado que es interesante  36:54
 
-COR  pensad {%alt: pensar}  el espacio de buscadores verticales  el espacio de los buscadores en las redes sociales  y  y pensad {%alt: pensar} en el concepto de los buscadores focalizados  37:04
+COR  pensad {pensar}  el espacio de buscadores verticales  el espacio de los buscadores en las redes sociales  y  y pensad {pensar} en el concepto de los buscadores focalizados  37:04
 
 COR  ambos tres hablan de una cosa muy importante  37:07
 

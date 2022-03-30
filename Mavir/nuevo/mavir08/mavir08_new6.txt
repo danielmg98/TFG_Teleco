@@ -8,8 +8,8 @@
   dentro de teatro existen una serie de categorías  revistas  compañías  festivales  salas  que hablan de teatro  00:50
   entonces el marco de la tesis se ha   se ha   se ha centrado en esto  en  en obtener una clasificación dentro de  de   de estos  de este dominio específico del teatro   no   01:00
   podría ser aplicable  es una de las líneas de investigación que se deberá seguir  aplicable a otros dominios  pero siempre dentro de un marco específico  01:07
-  el porqué  a lo largo de la tesis lo veremos  %eh pero   adelantar un poco que es  básicamente son las líneas de futuro  01:15
-  %eh   los buscadores cada vez más  pretenden dar información que sea útil al usuario  y para que sea útil tiene que ser de grano fino  01:22
+  el porqué  a lo largo de la tesis lo veremos  pero   adelantar un poco que es  básicamente son las líneas de futuro  01:15
+    los buscadores cada vez más  pretenden dar información que sea útil al usuario  y para que sea útil tiene que ser de grano fino  01:22
   no puedes decirle a una persona que una página es de teatro o es de  o es de    de una universidad  01:27
   eso ya lo sabe  01:28
   tienes que darle información que él esté buscando   vale   01:32
@@ -75,7 +75,7 @@
   casi todos los estudios que hay están en el treinta al cuarenta por cien  08:10
   entonces  con el método dos por dos  nos da  algo más realista  el treinta  el cinco  el diez por cien  08:17
     a las necesidades de pro  procesamiento  están claras en todos los proyectos de minería  08:22
-  en éste  %eh básicamente son  tratamiento del corpus y tratamiento lingüístico  08:27
+  en éste  básicamente son  tratamiento del corpus y tratamiento lingüístico  08:27
   una aplicación de un stem  sería la parte más sencilla  un stem de Porter  y una selección de un corpus general o un corpus específico  08:33
   los experimentos también  han sido  claros con esto  08:37
   el  no es necesario  para aumentar el rendimiento  pero sí para reducir la dimensionalidad  cosa que quizá es más importante aún  08:43
@@ -142,7 +142,7 @@
    eh   14:34
   los resultados también son  bastante claros  no   14:37
   seguimos  manteniéndonos por encima del noventa por cien en  en el estadístico efe  14:41
-  %eh     el error  se mantiene  en el caso de que sea blog  incluso se disminuye  14:48
+      el error  se mantiene  en el caso de que sea blog  incluso se disminuye  14:48
   se queda por debajo del  del uno por cien  14:51
   está en el doce por cien  de error  14:55
    ha aparecido un pequeño problema  14:57

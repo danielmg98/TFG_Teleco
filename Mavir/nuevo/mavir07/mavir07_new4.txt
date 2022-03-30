@@ -2,7 +2,7 @@ CON bueno  esta presentación no va a ser  no va a ser larga  00:03
 
 CON lo queresmos contar un poco  primero situar lo que es el acceso  inteligente a contenidos  00:08
 
-CON y luego contaros el caso concreto de la empresa Once Ocho Once  como ellos  pueden aplicar esta tecnología a  a su  a su  modelo de negocio   {%act: interrogation}  00:19
+CON y luego contaros el caso concreto de la empresa Once Ocho Once  como ellos  pueden aplicar esta tecnología a  a su  a su  modelo de negocio   {interrogation}  00:19
 
 CON entonces  primero  definir lo que es el acceso a  a cliente   no   00:23
 
@@ -32,11 +32,11 @@ CON las cifras sobre todo en Estados Unidos  crecen  01:37
 
 CON y aunque a nosotros nos pueda parecer que el mercado de los  buscadores  o de acceso inteligente a  información está maduro y está saturado  no es así  01:44
 
-CON las previsiones son  es que va a ir mucho más allá   {%act: interrogation}  01:47
+CON las previsiones son  es que va a ir mucho más allá   {interrogation}  01:47
 
 CON en cuanto  a  tecnologías que se usan aquí  01:52
 
-CON me voy a saltar esta {%com: related to the transparency}  01:53
+CON me voy a saltar esta {related to the transparency}  01:53
 
 CON esto es  otro  otro diagrama que nos dice  cómo madura  la tecnología sobre todo en web  01:59
 
@@ -104,7 +104,7 @@ CON en paralelo a esto  no sé si estaría bien ordenado  es la  la personalizac
 
 CON si habláis con las grandes entidades  lo que les interesa es llegar a sus clientes  o a sus  a sus  a los ciudadanos de manera  personalizada  05:07
 
-CON o sea  todo  todas las {%alt: todos los} iniciativas dentro de publicidad  todas las iniciativas dentro de   entidades financieras es  colocar el producto adecuado  a la persona adecuada  en el momento adecuado  05:17
+CON o sea  todo  todas las {todos los} iniciativas dentro de publicidad  todas las iniciativas dentro de   entidades financieras es  colocar el producto adecuado  a la persona adecuada  en el momento adecuado  05:17
 
 CON entonces hablamos de personalidad extrema  donde necesitamos saber en qué situación está  y  darle  justo la información que necesita  05:26
 
@@ -164,7 +164,7 @@ CON y ya una de las aplicaciones  más  más futuristas es   hacer  sistema de  
 
 CON   entonces ya las  algunas fabricantes de coches  para  para  dos mil veinte se están planteando  que los usuarios podamos interaccionar  con nuestros vehículos  08:49
 
-CON y no simplemente basado en comandos de  llama  a mi suegra  o  {%act: doubt}  pon el CD no sé qué  08:56
+CON y no simplemente basado en comandos de  llama  a mi suegra  o  {doubt}  pon el CD no sé qué  08:56
 
 CON sino que  cuando yo digo   qué es esto   08:58
 
@@ -212,7 +212,7 @@ LOZ en veinte segundos  como media  tenemos que haber respondido  y si no estamo
 
 LOZ   quién es  quién es  primero voy a empezar muy rápido por quién es  el Once Ocho Once  11:55
 
-LOZ el Once Ocho Once es una  voy a pasarlo entero {%com: related to the transparency}  es una compañía alemana  que se llama Telegate AG  que en  en Alemania es el número dos del mercado  12:04
+LOZ el Once Ocho Once es una  voy a pasarlo entero {related to the transparency}  es una compañía alemana  que se llama Telegate AG  que en  en Alemania es el número dos del mercado  12:04
 
 LOZ compite con  Deutsche  Deutsche Telecom  12:06
 
@@ -254,7 +254,7 @@ LOZ básicamente es que pides la información  y  el agente telefónico  te mand
 
 LOZ    nuestra misión   14:44
 
-LOZ  bueno  pues no voy a leer todo esta {%alt: este} frase  pero es  dar soluciones  no sólo dar información  14:50
+LOZ  bueno  pues no voy a leer todo esta {este} frase  pero es  dar soluciones  no sólo dar información  14:50
 
 LOZ entonces en línea con esto que acabo de contar  nos encontramos hace  año y medio  que  la  la información más  más requerida a nuestros cuatrocientos operadores  es  es la de  la de  gestiones públicas  de  de organismos públicos  gestiones  15:09
 
@@ -302,7 +302,7 @@ LOZ te lo da con una máquina  y te cuelga  no   17:06
 
 LOZ  puedes seguir hablando  pero ya tienes la máquina conectada  y te cuelga  17:09
 
-LOZ %eh  entonces  necesitamos diferenciarnos  17:12
+LOZ  entonces  necesitamos diferenciarnos  17:12
 
 LOZ diferenciarnos de nuestros principales competidores  dando  como digo  no sólo información  información lo más enriquecida posible  sino también  soluciones  17:20
 
@@ -350,7 +350,7 @@ LOZ  pero  yo lo que necesito es que me deletree el nombre   el  el nombre exact
 
 LOZ bueno pues para evitar el tener que hacer todo este trámite  deletréeme cada letra del  del  del  del nombre que  del  del  del concepto que está buscando  lo que  hemos hecho es directamente meter un corrector ortográfico que podríamos llegar a aplicar  en nuestro buscador general de  cualquier otro tipo de  de  de  de campo de nuestra base de datos  20:25
 
-LOZ o sea  de cualquier otra  de turismo  ocio   {%act: doubt}  restaurantes  bueno  las categorías más buscadas  20:33
+LOZ o sea  de cualquier otra  de turismo  ocio   {doubt}  restaurantes  bueno  las categorías más buscadas  20:33
 
 LOZ y además un tesauro de sinónimos  20:35
 
@@ -362,7 +362,7 @@ LOZ quiero  no  quiero vacunar a mi perro  20:55
 
 LOZ había otro que me he encontrado un perro muerto  20:56
 
-LOZ o  {%act: doubt}  también puedes poner  me lo quiero quedar  20:59
+LOZ o  {doubt}  también puedes poner  me lo quiero quedar  20:59
 
 LOZ o me quiero desprender de él  21:00
 

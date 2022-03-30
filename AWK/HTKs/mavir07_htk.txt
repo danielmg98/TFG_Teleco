@@ -3214,7 +3214,6 @@ conectada
 y
 te
 cuelga
-%eh
 entonces
 necesitamos
 diferenciarnos

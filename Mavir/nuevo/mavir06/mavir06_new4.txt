@@ -8,7 +8,7 @@ ARA  llamamos aulas virtuales  a   pequeños departamentos dentro de las univers
 
 ARA  uno de los retos más importantes para el Cervantes  ha sido siempre  fortalecer la presencia del español  del español en Internet  00:39
 
-ARA  ya desde sus principios  desde el año noventa y siete  y fijaos {%alt: fijaros}	que el año noventa y siete anda poco  es tan reciente  00:46
+ARA  ya desde sus principios  desde el año noventa y siete  y fijaos {fijaros}	que el año noventa y siete anda poco  es tan reciente  00:46
 
 ARA  el Instituto Cervantes  creó su propio  centro virtual en Internet  con el fin de poder llegar  a todo el mundo  durante las veinticuatro horas del día  los siete días de la semana  00:59
 
@@ -20,7 +20,7 @@ ARA  tan importante como es la  la calidad  digo la cantidad  y  de los contenid
 
 ARA  desde ese punto de vista  el Instituto  Cervantes siempre ha pensado  en   tener la capacidad o disponer de un buscador  de un gran base  de una gran base de datos  de contenidos  especializados  en cultura hispánica  y en  español en general  01:43
 
-ARA  entonces  creó  o pensó crear un potente  robot de indización {%alt: indizador}  capaz de ofrecer recursos suficientes  para estudiar Internet  en busca de sitios de lengua española  y  el desarrollo de un sistema  que permite indizar  automáticamente los resultados y mantenerlos actualizados  con el fin de facilitar la creación de catálogos y colecciones de contenidos  especializados en el mundo de la cultura hispánica y el idioma español  02:06
+ARA  entonces  creó  o pensó crear un potente  robot de indización {indizador}  capaz de ofrecer recursos suficientes  para estudiar Internet  en busca de sitios de lengua española  y  el desarrollo de un sistema  que permite indizar  automáticamente los resultados y mantenerlos actualizados  con el fin de facilitar la creación de catálogos y colecciones de contenidos  especializados en el mundo de la cultura hispánica y el idioma español  02:06
 
 ARA  este   motor también  tiene otro objetivo  y es que otras instituciones  colaboren con nosotros a la hora de seleccionar y   y buscar estas URLs o direcciones especializadas  02:19
 
@@ -62,11 +62,11 @@ CAM  por último  un programa  de voluntarios de Telefónica que intenta  impuls
 
 CAM  la dirección general de relaciones y  externas y patrocinio  además de  los muy conocidos y más mediáticos  patrocinios de  personas  y empresas  de  deportistas de élite  escuderías  y demás  que creo que todos sabemos lo que es  también  realiza  otro tipo de actos  actividades y proyectos  con un  carácter  un poco más social  cultural  y orientados a la mejora de la educación  07:37
 
-CAM  te importa volver atrás {%com: related to the transparencies}  07:40
+CAM  te importa volver atrás {related to the transparencies}  07:40
 
-CAM  alguno de estos actos  se pueden ver aquí a la izquierda  algunos festivales  como festivales  de la palabra  que creo que se celebra  no querría equivocarme  en Alcalá de Henares  festivales Bioamérica  El Diccionario Panhispánico de Dudas  algunos portales de Internet  como Campusred  orientado a la  a las universidades  algunas  exposiciones  recientes como  la exposición de Ibn Jaldún en el  Real Alcázar de Sevilla  se hizo el año pasado  la exposición de Arte e Imperio de los asirios  gracias {%com: someone positions his microphone}  y también algunos proyectos como el que nos ocupa del buscador panhispánico  o proyectos de digitalización de archivos  como el de  algunos archivos que ahora veremos de  la biblioteca virtual Miguel de Cervantes  08:30
+CAM  alguno de estos actos  se pueden ver aquí a la izquierda  algunos festivales  como festivales  de la palabra  que creo que se celebra  no querría equivocarme  en Alcalá de Henares  festivales Bioamérica  El Diccionario Panhispánico de Dudas  algunos portales de Internet  como Campusred  orientado a la  a las universidades  algunas  exposiciones  recientes como  la exposición de Ibn Jaldún en el  Real Alcázar de Sevilla  se hizo el año pasado  la exposición de Arte e Imperio de los asirios  gracias {someone positions his microphone}  y también algunos proyectos como el que nos ocupa del buscador panhispánico  o proyectos de digitalización de archivos  como el de  algunos archivos que ahora veremos de  la biblioteca virtual Miguel de Cervantes  08:30
 
-CAM  gracias  {%com: to the person who operates the transparencies}  08:32
+CAM  gracias  {to the person who operates the transparencies}  08:32
 
 CAM   el patrocinio de los actos y actividades  normalmente lo hace  directamente  la dirección general de  de  de relaciones externas y patrocinios  es un nombre que no me voy a aprender nunca  directamente con los organismos  implicados  08:47
 
@@ -74,7 +74,7 @@ CAM  en cuanto a los proyectos  normalmente  esta dirección cuenta con el apoyo
 
 CAM  y  bien  estas empresas realizan el proyecto  completo  como puede ser  el proyecto de la  del portal del Canciller Ayala  proyecto  del  el portal del español de la fundación de San Millán de la  de la Cogolla  09:12
 
-CAM  son proyectos de contenidos  que han sido realizados por   por el área  multimedia de Telefónica Soluciones  o  o proyectos realizados  completamente como la digitalización del archivo de  Entrambasaguas de la biblioteca virtual de  Miguel de Cervantes realizado por  por el área de gestión de activos digitales de  {%com: a mobile phone rings} de Telefónica Soluciones  09:39
+CAM  son proyectos de contenidos  que han sido realizados por   por el área  multimedia de Telefónica Soluciones  o  o proyectos realizados  completamente como la digitalización del archivo de  Entrambasaguas de la biblioteca virtual de  Miguel de Cervantes realizado por  por el área de gestión de activos digitales de  {a mobile phone rings} de Telefónica Soluciones  09:39
 
 CAM  otros proyectos  un poco más complejos  como el Buscador General Panhispánico  Telefónica Soluciones  lo que ha hecho ha sido  ofrecer colaboración en la gestión  y coordinación en el proyecto  colaboración a nivel de soporte técnico  09:52
 
@@ -92,7 +92,7 @@ VER micrófono  micrófono  10:31
 
 VIL muy buenos días a todos  10:33
 
-VIL  bueno pues ya  mi labor ahora es  contaros un poco  la parte del {%act: click}  la parte técnica del asunto  no  10:42
+VIL  bueno pues ya  mi labor ahora es  contaros un poco  la parte del {click}  la parte técnica del asunto  no  10:42
 
 VIL  la  el diseño  un poco hablaros de la arquitectura software y hardware del  del proyecto como lo hemos llevado a cabo  10:48
 
@@ -106,7 +106,7 @@ VIL  eso  palabra panhispánico   sobre cultura y lengua   de  española en todo
 
 VIL   y centrado especialmente  en contenidos de calidad  11:18
 
-VIL  para eso existen  pues una serie de personas que  crean  {%act: cough} perdón  que crean una serie de fichas  con contenido de alta calidad  con  información ampliada no sólo  lo que es una  un buscador tradicional  que guarda palabras sino  {%act: click} con algo más  11:35
+VIL  para eso existen  pues una serie de personas que  crean  {cough} perdón  que crean una serie de fichas  con contenido de alta calidad  con  información ampliada no sólo  lo que es una  un buscador tradicional  que guarda palabras sino  {click} con algo más  11:35
 
 VIL  las direcciones entonces  las URLs están seleccionadas  expresamente   clasificadas y catalogadas por ese  por ese conjunto de expertos  11:43
 
@@ -146,7 +146,7 @@ VIL   después se define  ya hablaré un poco  después  sobre lo que es el cat�
 
 VIL  bueno  el caso es que  eso  para eso hay un módulo que es  el de los robots  el del crawler típico  que se va a Internet  ya va bajando toda esa información  y que por supuesto la va indexando de acuerdo pues a  al  un sistema típico de recuperación de información  16:03
 
-VIL  en concreto bueno  estuvimos analizando diferentes tecnologías  y al final  pues lo hemos indexado  pues un {%alt: una}  típico sistema  de indexación   basado pues en  en modelo espacio y vectores  típico  tradicional  16:18
+VIL  en concreto bueno  estuvimos analizando diferentes tecnologías  y al final  pues lo hemos indexado  pues un {una}  típico sistema  de indexación   basado pues en  en modelo espacio y vectores  típico  tradicional  16:18
 
 VIL  y luego  pues  sobre ese motor de indexación pues  actúa el buscador  que es el objetivo último del sistema  16:25
 
@@ -196,7 +196,7 @@ VIL  toda esa información al  el  la  este sistema  está pensado para que se u
 
 VIL  entonces toda esta información  pues se  intenta extraer automáticamente todo lo que se puede  y desde luego   para facilitar esa  esa labor a  a los catalogadores  20:50
 
-VIL  además cada ficha  el contenido  pues se  se puede en  en  tiene un control de versiones  lo típico  que pues  a día de hoy  se indexa {%alt: endexa}  se crea una ficha  pero si esa página es dinámica pues el contenido puede variar  en el futuro  21:07
+VIL  además cada ficha  el contenido  pues se  se puede en  en  tiene un control de versiones  lo típico  que pues  a día de hoy  se indexa {endexa}  se crea una ficha  pero si esa página es dinámica pues el contenido puede variar  en el futuro  21:07
 
 VIL  entonces pues  existe un control de versiones  hemos  podemos tener varias  versiones de la misma página  a lo largo del tiempo  21:14
 
@@ -216,7 +216,7 @@ VIL  las propiedades de la página pues  el detector de idioma  pues la  tiene u
 
 VIL  ese estilo  de información que  o ese tipo de fallos  que vamos no son fallos son problemas  que tiene la  la información  extracción de información automática  23:06
 
-VIL  y ese es el catálogo {%act: click} general  23:09
+VIL  y ese es el catálogo {click} general  23:09
 
 VIL  por supuesto también  el módulo de robot  el de  de indexación  vamos el robot indexador  el  el  pues tiene que encargarse  es uno de los puntos  claves de  del sistema  porque  pues el número de páginas es muy grande   y hay que actualizar periódicamente  23:28
 

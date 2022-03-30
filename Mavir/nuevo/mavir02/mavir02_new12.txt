@@ -337,26 +337,6 @@ en
 un
 momento
 dado
-pues
-inmediatamente
-tomará
-el
-protagonismo
-de
-acuerdo
-.
-nos
-interrumpimos
-volvemos
-a
-tomar
-la
-la
-palabra
-etcétera
-.
-desorden
-total
 bueno
 os
 voy
@@ -398,7 +378,6 @@ os
 dedicáis
 de
 acuerdo
-.
 pues
 yo
 soy
@@ -467,7 +446,6 @@ que
 tiene
 la
 empresa
-.
 entonces
 en
 ese
@@ -492,7 +470,6 @@ como
 cualquier
 otro
 producto
-.
 isoco
 no
 sí
@@ -552,7 +529,6 @@ y
 de
 tecnología
 web
-.
 como
 muchos
 de
@@ -635,7 +611,6 @@ general
 de
 de
 autores
-.
 el
 capital
 de
@@ -700,7 +675,6 @@ pues
 al
 al
 mercado
-.
 y
 por
 mi
@@ -809,7 +783,6 @@ que
 la
 empresa
 funcione
-.
 que
 es
 mucho
@@ -839,7 +812,6 @@ que
 enfrentarnos
 y
 llegar
-.
 por
 supuesto
 que
@@ -871,7 +843,6 @@ público
 que
 es
 posible
-.
 no
 obstante
 como
@@ -907,14 +878,12 @@ luego
 generen
 unos
 ingresos
-.
 vamos
 viviendo
 y
 aguantando
 con
 eso
-.
 hola
 buenas
 tardes
@@ -1065,7 +1034,6 @@ trabajan
 cien
 cien
 personas
-.
 eleka
 estamos
 siete
@@ -1093,7 +1061,6 @@ de
 tecnologías
 lingüísticas
 no
-.
 entonces
 surgió
 como
@@ -1236,7 +1203,6 @@ diría
 yo
 tan
 espectacular
-.
 alcanza
 un
 setenta
@@ -1261,7 +1227,6 @@ entre
 las
 dos
 lenguas
-.
 y
 entre
 tanto
@@ -1304,7 +1269,6 @@ tratamiento
 de
 la
 lengua
-.
 y
 no
 solo
@@ -1388,7 +1352,6 @@ empresas
 en
 entornos
 multilingües
-.
 gracias
 buenas
 tardes
@@ -1543,7 +1506,6 @@ de
 lo
 que
 vendemos
-.
 bueno
 como
 representante
@@ -1559,7 +1521,6 @@ nos
 acompaña
 aquí
 hoy
-.
 bueno
 muchas
 gracias
@@ -1598,7 +1559,6 @@ empresas
 en
 este
 momento
-.
 por
 ejemplo
 número
@@ -1642,7 +1602,6 @@ pues
 de
 vuestras
 dimensiones
-.
 pues
 en
 isoco
@@ -1686,7 +1645,6 @@ explotación
 de
 esos
 productos
-.
 ahora
 mismo
 el
@@ -1708,7 +1666,6 @@ digamos
 unas
 veinte
 personas
-.
 entonces
 pues
 como
@@ -1809,7 +1766,6 @@ el
 real
 instituto
 elcano
-.
 bueno
 en
 daedalus
@@ -1835,110 +1791,6 @@ unos
 doce
 catorce
 aproximadamente
-y
-y
-bueno
-pues
-en
-cuanto
-a
-datos
-que
-hablabas
-de
-facturación
-la
-facturación
-del
-año
-pasado
-creo
-que
-fueron
-unos
-quinientos
-mil
-euros
-si
-no
-me
-si
-no
-me
-equivoco
-aproximadamente
-con
-unos
-beneficios
-de
-unos
-ciento
-de
-unos
-ciento
-veinte
-mil
-euros
-sobre
-clientes
-de
-referencia
-pues
-antes
-he
-mencionado
-alguno
-el
-diario
-el
-país
-o
-el
-mundo
-punto
-es
-y
-bueno
-pues
-dentro
-de
-la
-plantilla
-hay
-gente
-que
-se
-dedica
-específicamente
-al
-tema
-de
-lingüística
-por
-aquello
-de
-por
-aquello
-de
-las
-herramientas
-de
-corrección
-obviamente
-y
-y
-el
-resto
-pues
-somos
-más
-ingenieros
-desarrolladores
-dirección
-de
-proyecto
-etcétera
-.
 en
 thera
 a
@@ -2001,7 +1853,6 @@ personal
 de
 contratos
 temporales
-.
 entonces
 por
 poner
@@ -2056,7 +1907,6 @@ resto
 pues
 quedan
 fuera
-.
 a
 nivel
 de
@@ -2088,7 +1938,6 @@ esperemos
 sobrepasarlo
 este
 año
-.
 eh
 no
 sé
@@ -2097,7 +1946,6 @@ la
 dimensión
 está
 acotada
-.
 bueno
 el
 tema
@@ -2212,7 +2060,6 @@ bastante
 pelados
 pelados
 pelados
-.
 es
 decir
 el
@@ -2232,7 +2079,6 @@ hay
 que
 lidiar
 mucho
-.
 y
 en
 este
@@ -2271,7 +2117,6 @@ tenemos
 que
 que
 incidir
-.
 porque
 bueno
 lo
@@ -2309,7 +2154,6 @@ tenías
 que
 haber
 hecho
-.
 por
 ejemplo
 en
@@ -2328,7 +2172,6 @@ algo
 al
 respecto
 adelante
-.
 el
 nosotros
 somos
@@ -2357,7 +2200,6 @@ ver
 si
 no
 quebrábamos
-.
 era
 un
 auténtico
@@ -2418,7 +2260,6 @@ es
 decir
 excepto
 el
-(director)
 comercial
 que
 los
@@ -2579,7 +2420,6 @@ de
 de
 esa
 cifra
-.
 vale
 de
 momento
@@ -2630,7 +2470,6 @@ la
 como
 la
 lingüística
-.
 quizás
 se
 haga
@@ -2694,7 +2533,6 @@ un
 importante
 cliente
 nuestro
-.
 a
 mí
 me
@@ -2728,7 +2566,6 @@ de
 nuestros
 principales
 clientes
-.
 desde
 luego
 en
@@ -2741,7 +2578,6 @@ encima
 de
 cualquier
 otra
-.
 algún
 comentario
 más
@@ -2762,7 +2598,6 @@ son
 todos
 empresas
 privadas
-.
 a
 nivel
 institucional
@@ -2781,7 +2616,6 @@ entra
 en
 la
 facturación
-.
 bien
 casi
 casi
@@ -2795,7 +2629,6 @@ de
 esta
 pregunta
 no
-.
 bueno
 vamos
 a
@@ -2860,7 +2693,6 @@ si
 montáramos
 una
 empresa
-.
 no
 qué
 es
@@ -2875,7 +2707,6 @@ cómo
 lo
 habéis
 vivido
-.
 es
 una
 cosa
@@ -2899,7 +2730,6 @@ desde
 desde
 esa
 óptica
-.
 es
 decir
 hablar
@@ -2935,7 +2765,6 @@ de
 dar
 el
 salto
-.
 cómo
 cómo
 lo
@@ -2962,7 +2791,6 @@ que
 que
 tengo
 detrás
-.
 bueno
 yo
 entonces
@@ -3059,7 +2887,6 @@ pero
 nadie
 se
 atrevía
-.
 en
 la
 en
@@ -3103,7 +2930,6 @@ sacar
 este
 proyecto
 adelante
-.
 pues
 bueno
 pues
@@ -3126,7 +2952,6 @@ pues
 poner
 dos
 personas
-.
 nosotros
 ya
 cogemos
@@ -3158,7 +2983,6 @@ d
 la
 pondremos
 nosotros
-.
 bueno
 pues
 ahí
@@ -3281,7 +3105,6 @@ gerencia
 en
 aquel
 momento
-.
 entonces
 en
 ese
@@ -3344,7 +3167,6 @@ creación
 de
 empresas
 no
-.
 pero
 que
 bueno
@@ -3409,7 +3231,6 @@ tipo
 de
 empresas
 no
-.
 creo
 que
 ahora
@@ -3510,7 +3331,6 @@ el
 producto
 de
 acuerdo
-.
 a
 durante
 ese
@@ -3550,7 +3370,6 @@ la
 universidad
 de
 acuerdo
-.
 entonces
 no
 es
@@ -3572,7 +3391,6 @@ programa
 específico
 etcétera
 no
-.
 ese
 fue
 ese
@@ -3583,7 +3401,6 @@ digamos
 de
 de
 daedalus
-.
 bueno
 thera
 thera
@@ -3783,7 +3600,6 @@ diez
 o
 doce
 años
-.
 por
 lo
 que
@@ -3795,7 +3611,6 @@ empresa
 no
 es
 fácil
-.
 no
 es
 fácil
@@ -3838,7 +3653,6 @@ es
 fuerte
 e
 importante
-.
 pero
 también
 hay
@@ -3883,7 +3697,6 @@ motivante
 y
 y
 engrescante
-.
 perdonad
 el
 catalanismo
@@ -3903,7 +3716,6 @@ en
 lo
 que
 hacer
-.
 pero
 decir
 además
@@ -3942,7 +3754,6 @@ algo
 que
 crea
 alguien
-.
 alguien
 que
 es
@@ -3996,7 +3807,6 @@ a
 pagar
 por
 ello
-.
 y
 que
 te
@@ -4027,7 +3837,6 @@ la
 hora
 de
 desarrollarlo
-.
 bitext
 es
 es
@@ -4045,7 +3854,6 @@ que
 por
 vocación
 no
-.
 es
 decir
 la
@@ -4135,7 +3943,6 @@ pues
 decidimos
 auto
 autoemplearnos
-.
 esa
 fue
 la
@@ -4173,7 +3980,6 @@ efectivamente
 existe
 un
 mercado
-.
 un
 mercado
 difícil
@@ -4261,7 +4067,6 @@ un
 negocio
 de
 verdad
-.
 y
 con
 eso
@@ -4274,7 +4079,6 @@ arranca
 arranca
 la
 empresa
-.
 en
 mi
 caso
@@ -4322,7 +4126,6 @@ la
 historia
 de
 isoco
-.
 isoco
 surge
 del
@@ -4337,7 +4140,6 @@ barcelona
 como
 una
 spinoff
-.
 o
 sea
 como
@@ -4350,7 +4152,6 @@ buenas
 tardes
 me
 escucháis
-.
 sí
 que
 funciona
@@ -4359,12 +4160,10 @@ dile
 que
 le
 escuchamos
-.
 problemas
 del
 riguroso
 directo
-.
 alguien
 que
 no
@@ -4375,7 +4174,6 @@ y
 que
 quería
 participar
-.
 bueno
 decía
 eso
@@ -4412,7 +4210,6 @@ tienen
 en
 la
 cabeza
-.
 entonces
 encuentran
 financiación
@@ -4458,7 +4255,6 @@ de
 de
 de
 vida
-.
 lo
 que
 pasa
@@ -4522,7 +4318,6 @@ he
 contado
 al
 principio
-.
 enric
 comentaba
 que
@@ -4535,7 +4330,6 @@ por
 el
 apoyo
 institucional
-.
 yo
 no
 sé
@@ -4571,7 +4365,6 @@ momento
 de
 la
 creación
-.
 le
 has
 dado
@@ -4583,7 +4376,6 @@ en
 el
 clavo
 exacto
-.
 las
 ayudas
 son
@@ -4633,7 +4425,6 @@ facturar
 ciertas
 cantidades
 punto
-.
 podríamos
 habernos
 constituido
@@ -4653,7 +4444,6 @@ el
 ministerio
 es
 determinante
-.
 si
 tienes
 más
@@ -4696,7 +4486,6 @@ vendérselo
 a
 a
 alguien
-.
 nosotros
 nunca
 hemos
@@ -4727,7 +4516,6 @@ de
 la
 administración
 pública
-.
 en
 la
 vida
@@ -4782,7 +4570,6 @@ con
 la
 administración
 no
-.
 el
 donde
 sí
@@ -4812,7 +4599,6 @@ sociedades
 de
 capital
 riesgo
-.
 nosotros
 empezamos
 la
@@ -4850,7 +4636,6 @@ no
 ya
 estamos
 acostumbrados
-.
 sin
 embargo
 estamos
@@ -4881,7 +4666,6 @@ ganamos
 el
 primer
 premio
-.
 y
 era
 la
@@ -4917,7 +4701,6 @@ dieron
 el
 primer
 premio
-.
 y
 no
 había
@@ -4930,7 +4713,6 @@ el
 tribunal
 etcétera
 etcétera
-.
 porque
 sirve
 para
@@ -4940,7 +4722,6 @@ no
 sirve
 para
 nada
-.
 y
 y
 en
@@ -4955,7 +4736,6 @@ más
 o
 menos
 clara
-.
 y
 que
 la
@@ -4999,7 +4779,6 @@ mil
 por
 ejemplo
 no
-.
 más
 comentarios
 algo
@@ -5044,7 +4823,6 @@ trabajo
 a
 la
 administración
-.
 porque
 un
 elemento
@@ -5079,7 +4857,6 @@ proyecto
 y
 y
 obtenerlo
-.
 generalmente
 las
 experiencias
@@ -5107,7 +4884,6 @@ en
 el
 sentido
 económico
-.
 quiero
 decir
 que
@@ -5133,7 +4909,6 @@ duras
 penas
 el
 trabajo
-.
 cambiar
 esa
 esa
@@ -5194,7 +4969,6 @@ concursos
 ganarlos
 y
 producir
-.
 y
 una
 ley
@@ -5234,7 +5008,6 @@ públicas
 ni
 las
 empresas
-.
 bueno
 sí
 una
@@ -5274,7 +5047,6 @@ contento
 puede
 ser
 heroico
-.
 es
 decir
 puede
@@ -5352,7 +5124,6 @@ de
 esos
 con
 concursos
-.
 y
 en
 muchas
@@ -5413,7 +5184,6 @@ uno
 de
 esos
 concursos
-.
 y
 la
 única
@@ -5456,7 +5226,6 @@ vuelto
 a
 a
 explotar
-.
 yo
 un
 un
@@ -5495,7 +5264,6 @@ de
 su
 facturación
 anual
-.
 entonces
 en
 principio
@@ -5534,7 +5302,6 @@ de
 trescientos
 mil
 euros
-.
 más
 allá
 es
@@ -5548,7 +5315,6 @@ y
 no
 se
 arriesgan
-.
 eh
 y
 eso
@@ -5573,7 +5339,6 @@ una
 dimensión
 económica
 fuerte
-.
 entonces
 es
 un
@@ -5585,7 +5350,6 @@ y
 es
 una
 limitación
-.
 y
 hemos
 de
@@ -5645,7 +5409,6 @@ siendo
 marginales
 en
 ellos
-.
 bien
 algún
 comentario
@@ -5710,7 +5473,6 @@ bueno
 un
 primer
 paso
-.
 lo
 lo
 que
@@ -5737,7 +5499,6 @@ que
 pueda
 haber
 detrás
-.
 o
 sea
 no
@@ -5751,7 +5512,6 @@ de
 la
 administración
 pública
-.
 el
 soporte
 es
@@ -5783,7 +5543,6 @@ a
 una
 única
 empresa
-.
 tsystems
 con
 lo
@@ -5827,7 +5586,6 @@ mercado
 informático
 en
 cataluña
-.
 es
 decir
 o
@@ -5855,7 +5613,6 @@ son
 dimensiones
 dimensionados
 iguales
-.
 y
 esto
 es
@@ -5879,7 +5636,6 @@ recursos
 y
 de
 crecer
-.
 eso
 ahora
 ha
@@ -5895,7 +5651,6 @@ es
 un
 handicap
 realmente
-.
 bueno
 pues
 por
@@ -5916,7 +5671,6 @@ necesita
 para
 crear
 empresas
-.
 si
 pensáis
 que
@@ -5945,7 +5699,6 @@ investigadores
 aquí
 y
 allá
-.
 o
 si
 es
@@ -5966,7 +5719,6 @@ raíz
 de
 vuestra
 experiencia
-.
 yo
 como
 gran
@@ -5975,7 +5727,6 @@ doy
 un
 consejo
 gratuito
-.
 el
 o
 sea
@@ -5989,7 +5740,6 @@ lanza
 por
 favor
 pensadlo
-.
 es
 decir
 el
@@ -6031,7 +5781,6 @@ vamos
 a
 por
 ello
-.
 entonces
 nos
 preocupamos
@@ -6051,7 +5800,6 @@ solo
 cuando
 nos
 falta
-.
 una
 empresa
 es
@@ -6093,7 +5841,6 @@ debe
 montar
 una
 empresa
-.
 es
 decir
 aprender
@@ -6125,7 +5872,6 @@ es
 decir
 es
 todo
-.
 es
 dónde
 guardar
@@ -6137,7 +5883,6 @@ porque
 nadie
 te
 protege
-.
 es
 decir
 el
@@ -6176,7 +5921,6 @@ llevar
 adelante
 una
 sociedad
-.
 insisto
 una
 contabilidad
@@ -6205,7 +5949,6 @@ puede
 frenar
 una
 inversión
-.
 es
 decir
 si
@@ -6233,7 +5976,6 @@ básicos
 de
 una
 empresa
-.
 porque
 como
 hemos
@@ -6251,7 +5993,6 @@ empresas
 que
 base
 tecnológica
-.
 vale
 es
 decir
@@ -6291,7 +6032,6 @@ los
 que
 estamos
 aquí
-.
 es
 decir
 son
@@ -6313,7 +6053,6 @@ lo
 mejor
 es
 tecnológica
-.
 punto
 y
 final
@@ -6365,7 +6104,6 @@ ya
 está
 escrito
 no
-.
 es
 decir
 si
@@ -6382,7 +6120,6 @@ o
 hacerse
 un
 curso
-.
 yo
 ya
 añadir
@@ -6398,7 +6135,6 @@ es
 una
 mala
 idea
-.
 es
 decir
 hay
@@ -6416,7 +6152,6 @@ que
 tú
 puedes
 tener
-.
 digo
 o
 si
@@ -6452,7 +6187,6 @@ que
 él
 lo
 necesita
-.
 entonces
 una
 empresa
@@ -6531,7 +6265,6 @@ y
 unos
 buenos
 rotos
-.
 tres
 cinco
 años
@@ -6552,7 +6285,6 @@ al
 tercer
 o
 quinto
-.
 cuando
 ya
 te
@@ -6571,7 +6303,6 @@ más
 más
 complicado
 no
-.
 enric
 algún
 comentario
@@ -6600,7 +6331,6 @@ un
 buen
 departamento
 comercial
-.
 que
 a
 fin
@@ -6665,7 +6395,6 @@ sobre
 todo
 una
 ambición
-.
 porque
 es
 muy
@@ -6701,7 +6430,6 @@ qué
 nivel
 quiere
 llegar
-.
 es
 un
 aspecto
@@ -6742,7 +6470,6 @@ demás
 que
 somos
 nosotros
-.
 no
 es
 lo
@@ -6780,7 +6507,6 @@ que
 es
 la
 empresa
-.
 eso
 va
 a
@@ -6803,7 +6529,6 @@ a
 dónde
 queremos
 llegar
-.
 que
 nuestra
 empresa
@@ -6817,7 +6542,6 @@ aquella
 facturación
 que
 queremos
-.
 no
 se
 pueden
@@ -6837,7 +6561,6 @@ una
 administrativa
 y
 un
-.
 de
 la
 misma
@@ -6909,7 +6632,6 @@ ambición
 necesaria
 para
 empujar
-.
 porque
 llevar
 tirar
@@ -6945,7 +6667,6 @@ administración
 de
 empresas
 directamente
-.
 esta
 es
 la
@@ -6982,10 +6703,6 @@ ya
 no
 los
 tenemos
-.
-(%com:
-everybody
-laughs)
 una
 empresa
 no
@@ -6998,7 +6715,6 @@ mba
 no
 es
 eso
-.
 una
 empresa
 es
@@ -7020,7 +6736,6 @@ ayudas
 o
 los
 auxilios
-.
 es
 más
 importante
@@ -7048,7 +6763,6 @@ contabilidad
 la
 llevas
 bien
-.
 porque
 es
 importante
@@ -7081,7 +6795,6 @@ no
 vale
 para
 nada
-.
 eh
 necesitas
 disponer
@@ -7097,7 +6810,6 @@ lo
 que
 sea
 necesario
-.
 pero
 sobre
 todo
@@ -7112,7 +6824,6 @@ la
 idea
 de
 meter
-.
 y
 eso
 cualquiera
@@ -7134,7 +6845,6 @@ luchar
 y
 a
 sacrificarse
-.
 pero
 eso
 me
@@ -7170,7 +6880,6 @@ ser
 capaces
 de
 movernos
-.
 lo
 único
 que
@@ -7186,7 +6895,6 @@ empresa
 es
 funcionario
 público
-.
 es
 lo
 único
@@ -7206,7 +6914,6 @@ ser
 en
 tu
 vida
-.
 yo
 creo
 que
@@ -7233,7 +6940,6 @@ de
 análisis
 de
 mercado
-.
 ese
 ese
 es
@@ -7264,7 +6970,6 @@ permite
 llegar
 al
 mercado
-.
 porque
 nosotros
 con
@@ -7287,7 +6992,6 @@ nos
 dé
 la
 gana
-.
 lo
 que
 queramos
@@ -7336,7 +7040,6 @@ la
 tiene
 que
 crear
-.
 y
 normalmente
 ese
@@ -7365,7 +7068,6 @@ que
 ser
 un
 comercial
-.
 que
 sepa
 llegar
@@ -7391,7 +7093,6 @@ cumplimentar
 esa
 esa
 necesidad
-.
 yo
 creo
 que
@@ -7418,7 +7119,6 @@ tu
 tecnología
 es
 capaz
-.
 es
 capaz
 de
@@ -7448,7 +7148,6 @@ muy
 difícil
 de
 comunicar
-.
 muy
 bien
 yo
@@ -7479,7 +7178,6 @@ y
 lo
 vamos
 resolviendo
-.
 pero
 bueno
 justo
@@ -7504,7 +7202,6 @@ empresa
 y
 la
 investigación
-.
 en
 el
 mundo
@@ -7533,7 +7230,6 @@ fundamentalmente
 también
 publicaciones
 no
-.
 se
 publica
 como
@@ -7563,7 +7259,6 @@ grupo
 en
 la
 universidad
-.
 entran
 en
 juego
@@ -7582,7 +7277,6 @@ fin
 este
 tipo
 de
-.
 la
 relación
 entre
@@ -7600,7 +7294,6 @@ se
 constituye
 una
 empresa
-.
 la
 diferencia
 principal
@@ -7611,7 +7304,6 @@ en
 el
 objetivo
 final
-.
 la
 empresa
 tiene
@@ -7647,7 +7339,6 @@ que
 tenía
 cuando
 empezó
-.
 entonces
 eso
 marca
@@ -7661,7 +7352,6 @@ en
 isoco
 sí
 publicamos
-.
 cuando
 podemos
 publicamos
@@ -7679,7 +7369,6 @@ en
 el
 mismo
 área
-.
 ahora
 en
 en
@@ -7693,7 +7382,6 @@ objetivo
 en
 sí
 mismo
-.
 en
 isoco
 el
@@ -7719,7 +7407,6 @@ proyecto
 con
 con
 éxito
-.
 pero
 el
 objetivo
@@ -7735,7 +7422,6 @@ una
 empresa
 de
 transferencia
-.
 no
 hacemos
 investigación
@@ -7750,7 +7436,6 @@ sea
 muy
 lejana
 no
-.
 bueno
 pero
 hay
@@ -7784,7 +7469,6 @@ hace
 alguno
 un
 doctorado
-.
 entonces
 ahí
 alguna
@@ -7816,7 +7500,6 @@ lo
 hacemos
 esto
 no
-.
 pues
 ahí
 también
@@ -7876,7 +7559,6 @@ producto
 de
 alguna
 manera
-.
 y
 nuestra
 preocupación
@@ -7921,7 +7603,6 @@ unos
 códigos
 muy
 sucios
-.
 y
 te
 pasas
@@ -7933,7 +7614,6 @@ aquí
 limpiando
 el
 código
-.
 empiezan
 a
 hablar
@@ -7956,7 +7636,6 @@ pues
 será
 así
 no
-.
 en
 este
 momento
@@ -7975,7 +7654,6 @@ tema
 de
 estos
 no
-.
 limpiando
 el
 código
@@ -8023,7 +7701,6 @@ entregar
 el
 producto
 no
-.
 desde
 la
 la
@@ -8057,7 +7734,6 @@ trabajarlo
 un
 poco
 no
-.
 y
 también
 el
@@ -8105,7 +7781,6 @@ convendría
 que
 hiciese
 eso
-.
 y
 casar
 el
@@ -8138,7 +7813,6 @@ momento
 en
 la
 universidad
-.
 o
 en
 nuestro
@@ -8171,7 +7845,6 @@ y
 que
 es
 importante
-.
 nosotros
 en
 daedalus
@@ -8210,7 +7883,6 @@ la
 investigación
 y
 viceversa
-.
 lo
 que
 aprendemos
@@ -8250,7 +7922,6 @@ publicitario
 entre
 comillas
 no
-.
 pues
 tienes
 un
@@ -8269,7 +7940,6 @@ que
 puede
 dar
 cierto
-.
 prestigio
 eso
 es
@@ -8378,7 +8048,6 @@ punto
 de
 vista
 práctico
-.
 qué
 problemática
 os
@@ -8394,7 +8063,6 @@ de
 de
 los
 problemas
-.
 quizá
 terminando
 con
@@ -8413,7 +8081,6 @@ y
 no
 ha
 salido
-.
 pues
 ahí
 bueno
@@ -8424,7 +8091,6 @@ tiene
 un
 problema
 importantísimo
-.
 y
 es
 que
@@ -8443,7 +8109,6 @@ tenga
 tu
 código
 fuente
-.
 porque
 es
 un
@@ -8506,7 +8171,6 @@ se
 lo
 proponen
 no
-.
 y
 les
 interesa
@@ -8522,7 +8186,6 @@ para
 ellos
 o
 económico
-.
 entonces
 proteger
 es
@@ -8544,7 +8207,6 @@ persona
 que
 lo
 hizo
-.
 porque
 creen
 que
@@ -8579,7 +8241,6 @@ tío
 que
 escribe
 otra
-.
 no
 hay
 dos
@@ -8602,7 +8263,6 @@ cien
 veces
 además
 eh
-.
 entonces
 no
 el
@@ -8634,7 +8294,6 @@ eso
 no
 es
 verdad
-.
 con
 todos
 mis
@@ -8672,7 +8331,6 @@ vas
 a
 tu
 casa
-.
 y
 no
 tienes
@@ -8705,7 +8363,6 @@ de
 hoy
 en
 día
-.
 bueno
 pues
 tú
@@ -8728,7 +8385,6 @@ te
 lo
 ha
 pagado
-.
 bueno
 o
 sea
@@ -8744,11 +8400,9 @@ mezclan
 y
 es
 difícil
-%eh
 nos
 alargaríamos
 mucho
-.
 es
 decir
 la
@@ -8818,7 +8472,6 @@ registro
 de
 propiedad
 intelectual
-.
 vale
 sin
 eso
@@ -8910,7 +8563,6 @@ instrumentos
 legales
 de
 protección
-.
 patentes
 no
 existen
@@ -8927,7 +8579,6 @@ de
 la
 propiedad
 intelectual
-.
 que
 es
 relativamente
@@ -8960,7 +8611,6 @@ importa
 que
 sean
 nuestras
-.
 en
 el
 sentido
@@ -8990,7 +8640,6 @@ hecho
 y
 lo
 usarán
-.
 no
 lo
 venderán
@@ -9020,7 +8669,6 @@ económico
 por
 esta
 situación
-.
 a
 lo
 mejor
@@ -9045,7 +8693,6 @@ que
 esto
 genere
 problemas
-.
 no
 están
 compitiendo
@@ -9067,7 +8714,6 @@ de
 cara
 a
 posibles
-.
 yo
 no
 no
@@ -9088,7 +8734,6 @@ no
 sea
 transmisible
 fácilmente
-.
 pero
 en
 general
@@ -9122,7 +8767,6 @@ se
 respetan
 los
 derechos
-.
 en
 principio
 y
@@ -9135,7 +8779,6 @@ problemas
 de
 este
 tipo
-.
 pero
 existe
 sí
@@ -9156,7 +8799,6 @@ que
 hay
 mayores
 problemas
-.
 porque
 hay
 algunas
@@ -9210,7 +8852,6 @@ someter
 a
 software
 libre
-.
 en
 el
 sentido
@@ -9231,7 +8872,6 @@ excesivamente
 el
 el
 programa
-.
 lo
 único
 que
@@ -9278,7 +8918,6 @@ no
 los
 puedes
 liberar
-.
 y
 esto
 nos
@@ -9304,7 +8943,6 @@ corrector
 gramatical
 del
 catalán
-.
 en
 donde
 se
@@ -9339,7 +8977,6 @@ ni
 en
 estos
 momentos
-.
 pero
 no
 nos
@@ -9361,7 +8998,6 @@ mayor
 capacidad
 de
 protección
-.
 sobre
 todo
 en
@@ -9406,7 +9042,6 @@ de
 microsoft
 o
 de
-.
 entonces
 bien
 esos
@@ -9431,7 +9066,6 @@ tampoco
 nos
 afecta
 tanto
-.
 no
 sé
 yo
@@ -9447,7 +9081,6 @@ software
 libre
 no
 sé
-.
 nosotros
 nuestro
 producto
@@ -9464,7 +9097,6 @@ está
 en
 código
 libre
-.
 está
 en
 internet
@@ -9512,7 +9144,6 @@ las
 necesidades
 del
 cliente
-.
 porque
 evidentemente
 los
@@ -9530,7 +9161,6 @@ org
 pues
 son
 limitados
-.
 y
 si
 tú
@@ -9587,7 +9217,6 @@ a
 tener
 muchos
 problemas
-.
 igual
 le
 va
@@ -9616,7 +9245,6 @@ necesidades
 propias
 del
 cliente
-.
 luego
 en
 temas
@@ -9648,7 +9276,6 @@ de
 las
 entidades
 financieras
-.
 el
 acceso
 etcétera
@@ -9682,7 +9309,6 @@ de
 vista
 un
 problema
-.
 es
 decir
 tienes
@@ -9713,7 +9339,6 @@ en
 esa
 área
 concreta
-.
 en
 este
 momento
@@ -9756,7 +9381,6 @@ colgado
 de
 la
 red
-.
 para
 para
 linux
@@ -9789,7 +9413,6 @@ no
 se
 le
 renovará
-.
 nosotros
 estamos
 renovando
@@ -9824,7 +9447,6 @@ unificado
 todos
 los
 meses
-.
 y
 en
 todos
@@ -9858,7 +9480,6 @@ su
 modelo
 de
 negocio
-.
 igual
 que
 eso
@@ -9874,7 +9495,6 @@ mucho
 y
 bastante
 largamente
-.
 bueno
 no
 nos
@@ -9885,7 +9505,6 @@ acaso
 un
 último
 comentario
-.
 no
 yo
 quería
@@ -9909,7 +9528,6 @@ de
 de
 quién
 investiga
-.
 la
 universidad
 o
@@ -9923,7 +9541,6 @@ se
 interrelaciona
 esta
 investigación
-.
 por
 lo
 menos
@@ -9935,7 +9552,6 @@ investigación
 la
 hacemos
 todos
-.
 más
 o
 menos
@@ -9972,7 +9588,6 @@ tenga
 una
 determinada
 importancia
-.
 en
 la
 empresa
@@ -9997,7 +9612,6 @@ que
 un
 cliente
 tiene
-.
 que
 no
 había
@@ -10045,7 +9659,6 @@ no
 no
 vendemos
 móviles
-.
 hacemos
 cosas
 específicas
@@ -10140,7 +9753,6 @@ y
 vamos
 a
 cobrarla
-.
 comentar
 aquí
 que
@@ -10156,7 +9768,6 @@ a
 estudiantes
 que
 acaban
-.
 como
 tenemos
 buenas
@@ -10310,7 +9921,6 @@ en
 una
 empresa
 trabajando
-.
 y
 eso
 es
@@ -10334,7 +9944,6 @@ investigador
 de
 esta
 persona
-.
 lo
 cual
 es
@@ -10383,7 +9992,6 @@ esta
 gente
 y
 desarrollarla
-.
 y
 es
 una
@@ -10398,7 +10006,6 @@ deberían
 pensárselo
 dos
 veces
-.
 de
 todas
 maneras
@@ -10413,7 +10020,6 @@ tenemos
 que
 hacer
 todos
-.
 porque
 investigación
 es
@@ -10442,7 +10048,6 @@ nuestras
 características
 debe
 desarrollar
-.
 bueno
 si
 queréis
@@ -10459,7 +10064,6 @@ ya
 por
 por
 fin
-.
 me
 gustaría
 preguntaros
@@ -10485,14 +10089,12 @@ vuestros
 productos
 en
 investigación
-.
 cómo
 conseguís
 decir
 lo
 que
 cuestan
-.
 es
 una
 cuestión
@@ -10514,7 +10116,6 @@ cómo
 dais
 ese
 precio
-.
 es
 una
 cuestión
@@ -10553,7 +10154,6 @@ encontrar
 para
 esa
 solución
-.
 yo
 creo
 que
@@ -10615,7 +10215,6 @@ propios
 entornos
 de
 trabajo
-.
 vale
 pues
 como
@@ -10649,7 +10248,6 @@ de
 datos
 a
 sus
-.
 entonces
 eso
 es
@@ -10712,21 +10310,18 @@ que
 tienes
 que
 resolver
-.
 entonces
 la
 ecuación
 perfecta
 no
 sé
-.
 yo
 no
 sé
 cómo
 lo
 veis
-.
 yo
 yo
 yo
@@ -10776,7 +10371,6 @@ que
 nos
 cuesta
 producirlo
-.
 y
 es
 así
@@ -10859,7 +10453,6 @@ por
 lo
 que
 puedes
-.
 por
 lo
 que
@@ -10901,7 +10494,6 @@ haces
 lo
 que
 puedes
-.
 pero
 en
 todo
@@ -10916,7 +10508,6 @@ que
 es
 una
 empresa
-.
 es
 una
 parte
@@ -10958,7 +10549,6 @@ teníamos
 de
 un
 producto
-.
 eh
 hemos
 cerrado
@@ -10989,7 +10579,6 @@ y
 que
 está
 bien
-.
 pero
 bueno
 que
@@ -11007,7 +10596,6 @@ reyes
 magos
 desgracias
 absolutas
-.
 así
 se
 venden
@@ -11040,7 +10628,6 @@ que
 te
 puede
 pagar
-.
 eso
 porque
 porque
@@ -11097,7 +10684,6 @@ diseñar
 y
 en
 documentar
-.
 eso
 sí
 nosotros
@@ -11123,7 +10709,6 @@ la
 cartera
 de
 clientes
-.
 es
 decir
 por
@@ -11202,7 +10787,6 @@ discusiones
 sí
 tienes
 no
-.
 entonces
 es
 el
@@ -11231,7 +10815,6 @@ estas
 herramientas
 lingüísticas
 realmente
-.
 es
 decir
 si
@@ -11271,7 +10854,6 @@ de
 gestión
 para
 ellos
-.
 si
 existe
 si
@@ -11309,7 +10891,6 @@ así
 arreglamos
 el
 tema
-.
 y
 no
 se
@@ -11331,7 +10912,6 @@ tipo
 de
 situaciones
 no
-.
 es
 decir
 si
@@ -11367,7 +10947,6 @@ de
 herramientas
 puede
 tener
-.
 pues
 igual
 sí
@@ -11398,7 +10977,6 @@ cosa
 práctica
 enseguida
 no
-.
 pero
 yo
 para
@@ -11431,7 +11009,6 @@ me
 aporta
 a
 mí
-.
 pues
 en
 dinero
@@ -11464,7 +11041,6 @@ menos
 de
 nuestro
 entorno
-.
 no
 sé
 cómo
@@ -11499,7 +11075,6 @@ de
 la
 del
 multilingüismo
-.
 pues
 nada
 algún
@@ -11538,7 +11113,6 @@ nos
 iría
 mucho
 mejor
-.
 es
 decir
 nosotros
@@ -11580,7 +11154,6 @@ su
 lista
 de
 clientes
-.
 aunque
 sea
 mentira
@@ -11686,7 +11259,6 @@ vendiendo
 empresas
 de
 fuera
-.
 que
 no
 saben
@@ -11705,7 +11277,6 @@ euskera
 ni
 el
 gallego
-.
 ni
 les
 interesa
@@ -11733,7 +11304,6 @@ ese
 en
 esa
 piscina
-.
 eh
 pero
 contra
@@ -11783,7 +11353,6 @@ preguntas
 en
 lenguaje
 natural
-.
 o
 sea
 espectacular
@@ -11826,7 +11395,6 @@ o
 lo
 que
 sea
-.
 bueno
 eso
 es
@@ -11888,7 +11456,6 @@ muy
 pequeña
 medida
 no
-.
 yo
 lo
 que
@@ -11899,7 +11466,6 @@ es
 pura
 culpa
 nuestra
-.
 exacto
 eso
 digo
@@ -11944,7 +11510,6 @@ compren
 fuera
 por
 supuesto
-.
 o
 sea
 en
@@ -11970,7 +11535,6 @@ alguien
 alguien
 lo
 cogerá
-.
 y
 pasará
 eso
@@ -12017,7 +11581,6 @@ no
 vuelva
 a
 pasar
-.
 como
 tú
 decías
@@ -12031,7 +11594,6 @@ tener
 un
 buen
 comercial
-.
 sobre
 todo
 si
@@ -12093,7 +11655,6 @@ que
 tienen
 buenos
 comerciales
-.
 y
 eso
 es
@@ -12119,7 +11680,6 @@ como
 como
 las
 nuestras
-.
 bueno
 hay
 otros
@@ -12150,7 +11710,6 @@ venir
 aquí
 a
 vender
-.
 a
 que
 sí
@@ -12168,7 +11727,6 @@ facilidad
 de
 acceso
 al
-.
 mercado
 pero
 mejor
@@ -12201,7 +11759,6 @@ profeta
 en
 su
 tierra
-.
 pero
 existen
 mecanismos
@@ -12223,7 +11780,6 @@ parece
 que
 hay
 mercado
-.
 es
 decir
 para
@@ -12248,7 +11804,6 @@ parece
 que
 hay
 mercado
-.
 o
 el
 mercado
@@ -12294,7 +11849,6 @@ con
 el
 comentario
 anterior
-.
 muchas
 veces
 cuando
@@ -12318,7 +11872,6 @@ para
 conseguir
 una
 cosa
-.
 entonces
 tú
 no
@@ -12338,7 +11891,6 @@ que
 te
 están
 ofertando
-.
 es
 una
 situación
@@ -12354,7 +11906,6 @@ simplemente
 despreciar
 este
 proyecto
-.
 nosotros
 o
 al
@@ -12374,7 +11925,6 @@ un
 país
 de
 innovadores
-.
 o
 de
 gente
@@ -12408,7 +11958,6 @@ tiene
 un
 sistema
 nuevo
-.
 lo
 que
 hablamos
@@ -12425,7 +11974,6 @@ sueco
 porque
 son
 suecos
-.
 entonces
 y
 allí
@@ -12448,7 +11996,6 @@ y
 la
 están
 aplicando
-.
 bien
 quiero
 decir
@@ -12468,7 +12015,6 @@ ikea
 viniera
 a
 hacerlo
-.
 nadie
 yo
 no
@@ -12503,7 +12049,6 @@ consulta
 en
 lenguaje
 natural
-.
 ni
 se
 me
@@ -12568,7 +12113,6 @@ tener
 para
 ser
 primero
-.
 el
 único
 momento
@@ -12608,7 +12152,6 @@ a
 abusar
 como
 brutos
-.
 entonces
 no
 tienen
@@ -12657,7 +12200,6 @@ de
 inversión
 en
 id
-.
 por
 qué
 dice
@@ -12714,7 +12256,6 @@ treinta
 o
 cuarenta
 veces
-.
 o
 se
 ha
@@ -12751,7 +12292,6 @@ de
 cosas
 de
 aplicaciones
-.
 aquí
 no
 lo
@@ -12988,7 +12528,6 @@ trabajos
 del
 mes
 no
-.
 el
 mercado
 de
@@ -13005,7 +12544,6 @@ que
 exige
 mucho
 esfuerzo
-.
 y
 es
 un
@@ -13020,7 +12558,6 @@ nosotros
 lo
 a
 ver
-.
 estamos
 creando
 el
@@ -13049,7 +12586,6 @@ con
 las
 actividades
 sociales
-.
 para
 que
 socialmente
@@ -13072,7 +12608,6 @@ que
 cualquier
 otra
 cosa
-.
 porque
 lo
 conoce
@@ -13103,7 +12638,6 @@ catalán
 ni
 de
 nada
-.
 simplemente
 porque
 nadie
@@ -13145,7 +12679,6 @@ al
 final
 tengas
 éxito
-.
 bueno
 vamos
 yendo
@@ -13179,7 +12712,6 @@ a
 las
 preguntas
 de
-.
 no
 porque
 nosotros
@@ -13206,7 +12738,6 @@ que
 es
 la
 lengua
-.
 es
 decir
 el
@@ -13243,7 +12774,6 @@ el
 mercado
 del
 euskera
-.
 es
 decir
 nosotros
@@ -13266,7 +12796,6 @@ más
 vendido
 del
 mercado
-.
 que
 copa
 el
@@ -13326,7 +12855,6 @@ no
 entremos
 en
 política
-.
 de
 catalanohablantes
 entonces
@@ -13350,7 +12878,6 @@ posibles
 incursiones
 del
 exterior
-.
 pero
 nuestro
 problema
@@ -13390,7 +12917,6 @@ pues
 no
 lo
 entiendo
-.
 a
 nosotros
 nos
@@ -13423,11 +12949,9 @@ dado
 ni
 una
 peseta
-.
 eso
 es
 así
-.
 por
 qué
 porque
@@ -13446,7 +12970,6 @@ capaces
 de
 hacer
 eso
-.
 y
 se
 van
@@ -13487,7 +13010,6 @@ para
 no
 conseguir
 nada
-.
 bueno
 pero
 también
@@ -13526,7 +13048,6 @@ les
 podíamos
 conseguir
 algo
-.
 es
 decir
 ese
@@ -13553,7 +13074,6 @@ tecnología
 del
 país
 funcione
-.
 y
 cuando
 pusimos
@@ -13569,7 +13089,6 @@ gente
 de
 la
 administración
-.
 es
 que
 mira
@@ -13629,7 +13148,6 @@ al
 respecto
 por
 aquí
-.
 pues
 sí
 no
@@ -13671,7 +13189,6 @@ acceso
 a
 la
 información
-.
 entonces
 pues
 ahí
@@ -13689,7 +13206,6 @@ era
 lo
 que
 hacían
-.
 o
 sea
 si
@@ -13749,7 +13265,6 @@ va
 a
 pensar
 poco
-.
 entonces
 además
 de
@@ -13781,7 +13296,6 @@ son
 proyectos
 muy
 especiales
-.
 son
 proyectos
 que
@@ -13831,7 +13345,6 @@ vez
 que
 el
 proyecto
-.
 y
 y
 y
@@ -13846,7 +13359,6 @@ el
 carácter
 del
 proyecto
-.
 pues
 muy
 bien
@@ -13857,4 +13369,3 @@ por
 aquí
 había
 una
-.

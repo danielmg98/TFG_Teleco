@@ -22,11 +22,7 @@ ANS  de alguna manera aquí podéis tener un mercado potencial  y aquel que sea 
 
 ANS  pero bueno  hacerlo dinámico para que esto pues  pues  vaya  a buen ritmo y sea entretenido para todos  no 02:14
 
-ANS  bueno  pues  y por supuesto si  hay alguna mano que se levanta entre el público en un momento dado   pues  inmediatamente  tomará  el protagonismo  de acuerdo 02:24
-
-ANS  nos interrumpimos  volvemos a tomar la  la palabra  etcétera 02:28
-
-ANS  desorden total   02:29
+ANS  bueno  pues  y por supuesto si  hay alguna mano que se levanta entre el público en un momento dado  02:29
 
 ANS  bueno  os voy a dejar que os presentéis  si queréis  pues  de derecha a izquierda  decís el nombre  vuestro  o qué  papel tenéis en la empresa  el nombre de vuestra empresa  y pues un  brevemente a qué os dedicáis  de acuerdo 02:47
 
@@ -94,9 +90,7 @@ LRO  ahora mismo el departamento de lo que es  investigación ID seremos  aproxi
 
 LRO  entonces  pues como clientes  tendríamos ahora mismo pues a  dependiendo del producto del que hablemos  pueden ser grandes compañías  tipo  Gas Natural o Danone  o de  compañías de ese tamaño  y son productos de los que ya hemos transferido y que están asentados  por ejemplo en mercados de  subasta electrónica  y  y BtoB  o  bueno pues clientes de un tamaño un poco más reducido si por ejemplo se trata de los  proyectos piloto que estamos vendiendo en el Lab que  podrían ser  pues la Residencia de Estudiantes o  el  la Fundación Marcelino Botín  o  por ejemplo el Real Instituto Elcano  11:59
 
-JSL bueno  en DAEDALUS el tamaño de la empresa es más pequeño  no llegamos a esos sesenta y pico  nos quedamos en unos  doce catorce aproximadamente   y  y bueno pues en cuanto a  datos que  hablabas de facturación  la facturación del año pasado  creo que fueron unos  quinientos mil euros si no me  si no me equivoco  aproximadamente  con unos beneficios de unos ciento  de unos ciento veinte mil euros  sobre clientes de referencia  pues antes he mencionado alguno el diario El País o El Mundo punto es  y bueno pues  dentro de la plantilla hay gente  que se dedica específicamente al tema de  Lingüística    por aquello de  por aquello de las herramientas de  corrección obviamente  y  y el resto pues somos más  ingenieros  desarrolladores  dirección de proyecto  etcétera 12:45
-
-ANS   12:47
+JSL bueno  en DAEDALUS el tamaño de la empresa es más pequeño  no llegamos a esos sesenta y pico  nos quedamos en unos  doce catorce aproximadamente   12:47
 
 ENR   12:49
 
@@ -124,7 +118,7 @@ ANS si alguien quiere comentar algo al respecto    adelante 15:03
 
 ANT el  nosotros somos seis personas en plantilla ahora mismo  nos parece algo heroico  es decir estamos orgullosísimos  empezamos siendo una sola persona   y a ver si no quebrábamos 15:12
 
-ANT  era un auténtico plural de modestia  ese  y  ahora somos seis personas en plantilla  es decir  son seis personas que van todos los días  que cobran un mes  todos los meses su sueldo  y tenemos otras seis personas  digamos satélites  que colaboran con nosotros según  según proyecto  una peculiaridad es que nosotros  excepto uno somos filólogos  es decir  excepto el (director) comercial  que los filólogos no  parece que no valemos  el  todo los demás somos lingüistas  que saben más o menos algo de informática  y lo que tenemos externalizado   es el puro desarrollo  informático  nos parece que es secundario  en esta  en esta industria  clientes de referencia  pues nuestro primer cliente importante fue el   Atos  una de las consultoras más grandes  muy aficionados a los proyectos europeos  con ellos llegamos a facturar  junto con ellos  no digo nosotros solos  alrededor de ocho millones de euros  en tres proyectos diferentes  luego hemos tenido clientes como RENFE  el  Ministerio de la Presidencia  el Centro Nacional de Inteligencia  del Ministerio de Defensa  algún despacho  privado de abogados  y de economistas  es decir una  clientela como veis de lo más  dispar en cuanto al origen  y  a  la cantidad de dinero que suministran  y nuestra facturación es más modesta  nosotros esperamos facturar este mes  este año perdón  trescientos mil euros  alrededor de  de esa cifra 16:32
+ANT  era un auténtico plural de modestia  ese  y  ahora somos seis personas en plantilla  es decir  son seis personas que van todos los días  que cobran un mes  todos los meses su sueldo  y tenemos otras seis personas  digamos satélites  que colaboran con nosotros según  según proyecto  una peculiaridad es que nosotros  excepto uno somos filólogos  es decir  excepto el  comercial  que los filólogos no  parece que no valemos  el  todo los demás somos lingüistas  que saben más o menos algo de informática  y lo que tenemos externalizado   es el puro desarrollo  informático  nos parece que es secundario  en esta  en esta industria  clientes de referencia  pues nuestro primer cliente importante fue el   Atos  una de las consultoras más grandes  muy aficionados a los proyectos europeos  con ellos llegamos a facturar  junto con ellos  no digo nosotros solos  alrededor de ocho millones de euros  en tres proyectos diferentes  luego hemos tenido clientes como RENFE  el  Ministerio de la Presidencia  el Centro Nacional de Inteligencia  del Ministerio de Defensa  algún despacho  privado de abogados  y de economistas  es decir una  clientela como veis de lo más  dispar en cuanto al origen  y  a  la cantidad de dinero que suministran  y nuestra facturación es más modesta  nosotros esperamos facturar este mes  este año perdón  trescientos mil euros  alrededor de  de esa cifra 16:32
 
 ANT  vale 16:32
 
@@ -528,7 +522,7 @@ ENR ni se hace ni se nace 39:54
 
 ENR  se puede aprender  en administración de empresas  no sé qué les enseñan  nosotros hemos tenido MBAs y ya no los tenemos 40:02
 
-ENR  (%com: everybody laughs) una empresa no es un emprendedor más un MBA  no es eso 40:08
+ENR   una empresa no es un emprendedor más un MBA  no es eso 40:08
 
 ENR  una empresa es una persona que está dispuesta a tirar para adelante  y que luego busca las ayudas  o los auxilios  40:14
 
@@ -724,7 +718,7 @@ ANT  igual que no tienes ningún derecho  si escribes un informe  de mercado de 
 
 ANT  bueno  pues tú escribes eso  te pagan  al final de mes  y ese estudio es de  el que te lo ha pagado 48:45
 
-ANT   bueno o sea se  hay un montón de conceptos que se mezclan y es difícil %eh  nos alargaríamos mucho 48:50
+ANT   bueno o sea se  hay un montón de conceptos que se mezclan y es difícil  nos alargaríamos mucho 48:50
 
 ANT  es decir  la autoría es la autoría  eso es  impepinable 48:53
 

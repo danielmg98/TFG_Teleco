@@ -202,7 +202,6 @@ la
 tesis
 lo
 veremos
-%eh
 pero
 adelantar
 un
@@ -216,7 +215,6 @@ líneas
 de
 futuro
 01:15
-%eh
 los
 buscadores
 cada
@@ -1397,7 +1395,6 @@ minería
 08:22
 en
 éste
-%eh
 básicamente
 son
 tratamiento
@@ -2403,7 +2400,6 @@ el
 estadístico
 efe
 14:41
-%eh
 el
 error
 se

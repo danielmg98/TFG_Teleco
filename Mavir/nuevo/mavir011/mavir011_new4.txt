@@ -10,7 +10,7 @@ ROD mi mayor  también  quiero mostrar mi agradecimiento al jurado  que ha tenid
 
 ROD mi mayor agradecimiento ahora va dedicado a mi director Anselmo Peñas  al cual le tengo que dedicar mucho  lo que ha sido mi carrera investigadora  00:41
 
-ROD también   dar las gracias  a todos mis compañeros y amigos  que me han estado apoyando  y todavía siguen en ello {%act: laugh}  a pesar de  de que siempre estoy comiéndome la cabeza con mis investigaciones  00:53
+ROD también   dar las gracias  a todos mis compañeros y amigos  que me han estado apoyando  y todavía siguen en ello {laugh}  a pesar de  de que siempre estoy comiéndome la cabeza con mis investigaciones  00:53
 
 ROD y  en  último lugar  aunque no por ello menos importante  quiero agradecer y dedicar este premio a toda mi familia  00:59
 
@@ -48,7 +48,7 @@ ROD para ello  un sistema de validación  recibiría  al igual que el sistema de
 
 ROD en el ejemplo anterior que tenemos  un sistema de validación debería indicar  que la respuesta es correcta  según el texto  03:04
 
-ROD de este modo  al incluir  al poder incluir criterios para considerar  los sistemas de búsqueda de respuestas  {%alt: pa} para considerar si sus  respuestas son o no correctas  se espera que se mejoren los resultados obtenidos  actualmente sin validación de respuestas  03:19
+ROD de este modo  al incluir  al poder incluir criterios para considerar  los sistemas de búsqueda de respuestas  {pa} para considerar si sus  respuestas son o no correctas  se espera que se mejoren los resultados obtenidos  actualmente sin validación de respuestas  03:19
 
 ROD y ahora voy a hablar de  reconocimiento de implicación textual  03:24
 
@@ -172,7 +172,7 @@ ROD y  lo pudimos desarrollar  de  dado la  multilingualidad del CLEF  en siete 
 
 ROD tuvimos una gran aceptación  y una gran participación  con once grupos  participantes  y un total de treinta y ocho ejecuciones  en distintos idiomas  11:03
 
-ROD ahora voy a hablaros  de la aproximación que nosotros proponemos para validación de respuestas  basándonos {%alt: basándono} en reconocimiento de entidades  11:12
+ROD ahora voy a hablaros  de la aproximación que nosotros proponemos para validación de respuestas  basándonos {basándono} en reconocimiento de entidades  11:12
 
 ROD para ello  primero voy a pasar  a  definiros  lo que nosotros consideramos entidades  11:17
 
@@ -188,7 +188,7 @@ ROD además  en implicación textual  en el foro más importante que se celebra 
 
 ROD con lo cual queríamos estudiar su importancia en esta tarea  12:09
 
-ROD dado {%alt: dada} que en   en  implicación textual  se considera  que para que haya implicación  todos los elementos de la hipótesis  han de ser implicados  por elementos del texto   llevando esto al campo de las entidades  nuestra propuesta es  que todas las entidades de la hipótesis  deben de estar implicadas  por entidades en el  en el texto  12:29
+ROD dado {dada} que en   en  implicación textual  se considera  que para que haya implicación  todos los elementos de la hipótesis  han de ser implicados  por elementos del texto   llevando esto al campo de las entidades  nuestra propuesta es  que todas las entidades de la hipótesis  deben de estar implicadas  por entidades en el  en el texto  12:29
 
 ROD de este modo  nosotros realizamos  dos propuestas  sobre  sobre implicación de entidades  12:36
 
@@ -254,7 +254,7 @@ ROD y también decidimos  comprobar los resultados de una serie de combinaciones
 
 ROD podemos ver que nuestro sistema SVM  a pesar de usar  perdón  16:24
 
-ROD {%com: he drinks}  perdón  nuestro sistema SVM  a pesar de usar atributos  muy sencillos solapamiento léxico   obtenía un valor  por encima del baseline  otorgado por  otorgado   en la  por la organización  16:49
+ROD {he drinks}  perdón  nuestro sistema SVM  a pesar de usar atributos  muy sencillos solapamiento léxico   obtenía un valor  por encima del baseline  otorgado por  otorgado   en la  por la organización  16:49
 
 ROD y se quedaba más o menos cerca  del  de ese  mejor sistema en el AVE 2006  16:54
 

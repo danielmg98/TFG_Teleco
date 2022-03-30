@@ -18,9 +18,9 @@ RAN  entonces el marco de la tesis se ha   se ha   se ha centrado en esto  en  e
 
 RAN  podría ser aplicable  es una de las líneas de investigación que se deberá seguir  aplicable a otros dominios  pero siempre dentro de un marco específico  01:07
 
-RAN  el porqué  a lo largo de la tesis lo veremos  %eh pero   adelantar un poco que es  básicamente son las líneas de futuro  01:15
+RAN  el porqué  a lo largo de la tesis lo veremos  pero   adelantar un poco que es  básicamente son las líneas de futuro  01:15
 
-RAN  %eh   los buscadores cada vez más  pretenden dar información que sea útil al usuario  y para que sea útil tiene que ser de grano fino  01:22
+RAN    los buscadores cada vez más  pretenden dar información que sea útil al usuario  y para que sea útil tiene que ser de grano fino  01:22
 
 RAN  no puedes decirle a una persona que una página es de teatro o es de  o es de    de una universidad  01:27
 
@@ -152,7 +152,7 @@ RAN  entonces  con el método dos por dos  nos da  algo más realista  el treint
 
 RAN    a las necesidades de pro  procesamiento  están claras en todos los proyectos de minería  08:22
 
-RAN  en éste  %eh básicamente son  tratamiento del corpus y tratamiento lingüístico  08:27
+RAN  en éste  básicamente son  tratamiento del corpus y tratamiento lingüístico  08:27
 
 RAN  una aplicación de un stem  sería la parte más sencilla  un stem de Porter  y una selección de un corpus general o un corpus específico  08:33
 
@@ -286,7 +286,7 @@ RAN  los resultados también son  bastante claros  no   14:37
 
 RAN  seguimos  manteniéndonos por encima del noventa por cien en  en el estadístico efe  14:41
 
-RAN  %eh     el error  se mantiene  en el caso de que sea blog  incluso se disminuye  14:48
+RAN      el error  se mantiene  en el caso de que sea blog  incluso se disminuye  14:48
 
 RAN  se queda por debajo del  del uno por cien  14:51
 

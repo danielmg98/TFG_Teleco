@@ -110,6 +110,11 @@ def eliminar_amp(original, nuevo):
 			while char2 != ' ':
 				char2 = original.read(1)
 				pass
+		elif char == '%':
+			char2 = original.read(1)
+			while char2 != ' ':
+				char2 = original.read(1)
+				pass
 		else :
 			nuevo.write(char)
 			
@@ -123,6 +128,11 @@ def eliminar_comentarios(original, nuevo):
 		if char =='{':
 			char2 = original.read(1)
 			while char2 != '}':
+				char2 = original.read(1)
+			pass
+		elif char =='(':
+			char2 = original.read(1)
+			while char2 != ')':
 				char2 = original.read(1)
 			pass
 		else:

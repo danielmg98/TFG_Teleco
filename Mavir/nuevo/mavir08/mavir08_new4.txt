@@ -14,13 +14,13 @@ RAN  sobre  uno de ellos por ejemplo  entretenimiento  tendríamos un dominio es
 
 RAN  dentro de teatro existen una serie de categorías  revistas  compañías  festivales  salas  que hablan de teatro  00:50
 
-RAN  entonces el marco de la tesis se ha {%alt: s'a}  se ha {%alt: s'a}  se ha centrado en esto  en  en obtener una clasificación dentro de  de   de estos  de este dominio específico del teatro   no   01:00
+RAN  entonces el marco de la tesis se ha {s'a}  se ha {s'a}  se ha centrado en esto  en  en obtener una clasificación dentro de  de   de estos  de este dominio específico del teatro   no   01:00
 
 RAN  podría ser aplicable  es una de las líneas de investigación que se deberá seguir  aplicable a otros dominios  pero siempre dentro de un marco específico  01:07
 
-RAN  el porqué  a lo largo de la tesis lo veremos  %eh pero  {%act: click} adelantar un poco que es  básicamente son las líneas de futuro  01:15
+RAN  el porqué  a lo largo de la tesis lo veremos  pero  {click} adelantar un poco que es  básicamente son las líneas de futuro  01:15
 
-RAN  %eh   los buscadores cada vez más  pretenden dar información que sea útil al usuario  y para que sea útil tiene que ser de grano fino  01:22
+RAN    los buscadores cada vez más  pretenden dar información que sea útil al usuario  y para que sea útil tiene que ser de grano fino  01:22
 
 RAN  no puedes decirle a una persona que una página es de teatro o es de  o es de    de una universidad  01:27
 
@@ -64,7 +64,7 @@ RAN  Google tiene un buscador de blogs  que no es realmente un buscador de blogs
 
 RAN  no son realmente blogs  03:21
 
-RAN  entonces todo esto   {%act: click} también necesita una clasificación de este tipo de páginas  03:26
+RAN  entonces todo esto   {click} también necesita una clasificación de este tipo de páginas  03:26
 
 RAN  con ello  se llega a los objetivos de la   de la   de la investigación  03:31
 
@@ -72,9 +72,9 @@ RAN  proponer una representación general de las páginas para clasificarlas en 
 
 RAN  todo ello  además se debe de trasladar  los resultados a otros dominios para  validar la  la potencia del método  03:54
 
-RAN  y para guiar  toda esta investigación pues {%alt: pos} se fijan unos objetivos secundarios  que es crear una colección de pruebas sobre la que realizar los experimentos  determinar un marco de evaluación  un  unas necesidades básicas de  de tratamiento de la  de la información  un pretratamiento en todo proceso de  de minería  y fijar un marco de comparativo  una baseline  sobre la que  poder  validar  nuestros resultados  04:15
+RAN  y para guiar  toda esta investigación pues {pos} se fijan unos objetivos secundarios  que es crear una colección de pruebas sobre la que realizar los experimentos  determinar un marco de evaluación  un  unas necesidades básicas de  de tratamiento de la  de la información  un pretratamiento en todo proceso de  de minería  y fijar un marco de comparativo  una baseline  sobre la que  poder  validar  nuestros resultados  04:15
 
-RAN   {%act: click} los experimentos de clasificación el   {%act: click} empezamos con la  con la creación de la colección de pruebas  04:22
+RAN   {click} los experimentos de clasificación el   {click} empezamos con la  con la creación de la colección de pruebas  04:22
 
 RAN  no se ha utilizado una colección de pruebas estándar  04:24
 
@@ -86,11 +86,11 @@ RAN  y se realiza un crawl  04:39
 
 RAN  se obtienen todas las páginas que nos servirán tanto para entrenamiento como para validación  teniendo un conjunto de cuatro mil ochocientas páginas  04:45
 
-RAN   {%act: click}  eh  la disparidad entre   entre  la presencia da cada una de las   categorías  es bastante grande  04:53
+RAN   {click}  eh  la disparidad entre   entre  la presencia da cada una de las   categorías  es bastante grande  04:53
 
 RAN  esto afectará a los resultados  pero también servirá para ver la  la fortaleza del método cuando  los entrenamientos son defectuosos  05:07
 
-RAN   {%act: doubt} la colección de pruebas se ha dividido  05:10
+RAN   {doubt} la colección de pruebas se ha dividido  05:10
 
 RAN  pero básicamente las páginas de un mismo sitio  en cierto modo tienen relación entre ellas  05:24
 
@@ -110,9 +110,9 @@ RAN  y además se han introducido páginas en diferentes idiomas  para intentar 
 
 RAN  y se ha obtenido un crawl de  del directorio de Yahoo  para obtener las  las páginas de  de alimentación negativa  las que no son tipo blog  obteniendo en total cerca de  de nueve mil doscientas páginas  06:19
 
-RAN   {%act: click} la necesidad del crawl  el primer experimento  pasarlo rápidamente  06:24
+RAN   {click} la necesidad del crawl  el primer experimento  pasarlo rápidamente  06:24
 
-RAN   {%act: click} el marco de evaluación es importante  06:39
+RAN   {click} el marco de evaluación es importante  06:39
 
 RAN  nos hemos basado en una evaluación típica de   de precisión donde los  el entrenamiento se realiza intentando maximizar  el  número de aciertos  minimizar el número de errores  06:48
 
@@ -136,7 +136,7 @@ RAN  primero se ha entrenado con una se ha validado con la otra se ha hecho la i
 
 RAN  un método como el de Dietterich  cinco por dos  pero con menos iteraciones  07:45
 
-RAN   {%act: click} con este marco de evaluación  un experimento sencillo para ver si teníamos razón  fue éste  07:52
+RAN   {click} con este marco de evaluación  un experimento sencillo para ver si teníamos razón  fue éste  07:52
 
 RAN  realizamos una validación cruzada y obtuvimos unos resultados  07:55
 
@@ -148,11 +148,11 @@ RAN  eso de entrada es  seguramente es falso  08:07
 
 RAN  casi todos los estudios que hay están en el treinta al cuarenta por cien  08:10
 
-RAN  entonces {%alt: tonces} con el método dos por dos  nos da  algo más realista  el treinta  el cinco  el diez por cien  08:17
+RAN  entonces {tonces} con el método dos por dos  nos da  algo más realista  el treinta  el cinco  el diez por cien  08:17
 
-RAN   {%act: click} a las necesidades de pro  procesamiento  están claras en todos los proyectos de minería  08:22
+RAN   {click} a las necesidades de pro  procesamiento  están claras en todos los proyectos de minería  08:22
 
-RAN  en éste  %eh básicamente son  tratamiento del corpus y tratamiento lingüístico  08:27
+RAN  en éste  básicamente son  tratamiento del corpus y tratamiento lingüístico  08:27
 
 RAN  una aplicación de un stem  sería la parte más sencilla  un stem de Porter  y una selección de un corpus general o un corpus específico  08:33
 
@@ -160,7 +160,7 @@ RAN  los experimentos también  han sido  claros con esto  08:37
 
 RAN  el  no es necesario  para aumentar el rendimiento  pero sí para reducir la dimensionalidad  cosa que quizá es más importante aún  08:43
 
-RAN   {%act: click} determinar un baseline  es  es necesaria  08:48
+RAN   {click} determinar un baseline  es  es necesaria  08:48
 
 RAN  con todo esto ya estaríamos fijando el marco de trabajo sobre el que hacer una propuesta y poder compararla  08:52
 
@@ -168,7 +168,7 @@ RAN  la baseline es la   la  clásica de  del Bag of Words  la bolsa de palabras
 
 RAN  es un método que  que está en el estado del arte  que obtiene resultados muy interesantes  y que los hemos querido comparar  09:15
 
-RAN   {%act: click} los resultados también son claros  09:18
+RAN   {click} los resultados también son claros  09:18
 
 RAN  ninguna de ellas mejora  a la baseline  significativamente  a nivel de  de significación de un noventa y cinco por cien incluso  09:25
 
@@ -210,7 +210,7 @@ RAN   no sé si se ven las negritas  10:58
 
 RAN  pero vamos  la mayoría de los resultados  el método propuesto  que es el de la derecha tiene mejores  mejoras significativas en  en cuanto a la prueba efe  mejoras de hasta setenta puntos  en  en este estadístico  11:10
 
-RAN  como se puede ver  en  en rojo {%com: points the screen} lo que acabo de comentar  11:29
+RAN  como se puede ver  en  en rojo {points the screen} lo que acabo de comentar  11:29
 
 RAN  este sería el intervalo de confianza  11:31
 
@@ -248,9 +248,9 @@ RAN  suele tener una fecha de publicación  12:48
 
 RAN  y suele tener un enlace  feedback  para tener retroalimentación con el usuario  12:53
 
-RAN   {%act: click} además aparecen un conjunto de enlaces  siempre juntos  que se   donde se enlazan a otros blogs de   denominados blogs amigos  o hacia páginas de dentro del propio archivo de  del blog  13:05
+RAN   {click} además aparecen un conjunto de enlaces  siempre juntos  que se   donde se enlazan a otros blogs de   denominados blogs amigos  o hacia páginas de dentro del propio archivo de  del blog  13:05
 
-RAN   {%act: click} además palabras  palabras clave o palabras reservadas que suelen aparecer bastante en el contenido  son la palabra POST  y la propia palabra blog  13:13
+RAN   {click} además palabras  palabras clave o palabras reservadas que suelen aparecer bastante en el contenido  son la palabra POST  y la propia palabra blog  13:13
 
 RAN  y además  los blogs suelen tener suscripción RSSATOM  13:17
 
@@ -276,7 +276,7 @@ RAN  por  y en  los intervalos de error lo mismo  14:06
 
 RAN  están muy por debajo del dos por cien  el error real con un  un intervalo de un uno por cien  de confianza  14:12
 
-RAN   {%act: click} la conclusiones que se ha obtenido una representación novedosa y eficiente  y que supera el  rendimiento de las estudiadas en el estado del arte  14:20
+RAN   {click} la conclusiones que se ha obtenido una representación novedosa y eficiente  y que supera el  rendimiento de las estudiadas en el estado del arte  14:20
 
 RAN  esta representación nos interesaba mucho sacarla fuera del  del  del ámbito del teatro  14:26
 
@@ -286,7 +286,7 @@ RAN  los resultados también son  bastante claros  no   14:37
 
 RAN  seguimos  manteniéndonos por encima del noventa por cien en  en el estadístico efe  14:41
 
-RAN  %eh   {%act: click}  el error  se mantiene  en el caso de que sea blog  incluso se disminuye  14:48
+RAN    {click}  el error  se mantiene  en el caso de que sea blog  incluso se disminuye  14:48
 
 RAN  se queda por debajo del  del uno por cien  14:51
 
@@ -352,7 +352,7 @@ RAN  entonces lo primero que quieren es un filtro  contra búsqueda de empleo  1
 
 RAN  estamos trabajando en ello  17:38
 
-RAN   el tema de la pederastia {%alt: pederastía}  es un tema en la actualidad bastante  peliagudo  bastante  jodido  17:46
+RAN   el tema de la pederastia {pederastía}  es un tema en la actualidad bastante  peliagudo  bastante  jodido  17:46
 
 RAN   estamos dentro de un dominio específico  el dominio del sexo  el dominio de las páginas pornográficas  pero  con páginas  que  que están buscando un tema  un tema ilegal  contacto con menores  17:59
 
@@ -370,7 +370,7 @@ RAN  por otro lado el método de los blogs   directamente habría que mejorar la
 
 RAN  pues  incorporarlo en algún buscador  que sea un buscador real de blogs  que los contenidos que te devuelva realmente sean blogs  18:49
 
-RAN  {%alt: click}  vale   18:51
+RAN  {click}  vale   18:51
 
 RAN  con todo ello terminaría  18:52
 

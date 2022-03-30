@@ -3145,7 +3145,6 @@ y
 te
 cuelga
 17:09
-%eh
 entonces
 necesitamos
 diferenciarnos

@@ -6,7 +6,7 @@ ANS  voy a dejar que se presenten ellos mismos  así  tendremos localizada  su v
 
 ANS   tenemos a Antonio  por ahí   01:03
 
-ANT  {%com: Antonio arrives to the table} disculpadme {%alt: disculparme}  01:04
+ANT  {Antonio arrives to the table} disculpadme {disculparme}  01:04
 
 ANS adelante 01:08
 
@@ -16,21 +16,21 @@ ANS cómo es posible crear una empresa de base tecnológica  sobre todo pues  a 
 
 ANS  bueno  entonces yo  me gustaría que esto fuera lo más dinámico posible 01:52
 
-ANS  si  planteamos aquí preguntas  que os pelearais por responder por ellas  directamente  {%act: laughs} 01:59
+ANS  si  planteamos aquí preguntas  que os pelearais por responder por ellas  directamente  {laughs} 01:59
 
-ANS  de alguna manera aquí podéis tener un mercado potencial  y aquel que sea más  agresivo  puede hacerse con el mercado   {%act: laughs}  es broma 02:08
+ANS  de alguna manera aquí podéis tener un mercado potencial  y aquel que sea más  agresivo  puede hacerse con el mercado   {laughs}  es broma 02:08
 
 ANS  pero bueno  hacerlo dinámico para que esto pues  pues  vaya  a buen ritmo y sea entretenido para todos  no 02:14
 
-ANS  bueno  pues  y por supuesto si  hay alguna mano que se levanta entre el público en un momento dado {%alt:dao}  pues  inmediatamente  tomará  el protagonismo  de acuerdo 02:24
+ANS  bueno  pues  y por supuesto si  hay alguna mano que se levanta entre el público en un momento dado { pues  inmediatamente  tomará  el protagonismo  de acuerdo 02:24
 
 ANS  nos interrumpimos  volvemos a tomar la  la palabra  etcétera 02:28
 
-ANS  desorden total  {%act: laughs} 02:29
+ANS  desorden total  {laughs} 02:29
 
 ANS  bueno  os voy a dejar que os presentéis  si queréis  pues  de derecha a izquierda  decís el nombre  vuestro  o qué  papel tenéis en la empresa  el nombre de vuestra empresa  y pues un  brevemente a qué os dedicáis  de acuerdo 02:47
 
-LRO  {%act: assent} 02:48
+LRO  {assent} 02:48
 
 LRO  pues  yo soy Luis Rodrigo  yo  trabajo en la empresa iSOCO  pues  llevando proyectos de investigación  dentro del departamento del Lab  que es como llamamos al departamento de ID dentro de la empresa  y bueno pues mezclamos un poco proyectos subvencionados  de tipo europeo  estatal  de la comunidad  con  proyectos propios  que  intentamos  vender a clientes como cualquier  cualquiera otra de las dos divisiones  que tiene la empresa 03:21
 
@@ -44,7 +44,7 @@ ANS seguimos 03:36
 
 JSL bueno  buenas tardes a todos  yo soy Jose Luis Martínez  de  DAEDALUS  soy socio director de DAEDALUS  nosotros  funcionamos desde mil novecientos noventa y ocho  el año de fundación de  de la empresa  y  pues  proporcionamos productos y servicios  en  tres áreas básicamente  área de tecnología lingüística  de gestión del conocimiento  y de tecnología web 03:57
 
-JSL   {%com: click} como muchos de vosotros sabéis  pues dentro del área de tecnología lingüística  tenemos productos para  la  revisión gramatical  ortográfica y de estilo de textos en  en castellano  y donde pues nuestros clientes de referencia pueden ser  el diario El País  o  o  o El Mundo  El Mundo punto es  perdón  la versión digital del  del diario El Mundo   {%act: click}  y bueno pues en otros ámbitos también desarrollamos tecnologías buscadores para TPI  para el Instituto Cervantes  y para la Sociedad General de  de Autores 04:27
+JSL   {click} como muchos de vosotros sabéis  pues dentro del área de tecnología lingüística  tenemos productos para  la  revisión gramatical  ortográfica y de estilo de textos en  en castellano  y donde pues nuestros clientes de referencia pueden ser  el diario El País  o  o  o El Mundo  El Mundo punto es  perdón  la versión digital del  del diario El Mundo   {click}  y bueno pues en otros ámbitos también desarrollamos tecnologías buscadores para TPI  para el Instituto Cervantes  y para la Sociedad General de  de Autores 04:27
 
 JSL  el capital de las  de la empresa es cien por cien privado  perteneciente pues a investigadores de  de la universidad  de distintas universidades  la Politécnica  y la Autónoma  de Madrid  y de   personal de la empresa  y bueno  pues  nuestra principal  vocación es de  de investigación  y desarrollo  y de transferencia de esa  tecnología  que se desarrolla en la universidad  pues al  al mercado 04:49
 
@@ -54,7 +54,7 @@ ANS muy bien 04:52
 
 ENR hola buenas tardes a todos 04:54
 
-ENR   {%com: clearing of throat}  yo me llamo Enrique Castellón  soy director de  Thera  Centre de Llenguatge i Computació  que es una  empresa dedicada a la tecnología lingüística  en Barcelona  nuestro origen es de  desde un centro de ID público  en donde empezamos a transferir tecnología y a facturar  a partir de ello  ante las necesidades del mercado  constituimos una empresa  en la  en la empresa  tienen acciones la universidad y capital privado  y  nuestra actividad fundamental se trata en desarrollar aplicaciones  que utilizando los recursos y tecnología lingüística de que disponemos  pues nos permitan de momento  hacer que la empresa  funcione 05:36
+ENR   {clearing of throat}  yo me llamo Enrique Castellón  soy director de  Thera  Centre de Llenguatge i Computació  que es una  empresa dedicada a la tecnología lingüística  en Barcelona  nuestro origen es de  desde un centro de ID público  en donde empezamos a transferir tecnología y a facturar  a partir de ello  ante las necesidades del mercado  constituimos una empresa  en la  en la empresa  tienen acciones la universidad y capital privado  y  nuestra actividad fundamental se trata en desarrollar aplicaciones  que utilizando los recursos y tecnología lingüística de que disponemos  pues nos permitan de momento  hacer que la empresa  funcione 05:36
 
 ENR  que es mucho  y  poco a poco  ir llegando a un mercado que es  difícil de  de conquistar  y al  al cual  todos nosotros tenemos que enfrentarnos y llegar 05:47
 
@@ -76,7 +76,7 @@ IRA  y entre tanto   trabajamos también en tecnologías de la voz  en  síntesi
 
 IRA  y no solo en el euskera sino también en entornos multilingües 08:41
 
-IRA  en este momento somos   capaces de trabajar con  en catalán  en gallego  en inglés  y en francés  y en principio  aunque el leitmotiv de la creación de  de Eleka era el desarrollo de  herramientas lingüísticas para el euskera  pues bueno  en  entre otras razones por el condicionamiento mismo del mercado {%alt: mercao}  pues ese  objetivo inicial se ha ampliado {%alt: sa ampliao} ya a entornos multilingües al ser una empresa de servicios a empresas en entornos multilingües  09:07
+IRA  en este momento somos   capaces de trabajar con  en catalán  en gallego  en inglés  y en francés  y en principio  aunque el leitmotiv de la creación de  de Eleka era el desarrollo de  herramientas lingüísticas para el euskera  pues bueno  en  entre otras razones por el condicionamiento mismo del mercado {mercao}  pues ese  objetivo inicial se ha ampliado {sa ampliao} ya a entornos multilingües al ser una empresa de servicios a empresas en entornos multilingües  09:07
 
 ANS gracias  09:10
 
@@ -94,21 +94,21 @@ LRO  ahora mismo el departamento de lo que es  investigación ID seremos  aproxi
 
 LRO  entonces  pues como clientes  tendríamos ahora mismo pues a  dependiendo del producto del que hablemos  pueden ser grandes compañías  tipo  Gas Natural o Danone  o de  compañías de ese tamaño  y son productos de los que ya hemos transferido y que están asentados  por ejemplo en mercados de  subasta electrónica  y  y BtoB  o  bueno pues clientes de un tamaño un poco más reducido si por ejemplo se trata de los  proyectos piloto que estamos vendiendo en el Lab que  podrían ser  pues la Residencia de Estudiantes o  el  la Fundación Marcelino Botín  o  por ejemplo el Real Instituto Elcano  11:59
 
-JSL bueno  en DAEDALUS el tamaño de la empresa es más pequeño  no llegamos a esos sesenta y pico  nos quedamos en unos  doce catorce aproximadamente  {%act:click} y  y bueno pues en cuanto a  datos que  hablabas de facturación  la facturación del año pasado  creo que fueron unos  quinientos mil euros si no me  si no me equivoco  aproximadamente  con unos beneficios de unos ciento  de unos ciento veinte mil euros  sobre clientes de referencia  pues antes he mencionado alguno el diario El País o El Mundo punto es  y bueno pues  dentro de la plantilla hay gente  que se dedica específicamente al tema de  Lingüística   {%act:laugh} por aquello de  por aquello de las herramientas de  corrección obviamente  y  y el resto pues somos más  ingenieros  desarrolladores  dirección de proyecto  etcétera 12:45
+JSL bueno  en DAEDALUS el tamaño de la empresa es más pequeño  no llegamos a esos sesenta y pico  nos quedamos en unos  doce catorce aproximadamente  {y  y bueno pues en cuanto a  datos que  hablabas de facturación  la facturación del año pasado  creo que fueron unos  quinientos mil euros si no me  si no me equivoco  aproximadamente  con unos beneficios de unos ciento  de unos ciento veinte mil euros  sobre clientes de referencia  pues antes he mencionado alguno el diario El País o El Mundo punto es  y bueno pues  dentro de la plantilla hay gente  que se dedica específicamente al tema de  Lingüística   {por aquello de  por aquello de las herramientas de  corrección obviamente  y  y el resto pues somos más  ingenieros  desarrolladores  dirección de proyecto  etcétera 12:45
 
-ANS  {%act: assent} 12:47
+ANS  {assent} 12:47
 
-ENR  {%act: clearing of throat} 12:49
+ENR  {clearing of throat} 12:49
 
 ENR  en Thera  a ver  para daros  una idea de la dimensión  digamos que en Thera participan dos tipos de  de trabajo  en general tenemos  una plantilla fija que normalmente es de diez personas  y luego  en  momentos determinados  ya que hay proyectos  de envergadura  que nos obligan a  a ampliar la capacidad de producción  participa un tipo de personal de contratos temporales 13:13
 
-ENR  entonces  por poner un ejemplo este año  aparte de estas diez personas fijas  pues hemos tenido un proyecto que nos ha ocupado {%alt: ocupao} a unas catorce personas durante seis meses  dedicadas y focalizadas a un proyecto  acabado {%alt: acabao} el proyecto  creo que un par se han quedado {%alt: quedao} en la plantilla  y el resto pues quedan  fuera 13:29
+ENR  entonces  por poner un ejemplo este año  aparte de estas diez personas fijas  pues hemos tenido un proyecto que nos ha ocupado {ocupao} a unas catorce personas durante seis meses  dedicadas y focalizadas a un proyecto  acabado {acabao} el proyecto  creo que un par se han quedado {quedao} en la plantilla  y el resto pues quedan  fuera 13:29
 
 ENR  a nivel de facturación este año nosotros tenemos en los momentos actuales una facturación de un millón de euros  aproximadamente  unos novecientos sesenta y algo mil  y esperemos sobrepasarlo este año 13:39
 
 ENR  eh no sé si  la dimensión está acotada 13:44
 
-IRA  bueno  el tema de la dimensión lo he comentado {%alt: comentao} antes  quizás solo un matiz   nosotros somos una  una  una empresa de transferencia de tecnología  nosotros no hacemos investigación directamente  para {%alt: pa} eso tenemos al grupo IXA detrás y a la Fundación Elhuyar  y entonces en ese sentido  pues bueno  investigadores no nosotros tenemos desarrolladores  tenemos de las siete personas que estamos en plantilla  cinco  se dedican a temas de estos  un lingüista y cuatro informáticos  y  en principio   la par  la plantilla sí sufre algún pequeño cambio  depende de la estacionalidad de ciertos trabajos  y nuestra facturación anda sobre el orden de los cuatrocientos mil euros anuales  con unos beneficios pues bastante pelados  pelados  pelados {%alt: pelaos} 14:25
+IRA  bueno  el tema de la dimensión lo he comentado {comentao} antes  quizás solo un matiz   nosotros somos una  una  una empresa de transferencia de tecnología  nosotros no hacemos investigación directamente  para {pa} eso tenemos al grupo IXA detrás y a la Fundación Elhuyar  y entonces en ese sentido  pues bueno  investigadores no nosotros tenemos desarrolladores  tenemos de las siete personas que estamos en plantilla  cinco  se dedican a temas de estos  un lingüista y cuatro informáticos  y  en principio   la par  la plantilla sí sufre algún pequeño cambio  depende de la estacionalidad de ciertos trabajos  y nuestra facturación anda sobre el orden de los cuatrocientos mil euros anuales  con unos beneficios pues bastante pelados  pelados  pelados {pelaos} 14:25
 
 IRA  es decir  el mercado no está  no está  no está nada fácil  y bueno pues hay que lidiar mucho 14:30
 
@@ -118,27 +118,27 @@ IRA  porque bueno lo que comentábamos  tarde cuando sobre los libros de algunas
 
 IRA  por ejemplo en nuestro caso páginas webs  14:55
 
-ENR {%com: somebody laughs} estoy de acuerdo 14:57
+ENR {somebody laughs} estoy de acuerdo 14:57
 
 ANS si alguien quiere comentar algo al respecto    adelante 15:03
 
-ANT el  nosotros somos seis personas en plantilla ahora mismo  nos parece algo heroico  es decir estamos orgullosísimos  empezamos siendo una sola persona  {%act: everybody laughs} y a ver si no quebrábamos 15:12
+ANT el  nosotros somos seis personas en plantilla ahora mismo  nos parece algo heroico  es decir estamos orgullosísimos  empezamos siendo una sola persona  {everybody laughs} y a ver si no quebrábamos 15:12
 
-ANT  era un auténtico plural de modestia  ese  y  ahora somos seis personas en plantilla  es decir  son seis personas que van todos los días  que cobran un mes  todos los meses su sueldo  y tenemos otras seis personas  digamos satélites  que colaboran con nosotros según  según proyecto  una peculiaridad es que nosotros  excepto uno somos filólogos  es decir  excepto el (director) comercial  que los filólogos no  parece que no valemos  el  todo los demás somos lingüistas  que saben más o menos algo de informática  y lo que tenemos externalizado {%alt: externalizao}  es el puro desarrollo  informático  nos parece que es secundario  en esta  en esta industria  clientes de referencia  pues nuestro primer cliente importante fue el   Atos  una de las consultoras más grandes  muy aficionados a los proyectos europeos  con ellos llegamos a facturar  junto con ellos  no digo nosotros solos  alrededor de ocho millones de euros  en tres proyectos diferentes  luego hemos tenido clientes como RENFE  el  Ministerio de la Presidencia  el Centro Nacional de Inteligencia  del Ministerio de Defensa  algún despacho  privado{%alt: privao} de abogados {%alt: abogao} y de economistas  es decir una  clientela como veis de lo más  dispar en cuanto al origen  y  a  la cantidad de dinero que suministran  y nuestra facturación es más modesta  nosotros esperamos facturar este mes  este año perdón  trescientos mil euros  alrededor de  de esa cifra 16:32
+ANT  era un auténtico plural de modestia  ese  y  ahora somos seis personas en plantilla  es decir  son seis personas que van todos los días  que cobran un mes  todos los meses su sueldo  y tenemos otras seis personas  digamos satélites  que colaboran con nosotros según  según proyecto  una peculiaridad es que nosotros  excepto uno somos filólogos  es decir  excepto el (director) comercial  que los filólogos no  parece que no valemos  el  todo los demás somos lingüistas  que saben más o menos algo de informática  y lo que tenemos externalizado {externalizao}  es el puro desarrollo  informático  nos parece que es secundario  en esta  en esta industria  clientes de referencia  pues nuestro primer cliente importante fue el   Atos  una de las consultoras más grandes  muy aficionados a los proyectos europeos  con ellos llegamos a facturar  junto con ellos  no digo nosotros solos  alrededor de ocho millones de euros  en tres proyectos diferentes  luego hemos tenido clientes como RENFE  el  Ministerio de la Presidencia  el Centro Nacional de Inteligencia  del Ministerio de Defensa  algún despacho  privado{privao} de abogados {abogao} y de economistas  es decir una  clientela como veis de lo más  dispar en cuanto al origen  y  a  la cantidad de dinero que suministran  y nuestra facturación es más modesta  nosotros esperamos facturar este mes  este año perdón  trescientos mil euros  alrededor de  de esa cifra 16:32
 
 ANT  vale 16:32
 
 ANT  de momento como decía nos autofinanciamos  lo que sí estamos buscando que es la diferencia del resto es  capital  inversores de capital riesgo  hemos tenido unos primeros contactos y parece que ya hay cierta sensibilidad en ese mundillo  hacia poner el dinero en cosas como la  como la lingüística 16:47
 
-IRA  quizás se haga notar en cuanto clientes que no he comentado{%alt: comentao} nada  la mayoría de los clientes son institucionales  es una situación del mercado en nuestro país  es decir  el gobierno vasco  la diputación foral  la BBK  la Kutxa  ese tipo de clientes  también hay ayuntamientos en cierto sentido y también hay clientes  de otro tipo como Euskaltel es un  importante cliente nuestro 17:09
+IRA  quizás se haga notar en cuanto clientes que no he comentado{comentao} nada  la mayoría de los clientes son institucionales  es una situación del mercado en nuestro país  es decir  el gobierno vasco  la diputación foral  la BBK  la Kutxa  ese tipo de clientes  también hay ayuntamientos en cierto sentido y también hay clientes  de otro tipo como Euskaltel es un  importante cliente nuestro 17:09
 
-ANS  {%act: assent} 17:10
+ANS  {assent} 17:10
 
 LRO a mí me gustaría añadir porque  a mí se me ha olvidado mencionarlo y no lo hemos  ahora mismo  antes si lo había mencionado  la Unión Europea es uno de nuestros principales clientes 17:19
 
 LRO  desde luego en cuanto a facturacións  estarían por encima de cualquier otra 17:23
 
-ANS  {%act: assent} 17:24
+ANS  {assent} 17:24
 
 ANS   algún comentario más  17:27
 
@@ -160,11 +160,11 @@ ANS  casi casi entraríamos en el mercado a partir de esta pregunta no 17:46
 
 ANS  bueno  vamos a pasar  a   si os parece  a  a hablar un poco de la creación de las empresas aunque ya lo habéis comentado  pero sí que  a lo mejor podríamos  aproximarlo un poco a  pues gente de  nuestras  universidades  o grupos de investigación que puedan estar aquí mismo  seguramente se lo han planteado muchas veces  es decir  y   y si montáramos una empresa  18:11
 
-ANS  no  {%act: laughs} {%com: somebody laughs}  qué es lo que falta para dar el salto   cómo lo habéis vivido  18:15
+ANS  no  {laughs} {somebody laughs}  qué es lo que falta para dar el salto   cómo lo habéis vivido  18:15
 
 ANS  es una cosa  un reto personal 18:17
 
-ANS  esto  {%act: click} quizás sea ya más Salsa Rosa pero  sí que nos gustaría  verlo desde {%com: somebody laughs}  desde esa óptica 18:23
+ANS  esto  {click} quizás sea ya más Salsa Rosa pero  sí que nos gustaría  verlo desde {somebody laughs}  desde esa óptica 18:23
 
 ANS  es decir  hablar a  hablarme a mí por ejemplo  que  a lo mejor yo me he  me he planteado alguna vez y si  no y todavía  pues  no veo la manera de dar el salto 18:33
 
@@ -174,11 +174,11 @@ ANS  cómo 18:34
 
 IRA   pues si quieres 18:34
 
-IRA  empiezo yo que soy  soy el más atípico de todos   {%act: laugh} tanto por el  soporte que  que tengo detrás  18:41
+IRA  empiezo yo que soy  soy el más atípico de todos   {laugh} tanto por el  soporte que  que tengo detrás  18:41
 
 IRA  bueno yo entonces era  director general de la Fundación Elhuyar  cuando se planteó la posibilidad de  crear esta empresa  esta empresa surgió de un premio que recibieron los estudiantes del grupo IXA  para crear una empresa  les dieron el premio a la  a la mejor  a la mejor idea empresarial  pues se empezaron a mover en el grupo IXA   premio  este premio  también otorga un derecho a consultoría para crear la  la empresa  apoyada por el Bic Berrilan que es un organismo de la diputación de Guipúzcoa para  este tipo de temas  pero nadie se atrevía 19:09
 
-IRA  en la  en la facultad nadie se atrevía  y bueno  al final  les costó mucho  vinieron a nosotros  oye vosotros de Elhuyar que sabéis que es el mercado {%alt: mercao}  que estáis despegando ahí en el mercado {%alt: mercao}  a ver si podemos sacar este proyecto adelante 19:19
+IRA  en la  en la facultad nadie se atrevía  y bueno  al final  les costó mucho  vinieron a nosotros  oye vosotros de Elhuyar que sabéis que es el mercado {mercao}  que estáis despegando ahí en el mercado {mercao}  a ver si podemos sacar este proyecto adelante 19:19
 
 IRA  pues bueno pues  nos sentamos  nos reunimos  y más o menos también nosotros les empujamos a ellos  oye pues poner dos personas 19:24
 
@@ -190,7 +190,7 @@ IRA  entonces en ese sentido somos  somos un poco atípicos no 20:13
 
 IRA  Eleka nació como un  un colchón 20:15
 
-ANS  {%act: assent} 20:16
+ANS  {assent} 20:16
 
 ANS  fue un  una 20:18
 
@@ -198,7 +198,7 @@ IRA   lo cua 20:18
 
 IRA   es  eso es te dura un año no te dura más eh 20:21
 
-IRA  luego tienes que buscarte la vida {%com: everybody laughs} 20:22
+IRA  luego tienes que buscarte la vida {everybody laughs} 20:22
 
 ANS o sea fue  una historia de éxito de estos programas un poco de  de pues  que intentan incentivar la creación de empresas no 20:31
 
@@ -220,9 +220,9 @@ JSL  entonces no es una  no es una iniciativa en plan capital riesgo  con el apo
 
 JSL  ese fue  ese fue el comienzo  digamos de  de DAEDALUS 21:37
 
-ANS  {%act: assent} 21:37
+ANS  {assent} 21:37
 
-ENR bueno  Thera  Thera sí nace  al abrigo de   de un proyecto  no tanto de las universidades sino de la Generalitat de Cataluña  nace a partir de un centro de ID  en el año noventa y ocho  Thera se fundó en el dos mil uno pero el centro de ID empieza a facturar  digamos en el noventa y ocho  nace en un entorno digamos que  por lo menos parcialmente de hostilidad  en el entorno universitario  ya que  muchos sectores universitarios en aquellas épocas no entendían ni mucho menos  las iniciativas de  tomadas en la dirección de intercambiar tecnología  esa hostilidad propiamente se traduce y se manifiesta en  en dificultades prácticas para desarrollarse  y  por otro lado también con apoyos  y  y  y recursos también aportados por la Generalitat de Cataluña  y por otros sectores universitarios que entienden que la  la transferencia de tecnología hacia la  hacia la  el exterior de la universidad es un camino importante  y que  poco a poco se ha ido imponiendo  decía a la hora de comer que estáis  en estos momentos en un período  en un momento dulce  comparado {%alt: comparao} con lo que podía ser el tema de generación de empresas hace diez o doce años 22:44
+ENR bueno  Thera  Thera sí nace  al abrigo de   de un proyecto  no tanto de las universidades sino de la Generalitat de Cataluña  nace a partir de un centro de ID  en el año noventa y ocho  Thera se fundó en el dos mil uno pero el centro de ID empieza a facturar  digamos en el noventa y ocho  nace en un entorno digamos que  por lo menos parcialmente de hostilidad  en el entorno universitario  ya que  muchos sectores universitarios en aquellas épocas no entendían ni mucho menos  las iniciativas de  tomadas en la dirección de intercambiar tecnología  esa hostilidad propiamente se traduce y se manifiesta en  en dificultades prácticas para desarrollarse  y  por otro lado también con apoyos  y  y  y recursos también aportados por la Generalitat de Cataluña  y por otros sectores universitarios que entienden que la  la transferencia de tecnología hacia la  hacia la  el exterior de la universidad es un camino importante  y que  poco a poco se ha ido imponiendo  decía a la hora de comer que estáis  en estos momentos en un período  en un momento dulce  comparado {comparao} con lo que podía ser el tema de generación de empresas hace diez o doce años 22:44
 
 ENR  por lo que tú preguntabas  crear una empresa  no es fácil 22:50
 
@@ -232,7 +232,7 @@ ENR   les decía también a la hora de comer  que tenéis que tener primero un m
 
 ENR  pero también hay  hay una cosa que es importante  construir una empresa  es un trabajo importante  es un trabajo de construcción  es un trabajo atractivo  y es una actividad  que al menos por lo que a mí respecta  es absolutamente motivante  y  y engrescante 23:18
 
-ENR  perdonad el catalanismo  {%act: everybody laughs} pero que  me parece  me parece una actividad magnífica y algo importante en lo que hacer 23:26
+ENR  perdonad el catalanismo  {everybody laughs} pero que  me parece  me parece una actividad magnífica y algo importante en lo que hacer 23:26
 
 ENR  pero  decir  además  que no  no hay que hacer caso de lo que digan los demás  de lo que puedan pensar que es una empresa  la universidad  las administraciones  suelen equivocarse  una empresa  es algo que crea alguien 23:40
 
@@ -250,9 +250,9 @@ ANT  es decir  casi todos lo que empezamos  veníamos de experiencia de años  l
 
 ANT  esa fue la primera motivación 24:43
 
-ANT  es decir no había ninguna vocación empresarial en  en  en nuestro proyecto  la motivación  empresarial surge  de ver que te paseas un poco por la calle  y que efectivamente existe un mercado {%alt: mercao} 24:53
+ANT  es decir no había ninguna vocación empresarial en  en  en nuestro proyecto  la motivación  empresarial surge  de ver que te paseas un poco por la calle  y que efectivamente existe un mercado {mercao} 24:53
 
-ANT  un mercado {%alt: mercao} difícil  de  de ubicar  nadie pone un cartel  compro tecnología lingüística pero  dándole las suficientes vueltas y presentándolo de otra manera  no como tecnología lingüística sino como tecnología que te ayuda  a resolver equis   fuimos creciendo  sobre todo como os decía en la consultoría  y a partir de ahí es cuando nos planteamos  oye por qué no nos tomamos esto un poquitín más en serio  desarrollamos nuestro propio  producto que nos estaba siendo demandado  en muchos sitios  y con eso  empezamos un negocio de verdad 25:22
+ANT  un mercado {mercao} difícil  de  de ubicar  nadie pone un cartel  compro tecnología lingüística pero  dándole las suficientes vueltas y presentándolo de otra manera  no como tecnología lingüística sino como tecnología que te ayuda  a resolver equis   fuimos creciendo  sobre todo como os decía en la consultoría  y a partir de ahí es cuando nos planteamos  oye por qué no nos tomamos esto un poquitín más en serio  desarrollamos nuestro propio  producto que nos estaba siendo demandado  en muchos sitios  y con eso  empezamos un negocio de verdad 25:22
 
 ANT  y con eso es con lo que ya  arranca  arranca la empresa 25:26
 
@@ -260,19 +260,19 @@ LRO en mi caso yo es que desgraciadamente no pude estar  en la creación de iSOC
 
 LRO  iSOCO surge del laboratorio de Inteligencia Artificial del CSIC  en Barcelona  como una spinoff 25:46
 
-LRO  o sea como en el caso de   {%com: loud sound emitted by a microphone} 25:49
+LRO  o sea como en el caso de   {loud sound emitted by a microphone} 25:49
 
-VOX {%com: sound test} hola  buenas tardes   me escucháis  25:57
+VOX {sound test} hola  buenas tardes   me escucháis  25:57
 
 ENR sí que funciona sí 25:59
 
-LRO {%com: everybody laughs} dile que le escuchamos 26:07
+LRO {everybody laughs} dile que le escuchamos 26:07
 
-ANS {%com: somebody laughs} problemas del riguroso directo 26:11
+ANS {somebody laughs} problemas del riguroso directo 26:11
 
 ANT alguien que no le habéis invitado  y que quería participar 26:17
 
-LRO {%com: everybody on the table comment what it happened and everybody laughs}  bueno  decía eso  surge de  un grupo de investigadores  del  del CSIC  del Laboratorio de Inteligencia Artificial  que deciden  probar la idea de llevar al mercado las  pues los  los proyectos que tienen en la cabeza 26:37
+LRO {everybody on the table comment what it happened and everybody laughs}  bueno  decía eso  surge de  un grupo de investigadores  del  del CSIC  del Laboratorio de Inteligencia Artificial  que deciden  probar la idea de llevar al mercado las  pues los  los proyectos que tienen en la cabeza 26:37
 
 LRO  entonces  encuentran  financiación en el  pues en la Generalitat  y  montan la empresa  y la verdad es que  es un caso de éxito yo creo  fulgurante  porque iSOCO se pone en una plantilla de  doscientas personas en un tiempo relativamente corto de  de  de vida 26:58
 
@@ -286,7 +286,7 @@ ANT le has dado en el  has dado en el clavo exacto 27:44
 
 ANT  las ayudas son para cuando empiezas 27:45
 
-ANT  parece que cuando eres joven eres más guapo {%act: somebody laughs} 27:47
+ANT  parece que cuando eres joven eres más guapo {somebody laughs} 27:47
 
 ANT  pero  una vez que tienes  que una empresa cumple tres años  y eso es un  factor tremendamente  aleatorio  es decir nosotros constituimos SL  es porque nos lo exigía un cliente para facturar ciertas cantidades  punto 27:59
 
@@ -294,11 +294,11 @@ ANT  podríamos habernos constituido dos años antes o dos años después 28:01
 
 ANT  bueno pues  ese factor  para el ministerio  es determinante 28:05
 
-ANT  si tienes más de tres años ya eres como  {%act: click} antiguo no 28:08
+ANT  si tienes más de tres años ya eres como  {click} antiguo no 28:08
 
 ANT  o sea Repsol no es antiguo  Telefónica tampoco  pero  las empresas de tecnología  cuando llevan ya tres años fundadas es como  vete pensando en cerrar  o en vendérselo a  a alguien 28:16
 
-ANT  nosotros nunca  hemos conseguido  una sola ayuda  y cuando digo ni una sola ayuda  es ni una sola ayuda  y no hablo por rencor eh {%act: somebody laughs} de  de la administración pública 28:26
+ANT  nosotros nunca  hemos conseguido  una sola ayuda  y cuando digo ni una sola ayuda  es ni una sola ayuda  y no hablo por rencor eh {somebody laughs} de  de la administración pública 28:26
 
 ANT  en la vida 28:26
 
@@ -308,7 +308,7 @@ ANT  y si hay aquí algún representante me gustaría  hablarlo porque  si no es
 
 ANT  el  donde sí estamos encontrando muchísima más  una actitud mucho más receptiva  y donde puede estar el futuro de verdad  insisto es en  en las sociedades de capital riesgo 28:51
 
-ANT  nosotros empezamos la aventura como un poco a ver  joder pues si hay clientes que nos lo compran  pues con que estos me manden a la mierda también  no  no he perdido nada no  ya estamos acostumbrados {%alt: acostumbraos} 28:59
+ANT  nosotros empezamos la aventura como un poco a ver  joder pues si hay clientes que nos lo compran  pues con que estos me manden a la mierda también  no  no he perdido nada no  ya estamos acostumbrados {acostumbraos} 28:59
 
 ANT  sin embargo  estamos viendo mucha sensibilidad  a eso  nosotros hemos participado recientemente en un concurso  por así decirlo de ideas de planes de negocios  y curiosamente ganamos el primer premio 29:10
 
@@ -320,13 +320,13 @@ ANT  {act: everybody laughs) sí o sea   porque el primer paso  o sea que te den
 
 ANT  o esperas que lo hayan entendido 29:34
 
-ANT  y como todos sabemos  explicar esta tecnología  es complicado {%alt: complicao}  porque sirve para todo y no sirve para nada 29:39
+ANT  y como todos sabemos  explicar esta tecnología  es complicado {complicao}  porque sirve para todo y no sirve para nada 29:39
 
 ANT  y  y en medio de eso  explicarte de una manera más o menos clara 29:43
 
 ANT  y que la gente  tenga una cierta actitud positiva  hacia jugarse el dinero  sus ahorros  su inversión  en este tipo de empresas  a mí me parece que es  algo  muy distinto de lo que era  en el año dos mil por ejemplo no 29:55
 
-ANS  {%act: assent} 29:57
+ANS  {assent} 29:57
 
 ANS  más comentarios 29:59
 
@@ -350,7 +350,7 @@ ENR simplemente que haga una ley de contrataciones que nos permita a los que no 
 
 ANT y una ley de pagos 31:03
 
-ANT  o sea  si vamos a hacer leyes  {%act: everybody laughs} una ley  31:06
+ANT  o sea  si vamos a hacer leyes  {everybody laughs} una ley  31:06
 
 ANT  na le 31:07
 
@@ -378,17 +378,17 @@ JSL no simplemente quería  quería  mostrar mi acuerdo  con tu opinión sobre e
 
 JSL  y en muchas ocasiones  nos consta que no era una cuestión de  nos consta que no era una cuestión de  valoración técnica  de la solución que planteábamos  sino era una cuestión simplemente pues de  de tamaño  de respaldo  de que no  no tienes suficiente  entidad si quieres  como para poder  acceder a uno de esos  a uno de esos concursos 32:02
 
-JSL  y la única alternativa que encontrábamos era intentar buscar algún socio un poco más grande pero  el problema  {%act: laugh} lo has pintado tú perfectamente  así es que  al final es una vía que no hemos vuelto a  no hemos vuelto a  a explotar 32:12
+JSL  y la única alternativa que encontrábamos era intentar buscar algún socio un poco más grande pero  el problema  {laugh} lo has pintado tú perfectamente  así es que  al final es una vía que no hemos vuelto a  no hemos vuelto a  a explotar 32:12
 
 ENR yo  un  un comentario  porque no es únicamente solo la administración  la Caixa de Pensiones de Cataluña  me comentó directamente que tienen absolutamente prohibido  hacer un pedido a una empresa  que supere un tercio de su facturación anual 32:24
 
-JSL  {%act: assent} 32:26
+JSL  {assent} 32:26
 
 ENR entonces  en principio  puede que esa norma en alguna ocasión se la puedan saltar  pero que en principio si una factura  una empresa vende un millón de euros al año  la compra máxima es de trescientos mil euros 32:36
 
 ENR  más allá  es comprometer el futuro de esa empresa  y no se arriesgan 32:40
 
-JSL  {%act: assent} 32:40
+JSL  {assent} 32:40
 
 ENR eh y eso  plantea serios problemas  porque lo que hacemos nosotros  de verdad  cuando es un  un proyecto importante  tiene una dimensión económica  fuerte 32:50
 
@@ -420,7 +420,7 @@ ENR  y esto es un problema  a la hora de capitalización de las empresas  y de c
 
 ENR  eso ahora ha cambiado  pero hasta ahora ha sido así  y  es un handicap  realmente 34:36
 
-ANS  {%act: assent} 34:37
+ANS  {assent} 34:37
 
 ANS  bueno pues  por cerrar esta  esta parte  simplemente  tenéis algún comentario  al respecto de   qué se necesita para crear empresas  34:46
 
@@ -432,7 +432,7 @@ ANS  o  si es que  falta algo y tenéis la clave de lo que puede faltar  a raíz
 
 ANT yo  como gran  consultor  doy un consejo  gratuito 35:08
 
-ANT  {%com: laughs} el  o sea si alguien se anima  y se lanza  por favor  pensadlo 35:14
+ANT  {laughs} el  o sea si alguien se anima  y se lanza  por favor  pensadlo 35:14
 
 ANT  es decir  el  generalmente empezamos todos pensando en nuestra tecnología  hoy he hecho esto que  desambigua  significado  o que categoriza documentos  o que tal   nadie lo hace  me he leído toda la bibliografía  esto es la bomba  vamos a por ello 35:28
 
@@ -504,7 +504,7 @@ ENR  que a fin de cuentas es el que vende  y trae los dineros a casa 38:03
 
 ENR  y es muy importante ese departamento 38:06
 
-ENR  lo segundo  con todos los requisitos de que  una buena contabilidad  una buena secretaria que coja los recados  te los apunte  y te los haga llegar  {%act: everybody laughs} y todo un funcionamiento de estas características  una buena idea  y sobre todo  sobre todo  una ambición 38:23
+ENR  lo segundo  con todos los requisitos de que  una buena contabilidad  una buena secretaria que coja los recados  te los apunte  y te los haga llegar  {everybody laughs} y todo un funcionamiento de estas características  una buena idea  y sobre todo  sobre todo  una ambición 38:23
 
 ENR  porque es muy importante que aquel que quiera montar una empresa  lo tenga muy claro  y tenga muy claro que es lo que quiere  conseguir  a dónde quiere llegar  y hasta qué nivel quiere llegar 38:32
 
@@ -512,7 +512,7 @@ ENR   es un aspecto muy importante  porque va a marcar  la imagen  ha de marcar 
 
 ENR  no es lo mismo  ir con un cuadernillo con una espiral  presentando un proyecto  que ir con un documento  impreso a doble tinta  plastificado  y de todos los colorines  para  presentar a lo que es la empresa 38:55
 
-ENR  eso va a depender de la  de la ambición que tengamos nosotros  y de que  hayamos {%alt: haigamos} sabido pensar a dónde queremos llegar 39:01
+ENR  eso va a depender de la  de la ambición que tengamos nosotros  y de que  hayamos {haigamos} sabido pensar a dónde queremos llegar 39:01
 
 ENR  que nuestra empresa  tenga la estructura necesaria  para alcanzar aquella facturación que queremos 39:06
 
@@ -526,13 +526,13 @@ ANS  todo esto se adquiere con el tiempo  o es que directamente  estas empresas 
 
 ENR esta es la pregunta   se hace o se nace  39:51
 
-ANS  {act: laugh} {%com: everybody laughs} 39:52
+ANS  {act: laugh} {everybody laughs} 39:52
 
 ENR ni se hace ni se nace 39:54
 
 ENR  se puede aprender  en administración de empresas  no sé qué les enseñan  nosotros hemos tenido MBAs y ya no los tenemos 40:02
 
-ENR  (%com: everybody laughs) una empresa no es un emprendedor más un MBA  no es eso 40:08
+ENR  (everybody laughs) una empresa no es un emprendedor más un MBA  no es eso 40:08
 
 ENR  una empresa es una persona que está dispuesta a tirar para adelante  y que luego busca las ayudas  o los auxilios  40:14
 
@@ -540,9 +540,9 @@ ENR  es más importante tener un buen asesor fiscal  que tener una buena contabi
 
 ENR  y ya se ocupará el asesor fiscal de decirte la contabilidad la llevas bien 40:20
 
-ENR  {%com: somebody laughs} porque es importante 40:21
+ENR  {somebody laughs} porque es importante 40:21
 
-ENR  porque luego si no tienes los papeles bien  presenta la contabilidad  para pedir un crédito  para pedir un capital riesgo  para cualquier otra cosa  y no vale para {%alt: pa} nada 40:29
+ENR  porque luego si no tienes los papeles bien  presenta la contabilidad  para pedir un crédito  para pedir un capital riesgo  para cualquier otra cosa  y no vale para {pa} nada 40:29
 
 ENR  eh necesitas disponer de la capacidad de buscar asesores  consultores  y lo que sea  necesario 40:35
 
@@ -554,15 +554,15 @@ ENR  si tiene una buena idea y está dispuesto a luchar y a sacrificarse 40:46
 
 ENR  pero eso me temo que es  para todos nosotros es un común 40:49
 
-ENR  estés en investigación  estés en la empresa  estés en cualquier lado {%alt: lao}  la vida un poco es sacrificio  lucha  y ser capaces de movernos 40:56
+ENR  estés en investigación  estés en la empresa  estés en cualquier lado {lao}  la vida un poco es sacrificio  lucha  y ser capaces de movernos 40:56
 
 ENR  lo único que no sé es  cuando uno quiere hacer una empresa  es funcionario público 41:00
 
 ENR  es lo único que no  eres  en ese momento 41:03
 
-ANT y es cuando más lo quieres ser  en tu vida {%com: everybody laughs} 41:07
+ANT y es cuando más lo quieres ser  en tu vida {everybody laughs} 41:07
 
-JSL {%com: everybody laughs} yo creo que el elemento básico ahí de todas formas es el elemento comercial que ya habéis comentado  y es el elemento de análisis  de mercado 41:15
+JSL {everybody laughs} yo creo que el elemento básico ahí de todas formas es el elemento comercial que ya habéis comentado  y es el elemento de análisis  de mercado 41:15
 
 JSL  ese  ese es el punto que tienes que tener  muy claro 41:17
 
@@ -600,7 +600,7 @@ ANS  yo creo que vamos respondiendo a lo largo de  la mesa  la pregunta que se n
 
 ANS  pero bueno  justo antes de entrar ya de lleno  me gustaría sí que comentarais un poco  la relación entre la empresa y la investigación 42:29
 
-ANS   {%act: interrogation} en el mundo académico  estamos bastante acostumbrados a que la investigación se traduce en  proyectos de investigación  de los que ya hemos hablado  pero fundamentalmente también publicaciones  no 42:40
+ANS   {interrogation} en el mundo académico  estamos bastante acostumbrados a que la investigación se traduce en  proyectos de investigación  de los que ya hemos hablado  pero fundamentalmente también publicaciones  no 42:40
 
 ANS   se publica como empresa  42:43
 
@@ -632,7 +632,7 @@ IRA  pues  de verdad  en nuestro caso  una empresa de  transferencia 44:00
 
 IRA  no hacemos investigación entonces el publicar queda un poco   o sea muy lejana no 44:04
 
-IRA  bueno pero hay que decir que  bueno  dentro de los planes de la empresa  pues  yo como gerente  tengo intención de  pinchar un poco a gente a ver si hace alguno un doctorado {%alt: doctorao} 44:14
+IRA  bueno pero hay que decir que  bueno  dentro de los planes de la empresa  pues  yo como gerente  tengo intención de  pinchar un poco a gente a ver si hace alguno un doctorado {doctorao} 44:14
 
 IRA  entonces ahí alguna publicación saldrá 44:15
 
@@ -644,9 +644,9 @@ IRA  y somos una  una  una  una empresa de transferencia en ese sentido  nuestro
 
 IRA  y nuestra preocupación más  más bien cara a  cómo nos entregan estos el producto de investigación  y cómo ha  hacemos la transferencia  y qué problemas nos crean  porque sí hay  hay  crean problemas   mis informáticos dicen es que  nos entregan unos códigos muy sucios 44:51
 
-IRA  y te pasas un montón de tiempo aquí  limpiando  el código {%act: somebody laughs} 44:55
+IRA  y te pasas un montón de tiempo aquí  limpiando  el código {somebody laughs} 44:55
 
-IRA  empiezan a hablar de Perl  y no sé qué  que no entiendo nada {%act: somebody laughs}  pues no será así digo  pues será así no 45:00
+IRA  empiezan a hablar de Perl  y no sé qué  que no entiendo nada {somebody laughs}  pues no será así digo  pues será así no 45:00
 
 IRA  en este momento   con un tema de  con un  corrector gramatical  pues con un tema de estos no 45:05
 
@@ -666,7 +666,7 @@ IRA  o en nuestro caso también en la fundación no 45:50
 
 IRA  yo creo que ahí  hay un tema  que es difícil de gestionar  que en ciertos momentos  puede crear tensiones  y que  es importante  45:57
 
-ANS  {%act: assent} 45:59
+ANS  {assent} 45:59
 
 JSL nosotros en DAEDALUS la verdad es que  pues bueno hay una  imbricación bastante  importante entre la empresa y la universidad no y hacemos también investigación  y los productos que desarrollamos los aplicamos a  a la investigación  y viceversa 46:11
 
@@ -688,7 +688,7 @@ ISI  qué problemática  os ha generado  más que  igual un concepto teórico  d
 
 ISI  quizá terminando con el tema de patentes que también lo has tratado un poquito  y no ha salido 47:19
 
-ANS  {%act: assent} 47:20
+ANS  {assent} 47:20
 
 ANS  pues ahí  47:21
 
@@ -728,7 +728,7 @@ ANT  igual que no tienes ningún derecho  si escribes un informe  de mercado de 
 
 ANT  bueno  pues tú escribes eso  te pagan  al final de mes  y ese estudio es de  el que te lo ha pagado 48:45
 
-ANT  {%act: click} bueno o sea se  hay un montón de conceptos que se mezclan y es difícil %eh  nos alargaríamos mucho 48:50
+ANT  {click} bueno o sea se  hay un montón de conceptos que se mezclan y es difícil  nos alargaríamos mucho 48:50
 
 ANT  es decir  la autoría es la autoría  eso es  impepinable 48:53
 
@@ -776,7 +776,7 @@ ENR  no están compitiendo con nosotros  de una manera clara 50:31
 
 ENR  y estamos en una posición fuerte  como empresa  de cara a posibles  50:35
 
-ENR  yo  no  no nos hemos preocupado pues sencillamente de no hacer accesible la información para que no sea transmisible {%alt: transmitible} fácilmente 50:42
+ENR  yo  no  no nos hemos preocupado pues sencillamente de no hacer accesible la información para que no sea transmisible {transmitible} fácilmente 50:42
 
 ENR  pero  en general nuestros clientes son grandes empresas  las grandes empresas no generan problemas de propiedad intelectual para proyectos  o para cosas  no se  no se piratea nada  y se respetan los derechos 50:54
 
@@ -802,7 +802,7 @@ ENR  pero no nos hemos sentido afectados  por el momento  por el hecho de que no
 
 ENR  sobre todo en software  que como sabemos  en este punto hay y quiero decir  lo miro  y yo lo digo desde otro punto de vista  yo no sé cuántos sois aquí que tenéis ordenador  pero cuántos tenéis pagados el software de Microsoft o de  52:19
 
-ENR  {%act: laugh} entonces bien 52:21
+ENR  {laugh} entonces bien 52:21
 
 ENR  esos sí que tienen problemas esos sí que tienen problemas lo que hacemos nosotros es otro mundo   y tampoco nos afecta tanto  52:27
 
@@ -846,13 +846,13 @@ IRA  para  para Linux 54:06
 
 IRA  entonces no  bueno pues alguno lo puede bajar  pero porque la ventaja nuestra es que  lo bajará  pero él tendrá una versión del diccionario que no se le renovará 54:07
 
-ANS  {%act: assent} 54:13
+ANS  {assent} 54:13
 
 IRA  nosotros estamos renovando diré  continuamente el diccionario 54:16
 
 IRA  y sólo en tal caso buscar es muy importante 54:18
 
-ANS  {%act: assent} 54:18
+ANS  {assent} 54:18
 
 IRA  es decir porque la Academia de la Lengua está tomando decisiones sobre el euskera unificado  todos los meses 54:24
 
@@ -860,7 +860,7 @@ IRA  y en todos los años estas decisiones está atrasado 54:26
 
 IRA  y ya no sirve como corrector 54:27
 
-ANS  {%act: assent} 54:27
+ANS  {assent} 54:27
 
 IRA  entonces  no sé 54:29
 
@@ -870,7 +870,7 @@ IRA  yo creo que  cada producto  tiene su   modelo de negocio 54:36
 
 IRA  igual que eso se puede  se vuelve a  se podría hablar mucho  y bastante  largamente 54:42
 
-ANS  {%act: laugh} 54:42
+ANS  {laugh} 54:42
 
 ANS  bueno  no nos alarguemos mucho  si acaso un último comentario  54:46
 
@@ -890,7 +890,7 @@ ENR  que no había sido solucionado antes  porque lo  que generalmente te encuen
 
 ENR  hacemos cosas específicas para empresas que tienen un problema  y que hemos de solucionar  y que nos obliga  en todos los desarrollos prácticamente  bien a contar con la colaboración de investigadores  bien a ser nosotros mismos  gente de nuestra empresa  la que hace esta ID  la que realmente está   cogiendo un conjunto de conocimientos  y a partir de ellos  y los que necesite aportar  creando aquello que el cliente necesita  y que va a solucionar un problema  y que  que a fin de cuentas nosotros vamos a hacer una factura y vamos a cobrarla 56:02
 
-ENR  comentar aquí que   {%act: click} en  la empresa nuestra  sí que hemos acompañado a estudiantes que acaban  56:10
+ENR  comentar aquí que   {click} en  la empresa nuestra  sí que hemos acompañado a estudiantes que acaban  56:10
 
 ENR  como tenemos buenas relaciones  estamos muy vinculados con la universidad  hay gente que estudia una carrera  acaba la carrera  se incorpora en la empresa  y nosotros le acompañamos para que haga primero la DEA  y luego para que haga la tesis  creo que tenemos ya dos tesis  doctorales escritas por trabajadores de la  de nuestra organización o que han estado en la organización  eh y nos hemos encontrado con un problema  y es que cuando ocurre esto  en donde nosotros creemos que nuestro comportamiento es relativamente ejemplar  porque es  bueno  un señor acaba los estudios  le colocan en una empresa que investiga  le dejan tiempo para que estudie  para que haga la  la  el  el proyecto fin de carrera  haga la DEA  los cursos de doctorado  la tesis doctoral  pero no podemos pedir ni Torres Quevedo  ni ningún tipo de ayudas  porque lo tenemos contaminado  porque ya ha estado en una empresa trabajando 56:53
 
@@ -908,7 +908,7 @@ ENR  porque investigación es mucho 57:25
 
 ENR  es una palabra muy amplia  muy extensa  y que incluye  un poco toda la actividad  que  que una empresa de nuestras características debe desarrollar 57:33
 
-ANS bueno  si queréis  vamos entrando poco a poco en  en el mercado  ya por  {%act: laugh}  por fin 57:40
+ANS bueno  si queréis  vamos entrando poco a poco en  en el mercado  ya por  {laugh}  por fin 57:40
 
 ANS  me gustaría preguntaros en primer lugar  cómo  o si podéis  se  se  se da valor  se  se cuantifica el valor de  vuestros productos en investigación 57:53
 
@@ -932,7 +932,7 @@ JSL  vale  pues  como es el caso de TPI Páginas Amarillas pues  el buscador  el
 
 JSL  entonces  eso es una  es una labor de integración que  es donde está el valor añadido que tú le das también a  que tú le das a  tu producto  aparte del producto  aparte del producto en sí  pero es lo que te digo  es algo muy específico  de  qué problema concreto es el que tienes que  es el que tienes que resolver 58:58
 
-JSL  entonces   {%act: laugh} la ecuación perfecta  no sé 59:02
+JSL  entonces   {laugh} la ecuación perfecta  no sé 59:02
 
 JSL  yo no sé cómo lo veis 59:06
 
@@ -940,9 +940,9 @@ ENR  yo  yo  yo haría un 59:06
 
 ENR  comentario 59:06
 
-ENR  porque la pregunta tuya dice  vamos a ver  un buen marxista {%com: laughs} tenía que decirte que las cosas se venden por su valor  y que lo que ganamos es la diferencia entre ese valor al que lo vendemos  y lo que nos cuesta producirlo  59:16
+ENR  porque la pregunta tuya dice  vamos a ver  un buen marxista {laughs} tenía que decirte que las cosas se venden por su valor  y que lo que ganamos es la diferencia entre ese valor al que lo vendemos  y lo que nos cuesta producirlo  59:16
 
-ANS  {%act: assent} 59:17
+ANS  {assent} 59:17
 
 ENR y es así 59:18
 
@@ -950,7 +950,7 @@ ENR   cuál es el valor de mercado de un producto que ofertas a un cliente  59:2
 
 ENR  bueno  el que le consigues sacar 59:23
 
-ENR  {%com: laughs} y ya se saben defender 59:25
+ENR  {laughs} y ya se saben defender 59:25
 
 ENR  no te creas que tú vas allí y le dices tal  y te dice hombre qué bien  no no no 59:28
 
@@ -958,7 +958,7 @@ ENR  no es así 59:29
 
 ENR  eh tú le dices A y dice huy no vuelvas 59:31
 
-ENR  {%com: laughs} eh entonces  de por teléfono intentas rebajar la tensión  navegas  te haces una idea  y acabas vendiéndolo  por lo que puedes 59:40
+ENR  {laughs} eh entonces  de por teléfono intentas rebajar la tensión  navegas  te haces una idea  y acabas vendiéndolo  por lo que puedes 59:40
 
 ENR  por lo que te dejan 59:42
 
@@ -976,13 +976,13 @@ ENR  bonita del trabajo eh 59:55
 
 ANS sí sí 59:56
 
-ENR {%com: ANS laughs} yo que  déjame  un comentario 59:58
+ENR {ANS laughs} yo que  déjame  un comentario 59:58
 
 ENR  yo empecé a negociar con Microsoft  en octubre del año pasado  que me vinieron al despacho a pedirme que les regalara lo que teníamos de un producto 1:00:04
 
-ANS  {%act: assent} 1:00:05
+ANS  {assent} 1:00:05
 
-ENR eh   hemos cerrado un trato ahora  después de un año y medio de negociaciones  y hemos vendido {%alt: pendido} por un precio que nosotros pensamos que es razonable  y que está bien 1:00:12
+ENR eh   hemos cerrado un trato ahora  después de un año y medio de negociaciones  y hemos vendido {pendido} por un precio que nosotros pensamos que es razonable  y que está bien 1:00:12
 
 ENR  pero bueno  que es un año de negociaciones  y  de cartas a los reyes magos  desgracias absolutas  1:00:19
 
@@ -994,7 +994,7 @@ ENR eso  1:00:31
 
 LRO  porque  porque 1:00:31
 
-LRO  {%com: laughs} puede interesar mucho más el estar presente en el mercado  el tener el producto  el  el tener la experiencia de venderlo e instalarlo  que la diferencia que pierdes por  por  no vender al  al valor que tiene de  contar las horas que se ha tardado en programar  y en diseñar  y en documentar 1:00:51
+LRO  {laughs} puede interesar mucho más el estar presente en el mercado  el tener el producto  el  el tener la experiencia de venderlo e instalarlo  que la diferencia que pierdes por  por  no vender al  al valor que tiene de  contar las horas que se ha tardado en programar  y en diseñar  y en documentar 1:00:51
 
 IRA    eso sí  nosotros  hacemos un trato  que sé que vamos a perder dinero  pero te interesa tener a ese cliente en la cartera de clientes 1:00:57
 
@@ -1014,15 +1014,15 @@ IRA   que  que dicen  vamos a China  nos ponemos en China  y llevamos al chinito
 
 IRA  y no se plantean el uso de herramientas lingüísticas para ese tipo  a la hora de ese tipo de situaciones no 1:01:52
 
-IRA  es decir  si esa percepción no hay  en esas empresas que están  encontrándose con problemas {%alt: poblemas} de gestión lingüística  cuéntame de una empresa que no está internacionalizándose  qué percepción de este tipo de herramientas puede tener 1:02:07
+IRA  es decir  si esa percepción no hay  en esas empresas que están  encontrándose con problemas {poblemas} de gestión lingüística  cuéntame de una empresa que no está internacionalizándose  qué percepción de este tipo de herramientas puede tener 1:02:07
 
 IRA  pues igual sí que les puede  puede interesarte  temas de  pues de gestión documental  de vigilancia tecnológica  y que sí que le puede ver una  una cosa práctica enseguida no 1:02:16
 
-IRA  pero  yo  para qué hay que poner en la red de  de mi empresa  un corrector ortográfico en euskera  para {%alt: pa} que se hagan las cartas perfectas   eso que me aporta a mí  1:02:24
+IRA  pero  yo  para qué hay que poner en la red de  de mi empresa  un corrector ortográfico en euskera  para {pa} que se hagan las cartas perfectas   eso que me aporta a mí  1:02:24
 
 IRA  pues  en dinero poco 1:02:27
 
-ANS  {%act: assent} 1:02:28
+ANS  {assent} 1:02:28
 
 IRA  en cuanto a facturación  le aporta  le cuesta dinero  y  colocarlo 1:02:31
 
@@ -1032,7 +1032,7 @@ IRA  no sé cómo será  cómo funcionará en Madrid  cómo funcionará en Catal
 
 IRA  pero por lo menos yo lo veo en nuestro entorno  esa preocupación de las empresas  por  la gestión de la   del multilingüismo 1:02:45
 
-ANS  {%act: assent} 1:02:46
+ANS  {assent} 1:02:46
 
 ANS  pues nada   algún comentario  1:02:48
 
@@ -1046,7 +1046,7 @@ ANT  aunque sea mentira 1:03:07
 
 ANT  tú lo pones  y que te vengan a preguntar 1:03:09
 
-ANT   {%act: everybody laughs} 1:03:11
+ANT   {everybody laughs} 1:03:11
 
 ANT  y estoy seguro que muchos la hemos vendido  y hablo en general  tres euros  realmente 1:03:14
 
@@ -1112,7 +1112,7 @@ ANT  porque simplemente por el hecho que es bueno 1:05:31
 
 ANT  estas empresas que vienen de fuera  a lo mejor no tienen tecnología  y te lo cuentan incluso  no les da ningún empacho  pero sí que tienen buenos comerciales 1:05:38
 
-ANT  y  eso es una cosa  o sea el talento del buen comercial  es muy complicado de encontrar  sobre todo para {%alt: pa} tecnologías como  como las nuestras 1:05:46
+ANT  y  eso es una cosa  o sea el talento del buen comercial  es muy complicado de encontrar  sobre todo para {pa} tecnologías como  como las nuestras 1:05:46
 
 ENR bueno   hay otros fenómenos porque también tienen solución en la vía comercial 1:05:49
 
@@ -1180,9 +1180,9 @@ ENR  para qué si ya les va bien 1:07:47
 
 ENR  en este país  hacer cosas nuevas  es complicado 1:07:50
 
-ENR  y eso entra con el mercado {%alt: mercao} 1:07:51
+ENR  y eso entra con el mercado {mercao} 1:07:51
 
-ENR  el mercado {%alt: mercao} que tenemos delante  es un mercado  duro 1:07:54
+ENR  el mercado {mercao} que tenemos delante  es un mercado  duro 1:07:54
 
 ENR  duro 1:07:54
 
@@ -1192,11 +1192,11 @@ ENR  un mercado que no entiende  por qué ha de gastarse él un dinero cuando no
 
 ENR  el único momento en que una empresa se plantea innovar  es cuando está a punto de quebrar 1:08:05
 
-ENR  {%com: laughs} que es cuando necesita alguna manera de diferenciarse de sus competidores  e intentar captar mercado  y se ponen a abusar como brutos 1:08:11
+ENR  {laughs} que es cuando necesita alguna manera de diferenciarse de sus competidores  e intentar captar mercado  y se ponen a abusar como brutos 1:08:11
 
 ENR  entonces no tienen dinero para pagar la innovación 1:08:13
 
-ENR  {%com: everybody laughs} entonces  es un problema 1:08:16
+ENR  {everybody laughs} entonces  es un problema 1:08:16
 
 ENR  pero vivimos en un país de estas características 1:08:18
 
@@ -1204,7 +1204,7 @@ ENR  no sé Madrid porque no tengo los datos  Cataluña somos me parece que la r
 
 ENR   por qué  1:08:26
 
-ENR  dice porque no tenemos mercado {%alt: mercao} 1:08:27
+ENR  dice porque no tenemos mercado {mercao} 1:08:27
 
 ENR  no nosotros  las empresas de tecnología 1:08:30
 
@@ -1216,7 +1216,7 @@ ENR  o se ha distribuido  treinta o cuarenta veces 1:08:44
 
 ENR  mientras que aquí no lo ha cogido nadie 1:08:45
 
-ENR   {%act: laugh} es decir  no 1:08:48
+ENR   {laugh} es decir  no 1:08:48
 
 ENR  y lo han cogido para entrenar sistemas  que es de autoaprendizaje  matching learning  de cosas  de aplicaciones 1:08:53
 
@@ -1276,13 +1276,13 @@ IRA  somos seiscientos mil vasco hablantes 1:11:34
 
 IRA  es decir  eso también influye  son diez millones de catalanes 1:11:37
 
-ANS  {%act: assent} 1:11:38
+ANS  {assent} 1:11:38
 
-IRA  entonces  bueno  en ese sentido  {%com: ENR raises his arms and everybody laughs} 1:11:40
+IRA  entonces  bueno  en ese sentido  {ENR raises his arms and everybody laughs} 1:11:40
 
-ENR {%com: ENR rises his arms and everybody laughs} no entremos en política {%com: ENR gives a slap on the back to IRA} 1:11:44
+ENR {ENR rises his arms and everybody laughs} no entremos en política {ENR gives a slap on the back to IRA} 1:11:44
 
-IRA  {%com: everybody laughs}   de catalanohablantes 1:11:46
+IRA  {everybody laughs}   de catalanohablantes 1:11:46
 
 IRA  entonces  la situación es diferente  y desde ese punto de vista  pues estamos como más protegidos ante posibles incursiones del exterior 1:11:55
 
@@ -1308,15 +1308,15 @@ IRA  y se gastan una porrada de millones  1:12:27
 
 ENR no 1:12:27
 
-ENR  no {%com: everybody laughs}  1:12:28
+ENR  no {everybody laughs}  1:12:28
 
-IRA  {%com: everybody laughs}  se gastaron una porrada  poyada  porrada de millones con la gente de AutomaticsTrans  para no conseguir nada 1:12:34
+IRA  {everybody laughs}  se gastaron una porrada  poyada  porrada de millones con la gente de AutomaticsTrans  para no conseguir nada 1:12:34
 
 ENR bueno pero también  1:12:36
 
 ENR  no sé quién  no sé quién les asesoraba pero   1:12:38
 
-IRA  {%com: everybody laughs} bueno  quiero decir  y no fueron  y no fueron capaces  de gastarse sus millones con nosotros para ver si nosotros pues si les podíamos conseguir algo 1:12:45
+IRA  {everybody laughs} bueno  quiero decir  y no fueron  y no fueron capaces  de gastarse sus millones con nosotros para ver si nosotros pues si les podíamos conseguir algo 1:12:45
 
 IRA  es decir  ese tipo de  1:12:46
 
@@ -1332,9 +1332,9 @@ IRA  pues ya te lo hemos dicho 1:12:59
 
 IRA  solamente traduce hasta el setenta y seis por ciento 1:13:00
 
-IRA  {%com: everybody laughs} y que es una demo 1:13:03
+IRA  {everybody laughs} y que es una demo 1:13:03
 
-IRA  {%com: everybody laughs} 1:13:04
+IRA  {everybody laughs} 1:13:04
 
 IRA  es que he metido eso y me ha traducido no sé qué 1:13:05
 

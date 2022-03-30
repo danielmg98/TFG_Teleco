@@ -58,9 +58,9 @@ AGU  hay que entender  que en ese sentido  uno tiene que estar en la web  al mis
 
 AGU  hay que intentar considerar a la web  como un punto más  equivalente  a los demás puntos de actuación  que debe tener la política  de una universidad  o de un centro de investigación  04:07
 
-AGU  pero miren  todo eso está muy bien  pero hay muchas herramientas  muchas {%alt: muchos}  teclas que tocar y quizá la web no parecería la más importante  o la más relevante  04:19
+AGU  pero miren  todo eso está muy bien  pero hay muchas herramientas  muchas {muchos}  teclas que tocar y quizá la web no parecería la más importante  o la más relevante  04:19
 
-AGU   por qué  en realidad la web se ha convertido  en un {%alt: una}  instrumento  en una herramienta tan importante  04:25
+AGU   por qué  en realidad la web se ha convertido  en un {una}  instrumento  en una herramienta tan importante  04:25
 
 AGU  por una sencilla razón  04:27
 
@@ -116,7 +116,7 @@ AGU  pues fíjense  hay muchas  y muy importantes  07:14
 
 AGU  la primera  las audiencias que obtenemos  07:17
 
-AGU  cuando uno escribe un artículo  les hablo desde mi experiencia personal  puede esperar  unos {%alt: unas} poco cientos  unos pocos miles de lectores  07:28
+AGU  cuando uno escribe un artículo  les hablo desde mi experiencia personal  puede esperar  unos {unas} poco cientos  unos pocos miles de lectores  07:28
 
 AGU  en Internet  las audiencias son de millones  07:31
 
@@ -156,7 +156,7 @@ AGU  pues evidentemente  porque mucha gente la conoce  y resulta por tanto la op
 
 AGU  pero por qué nunca se publican los artículos en doble versión  en un idioma local  además del inglés  09:47
 
-AGU  la razón es puramente {%alt: puramente} económica  09:50
+AGU  la razón es puramente {puramente} económica  09:50
 
 AGU  es decir  hoy por hoy  cuesta muchísimo dinero publicar  un artículo científico en papel  09:55
 
@@ -414,7 +414,7 @@ AGU  por tanto  en nuestro modelo tiene que influir mucho eso  23:22
 
 AGU  si alguien publica en open access  nuestro ranking debe reconocerlo  23:26
 
-AGU  por tanto  ése es el {%alt: la} primer objetivo  23:29
+AGU  por tanto  ése es el {la} primer objetivo  23:29
 
 AGU  el segundo  dentro del modelo teórico  es  pues el funcionamiento tradicional de la ciencia  de la evaluación científica en el mundo  23:36
 
@@ -462,7 +462,7 @@ AGU  bueno pues aquí ven ustedes los resultados  25:54
 
 AGU  tienen  por una lado  la clasificación general  clasificamos las cuatro mil primeras universidades  porque a partir de la  cuatro mil y pico   casi las cinco mil  ya la cola es  es muy pareja  y por tanto  el ranking  no se crea claramente  26:08
 
-AGU  y  además proporcionamos {%alt: promoporcionamos}  resúmenes que  por regiones geográficas  por ejemplo en este caso  Europa  26:15
+AGU  y  además proporcionamos {promoporcionamos}  resúmenes que  por regiones geográficas  por ejemplo en este caso  Europa  26:15
 
 AGU  pueden ver ustedes  que a nivel mundial pues  los nombres son los ya conocidos  Stanford el primero  MIT  Berkeley  Harvard  etcétera  y en Europa pues algo parecido  Cambridge  Oxford  el Instituto de Tecnología de Zurich  que son  los casos que  uno puede esperar  26:31
 
@@ -502,7 +502,7 @@ AGU  pero sin embargo  luego  entre las doscientas primeras universidades de  Eu
 
 AGU  es decir  que  las universidades españolas en la web  se comportan todas de manera muy parecida  pero  por debajo de lo que uno podría esperar  al menos para las libres  28:18
 
-AGU  son datos  del {%alt: de la} último ranking  28:21
+AGU  son datos  del {de la} último ranking  28:21
 
 AGU  hacemos el ranking  dos veces al año  en enero y en julio  28:24
 
@@ -522,11 +522,11 @@ AGU  bueno  aquí les he hecho un resumen  que ya empieza a indagar  en  algo im
 
 AGU  fíjense  que hemos hecho  trece mil universidades  prácticamente de  de todo el mundo  doscientos países están representados  29:41
 
-AGU  pero  lo que me interesa que se fijen es  la situación cuando hablamos de las cien primeras {%alt: primeros}  los doscientos primeros  y luego  quinientos y mil primeros  29:49
+AGU  pero  lo que me interesa que se fijen es  la situación cuando hablamos de las cien primeras {primeros}  los doscientos primeros  y luego  quinientos y mil primeros  29:49
 
 AGU  y me comparen  la situación de Europa  con la de  la situación de Norteamérica  29:54
 
-AGU  fíjense  de las {%alt: los} cien primeras {%alt: primeros}  universidades del mundo  setenta y seis  son norteamericanas  30:00
+AGU  fíjense  de las {los} cien primeras {primeros}  universidades del mundo  setenta y seis  son norteamericanas  30:00
 
 AGU  fíjense que no sólo son estadounidenses  sino que curiosamente  también hay muchas canadienses  30:06
 
@@ -706,7 +706,7 @@ AGU  y es una gran ventaja de las herramientas  que estamos comentando  37:11
 
 AGU  esto que nosotros utilizamos aquí  se llama cibermetría  ya les he comentado antes  37:15
 
-AGU  existe una {%alt: unos} serie muy amplia de  de herramientas  37:18
+AGU  existe una {unos} serie muy amplia de  de herramientas  37:18
 
 AGU  no voy a entrar  en detalle  aquí  porque lo que me interesa  es ver  cómo se hace esto  37:23
 
@@ -722,7 +722,7 @@ AGU   cuál es la  problemática  37:47
 
 AGU  pues  hombre hay problemática en las dos opciones  37:50
 
-AGU  cuando uno utiliza un robot  uno necesita dedicar {%alt: dedicar} mucho tiempo  mucho esfuerzo a que el  robot funcione bien  y les voy a decir por experiencia personal  que cuesta mucho tiempo  y mucho dinero  y a veces no funciona  38:03
+AGU  cuando uno utiliza un robot  uno necesita dedicar {dedicar} mucho tiempo  mucho esfuerzo a que el  robot funcione bien  y les voy a decir por experiencia personal  que cuesta mucho tiempo  y mucho dinero  y a veces no funciona  38:03
 
 AGU  por contra  los robots de los motores de búsqueda sabemos que funcionan bien  que hacen las cosas  bastante mejor  que el que podamos hacer nosotros  salvo  que lo que hacen realmente  y lo que proporcionan  es un secreto comercial  con lo cual  pues realmente sabemos el resultado pero no sabemos cómo se ha llegado al mismo  38:20
 
@@ -760,7 +760,7 @@ AGU  hemos decidido utilizar  tamaño  número de ficheros  visibilidad  número
 
 AGU  todos estos se pueden combinar  40:54
 
-AGU  hay algunos casos  donde por ejemplo en el caso del tamaño podemos separar  lo que llamamos ficheros ricos  es decir  los  documentos  no las {%alt: los} páginas sin más  sino los documentos  formato PDF  formato postscript  que además marca  un área disciplinar  41:11
+AGU  hay algunos casos  donde por ejemplo en el caso del tamaño podemos separar  lo que llamamos ficheros ricos  es decir  los  documentos  no las {los} páginas sin más  sino los documentos  formato PDF  formato postscript  que además marca  un área disciplinar  41:11
 
 AGU  el postscript lo utilizan ingenieros  físicos y matemáticos  41:14
 
@@ -980,13 +980,13 @@ AGU  fíjense ustedes  todos los subdominios  de la universidad  de Chile  que c
 
 AGU  fíjense que la página central  es la que obviamente recibe más visitas  pero sólo el treinta por ciento del total  y por ejemplo  el departamento de Ciencias Sociales va segunda  el departamento de Medicina  Agronomía   Música y Sonología  lo que  cual claramente es un  un departamento o un grupo de investigación  o  Periodismo   eh  54:52
 
-AGU  esto  por ejemplo  en algunas {%alt: algunos} situaciones  vuelvo a indicar  porque es el caso más palmario  la universidad Complutense  no sé  54:59
+AGU  esto  por ejemplo  en algunas {algunos} situaciones  vuelvo a indicar  porque es el caso más palmario  la universidad Complutense  no sé  54:59
 
 AGU  realmente  el número  de  visitas van fundamentalmente a la página central  y no existe  esa separación  ya ni siquiera de  de páginas personales  sino  incluso de grupos  o de departamentos  55:13
 
 AGU  vuelvo a repetir  que lo veo  como  negativo  55:16
 
-AGU  bueno  la {%alt: lo} última medida que les voy a enseñar  es una medida un poco gráfica  es visualización  55:22
+AGU  bueno  la {lo} última medida que les voy a enseñar  es una medida un poco gráfica  es visualización  55:22
 
 AGU  es el vecindario  55:24
 

@@ -30,7 +30,7 @@ GOM  no cuento nada más  de eso  02:48
 
 GOM sí que  subrayar que  estamos trabajando  activamente  02:53
 
-GOM este   {click}  hemos puesto en marcha  un plan de puesta en marcha  que cuesta  {%act: laugh} poner en marcha un plan de  de puesta en marcha  pero bueno  ya   está funcionando  03:02
+GOM este   {click}  hemos puesto en marcha  un plan de puesta en marcha  que cuesta  {laugh} poner en marcha un plan de  de puesta en marcha  pero bueno  ya   está funcionando  03:02
 
 GOM es un plan  con unos pasos bien definidos  03:06
 
@@ -44,7 +44,7 @@ GOM el segundo  en  en el ámbito   cultural  lo presenta  Isidro Aguillo  03:31
 
 GOM y  el tercero  lo presenta Paloma también en el ámbito de la Biomedicina  03:35
 
-GOM entonces  lo que os voy a  a  voy a poner en antecedentes  {%act: click}  pues que seamos breves porque  queremos que  sepáis lo que hacemos  pero queremos saber qué es lo que queréis vosotros que hagamos  03:45
+GOM entonces  lo que os voy a  a  voy a poner en antecedentes  {click}  pues que seamos breves porque  queremos que  sepáis lo que hacemos  pero queremos saber qué es lo que queréis vosotros que hagamos  03:45
 
 GOM y entonces  ese es  este es el momento quizá para  que nos sugiráis cosas no  03:49
 
@@ -56,7 +56,7 @@ BUE bueno  pues   muchas gracias José María  04:07
 
 BUE  muchas gracias a todos también  04:09
 
-BUE  {%com: GOM comes and changes the slides in the computer} y   y bueno pues en  intentaré ser breve  04:25
+BUE  {GOM comes and changes the slides in the computer} y   y bueno pues en  intentaré ser breve  04:25
 
 BUE y  lo que os presento aquí pues es un poco  unas digamos como conclusiones iniciales  a las que llegamos en este grupo de trabajo  de los tres que comentaba antes  José María  04:36
 
@@ -66,7 +66,7 @@ BUE  lo que queríamos más o menos era en un periodo de tiempo relativamente co
 
 BUE  así que pues octubre y   septiembre octubre pues  es un poco  cosa de puesta en marcha  entonces en este breve periodo de tiempo  pues más o menos hacer como tres   pilotos de   de propuestas  en nuestro caso  pues por ejemplo estuvimos trabajando como ahora comentamos con  hacer como una especie de embrión  o  o bosquejo de lo que podría ser pues un proyecto PROFIT no  05:18
 
-BUE  para presentar una   a un programa de financiación nacional  PROFIT está  sobre todo soportado {%alt: soportao} por el ministerio de industria  en  en gran parte  05:27
+BUE  para presentar una   a un programa de financiación nacional  PROFIT está  sobre todo soportado {soportao} por el ministerio de industria  en  en gran parte  05:27
 
 BUE pero bueno podría ser otro  otro tipo de programa  05:29
 
@@ -74,7 +74,7 @@ BUE entonces sobre esa   sobre esa  especie como de objetivo  pues  presentar un
 
 BUE y empezar ya a integrar conocimiento en este caso pues  los participantes que estamos en este grupo  pues somos la Universidad Europea de Madrid  la Autónoma  como dos universidades  después tenemos  aquí también participamos  dos empresas de orientación tecnológica  que son Bitext y DAEDALUS  y después en ese papel de usuario pues el hospital de Fuenlabrada  porque ahora pues también como comentaba José María al principio  pues tenemos esa orientación un poco  a lo de la salud  como caso de uso  06:20
 
-BUE  {%act: clearing of throat} entonces pues bueno en esta presentación {%com: conference speaker uses a clock to control the duration of his intervention}   como os decía pues voy a intentar ser lo más breve posible  me apunto aquí el tiempo  06:27
+BUE  {clearing of throat} entonces pues bueno en esta presentación {conference speaker uses a clock to control the duration of his intervention}   como os decía pues voy a intentar ser lo más breve posible  me apunto aquí el tiempo  06:27
 
 BUE  pues el   el contenido es básicamente pues eso no  06:32
 
@@ -96,7 +96,7 @@ BUE en concreto esta es la ficha de nuestro grupo  lo  lo denominamos así  el  
 
 BUE entonces esa fue la   la definición de la idea al principio  después como ahora os comento  pues la  la perfilamos un poquito más y la reorientamos  quizá en parte  09:06
 
-BUE  {%act: clearing of throat} objetivos de   09:09
+BUE  {clearing of throat} objetivos de   09:09
 
 BUE  esta fue la ficha con la que trabajamos  para empezar en   en este grupo  09:13
 
@@ -110,7 +110,7 @@ BUE y estaba también en línea  con los objetivos del programa MAVIR no  10:03
 
 BUE  entonces pues bueno ahí el    el usuario en este caso era el hospital de  el que hacía el papel  de usuario era el hospital de Fuenlabrada  las empresas  eran Bitext y DAEDALUS  y las universidades jugando el papel de investigación  pues la Europea de Madrid  y la Autónoma no  10:17
 
-BUE   {%act: clearing of throat} la reunión que tuvimos en el  hospital de Fuenlabrada pues fue un poco como el  el elemento principal del trabajo  después estuvimos  pues   comunicando de distintas formas  pues teléfono mensaje por Internet  etcétera tal  10:30
+BUE   {clearing of throat} la reunión que tuvimos en el  hospital de Fuenlabrada pues fue un poco como el  el elemento principal del trabajo  después estuvimos  pues   comunicando de distintas formas  pues teléfono mensaje por Internet  etcétera tal  10:30
 
 BUE pero el momento principal de puesta en común  fue esa reunión  que tuvimos  en concreto el veintinueve de septiembre del dos mil seis no  10:38
 
@@ -124,7 +124,7 @@ BUE  pues somos los que estamos ahí en la  en la diapositiva  11:16
 
 BUE pues Antonio  Antonio Moreno de la Autónoma  Enrique Torrejón de Bitext  Francisco García del hospital de Fuenlabrada  José Luis de DAEDALUS  Paz  11:26
 
-BUE  se han quedado {%alt: quedao} en orden alfabético  11:28
+BUE  se han quedado {quedao} en orden alfabético  11:28
 
 BUE Paz del hospital de Fuenlabrada también y yo mismo por la Universidad  Europea  11:34
 
@@ -172,7 +172,7 @@ BUE así que lo que teníamos que hacer era  describir el papel de cada entidad 
 
 BUE con qué información concreta del hospital  íbamos a  trabajar en el proyecto  14:59
 
-BUE  {%act: clearing of throat} bueno entonces aquí en   en estas diapositivas  pues lo que veis es un poco el papel que podía jugar cada uno de los participantes  en este proyecto  15:10
+BUE  {clearing of throat} bueno entonces aquí en   en estas diapositivas  pues lo que veis es un poco el papel que podía jugar cada uno de los participantes  en este proyecto  15:10
 
 BUE por lo que respectaba a Bitext  él proponía  pues esta serie de líneas  en relación con el buscador  multimodal  pues utilizar tecnología lingüística  de la propia empresa para  desarrollar pues la parte lingüística del buscador multimodal  o sea pues  ir más allá de la simple búsqueda por palabras clave  y tener en cuenta pues toda una serie  tener en cuenta  pues qué es lo que está pidiendo el usuario en concreto  15:33
 
@@ -196,9 +196,9 @@ BUE  puede ser una especie como de  trabajo inicial para avanzar en una propuest
 
 BUE  era el objetivo  16:41
 
-BUE  {%act: clearing of throat} entonces por ejemplo ellos proponían la localización de información en expedientes médicos  combinando datos textuales con datos en formato de imagen  así que por ejemplo de las radiografías  si se tiene una radiografía la imagen de alguien que tiene  pues algún problema en el pulmón  o cosa parecida y debajo está el texto  pues cómo  sacar partido de ese texto asociado  y también analizar la   integrarlo  incluso en el análisis de la imagen  17:05
+BUE  {clearing of throat} entonces por ejemplo ellos proponían la localización de información en expedientes médicos  combinando datos textuales con datos en formato de imagen  así que por ejemplo de las radiografías  si se tiene una radiografía la imagen de alguien que tiene  pues algún problema en el pulmón  o cosa parecida y debajo está el texto  pues cómo  sacar partido de ese texto asociado  y también analizar la   integrarlo  incluso en el análisis de la imagen  17:05
 
-BUE  {%act: clearing of throat}  bueno  hacíamos también referencia  a  a dos funcionalidades parecidas no  17:16
+BUE  {clearing of throat}  bueno  hacíamos también referencia  a  a dos funcionalidades parecidas no  17:16
 
 BUE  pues en la tres apoyo en el proceso de compleción de   de expedientes  pues hace referencia al relleno de registros  y también desarrollo  de herramientas para apoyo al proceso de diagnóstico  17:27
 
@@ -316,11 +316,11 @@ BUE muchas gracias  24:26
 
 GOM pues  muchas gracias Manolo  24:27
 
-GOM {%com: clapping} le agradecemos la brevedad porque ha ganado tres minutos sobre el tiempo estimado {%com: all laugh}  24:32
+GOM {clapping} le agradecemos la brevedad porque ha ganado tres minutos sobre el tiempo estimado {all laugh}  24:32
 
 GOM ahora Isidro  creo que aprovechará esos tres minutos  24:36
 
-AGU  {%act: click} pues  hola buenos días a todos  24:57
+AGU  {click} pues  hola buenos días a todos  24:57
 
 AGU esta es una presentación  que aunque  la haga yo personalmente es  la hemos preparado al alimón  junto con Anselmo Peñas del grupo de la UNED  y  yo represento en este caso al grupo del CSIC  que en el Centro de Información y Documentación Científica  25:11
 
@@ -330,7 +330,7 @@ AGU lamentablemente como mi inglés proviene fundamentalmente de mi estancia en 
 
 AGU es la única razón  25:35
 
-AGU  {%act: laugh} bueno  dicho esto  vamos a ir un poco con el detalle del proyecto que nosotros nos hemos encargado  que tiene que ver  fundamentalmente con los contenidos  25:45
+AGU  {laugh} bueno  dicho esto  vamos a ir un poco con el detalle del proyecto que nosotros nos hemos encargado  que tiene que ver  fundamentalmente con los contenidos  25:45
 
 AGU es decir  la idea fundamental que queremos transmitir  es que  además de trabajar  sobre la estructura de la red  y trabajar  sobre la implantación número de usuarios el consumo que estos hacen  creemos que es muy relevante  centrarse en los contenidos  26:01
 
@@ -352,7 +352,7 @@ AGU  lo que hacemos es  utilizar como unidad  la propia estructura hipertextual 
 
 AGU  es decir  que haya detrás no solamente una dirección concreta  sino un grupo de trabajo  un departamento o  directamente una universidad  sobre la cual podamos  aplicar otros parámetros que permitan un análisis  comparativo  28:08
 
-AGU  por tanto la justificación queda clara  es una medida {%alt: menida} muy rápida  muy objetiva  fácil de aplicar  que nos va a permitir trabajar con todo esto  28:17
+AGU  por tanto la justificación queda clara  es una medida {menida} muy rápida  muy objetiva  fácil de aplicar  que nos va a permitir trabajar con todo esto  28:17
 
 AGU  pero  les voy a decir  aquí hay una agenda  no oculta sino simplemente una agenda política  que es la que ya se ha presentado a lo largo de todas estas sesiones  que es la defensa de los contenidos generados en nuestro país  fundamentalmente pero no exclusivamente en castellano  entenderán  obviamente que en el mundo académico  el peso del inglés es fundamental  pero más que el hecho de que estén en uno en otro idioma  esa necesidad real  de  generar contenidos propios  generar contenidos  que nos puedan  poner en una posición equivalente a la de otros países  que de momento y como veremos dentro de un momento  no estamos logrando  28:52
 
@@ -366,7 +366,7 @@ AGU   por qué elegimos la academia   29:13
 
 AGU  bueno pues es un candidato excelente  primero porque  ha sido objeto de estudios cuantitativos previamente  lo cual facilita  la interpretación  no sólo consiste en sacar una serie de datos  y una serie de patrones sino intentar  comprender qué significan esos patrones y cuáles pueden ser  los resultados que que vamos a  a obtener  29:32
 
-AGU  es evidente que en el mundo académico la Internet nació  es donde  se ha madurado {%alt: sa madurao} fundamentalmente  y donde  las técnicas  más recientes se están  aplicando con mayor fuerza   29:43
+AGU  es evidente que en el mundo académico la Internet nació  es donde  se ha madurado {sa madurao} fundamentalmente  y donde  las técnicas  más recientes se están  aplicando con mayor fuerza   29:43
 
 AGU  también es cierto que los investigadores  poco a poco  profesores investigadores estudiantes avanzados de posgrado doctorado etcétera  cada vez están utilizando más la red  para los procesos de comunicación científica  y eso también facilita nuestra labor  29:58
 
@@ -402,7 +402,7 @@ AGU  pero se puede extender a cualquier otro ciclo de comunicación a través de
 
 AGU  les he puesto un par de ejemplos  fíjense que resulta muy fácil  saber el número de subunidades que tiene por ejemplo la Universidad de Harvard  32:48
 
-AGU  es simplemente {%alt: siemplemente} un mecanismo que se puede hacer a través de Yahoo  más de seis mil trescientas subunidades reconocidas   32:54
+AGU  es simplemente {siemplemente} un mecanismo que se puede hacer a través de Yahoo  más de seis mil trescientas subunidades reconocidas   32:54
 
 AGU o por  ejemplo en el caso de la visibilidad y del tamaño  utilizando   tienen ustedes el caso de que  la visibilidad de  de  uno de los centros de investigación de cáncer de la Universidad de Harvard  es diez veces superior a su presencia  en la red  33:08
 
@@ -448,7 +448,7 @@ AGU  creemos que no es una cantidad excesiva  pero que sí obviamente nos obliga
 
 AGU  aparte de eso hay un problema de control documental  como ustedes conocen  la  la Web es  caótica en todos los sentidos pero sobre todo  en la ausencia de un control de los contenidos  descriptivos de la  de las propias páginas  35:51
 
-AGU  incluso cuando nos centramos  en elementos tan singulares de contenido de metadatos como pueden {%alt: bueden} ser  las etiquetas de título de metadatos o  de los encabezamientos  pues tampoco hay un control que digamos  36:02
+AGU  incluso cuando nos centramos  en elementos tan singulares de contenido de metadatos como pueden {bueden} ser  las etiquetas de título de metadatos o  de los encabezamientos  pues tampoco hay un control que digamos  36:02
 
 AGU  el problema es  más amplio de lo que parece  no solamente  tenemos un gran volumen de información sin control documental  sino que aparecen distintos idiomas  36:10
 
@@ -486,9 +486,9 @@ AGU  institucional pues  el origen de la  financiación  pública o privada  el 
 
 AGU  esto  obviamente estamos  muy interesados en el tema latinoamericano  con lo cual  puede ser muy interesante  a nivel de idioma  etcétera  39:37
 
-AGU   {%act: click} este es el caso que me refería anteriormente  el proyecto EICSTES  donde ven ustedes que hicimos un esfuerzo  para el dato que les he dado  veintiséis mil subunidades  39:48
+AGU   {click} este es el caso que me refería anteriormente  el proyecto EICSTES  donde ven ustedes que hicimos un esfuerzo  para el dato que les he dado  veintiséis mil subunidades  39:48
 
-AGU  este es un  un dato  este es un ejemplo nuestro  pero tienen ustedes por ejemplo otro caso interesante que puede ser utilizado a la hora  de realizar los {%alt: las} trabajos que es  el Open Directory  que  es bastante amplio bastante extenso  más de quinientas noventa mil categorías evidentemente  puede ser muy útil a la hora  de realizar las programaciones oportunas  40:08
+AGU  este es un  un dato  este es un ejemplo nuestro  pero tienen ustedes por ejemplo otro caso interesante que puede ser utilizado a la hora  de realizar los {las} trabajos que es  el Open Directory  que  es bastante amplio bastante extenso  más de quinientas noventa mil categorías evidentemente  puede ser muy útil a la hora  de realizar las programaciones oportunas  40:08
 
 AGU  o por ejemplo como  ejemplo de clasificación un poco más universal  tienen ustedes la clasificación decimal  la clasificación que se utiliza en  bibliotecas etcétera  que sin embargo también ha tenido su aplicación en  en páginas Web  con cierto éxito en este caso la Universidad de  Strathclyde que es una universidad de  Escocia  40:26
 
@@ -532,7 +532,7 @@ AGU  y si quieren alguna   tienen alguna pregunta o alguna cosa pues  estamos a 
 
 AGU  muchísimas gracias  43:00
 
-GOM {%com: clapping} gracias  43:01
+GOM {clapping} gracias  43:01
 
 GOM  pues  también te tengo que felicitar  porque ha sido  la verdad que extremadamente conciso  para todo lo que podías haber contado  43:11
 
@@ -546,7 +546,7 @@ MAR  yo os voy a presentar  soy Paloma Martínez de la Universidad Carlos III  y
 
 MAR  bueno ha sido una evolución un poco distinta a los que se han presentado aquí  43:43
 
-MAR  es también en el dominio  de  hospitales  y aunque  surgió en esa  reunión que ha mencionado antes  Manolo de julio con  {%act: click}  un objetivo de trabajar en temas de gestión de  documentos  de gestión de flujo documental en hospitales  pues ha  ha  tenido una   una revisión y ha ido por otros derroteros  44:05
+MAR  es también en el dominio  de  hospitales  y aunque  surgió en esa  reunión que ha mencionado antes  Manolo de julio con  {click}  un objetivo de trabajar en temas de gestión de  documentos  de gestión de flujo documental en hospitales  pues ha  ha  tenido una   una revisión y ha ido por otros derroteros  44:05
 
 MAR  lo que voy a presentar aquí va a ser una presentación muy breve porque  es una presentación que hemos elaborado entre iSOCO y la Universidad Carlos III  44:13
 
@@ -554,7 +554,7 @@ MAR  es plantear una serie de necesidades que han surgido en el   que nos han pr
 
 MAR  en esa reunión participaron por parte de iSOCO Jesús Contreras y Luis Rodrigo  que se encuentra hoy aquí  yo misma por parte de la Universidad Carlos III  y luego tres personas del hospital de Fuenlabrada  Paz  Pablo Serrano Francisco García y Paz Iglesias  44:37
 
-MAR  entonces  {%act: click}  dios mío  lo que  lo que voy a hacer es presentar   {%act: click} los objetivos que nos trasladaron desde el hospital de Fuenlabrada como usuarios  para presentar a continuación las cuatro  aplicaciones que nosotros hemos identificado como potenciales en las que trabajar  45:02
+MAR  entonces  {click}  dios mío  lo que  lo que voy a hacer es presentar   {click} los objetivos que nos trasladaron desde el hospital de Fuenlabrada como usuarios  para presentar a continuación las cuatro  aplicaciones que nosotros hemos identificado como potenciales en las que trabajar  45:02
 
 MAR  ver un poco el papel de los participantes aunque  no está tan definido como en el resto de los  casos de hecho  faltarían participantes  y es una de las cosas que vamos a transmitir hoy aquí  45:14
 
@@ -562,7 +562,7 @@ MAR  y luego centrarnos en unos aspectos importantes de arquitectura y del plan 
 
 MAR  no es que esté definido el plan de  trabajo pero sí algunos aspectos que para nosotros eran  muy importantes  45:24
 
-MAR  el problema es que  que nos  nos trasladaron a nosotros desde el hospital  era   {%act: click} tenían un problema de estandarización  y   y normalización  en el  en su trabajo diario sobre todo de gestión de formularios que se realizan en distintos servicios del hospital  45:41
+MAR  el problema es que  que nos  nos trasladaron a nosotros desde el hospital  era   {click} tenían un problema de estandarización  y   y normalización  en el  en su trabajo diario sobre todo de gestión de formularios que se realizan en distintos servicios del hospital  45:41
 
 MAR  y  nos dijeron que  estaban muy interesados en  normalizar por lo menos la parte  semántica  de esos formularios que ellos tienen diseñados y que  que están muy bien diseñados  que funcionan muy bien a nivel  a nivel local en el hospital  mediante un recurso  que existe en inglés y en castellano que se llama  SNOMED CT  una ontología sobre terminología  médica  46:06
 
@@ -570,7 +570,7 @@ MAR  pues  querían  centrar toda esta  esta problemática  en torno a este  rec
 
 MAR  en este primer paso de  estandarización digamos  46:14
 
-MAR  lo que buscaban además era que fuera una solución abierta que pudiera funcionar  sobre  {%act: click} la  arquitectura que ellos tienen de múltiples  aplicaciones trabajando con distintas fuentes  46:25
+MAR  lo que buscaban además era que fuera una solución abierta que pudiera funcionar  sobre  {click} la  arquitectura que ellos tienen de múltiples  aplicaciones trabajando con distintas fuentes  46:25
 
 MAR  y que todos estos procesos que nos plantearon aquí como necesidades que tienen  que funcionaran entorno a este  a este recurso  46:31
 
@@ -586,9 +586,9 @@ MAR  es decir  no tanto sobre la parte sintáctica  que ellos tienen  bien defin
 
 MAR  algunos  tienen  dominios cerrados  pero otros  otros son texto  texto libre  47:53
 
-MAR  entonces {%alt: toces} esto les  les dificulta mucho poder obtener indicadores sobre estos campos en lo  en estos formularios no  47:58
+MAR  entonces {toces} esto les  les dificulta mucho poder obtener indicadores sobre estos campos en lo  en estos formularios no  47:58
 
-MAR  que tienen en  en   {%act: click} en todos los servicios  48:01
+MAR  que tienen en  en   {click} en todos los servicios  48:01
 
 MAR  entonces quieren manejar este vocabulario controlado de  de SNOMED  CT  dentro de  dentro del hospital  48:07
 
@@ -596,7 +596,7 @@ MAR  esto les interesa especialmente  trabajar en lo que ellos llaman seguridad 
 
 MAR  es el dominio  sobre el que ellos  quiere empezar a  a trabajar  48:22
 
-MAR  además también les interesa el tema de como segunda  segundo problema en el que les interesa  trabajar es  {%act: click} estudios epidemiológicos  48:33
+MAR  además también les interesa el tema de como segunda  segundo problema en el que les interesa  trabajar es  {click} estudios epidemiológicos  48:33
 
 MAR  es sobre precisamente estos formularios que al no tener  campos digamos con datos cerrados les resulta difícil obtener indicadores  48:43
 
@@ -610,13 +610,13 @@ MAR  entonces el tema de alertas por ejemplo algún caso que plantean es el tema
 
 MAR  que no puedas introducir en un formulario  si un determinado paciente  tiene alergia a antibióticos  pues que de alguna manera no le puedas recetar un antibiótico no y que aquello pues esté  esté controlado  49:33
 
-MAR  como tercer  tercera línea  y que incluso  Manuel ha mencionado antes  está la parte de  buscar en la historia  ellos  {%act: click}  el hospital maneja historia clínica electrónica  que está  de pacientes que está  dispersa en distintos objetos y en distintas fuentes no  49:53
+MAR  como tercer  tercera línea  y que incluso  Manuel ha mencionado antes  está la parte de  buscar en la historia  ellos  {click}  el hospital maneja historia clínica electrónica  que está  de pacientes que está  dispersa en distintos objetos y en distintas fuentes no  49:53
 
 MAR  entonces  de manera ideal  a ellos les gustaría tener algo que  a nosotros nos describen como Google del paciente no  49:59
 
 MAR  de tal manera que  puedan localizar en estas múltiples fuentes  información específica sobre pues tratamientos  pruebas  materiales adicionales  que ahora  tienen que buscar  sabiendo la fuente en la que se encuentran  y combinando distintas  informaciones que al final tienen que hacer de manera manual no  50:19
 
-MAR   {%act: click} bueno  pues además que puedan realizar búsquedas de distinto tipo  que ya mencionado Manuel pues por términos en documentos  en otras fuentes externas que utilizan como  como referencia  y luego también navegación semántica  50:32
+MAR   {click} bueno  pues además que puedan realizar búsquedas de distinto tipo  que ya mencionado Manuel pues por términos en documentos  en otras fuentes externas que utilizan como  como referencia  y luego también navegación semántica  50:32
 
 MAR  esta es otra de las  no tan prioritaria como la que mencionaban de  os mencionaba de seguridad en el paciente  pero también importante para ellos  50:39
 
@@ -626,13 +626,13 @@ MAR  es en la que primero   les interesaría avanzar  es decir coger estos formu
 
 MAR  para ver cómo se podría implantar  el uso de este recurso de  esta ontología  médica  pues en algo pequeño  y ver luego pues cómo podría ser de  de instalable no  51:05
 
-MAR  y que se puedan  o sea hacer  {%act: click} conversión  semiautomática de esos formularios que ya tienen  y que en los nuevos se pueda guiar  esa introducción de  de datos  51:16
+MAR  y que se puedan  o sea hacer  {click} conversión  semiautomática de esos formularios que ya tienen  y que en los nuevos se pueda guiar  esa introducción de  de datos  51:16
 
 MAR  el objetivo de esto  y bueno luego hay una charla sobre el tema de   de sistemas de información en hospitales de la CAM  51:23
 
-MAR  es que  bueno el hospital es  es pionero en  en    {%act: click} en el tema de la historia clínica electrónica  51:30
+MAR  es que  bueno el hospital es  es pionero en  en    {click} en el tema de la historia clínica electrónica  51:30
 
-MAR  y  no quieren trabajar por ahora la parte de  estandarización sintáctica de los formularios  es decir  ellos tienen formularios que han definido en  {%act: clearing of throat}  {%act: click}  que manejan en las distintas unidades de enfermería de servicios  que no son estándares {%alt: estandars}  51:44
+MAR  y  no quieren trabajar por ahora la parte de  estandarización sintáctica de los formularios  es decir  ellos tienen formularios que han definido en  {clearing of throat}  {click}  que manejan en las distintas unidades de enfermería de servicios  que no son estándares {estandars}  51:44
 
 MAR  si por ejemplo recurrimos a  otros estándares que hay en medicina  como el HL7 para el tema de   que es la iniciativa americana para  normalizar información médica  51:54
 
@@ -642,11 +642,11 @@ MAR  entonces este primer paso lo quieren hacer  vía esta  este  recurso  de SN
 
 MAR  o sea los dos únicos idiomas en los que existe es el inglés y en castellano  por lo menos hasta donde  hasta donde   sabemos  52:25
 
-MAR  bueno esto en cuanto a las cuatro   {%act: click} problemas que nos han planteado  52:30
+MAR  bueno esto en cuanto a las cuatro   {click} problemas que nos han planteado  52:30
 
-MAR  nos han planteado otros que yo incluso he mencionado aquí   {%act: cough} como otras posibles funcionalidades y que  Manuel también ha hecho referencia a ellas en cuanto al tema de tratamiento de imágenes  y en el caso que  por ejemplo nos podría interesar a nosotros de  tecnología de almacenes de datos para  gestión espacio temporal no  52:48
+MAR  nos han planteado otros que yo incluso he mencionado aquí   {cough} como otras posibles funcionalidades y que  Manuel también ha hecho referencia a ellas en cuanto al tema de tratamiento de imágenes  y en el caso que  por ejemplo nos podría interesar a nosotros de  tecnología de almacenes de datos para  gestión espacio temporal no  52:48
 
-MAR  pues tratar las imágenes  {%act: click} de acuerdo a geometrías y ver cómo evolucionan y utilizar  pues una de las  ventajas es  poder utilizar estos datos que tendrían que analizarse no de radiografías  escáneres  o distintas pruebas  y que pudiéramos estudiar  trabajar sobre data mining para estudiar evolución de tumores  por ejemplo  53:08
+MAR  pues tratar las imágenes  {click} de acuerdo a geometrías y ver cómo evolucionan y utilizar  pues una de las  ventajas es  poder utilizar estos datos que tendrían que analizarse no de radiografías  escáneres  o distintas pruebas  y que pudiéramos estudiar  trabajar sobre data mining para estudiar evolución de tumores  por ejemplo  53:08
 
 MAR  y bueno  yo creo no hemos trasladado aquí todas  todavía había más  más posibilidades  53:14
 
@@ -658,7 +658,7 @@ MAR  por ejemplo  pues proponíamos a lo mejor trabajar sobre incidencias partic
 
 MAR  pero no se habló nada de  ver cómo podíamos  qué dominio iba a ser en particular  53:53
 
-MAR  en cuanto al papel de los participantes bueno  de manera muy breve hemos trasladado aquí alguna de la  tecnología que tiene iSOCO  pues para   Web semántica  servicios Web semánticos  y adquisición de conocimiento  y una serie de  de   {%act: click} de productos  que pues hacen  por ejemplo buscadores semánticos  para trabajar con peticiones  de consultas en lenguaje natural  o   librerías para gestión de  de ontologías  54:23
+MAR  en cuanto al papel de los participantes bueno  de manera muy breve hemos trasladado aquí alguna de la  tecnología que tiene iSOCO  pues para   Web semántica  servicios Web semánticos  y adquisición de conocimiento  y una serie de  de   {click} de productos  que pues hacen  por ejemplo buscadores semánticos  para trabajar con peticiones  de consultas en lenguaje natural  o   librerías para gestión de  de ontologías  54:23
 
 MAR  por parte de  la Carlos tercero  bueno pues  aplicamos tecnologías del lenguaje  a distintas tareas de recuperación de información  de extracción de información  y sobre todo de búsqueda de respuestas  54:35
 
@@ -668,7 +668,7 @@ MAR  pero  no tenemos cubierto toda la  parte dentro de este que  de tecnología
 
 MAR  por ejemplo no tenemos la parte de tecnología  lingüística que podríamos aplicar  al tema por ejemplo del Google del  del paciente  54:53
 
-MAR  {%act: click} en cuanto al hospital de Fuenlabrada bueno  esto es el  el mismo papel  de usuario participar en la  en la  en los análisis de requisitos  55:02
+MAR  {click} en cuanto al hospital de Fuenlabrada bueno  esto es el  el mismo papel  de usuario participar en la  en la  en los análisis de requisitos  55:02
 
 MAR  sobre todo aportar estas fuentes  de información electrónica sobre las que  habría que probar las  las  las  los prototipos de  de  de solución  con un tema  nada trivial que es el tema de  de  de protección de datos personales y ver cómo se podría hacer esto de  armonizar toda la  la información sobre la que trabajar  55:21
 
@@ -678,15 +678,15 @@ MAR  ya solamente deciros que  nos parecía importante destacar que  el hospital
 
 MAR  pues el objetivo era  esta  caja que aparece aquí de este recurso  funcionando sobre  una serie de conectores que habría que definir para las  distintas fuentes sobre las que trabajáramos no  55:53
 
-MAR  y aquí estas cuatro  {%act: click} líneas que nos han planteado de seguridad en el paciente  estudios epidemiológicos  buscador de información en  en historias clínicas electrónicas  y gestión de formularios  56:07
+MAR  y aquí estas cuatro  {click} líneas que nos han planteado de seguridad en el paciente  estudios epidemiológicos  buscador de información en  en historias clínicas electrónicas  y gestión de formularios  56:07
 
 MAR  con prioridad al de gestión de formularios que es el que  de todos ellos definían como más  más importante no  56:14
 
-MAR  y bueno en cuanto al tema del plan de trabajo  no quiere decir que esto sea  {%act: click} ay lo que hay que  lo que hay que hacer  pero sí lo queríamos plantear como que  había una serie de  aspectos importantes  como una primera fase para intentar   {%act: click} implantar esta ontología  56:36
+MAR  y bueno en cuanto al tema del plan de trabajo  no quiere decir que esto sea  {click} ay lo que hay que  lo que hay que hacer  pero sí lo queríamos plantear como que  había una serie de  aspectos importantes  como una primera fase para intentar   {click} implantar esta ontología  56:36
 
 MAR  para luego trabajar sobre la parte de los conectores sobre  el dominio que elijamos  saber exactamente las fuentes que necesitaríamos no   para luego con este que aparece como paquete tres no pues ya  establecer estas cuatro funcionalidades  que os he  contado aquí de manera muy  muy breve no  56:52
 
-MAR   {%act: click} esta  espiral que aparece aquí  viene a reflejar esto que hemos  mencionado de que es necesario primero trabajar en un dominio particular y luego ver qué posibilidades tiene esto  de ser escalable a distintos  a distintos dominios  57:06
+MAR   {click} esta  espiral que aparece aquí  viene a reflejar esto que hemos  mencionado de que es necesario primero trabajar en un dominio particular y luego ver qué posibilidades tiene esto  de ser escalable a distintos  a distintos dominios  57:06
 
 MAR  para ver si es viable o no  intentando  bueno pues se podría trabajar en estas  cuatro funcionalidades en  paralelo  pero siempre acotadas a un  a un único  dominio  57:19
 
