@@ -1,0 +1,343 @@
+52d51
+< accuracy
+81d79
+< acticulo
+181d178
+< aistencia
+188d184
+< aks
+200d195
+< alchemist
+232d226
+< alltheweb
+298d291
+< analysis
+311d303
+< animals
+325,326d316
+< answer
+< answering
+393d382
+< application
+458d446
+< ars
+510d497
+< atom
+556d542
+< autonomy
+594d579
+< bag
+620d604
+< baseline
+631,632d614
+< bbk
+< be
+666d647
+< biology
+711d691
+< btob
+720d699
+< built
+772,773d750
+< callcenter
+< callcenters
+881d857
+< cd
+919d894
+< challenge
+966d940
+< citation
+997d970
+< clickando
+1006d978
+< cnn
+1117d1088
+< comparais
+1443,1445d1413
+< crawl
+< crawler
+< crawlers
+1486d1453
+< cross
+1489,1491d1455
+< csic
+< ct
+< cua
+1573,1574d1536
+< cybermetrics
+< cytit
+1584d1545
+< daedalus
+1601,1602d1561
+< data
+< dataset
+1629d1587
+< decidarsela
+1896d1853
+< diciconario
+1903d1859
+< dietterich
+1961d1916
+< (director)
+1965d1919
+< directory
+2033d1986
+< dni
+2057d2009
+< don't
+2120d2071
+< ejmeplo
+2241d2191
+< endtime
+2415,2416d2364
+< espacios
+< espaciotemporales
+2417a2366
+> espacios
+2502d2450
+< estatua
+2573d2520
+< everybody
+2578d2524
+< evil
+2601d2546
+< exercise
+2676d2620
+< fab
+2697d2640
+< facturacions
+2707d2649
+< falso
+2732d2673
+< feature
+2769d2709
+< filetype
+2774d2713
+< filter
+2802d2740
+< flicker
+2865d2802
+< from
+2885d2821
+< fullmetal
+2928d2863
+< gap
+2982d2916
+< gestion
+2987,2988d2920
+< gialle
+< gigablast
+2992d2923
+< give
+3042,3043d2972
+< h1
+< h2
+3168d3096
+< hl7
+3196,3198d3123
+< hpux
+< html
+< http
+3221,3223d3145
+< ibm
+< ibn
+< iclef
+3226d3147
+< id
+3251d3171
+< iii
+3262d3181
+< imaginais
+3353d3271
+< index
+3564d3481
+< invite
+3634,3636d3550
+< keyword
+< keywords
+< killer
+3640d3553
+< la2
+3651d3563
+< language
+3669d3580
+< learning
+3704d3614
+< library
+3734d3643
+< linka
+3743d3651
+< live
+3772d3679
+< llenguatge
+3811d3717
+< logs
+3813d3718
+< long
+3824d3728
+< ma
+3881d3784
+< maquina
+3910d3812
+< master
+3912d3813
+< matching
+3932,3933d3832
+< mba
+< mbas
+4044d3942
+< mining
+4158,4159d4055
+< mysql
+< na
+4171d4066
+< naturalmail
+4257,4258d4151
+< ntcs
+< ntsc
+4336d4228
+< of
+4340d4231
+< offline
+4358,4360d4248
+< once
+< ong
+< online
+4361a4250
+> once
+4368d4256
+< open
+4411d4298
+< originurlextension
+4418d4304
+< otaedor
+4431d4316
+< outsourcing
+4447,4448d4331
+< page
+< pagerank
+4451,4452d4333
+< pagine
+< pago
+4458d4338
+< pal
+4497d4376
+< park
+4559d4437
+< pattern
+4564,4565d4441
+< pdf
+< pdfs
+4577d4452
+< peer
+4593d4467
+< pensad
+4622d4495
+< perespectiva
+4657d4529
+< perodista
+4689,4690d4560
+< php
+< pib
+4758d4627
+< player
+4762d4630
+< plm
+4862d4729
+< postcript
+4869,4870d4735
+< posts
+< postscript
+5025d4889
+< prococeso
+5221,5222d5084
+< question
+< questionanswering
+5357d5218
+< recumeracion
+5432d5292
+< relevance
+5540d5399
+< retrieval
+5547d5405
+< review
+5591,5593d5448
+< rss
+< rssatom
+< rte
+5599d5453
+< sa
+5661,5663d5514
+< scholar
+< screw
+< sdk
+5713d5563
+< semantic
+5784d5633
+< sgae
+5856,5859d5704
+< sl
+< sms
+< snippet
+< snomed
+5916d5760
+< spain
+5918d5761
+< spinoff
+5920d5762
+< spot
+5922,5923d5763
+< stem
+< stemmers
+5925d5764
+< strathclyde
+5927d5765
+< study
+6004d5841
+< suv
+6008d5844
+< svm
+6013d5848
+< tags
+6033d5867
+< tardebn
+6140,6141d5973
+< that
+< the
+6143d5974
+< things
+6147d5977
+< tien
+6168d5997
+< to
+6198,6199d6026
+< tp
+< tpi
+6282d6108
+< tremento
+6295d6120
+< tsystems
+6323d6147
+< unedes
+6338d6161
+< uniuniversitarias
+6350,6351d6172
+< uoc
+< up
+6353,6354d6173
+< url
+< urls
+6368,6370d6186
+< usb
+< user
+< users
+6479d6294
+< veis
+6525d6339
+< verity
+6635,6636d6448
+< wap
+< way
+6648,6649d6459
+< words
+< workflow
