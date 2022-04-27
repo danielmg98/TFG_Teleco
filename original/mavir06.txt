@@ -1,0 +1,279 @@
+ARA bueno primero un / poco / ubicar el Instituto Cervantes aunque creo que / casi todos / &eh lo conocéis  00:07
+
+ARA  &eh nació en el año noventa y uno / y desde su creación pues contribuía a difundir / el español y la [/] y sobre todo también la cultura española / hispánica / internacionalmente  00:18
+
+ARA  en la actualidad tenemos alrededor de setenta y dos centros en el exterior / y otras diez aulas / &eh virtuales  00:24
+
+ARA  llamamos aulas virtuales / a / &eh / pequeños departamentos dentro de las universidades / &eh / internacionales  00:32
+
+ARA  uno de los retos más importantes para el Cervantes [/] ha sido siempre / fortalecer la presencia del español / del español en Internet  00:39
+
+ARA  ya desde sus principios / desde el año noventa y siete / y fijaos {%alt: fijaros}	que el año noventa y siete anda poco / &eh es tan reciente  00:46
+
+ARA  &eh el Instituto Cervantes / creó su propio / centro virtual en Internet / con el fin de poder llegar / a todo el mundo / &eh durante las veinticuatro horas del día / los siete días de la semana  00:59
+
+ARA  el centro virtual / desarrolla y mantiene / &eh alrededor / &eh de unas cien mil páginas / y recibe más de un millón y medio de visitas / mensuales  01:08
+
+ARA  &eh os he puesto ahí un pequeño gráfico / donde veis el crecimiento un poco que hemos tenido en las visitas  01:15
+
+ARA  tan importante como es la [/] la calidad / &eh digo la cantidad / y -> de los contenidos / es / la calidad de estos contenidos / y que puedan ser localizados / fácilmente  01:26
+
+ARA  desde ese punto de vista / el Instituto / Cervantes siempre ha pensado  en -> / tener la capacidad o disponer de un buscador / de un gran base [/] de una gran base de datos / de contenidos / especializados / en cultura hispánica / y en / español en general  01:43
+
+ARA  entonces / &eh creó / o pensó crear un potente / robot de indización {%alt: indizador} / capaz de ofrecer recursos suficientes / para estudiar Internet / en busca de sitios de lengua española / y / el desarrollo de un sistema / que permite indizar / automáticamente los resultados y mantenerlos actualizados / con el fin de facilitar la creación de catálogos y colecciones de contenidos / especializados en el mundo de la cultura hispánica y el idioma español  02:06
+
+ARA  este -> / motor también / tiene otro objetivo / y es que otras instituciones / &eh colaboren con nosotros a la hora de seleccionar y -> [/] y buscar estas URLs o direcciones especializadas  02:19
+
+ARA  en la transparencia que estamos viendo / veis un poco / como / &eh de qué se compone el proyecto ¿ no ? 02:27
+
+ARA  hay un metabuscador / que en -> / donde los / expertos / pueden localizar a través de varios buscadores / información / en Internet / luego hay un proceso de catalogación donde / expertos documentalistas / &eh catalogan / es decir / &eh dotan / a esas URLs / de mayor contenido / de claves / de materias / de otros campos de base de datos / que complementan esa información  02:52
+
+ARA  hay un robot / que &in [/] indexa / y -> recopila la información y la tienen continuamente actualizada / y &eh &des [/] después de esto / como resultado tenemos un buscador / con un acceso a &Inte [/] que permite un acceso / inteligente / a la información  03:10
+
+ARA  en el Instituto Cervantes / tenemos una colección / que [/] con la que llevamos / trabajando ya tiempo / que se actualiza diariamente / y es una de las secciones más / visitadas del ce uve ce  03:22
+
+ARA  contempla más de cinco mil enlaces externos preseleccionados / y clasificados en categorías temáticas / y alrededor de un millón de URLs / donde realizar búsquedas más amplias  03:34
+
+ARA  &eh / estos enlaces / están / catalogados / es decir tienen sus campos de [/] de descripción / de materia y una descripción / una breve descripción / elaborada / sobre el contenido que se espera / de esas páginas  03:49
+
+ARA  y bueno un poco / el objetivo del Instituto Cervantes / ha sido ubicar dentro de su centro virtual / un buscador panhispánico / que por la calidad de la información / se convierte en el punto de referencia indiscutible para los internautas / que quieran acceder a los mejores contenidos en Internet / existentes en lengua española  04:06
+
+ARA  muchas gracias  04:07
+
+CAM buenos días a todos  04:12
+
+CAM  &eh / mi intención es / &eh presentarles cuál ha sido la colaboración del grupo Telefónica en este proyecto / y para eso / permítanme unos minutos / no pretendo aburrirles / antes de [/] de lo importante de la [/] de la presentación que es el [/] el proyecto / en sí  04:30
+
+CAM  Telefónica / a través de la dirección general de relaciones externas / y patrocinio y de la Fundación telefónica habitualmente / colabora con / empresas públicas / y con instituciones y organismos de = no / con empresas privadas perdón / y instituciones y organismos públicos / financiando y [/] y subvencionando ciertos proyectos  04:54
+
+CAM  ciertos proyectos / actividades / actos / etcétera // casi todos ellos / &en [/] enmarcados en un ámbito sociocultural / y educativo  05:04
+
+CAM  de esta forma / la estrategia de / Fundación Telefónica / se desarrolla / &ah / mediante / varias líneas de actuación / o programas / &eh algunos de los cuales los tienen a su derecha / en [/] en la transparencia / los que están actualmente en vigor / programa Pluriño / de gran impacto en [/] en Latinoamérica / en los países más desfavorecidos / y cuyo objetivo es erradicar / el trabajo infantil a través de la escolarización de los menores trabajadores  05:37
+
+CAM  otro programa / bastante conocido es Educared / que trata de impulsar &eh / la mejora de la [/] de los procesos de enseñanza / y aprendizaje a través de la implantación de las tecnologías de información y comunicaciones / de las famosas Tic / &eh proyectos como Forum / como Arte y Tecnología  06:02
+
+CAM  Arte y tecnología es / la línea de actuación para la que &na [/] nació / en la década de los noventa / la Fundación Telefónica  06:09
+
+CAM  y nació para gestionar su propio patrimonio artístico / cultural / y tecnológico  06:16
+
+CAM  actualmente tiene una dimensión más amplia / y en esta línea de actuación de Arte y Tecnologías se puede enmarcar / el portal de contenidos / que es más conocido / Ars Virtual / en la cual [/] un portal de Internet en la cual se pueden ver / recreaciones hechas con tecnologías 3D / de los / más / importantes monumentos / de aquellos países en los que tiene / &eh presencia la Fundación Telefónica  06:42
+
+CAM  por último / un programa / de voluntarios de Telefónica que intenta / impulsar el voluntariado / social / entre los empleados de Telefónica / para que [/] para realizar algunas de las actividades / de los programas anteriores o de algunos otros  07:02
+
+CAM  la dirección general de relaciones y / externas y patrocinio / además de / los muy conocidos y más mediáticos / patrocinios de / personas / y empresas / de / deportistas de élite / escuderías / y demás // que creo que todos sabemos lo que es // también / realiza / otro tipo de actos / actividades y proyectos / con un / carácter / un poco más social / cultural / y orientados a la mejora de la educación  07:37
+
+CAM  te importa volver atrás {%com: related to the transparencies}  07:40
+
+CAM  alguno de estos actos / se pueden ver aquí a la izquierda / algunos festivales / como festivales / de la palabra / que creo que se celebra / no querría equivocarme / en Alcalá de Henares / festivales Bioamérica / El Diccionario Panhispánico de Dudas / algunos portales de Internet / como Campusred / orientado a la [/] a las universidades / algunas &exposi [/] exposiciones / recientes como / la exposición de Ibn Jaldún en el / Real Alcázar de Sevilla / se hizo el año pasado / &eh la exposición de Arte e Imperio de los asirios // gracias {%com: someone positions his microphone} // y también algunos proyectos como el que nos ocupa del buscador panhispánico / o proyectos de digitalización de archivos / como el de / algunos archivos que ahora veremos de / la biblioteca virtual Miguel de Cervantes  08:30
+
+CAM  gracias xxx {%com: to the person who operates the transparencies}  08:32
+
+CAM  &eh / el patrocinio de los actos y actividades / normalmente lo hace / directamente / la dirección general de [/] de &patroci [/] de relaciones externas y patrocinios // es un nombre que no me voy a aprender nunca // directamente con los organismos / implicados  08:47
+
+CAM  en cuanto a los proyectos / normalmente / esta dirección cuenta con el apoyo de / dos empresas del grupo / Telefónica  I+D y Telefónica Soluciones  08:55
+
+CAM  y / bien / estas empresas realizan el proyecto / completo / como puede ser / el proyecto de la [/] del portal del Canciller Ayala / proyecto / del [/] el portal del español de la fundación de San Millán de la [/] de la Cogolla  09:12
+
+CAM  son proyectos de contenidos / que han sido realizados por / &eh [/] por el área / multimedia de Telefónica Soluciones / o &po [/] o proyectos realizados / completamente como la digitalización del archivo de / Entrambasaguas de la biblioteca virtual de / Miguel de Cervantes realizado por [/] por el área de gestión de activos digitales de [/] {%com: a mobile phone rings} de Telefónica Soluciones  09:39
+
+CAM  otros proyectos / un poco más complejos / como el Buscador General Panhispánico / Telefónica Soluciones / lo que ha hecho ha sido / ofrecer colaboración en la gestión / y coordinación en el proyecto / colaboración a nivel de soporte técnico  09:52
+
+CAM  ofreció para / la definición / análisis del proyecto / y posteriormente en la fase final / para las pruebas del proyecto  10:01
+
+CAM  y de acuerdo con el [/] la dirección técnica / encabezada por Rosa Grandillas / se buscó lo mejor [/] la mejor / propuesta tecnológica / la mejor solución / que fue la [/] la de &Dedulos [/] la de / la empresa Daédalus / que fue la que se encargó / del / diseño y la implementación de este proyecto  10:21
+
+CAM  y yo sin más / pasaría / a la presentación  10:25
+
+CAM  muchas gracias  10:26
+
+VIL xxx / buenos días a todos muchas gracias  10:30
+
+VER micrófono / micrófono  10:31
+
+VIL muy buenos días a todos  10:33
+
+VIL  bueno pues ya / &eh mi labor ahora es / contaros un poco / la parte del {%act: click} [/] la parte técnica del asunto ¿ no ? 10:42
+
+VIL  la [/] el diseño / un poco hablaros de la arquitectura software y hardware del [/] del proyecto como lo hemos llevado a cabo  10:48
+
+VIL  &eh / desde un primer momento pues / después de la fase de [/] tradicional de / todo el desarrollo software de / pues de captura de requisitos / pues se definieron / pues una serie de objetivos que tenía que cumplir el proyecto  11:00
+
+VIL  la primera pues es desarrollar un sistema  11:03
+
+VIL  era un sistema para rastrear Internet y catalogar sitios web sobre / la cultura y lengua española  11:08
+
+VIL  eso [/] palabra panhispánico / &so [/] sobre cultura y lengua / &eh / &eh de [/] española en todo el mundo  11:14
+
+VIL  &eh / y centrado especialmente / en contenidos de calidad  11:18
+
+VIL  para eso existen / pues una serie de personas que / crean / {%act: cough} perdón // que crean una serie de fichas / con contenido de alta calidad / con / información ampliada no sólo / lo que es una [/] un buscador tradicional / que guarda palabras sino / {%act: click} con algo más  11:35
+
+VIL  &eh las direcciones entonces / las URLs están seleccionadas / expresamente / &cla [/] clasificadas y catalogadas por ese [/] por ese conjunto de expertos  11:43
+
+VIL  y luego bueno se utilizan / además / diferentes herramientas de tipo lingüístico pues para revisar / la calidad de los contenidos / para extraer / información / ésa [/] intentar / aportar / algo más al [/] al usuario / basado en el [/] en las propias características de [/] de / digamos lingüísticas / de [/] de los [/] la información  12:02
+
+VIL  ésta xxx es un proyecto que se podría enmarcar / vamos se puede enmarcar dentro del plan de acción Info veintiuno / español [/] el español en la red / que intenta fomentar / pues la difusión de contenidos culturales y humanísticos en la red / especialmente para extender la presencia del español en la red  12:17
+
+VIL  ya / todos sabemos pues las [/] diferentes tipos de iniciativas / en esta línea / y / centrándose especialmente pues / según requisitos / lógicamente es la labor del Instituto Cervantes y el Centro Virtual Cervantes / como ha dicho Rosa / pues en la / calidad de los contenidos / y orientándose a la lengua española  12:34
+
+VIL  todos estos eran los objetivos de diseño / y para eso bueno pues / también lo que ha contado Rosa antes / un poco el [/] el [/] la diferencia [/] la separación en módulos de sistema / cómo no / cualquier desarrollo &cla [/] pues cualquier desarrollo software / pues hoy en día se desarrolla / de forma modular / de forma / &eh  12:51
+
+VIL ... y en este caso pues tenemos [/] podemos identificar / cinco módulos diferentes // que bueno que / se pueden ver directamente en una [/] en una figura / parecida a la que os ha puesto Rosa  13:01
+
+VIL  la idea de todo el proyecto es básicamente / tenemos una serie / queremos &gene [/] encontrar información en Internet / categorizarla / &cat [/] catalogarla / &eh / en una serie de fichas  13:11
+
+VIL  o sea / a diferencia de una URL / tradicional en un motor / de indexación web como / pues como puede ser Google / Yahoo y demás / aquí nos queremos centrar / en el / concepto de ficha  13:21
+
+VIL  una ficha está asociado / a una URL / y información / anexa / como por ejemplo puede ser pues / el autor / el tipo / la clasificación / ahora hablaré un poco de ella  13:32
+
+VIL  y además / pues podemos incluir / adjuntar documentos / en diferentes formatos / en PDF / en hojas de cálculo / además de la ficha / pues que se suponen que son / complementos / &eh interesantes del punto de vista de la información que aporta esa ficha  13:45
+
+VIL  bueno pues bien / pues para conseguir esa ficha / eso es un proceso / pues / muy costoso en realidad / muy trabajoso / en la que lleva trabajando / pues gente del Centro Virtual Cervantes / un equipo de / catalogadores  13:56
+
+VIL  siempre me ha hecho mucha gracia este [/] este término / pero bueno es / verdad ¿ no ? 14:00
+
+VIL  entonces / el equipo de catalogadores / lo primero que / le / aportábamos era / se definía un módulo de / buscador / un modelo de catalogación / que casi simplemente consiste en un metabuscador / que es capaz de consultar a diferentes motores en Internet  14:15
+
+VIL  el sistema es modular entonces / en principio se han definido tres porque son / con eso / casi se cubre el [/] el [/] un gran porcentaje de lo [/] del uso de los buscadores / en España / vamos en el mundo en realidad / que es Google / Altavista y Alltheweb  14:28
+
+VIL  entonces el metabuscador pues permite / a ésa / un usuario catalogador / ahora luego / veremos en una demo / cómo funciona / pero vamos básicamente / un usuario hace login / &eh / puede hacer consultas / en el [/] con el metabuscador / puede almacenarlas / para / su / análisis posterior / puede lanzarlas / o sea / las [/] esas consultas se lanzan a diferentes buscadores / se recuperan los resultados / y se almacenan  14:53
+
+VIL  entonces después / cuando se tiene una lista / de [/] de / consultas / y de resultados / pues esos / pasan a la fase de catalogación / al módulo de catalogación / que consiste simplemente en / crear esa ficha / a partir de una URL / crear una ficha con esa información / &eh de alto valor  15:10
+
+VIL  esas fichas se / almacenan / en / digamos forman parte de [/] del catálogo que se llama [/] se denomina especializado // que son directamente pues el contenido almacenado en esa ficha  15:24
+
+VIL  &eh / después se define / ya hablaré un poco / después / sobre lo que es el catálogo general que es / pues la idea de / a partir de una URL se puede explorar / todo el sitio web al que apunta / con una serie de parámetros / &eh / de profundidad / y de &fac [/] de límite de la recolección / número de páginas / el [/] los ficheros a indexar / que formarían parte del catálogo general  15:46
+
+VIL  bueno / el caso es que / eso [/] para eso hay un módulo que es / el de los robots / el del crawler típico / que se va a Internet / ya va bajando toda esa información // y que por supuesto la va indexando de acuerdo pues a [/] al [/] un sistema típico de recuperación de información  16:03
+
+VIL  en concreto bueno / estuvimos analizando diferentes tecnologías / y al final / pues lo hemos indexado / pues un {%alt: una} / típico sistema / de indexación / &eh / basado pues en [/] en modelo espacio y vectores / típico / tradicional  16:18
+
+VIL  y luego / pues / sobre ese motor de indexación pues / actúa el buscador / que es el objetivo último del sistema  16:25
+
+VIL  todos estos módulos no tendrían sentido sin [/] sin llegar al buscador / para facilitar que un usuario final / &pudie [/] pudiera hacer búsquedas / y además centradas / esas búsquedas que hicieran / énfasis / en todas las características / especiales / que se han sacado / pues xxx extraído / pues / la información avanzada la información / en [///] vamos a poder / hacer uso de lo [/] de los diferentes / &eh / piezas de información que están contenidos en la ficha y además / con énfasis / como siempre énfasis en la calidad de los resultados / y en las [/] las posibilidades de búsqueda / pues se ofrecen / como vamos a ver / pues &eh / diferentes / posibilidades como búsqueda / con expansión semántica / búsqueda en / categorías / búsqueda en diferentes [/] en diferentes / campos de la ficha ¿ no ? 17:08
+
+VIL  &ah esto es lo que digo / bueno / eso [/] eso [/] eso es el sistema genérico / como [/] vamos / el sistema de la arquitectura general  17:15
+
+VIL  como decía / bueno pues esto / es un poco repetición ¿ no ? 17:18
+
+VIL  pues / encontrar el localizador de enlaces simplemente  17:21
+
+VIL  &eh una posibilidad / que luego os enseñarán / en [/] mis compañeros / en la demo que va a venir ahora / pues / lo interesante es que desde el primer momento aparte / de / un metabuscador un problema que tiene es &eh / pues que / al extraer los resultados / un gran número de resultados / pues puede llevar un cierto tiempo  17:37
+
+VIL  entonces se vio / la / necesidad pues de poder / almacenar consultas / lanzar consultas al sistema / el sistema las ejecuta / luego vuelve / almacena los resultados / y es un proceso un poco / offline si queréis  17:48
+
+VIL  pues / primero se obtienen esos resultados / y luego ya se procesarán esos  17:53
+
+VIL  &eh las [/] se utilizan diferentes / &eh criterios de búsqueda  17:57
+
+VIL  es un / buen es [/] que son / al consultar un metabuscador [/] al consultar a varios / motores de búsqueda pues tiene que / un poco / encontrar la intersección entre las funcionalidades que aportan los tres  18:08
+
+VIL  entonces / vamos los [/] los ene buscadores  18:10
+
+VIL  en este caso pues / &aport [/] todos aportan búsqueda por término / búsqueda por URL / filtrar el idioma en le que queremos los resultados / el formato de los documentos pues el [/] el tipo de documentos que tenemos / HTML / pdf / etcétera  18:22
+
+VIL  y [/] y además / esa información tiene pues / el problema típico de los metabuscadores / que es pues / &eh la coincidencia de varios resultados en diferentes buscadores  18:32
+
+VIL  entonces tenemos que / tener en cuenta los enlaces que ya están catalogados  18:36
+
+VIL  los enlaces / tenemos una lista de enlaces excluidos / una / &eh / y que / esa información tiene que estar consistente  18:44
+
+VIL  además se definen pues / un parámetro / de configuración que es la confianza de cada buscador / para / pues decir por ejemplo pues Google [/] los resultados de Google nos gustan más / o hay que ponerlos / por delante que los [/] que otros / buscadores  18:56
+
+VIL  es un ejemplo simplemente  18:58
+
+VIL  respecto a la parte de catalogación / lo que contaba antes es / &eh / la ficha / a partir de una URL / un catalogador crea una ficha  19:09
+
+VIL  esa ficha / se extrae &automática [///] la información de esa ficha / pues es / la URL claro básica / después el título de la página / que también se extrae automáticamente / un resumen / que [/] que también hemos incorporado un módulo / de / el resumen xxx de información que presentan los buscadores / &eh / pues el / resumen ese de la ficha está generado con [/] con un módulo / de extracción / de resúmenes / &eh / que [/] que bueno / que genera un resultado mejor que un propio / extracción de frases ¿ no ? 19:41
+
+VIL  se detecta el idioma / vamos se [/] se extrae el idioma de la página / se [/] se categoriza / el formato por supuesto / el tamaño de la página / las palabras clave que el [/] el autor de la página pueda / almacenar / y luego / esa ficha puede pertenecer / a / una o varias colecciones / colecciones en el sentido de / colecciones / lógicas / de [/] de fichas / que pueden ser de diferente temática  20:04
+
+VIL  y además dentro de cada colección / se puede / definir [/] &eh cada colección puede tener dos tipos de categorías / temáticas  20:12
+
+VIL  por ejemplo pues la / categoría / pues del [/] del Otaedor puede ser pues / luego lo veremos / pues diferentes pues sobre / escritores / sobre / instituciones / sobre / eso / podemos tener diferentes [///] una / jerarquía temática / &eh hasta dos por colección / una categoría principal y una secundaria  20:30
+
+VIL  toda esa información al [/] el [/] la [/] este sistema / está pensado para que se utilice / &eh pues por [/] por un gran número de personas / y entonces / hay que facilitar la [/] la labor  20:41
+
+VIL  entonces toda esta información / pues se / intenta extraer automáticamente todo lo que se puede / y desde luego / &de [/] para facilitar esa [/] esa labor a [/] a los catalogadores  20:50
+
+VIL  además cada ficha / el contenido / pues se / se puede en [/] en [///] tiene un control de versiones / lo típico / que pues / a día de hoy / se indexa {%alt: endexa} / se crea una ficha / pero si esa página es dinámica pues el contenido puede variar / en el futuro  21:07
+
+VIL  entonces pues / existe un control de versiones / hemos [/] podemos tener varias / versiones de la misma página / a lo largo del tiempo  21:14
+
+VIL  y por último pues hay una &fe [///] como [///] estos [///] tenemos que centrarnos en el contenido / pues / &eh / hay una definición / de un proceso / de edición / de la ficha / proceso con un / workflow de documento / en el sentido que [/] que la ficha puede estar en diferentes estados / la / ficha precatalogada / catalogada / &eh revisada por [/] porque [/] porque sufre un proceso de revisión / y luego por fin / publicada / que es [/] el estado publicado / simplemente es que / está / visible para / buscarse desde / el módulo / de usuario ¿ no ?// el módulo buscador  21:49
+
+VIL  además bueno la ficha se me olvidaba que [/] que por supuesto cada ficha / se puede / &eh recorrer / pues como / un buscador / que [///] o sea / aparte de la ficha / en la propia página / pues se puede definir una serie de parámetros que / indican la recolección / el nivel de enlaces que hay que saltar / el [/] los / ficheros permitidos / los ficheros excluidos / y demás historias  22:10
+
+VIL  &eh / entonces esos &eh [/] la ficha en sí misma va [/] la información catalogada va / lo que se llama / catálogo / especializado / que es lo que una persona / &eh a / definido / con los datos que ha definido / y toda la información que ha metido una persona / revisada manualmente / &eh / y que se supone que es de alta calidad ¿ no ? 22:32
+
+VIL  el resto de enlaces que recorre el robot / a partir de la / &eh página raíz / van / al catálogo / &eh general // se llama general  22:41
+
+VIL  las búsquedas ahí / digamos son más ruidosas / porque es una búsqueda pues un [/] una recolección en Internet vamos ruidosas / en el sentido que [/] que esa información / pues lo que es el resumen / pues está extraído automáticamente  22:52
+
+VIL  no está revisado  22:52
+
+VIL  las propiedades de la página pues / el detector de idioma / pues la &fiabi [/] tiene una fiabilidad alta pero puede fallar  22:58
+
+VIL  ese estilo / de información que [/] o ese tipo de fallos / que vamos no son fallos son problemas / que tiene la &re [/] la información [/] extracción de información automática  23:06
+
+VIL  y ese es el catálogo {%act: click} general  23:09
+
+VIL  por supuesto también / el módulo de robot / el de &re [/] de indexación / vamos el robot indexador / el [/] el / &eh pues tiene que encargarse / es uno de los puntos / &eh claves de [/] del sistema / porque / pues el número de páginas es muy grande / &eh / y hay que actualizar periódicamente  23:28
+
+VIL  cada colección / tiene unos criterios diferentes de actualización  23:31
+
+VIL  pues unas / colecciones se pueden definir / actualización diaria / &reco [/] recolectar  los &info [/] los [/] los enlaces diariamente / otros tienen / otro periodo de actualización más [/] más / o sea / &eh menos frecuente / o incluso colecciones que pueden ser estáticas / porque sean / simplemente colecciones  de documentos  23:48
+
+VIL  pues todo eso se encarga el robot de indexación  23:50
+
+VIL  también es el / robot de indexación está hecho de forma modular / &actu [/] actualmente pues está funcionando con HTTP y [/] y [/] pero bueno podríamos / incorporar pues / información que viniera en otros canales  24:04
+
+VIL  y bueno por último / bueno / penúltimo / en realidad es / el módulo buscador / que es / lo que es la parte accesible / públicamente por todo el mundo  24:14
+
+VIL  &eh / el resto de componentes / claro pues los catalogadores tienen que hacer [/] tienen que identificarse en el sistema para realizar su labor en los revisores / y demás pero / el &us [/] el buscador / es la parte pública del [/] del sistema / que permite realizar / consulta de información / pues / &eh / las típicas / más &eh [/] las típicas de buscar palabras / más / buscar / toda la información / que se ha metido sobre / esas fichas  24:39
+
+VIL  se han definido / una ayuda en la fase de captura de requisitos / &eh / se definieron diferentes modos de búsqueda / con la idea siempre en mente / de / facilitar / la vida / al máximo al usuario  24:50
+
+VIL  &eh / buscando los diferentes catálogos / y [/] y diferentes [/] diferentes modos de búsqueda que // lo mejor es / ver con [/] verlo en la demo / es más fácil / de verlo directamente // y facilitando / múltiples asistentes / a los usuarios  25:06
+
+VIL  &eh &inci [/] incidiendo / en la [/] en el valor lingüístico de las consultas  25:11
+
+VIL  no hay que olvidar que también pues / digamos el que / un [/] una organización como el Instituto Cervantes que se dedica al español / pues / &eh simplemente un fallo / en / una búsqueda / o una [/] un problema con una búsqueda / pues puede / digamos / afecta directamente a la imagen  25:29
+
+VIL  es triste o / afortunadamente o desafortunadamente pues / pasa eso  25:34
+
+VIL  entonces / hay que &inci [/] había que incidir mucho en esa calidad  25:36
+
+VIL  se ofrecen múltiples asistentes a / la búsqueda / pues con una expansión semántica con medio [/] por medio de sinónimos y palabras relacionadas con un término / estilo pues / novela / obras o / piezas o / escritos  25:49
+
+VIL  &eh / y se ofrecen diferentes búsquedas pues / una búsqueda avanzada por las propiedades de los documentos /una búsqueda por categorías / esas categorías que se han / catalogado / dentro de la ficha / o bueno / búsquedas en sus colecciones / en diferentes xxx [/] diferentes / eso lo vamos a ver ahora en la demo  26:05
+
+VIL  y por último bueno / lógicamente pues / hay un módulo que es / de configuración / que permite / definir todos estos parámetros  26:12
+
+VIL  esto es un proyecto bastante complejo / que hay mucha gente involucrada / entonces / no se puede / sistema / aparte de todo / pues / &eh no [/] no [/] no hay que / hacer un nuevo desarrollo para / configurar diferentes / cosas  26:25
+
+VIL  pues entonces está la [/] el módulo de gestión de usuarios de colecciones / de jerarquías / de dominios de / los robots / de arrancar y parar los robots / arrancar y parar los indexadores / los procedimientos de backup  26:36
+
+VIL  todo ese tipo de cosas que / nunca / en un / proyecto / poco académico / nadie se preocupa pero que en el proyecto real / pues / sí que es importante  26:44
+
+VIL  y es uno [/] también es una de las / partes / grandes de [/] del [/] del sistema  26:51
+
+VIL  bueno pues esto / respecto a la arquitectura software  26:55
+
+VIL  respecto a la / arquitectura hardware o vamos [/] o / la tecnología que hay por debajo / pues está implementado con [/] en servidores HPUX / con ese sistema operativo / que [/] en el que utilizamos pues / está implementado con / tecnologías / queremos / &eh simplificar el coste de / propiedad entonces pues / desarrollamos sobre / utilizando Apache / que por otro lado es muy utilizado en HPUX / utilizando la / base de datos / soporte MySQL / y bueno [/] y desarrollando / la aplicación web / vamos todo ese acceso vía web configuración y [/] y utilización de la herramienta vía web / está implementado en &H [/] PHP  27:31
+
+VIL  y bueno / y la parte de motores de búsqueda / indexación y [/] y demás / pues / un mix entre / C++ / y Java  27:40
+
+VIL  &eh / veis que / un montón de tecnologías involucradas como / un sistema complejo / &eh / &si [/] siempre pasa / ¿ no ? 27:48
+
+VIL  en concreto / respecto a la arquitectura física pues ahora mismo está [/] está implementado en / cuatro servidores HPUX también con / vistas / a su lanzamiento  27:56
+
+VIL  &eh ya ha contado Rosa la / parte de los [/] el {&alt: la} número de visitas que soporta / el oteador actual / pues es previsible tener un &siste [/] un nivel de vista bueno / la mismas es [/] un día sustituir [/] podrá sustituir al Oteador / entonces se supone que tendrá al menos las misma visitas  28:10
+
+VIL  entonces el [/] el [/] las condiciones de alta disponibilidad que exige / un proyecto de esta magnitud pues / exige / &eh pues &dif [/] una arquitectura / el &mo [/] el modelo de alta disponibilidad / tenemos dos servidores con xxx hardware / para distribuir las / búsquedas de / los usuarios / y luego está la máquina de indexación y [/] y recolección / con una máquina de soporte / &eh / que es el / pues para [/] para / los trabajos de catalogación / y de indexación  28:38
+
+VIL  esas fichas son / a día de ayer / el esa [/] esa información / pero eso está subiendo  28:43
+
+VIL  al final la / información almacenada pues es / entorno pues / más de un millón de documentos / en el catálogo general / y todas esas fichas que [/] que son / revisadas / manualmente / y van creciendo todos los días  28:55
+
+VIL  se supone que el [/] el Centro Virtual Cervantes pues alcanzará / acuerdos con diferentes organizaciones / para que puedan aportar / diferentes catalogaciones / y diferentes colecciones / encargadas &eh que [/] de las que se encarguen / diferentes organizaciones  29:08

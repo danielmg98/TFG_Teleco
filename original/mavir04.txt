@@ -1,0 +1,693 @@
+GOM veamos  00:03
+
+GOM en la sesión que tenemos / ahora =  00:05
+
+GOM   bueno yo soy José María Gómez // soy de la Universidad Europea de Madrid // y trabajo en el grupo de / Manuel de Buenaga  00:09
+
+GOM &eh entonces &eh me ha encomendado // cosa que le agradezco // pues presentar a -> a [/] los ponentes / de esta -> parte del [/] de la jornada // en la que vamos a hablar de las aplicaciones en el dominio / médico y cultural  00:22
+
+GOM le he puesto un rótulo por encima // que es transferencia de tecnología y casos de uso // que ese es / el marco dentro de MAVIR / donde están / &eh estas aplicaciones  00:30
+
+GOM nosotros &eh / &mm tenemos estructurado / MAVIR / de manera que / &eh la búsqueda de aplicaciones / dominios reales / &eh es una -> [/] es un elemento clave // ¿no? // para transferir las tecnologías / y todo el xxx que hay dentro del [/] de esta red de grupos  00:45
+
+GOM &eh aquí he puesto unas cuantas transparencias para que tengáis / básicamente como referencia / porque no -> [/] no tiene mucho sentido // que os cuente con detalle / el [/] el programa sí lo podéis mirar fácilmente / la fuente de información que tenemos  00:56
+
+GOM &eh lo que sí me gustaría // es / &eh bueno que os deis [/] es &eh subrayar la idea de que / en todos los grupos tenemos esa conciencia / de que queremos / &eh convertir nuestras aplicaciones en &aplica [/] o nuestros / recursos / y nuestros conocimientos en aplicaciones reales  01:11
+
+GOM y -> [/] y tenemos / pues de agregado a una persona dedicada específicamente para cada una de estas cosas // &eh o para [/] para cada una de las aplicaciones  01:19
+
+GOM &eh / el objetivo / a la hora de diseñar / &eh o de entrar en esta parte de casos de uso // o el objetivo de la sección digamos de casos de uso del programa / es / &eh / convertir las [/] las técnicas en prototipos / de aplicaciones reales / en contextos reales / que demuestren que / los productos / nuevos productos / productos tecnológicamente más avanzados son posibles // e incluso en la medida en que podamos / transferirlas ya  01:41
+
+GOM &eh por tanto / &eh / concurrir a convocatorias de I+D públicas // o ir a contratos con empresas // en la medida en que podamos / &eh a toda la velocidad que podamos / para aprovechar el &m [/] el marco privilegiado que nos da este programa  01:55
+
+GOM &eh / inicialmente nuestros dos dominios de aplicación principales / &eh son &sa [/] el [/] el campo de la salud y el campo cultural / por &eh nuestra [/] nuestra investigación digamos más reciente // dentro de los ciertos grupos que hay // en [/] en la red  02:09
+
+GOM pero -> / también consideramos un [/] a una [/] un [/] otro [/] otro área de aplicación es el de la seguridad // y -> [/] y por supuesto / estamos abiertos a que seáis vosotros mismos / los que nos propongáis / áreas en las que nuestros conocimientos y nuestros recursos / tengan aplicación / directa o indirecta / o en la que los podamos hacer avanzar / para convertirlos / en nuevos productos y servicios  02:30
+
+GOM y de hecho / estar aquí / en parte / es eso / es que conozcáis quiénes somos // lo que hacemos // y -> de alguna manera / pues &eh / acercar / los [/] las tecnologías a los / potenciales clientes y usuarios / y los usuarios y los potenciales clientes a esas tecnologías  02:45
+
+GOM &eh / no cuento nada más / de eso  02:48
+
+GOM sí que &eh / subrayar que / estamos trabajando / activamente  02:53
+
+GOM este -> &mm hhh {&act: click} &he [/] hemos puesto en marcha // un plan de puesta en marcha / que cuesta hhh {%act: laugh} poner en marcha un plan de &cuenta [/] de puesta en marcha // pero bueno / ya -> / está funcionando  03:02
+
+GOM es un plan &eh / con unos pasos bien definidos  03:06
+
+GOM bueno / o [/] o al menos / están definidos / lo cual no está mal // porque es difícil estructurar la red de tantas personas  03:11
+
+GOM &eh y dentro de ese plan / pues lo que tenemos / más inmediatamente definido son tres casos de uso / que no voy a describiros // porque los van a describir los ponentes obviamente  03:21
+
+GOM el [/] el primero es un caso de [/] ambientado en [/] en [/] en la -> [/] en la medicina // que lo va a presentar Manuel de Buenaga  03:26
+
+GOM el segundo / en [/] en el ámbito -> / cultural / lo presenta -> Isidro Aguillo  03:31
+
+GOM y / el tercero / lo presenta Paloma también en el ámbito de la Biomedicina  03:35
+
+GOM entonces / &eh lo que os voy a &per [/] a &pon [/] voy a poner en antecedentes hhh {%act: click} / pues que seamos breves porque / &eh &mm queremos que / sepáis lo que hacemos // pero queremos saber qué es lo que queréis vosotros que hagamos  03:45
+
+GOM y entonces / ese es [/] este es el momento quizá para / que &eh nos sugiráis cosas ¿no?  03:49
+
+GOM  entonces / sin más / cedo la palabra a [/] a -> / Manuel  03:52
+
+GOM gracias  03:54
+
+BUE bueno / pues -> / muchas gracias José María  04:07
+
+BUE &eh / muchas gracias a todos también  04:09
+
+BUE # {%com: GOM comes and changes the slides in the computer} y -> [/] y bueno pues en &eh [/] intentaré ser breve  04:25
+
+BUE y -> lo que os presento aquí pues es un poco &eh // unas digamos como conclusiones iniciales / a las que llegamos en este grupo de trabajo / de los tres que comentaba antes / &eh José María  04:36
+
+BUE que / al principio del verano pues &eh incluimos dentro de [/] de este plan // de los casos de uso ¿no?  04:42
+
+BUE  lo que queríamos más o menos era en un periodo de tiempo relativamente corto / pues lo que fue la terminación / &eh de julio y este comienzo así que como comienzo de curso / &eh tenemos mucha presencia en las universidades ¿no?  04:53
+
+BUE  así que pues &eh octubre y -> [/] septiembre octubre pues &te [/] es un poco / cosa de puesta en marcha // entonces en este breve periodo de tiempo / pues más o menos hacer como tres -> / pilotos de -> [/] de propuestas / &eh en nuestro caso // pues por ejemplo estuvimos trabajando como ahora comentamos con / &eh hacer como una especie de embrión / o [/] o bosquejo de lo que podría ser pues un proyecto PROFIT ¿no?  05:18
+
+BUE  para presentar una -> [/] a un programa de financiación nacional // &eh PROFIT está / sobre todo soportado {%alt: soportao} por el ministerio de industria // &eh en [/] en gran parte  05:27
+
+BUE pero bueno podría ser otro [/] otro tipo de programa  05:29
+
+BUE entonces sobre esa -> [/] sobre esa -> especie como de objetivo / pues / presentar una [/] una propuesta de algo innovador en ese [/] en ese programa nacional // pues también el objetivo era ponernos a trabajar // &eh un grupo de &eh entidades / investigadores &eh desarrolladores usuarios // un grupo de personas &eh involucradas en [/] en MAVIR ¿no?  05:50
+
+BUE y empezar ya a integrar conocimiento en este caso pues / &eh los participantes que estamos en este grupo // pues somos la Universidad Europea de Madrid / la Autónoma / como dos universidades // &eh después tenemos [///] aquí también participamos // &eh dos empresas &eh de orientación tecnológica / que son Bitext y DAEDALUS // y después &eh en ese papel de usuario pues el hospital de Fuenlabrada // porque ahora pues también como comentaba &eh José María al principio // pues tenemos esa orientación un poco / a lo de la salud // como caso de uso  06:20
+
+BUE hhh {%act: clearing of throat} entonces pues bueno en esta presentación {%com: conference speaker uses a clock to control the duration of his intervention}  / como os decía pues voy a intentar ser lo más breve posible // me apunto aquí el tiempo  06:27
+
+BUE  &eh pues el -> [/] el contenido es &eh básicamente pues eso ¿no?  06:32
+
+BUE  ver un poquito al principio &eh [/] ver quiénes formamos ese grupo de trabajo // que es un trabajo muy inicial ¿vale?  06:39
+
+BUE &eh después &eh / ver una serie de esquemas / &eh de elementos inicial con el que partimos / antes de hacer una reunión que fue un poco como el -> [/] el elemento más clave en este [/] en este trabajo hemos &hicho [/] &eh que hemos hecho / la reunión en concreto la hicimos en el hospital de Fuenlabrada // y &eh después una de las cosas que sacamos / &eh de resultados de la reunión / que luego vemos en ese punto tres / pues fue también [///] nos interesaba [/] nos lo marcamos así un poquito pues &eh / ver un poco el papel / que podíamos jugar los participantes / que tenemos perfiles diferentes ¿no?  07:13
+
+BUE  los dos desarrolladores / &eh las dos universidades &eh con el papel de investigador / el hospital como usuario / ver el papel que podíamos jugar / en esa propuesta de innovación o de proyecto de investigación y desarrollo ¿no?  07:25
+
+BUE  &eh una cuestión que nos pareció también importante en la -> [/] en la reunión / era ver qué fuentes de información podía proporcionar el hospital // que en este caso es el usuario ¿no?  07:35
+
+BUE porque / &eh el papel de los investigadores y de los desarrolladores está más o menos claro // pues innovar &eh / desarrollar un producto de software // pero en concreto para ir &a [/] profundizando ya / el hospital [/] en [/] en el hospital qué tipo de información / podíamos hacer más visible // o podía tener más [/] más papel en nuestra propuesta de proyecto // que como insisto / pues es simplemente como un [/] un bosquejo ¿no?  07:56
+
+BUE y después en el punto seis / pues / para el planteamiento de una propuesta PROFIT / que era un poco como el objetivo así / &eh en borrador que nos planteábamos // pero que también por focalizar un poco / qué es lo queríamos sacar adelante en este grupo // pues una serie de interrogantes que nos quedaban ahí por [/] por perfilar ¿no?  08:12
+
+BUE bueno entonces aquí en lo que es la definición inicial del grupo de trabajo // quiénes estuvimos // fue ya en una reunión que tuvimos en el CINDOC // en [/] en julio / estuvimos [/] ahí participamos como decía también antes José María // pues estuvimos participando un grupo bastante amplio de usuarios // pues / &eh desarrolladores dentro del [/] del consorcio MAVIR / y en esa reunión que hicimos en el CINDOC // pues lo que hicimos fue &eh perfilar ese plan de [/] de [/] de casos de uso / de puesta en marcha / y también definir una serie de grupos de trabajo  08:41
+
+BUE en concreto esta es la ficha de nuestro grupo // lo [/] lo denominamos así // el -> grupo uno / y entonces era un caso / xxx médico / y el propósito era &eh / avanzar un poquito en la idea de / conseguir un sistema de extracción de información de los historiales médicos  08:58
+
+BUE entonces esa fue la -> [/] la definición de la idea al principio // después como ahora os comento / pues la [/] la perfilamos un poquito más y la reorientamos // quizá en parte  09:06
+
+BUE hhh {%act: clearing of throat} objetivos de ->  09:09
+
+BUE + esta fue la ficha con la que trabajamos // para empezar en -> [/] en este grupo  09:13
+
+BUE los objetivos eran / pues búsqueda de respuestas o de historiales médicos // &eh compleción de formularios de registro de paciente a partir de su historial médico  09:21
+
+BUE esta es una tarea que hacen habitualmente en el hospital // por lo visto que es / a partir del historial médico del [/] del paciente lo pueden tener en formato de texto o en formato digital // en Fuenlabrada lo tienen casi todo en formato digital // pues hay que rellenar unas fichas // &eh con toda una serie de campos / bastante amplias / y &eh ese [/] ese rellenar el &camp [/] ese -> [/] el [/] el completar ese registro / esa ficha pues en la actualidad / lo hacen personas que analizan el historial del [/] el historial médico del paciente y completan esos registros  09:51
+
+BUE entonces eso / pues nos pareció interesante // y ahí la propuesta provino del hospital // parecía interesante podía ser un objetivo // hacer un sistema informático que automatizase eso  09:59
+
+BUE y estaba también en línea / con los objetivos del programa MAVIR ¿no?  10:03
+
+BUE  entonces pues bueno ahí el ->  [/] el usuario en este caso era el hospital de &Fuenla [///] el que hacía el papel / de usuario era el hospital de Fuenlabrada // las empresas / eran Bitext y DAEDALUS // y las universidades jugando el papel de investigación / pues la Europea de Madrid / y la Autónoma ¿no?  10:17
+
+BUE  hhh {%act: clearing of throat} la reunión que tuvimos en el -> hospital de Fuenlabrada pues fue un poco como el [/] el elemento principal del trabajo // después estuvimos / pues /  comunicando de distintas formas / pues teléfono mensaje por Internet / etcétera tal  10:30
+
+BUE pero el momento principal de puesta en común / &eh fue esa reunión / que tuvimos // en concreto el veintinueve de septiembre del dos mil seis ¿no?  10:38
+
+BUE y también lo que queríamos era a partir de esa reunión / materializar un poco esta propuesta así // y después también / otro elemento &eh que nos parecía importante en [/] en el tiempo era justo la reunión que estamos teniendo en este momento // esta puesta en común  10:51
+
+BUE así que lo &e [/] la idea era presentar este trabajo // y precisamente / sobre este esquema inicial / ahora si tenemos más debate / o en momentos siguientes / al final de la tarde también tenemos / una hora destinada a debate / pues / perfilar sobre estas ideas básicas / o una nueva propuesta &eh PROFIT / u otro tipo de [/] de proyecto de investigación ¿no?  11:10
+
+BUE bueno / ¿ quiénes estuvimos en aquella reunión ?  11:12
+
+BUE  pues &eh somos los que estamos ahí en la [/] en la diapositiva  11:16
+
+BUE pues &eh Antonio [/] Antonio Moreno de la Autónoma / Enrique Torrejón de Bitext / Francisco García del hospital de Fuenlabrada / José Luis de DAEDALUS / &eh Paz  11:26
+
+BUE + se han quedado {%alt: quedao} en orden alfabético  11:28
+
+BUE &eh Paz del hospital de Fuenlabrada también y yo mismo por la Universidad // Europea  11:34
+
+BUE bueno  &e [/] esto es con lo que partimos en la reunión  11:38
+
+BUE y -> bueno pues teníamos como objetivos // &eh precisamente como os decía antes // &eh tener / esta presentación que estamos teniendo hoy mismo / en el taller &eh MAVIR a mitad de noviembre // estaban ya -> perfiladas las fechas dieciséis y diecisiete // nuestro objetivo en aquella reunión era llegar aquí con esto más o menos / &eh pues terminado hasta el punto en que lo tenemos ¿no?  11:58
+
+BUE el objetivo del trabajo que nos planteamos es ir como inicial / pues a una definición básica de una propuesta PROFIT // y / &eh también nos planteamos el aclarar / el papel de las entidades participantes // que como os decía al principio pues hemos abundado un poquito en ello  12:12
+
+BUE ver qué [/] qué podemos hacer cada uno ¿no?  12:14
+
+BUE  que somos diferentes  12:15
+
+BUE también en la reunión queríamos analizar algunos escenarios de uso / y -> funcionalidades  12:21
+
+BUE es decir en qué situación concreta del hospital / el sistema de desarrollásemos podía [/] podía ser de utilidad  12:27
+
+BUE bueno resultados de la reunión / pues ahí hay una pequeña referencia ¿no?  12:32
+
+BUE pues en la primera -> [/] en la primera unidad veis revisión de los objetivos y situación general del programa MAVIR // esto trascendía un poco los [/] de lo que eran los objetivos específicos // pero bueno viene un poco bien pues para / ver / otros elementos como por ejemplo la relación con el programa del postgrado / el papel que podía jugar el hospital / etcétera  12:49
+
+BUE así que fue una especie como de revisión / en general y puesta en común de [/] de toda una serie de aspectos de MAVIR  12:54
+
+BUE planteamos dos &funcionole [/] dos funcionalidades de sistema distintos / de las que habíamos partido // ¿&eh?  13:00
+
+BUE  uno que es el que estaba más en línea / con la propuesta inicial de funcionalidades // un sistema de extracción de datos de informes de alta // para introducir a la plantilla interna del hospital / ese &regis [/] ese registro que se quería rellenar // que os decía antes // y después también nos pareció interesante otro sistema que hasta ese momento no -> [/] no habíamos dicho que fuese nuestro objetivo  13:19
+
+BUE pero sí que estaba en relación / por otra parte con un proyecto / de investigación PROFIT precisamente que tenemos antes puesto en marcha y activo con Bitext el hospital de Fuenlabrada / &eh la Universidad de Huelva y nosotros mismos // la Universidad Europea  13:32
+
+BUE entonces nos planteamos también / incluir en el sistema / un sistema de búsqueda de información multimodal  13:37
+
+BUE algo así como una especie de Google sobre / información del hospital / simplificando / incluyendo distintos segmentos de información  13:46
+
+BUE el propio texto de los informes del paciente / imágenes de radiografías / que tienen en el sistema de información del hospital etcétera ¿no?  13:53
+
+BUE también analizamos una serie de / &eh situaciones concretas y ejemplos de utilización / &eh sobre el propio hospital / donde estos dos sistemas podían ser útiles // sobre todo el sistema de búsqueda de información ahí veis // por ejemplo para el tratamiento de paciente pues podía resultar útil  14:10
+
+BUE &eh también para &el [/] podía ser [/] resultar de utilidad // y esto era dicho por el -> [/] por el hospital / que es el usuario que es quien tiene que decir si efectivamente le resulta útil o no  14:20
+
+BUE también le -> podía resultar útil en el [/] &eh para el &procesa [/] ayuda en el procesamiento de datos estadísticos / que utilizan los médicos para investigaciones y presentaciones en congresos / os decía / ¿no?  14:31
+
+BUE nos definimos cómo continuar el trabajo // desde ese momento en la reunión / hasta &eh precisamente la sesión que estamos teniendo hoy  14:39
+
+BUE así que lo que teníamos que hacer era / describir el papel de cada entidad / en un posible proyecto PROFIT // que es lo que hicimos // y también / &eh le quedó la -> tarea adicional al hospital de Fuenlabrada de profundizar / en el análisis y definición de las fuentes de información  14:54
+
+BUE con qué información concreta del hospital / íbamos a -> trabajar en el proyecto  14:59
+
+BUE hhh {%act: clearing of throat} bueno entonces aquí en -> [/] en estas diapositivas / pues lo que veis es un poco el papel que podía jugar cada uno de los participantes / en este proyecto  15:10
+
+BUE por lo que respectaba a Bitext // él proponía / pues esta serie de líneas / en relación con el buscador / multimodal / pues utilizar tecnología lingüística / de la propia empresa para / &eh desarrollar pues la parte lingüística del buscador multimodal // o sea pues / ir más allá de la simple búsqueda por palabras clave // y tener en cuenta pues toda una serie [/] &eh tener en cuenta / pues &eh qué es lo que está pidiendo el usuario en concreto  15:33
+
+BUE luego si acaso pues / si tenemos &eh debate [/] un poquito de tiempo para preguntar pues &eh / como estamos aquí // Antonio está aquí // pues / podemos profundizar  15:42
+
+BUE y esto pues lo podemos decir para todos ¿no?  15:44
+
+BUE también vimos que / en este papel de Bitext / &eh podía estar interrelacionado con / información léxica de ontologías // que se desarrollará en la Universidad Autónoma de Madrid  15:55
+
+BUE este era un papel que podía jugar la Universidad Autónoma // que estaba interrelacionado con Bitext // y que aquí se hace referencia / y en la diapositiva siguiente de la universidad pues también ¿no?  16:04
+
+BUE  en la ayuda automática para rellenar formularios / pues ahí también había otra serie de propuestas / que ellos presentaban  16:11
+
+BUE como por ejemplo / &eh utilizar ya directamente tecnología de uno de sus productos / NaturalMail / para / incluir ahí en [///] se podía utilizar en ese sistema de ayuda automática para rellenar formularios  16:22
+
+BUE DAEDALUS / &eh bueno aquí incluso -> DAEDALUS hacía el -> [/] el esfuerzo de profundizar un poco / no ya solo / en dos funcionalidades / sino hacer una especie como de desglose en tres  16:33
+
+BUE esto es una propuesta en borrador // lo que queríamos era eso ¿no?  16:35
+
+BUE  puede ser una especie como de / trabajo inicial para avanzar en una propuesta PROFIT un poquito más sólida  16:39
+
+BUE &e [/] era el objetivo  16:41
+
+BUE hhh {%act: clearing of throat} entonces por ejemplo ellos proponían la localización de información en expedientes médicos // combinando datos textuales con datos en formato de imagen // así que por ejemplo de las radiografías // si se tiene una radiografía la imagen de alguien que tiene / pues algún problema en el pulmón / o cosa parecida y debajo está el texto / pues cómo / &eh sacar partido de ese texto asociado // y también analizar la -> [///] integrarlo / incluso en el análisis de la imagen  17:05
+
+BUE hhh {%act: clearing of throat} # bueno / hacíamos también referencia / a [/] a dos funcionalidades parecidas ¿no?  17:16
+
+BUE  pues en la tres apoyo en el proceso de compleción de -> [/] de expedientes // pues hace referencia al relleno de registros // y &eh también desarrollo / de herramientas para apoyo al proceso de diagnóstico  17:27
+
+BUE por ejemplo se podía &utili [///] esto era una funcionalidad complementaria que se [/] se planteaba sobre el buscador  17:32
+
+BUE se podía hacer un sistema de agrupamiento de diagnósticos previos // y eso les resultaba de interés al hospital ¿no?  17:38
+
+BUE y después también pues en la diapositiva se hace referencia a / como decíamos antes tecnología de Bitext NaturalMail / pues DAEDALUS / también presentaba una serie de -> [/] de productos y tecnologías / que más o menos tienen / puestas en marcha de las que más o menos están interrelacionadas  17:52
+
+BUE o sea que no era &m [/] para / obviamente / &eh partir de cero ni mucho menos / sino / &eh muy en línea de [/] con las actividades que tenemos en marcha  17:59
+
+BUE el hospital de Fuenlabrada / &eh en las &activi [/] actividades que podía realizar en los proyectos  18:06
+
+BUE pues [/] &eh pues podía colaborar en la definición &eh [///] bueno al principio [/] &eh podía colaborar en la preinscripción de los requisitos de información clínica // es decir / con qué información de los pacientes o de las radiografías por ejemplo / íbamos a trabajar  18:19
+
+BUE colaborar en la definición de diccionarios o contenidos para comparación // esto es lo de las ontologías o la terminología que decíamos antes // usar / &eh terminología &eh conocimiento del término en [/] de los términos médicos // está relacionado con el papel de la / Universidad Autónoma  18:36
+
+BUE ser probador de la solución de recuperación de información desarrollada // o sea es si se hace algún sistema / pues se instala en el hospital // y efectivamente sobre el hospital / ahí sobre el terreno // con médicos / o -> un &sub [/] un determinado escenario pues ver hasta qué punto es útil ¿no?  18:50
+
+BUE y también participar en el ciclo de mejora continua  18:52
+
+BUE respecto a las fuentes de información electrónica / salen / en una diapositiva siguiente  18:57
+
+BUE la Universidad Autónoma / pues &eh sale ahí un [/] un grupo / de investigación de la Universidad Autónoma que participa en MAVIR que podían colaborar  19:06
+
+BUE tienen un perfil complementario  19:07
+
+BUE Antonio Moreno pues está en el laboratorio / &eh de Lingüística Informática / tiene un [/] un perfil ¿no? más orientado a la lingüística / y comparando ese con / &eh Alfonseca / que está en el [///] tiene el perfil informático  19:20
+
+BUE bueno había una serie de contribuciones que podían hacer  19:24
+
+BUE hacían énfasis en &eh / construir / o -> / juegan un papel activo en el desarrollo de un extractor terminológico // aplicado al dominio médico  19:32
+
+BUE es decir analizando la documentación que se tiene en el hospital // sacar efectivamente pues &eh unos términos / ordenados de alguna forma / &eh que fuesen de [/] de interés para el buscador  19:42
+
+BUE o sea pues si / tenemos &eh / &eh infarto de miocardio y distintas enfermedades &eh cardiacas por ejemplo / dentro de [/] del propio texto de los hospitales // sacar esas relaciones  19:52
+
+BUE bueno / pues toda una serie de -> [/] de &papel [/] &eh de cuestiones  19:59
+
+BUE el papel de la Universidad Europea / pues igualmente  20:02
+
+BUE aquí el equipo que podía -> jugar un papel relevante en el proyecto // pues es el que participamos en principio también en MAVIR // somos seis doctores // &eh por lo que respecta al perfil pues somos / &eh / seis &eh [/] de los seis doctores cuatro más orientación a informática // dos con más orientación a ciencias de la salud / dos profesoras del / departamento de especialidades médicas / también tenemos titulados superiores // así que un poco vimos el [/] el grupo de [/] de personas que podía trabajar aquí  20:27
+
+BUE y había distintos &eh elementos o [/] o cuestiones que podíamos hacer en el / proyecto  20:33
+
+BUE por ejemplo podíamos &pa [/] jugar el papel de coordinación en el proyecto // si &fu [/] si es necesario // tampoco teníamos por qué pero / podíamos aportar eso // por la experiencia en general y particular en este programa  20:42
+
+BUE como os decía antes pues tenemos un proyecto PROFIT // puesto en marcha del año pasado // y ahora tenemos solicitada una continuación // en donde ya estamos coordinados / tres de estos participantes más además la Universidad de Huelva / o sea que estamos haciendo una cosa / muy concreta y jugando el papel / de coordinador  20:56
+
+BUE también buscar oportunidades de colaboración o sinergias con proyectos relacionados en los que ahora mismo participamos  21:02
+
+BUE tenemos dos proyectos // uno que es del -> CYTIT / dentro del plan nacional de I+D // que es SINAMED // que es más de investigación básica // estamos haciendo eso // ver técnicas de análisis de información / en el ámbito de la Medicina  21:15
+
+BUE y después el otro que es más &eh [/] se encuentra / en el programa PROFIT // financiado por el ministerio de industria principalmente // y &eh tiene una orientación más de desarrollo de tecnología  21:26
+
+BUE bueno son dos proyectos muy relacionados // pues aquí / si efectivamente pusiéramos esto en marcha // pues &eh habría oportunidad de sacar mucho partido de todo este trabajo // xxx relaciones  21:35
+
+BUE aquí en esta otra diapositiva // y ya termino // pues / salen las distintas fuentes de información que el -> hospital proponía para trabajar  21:43
+
+BUE así que tienen información demográfica de pacientes // hay que anonimizarla // esa xxx era una cuestión importante // porque / aquí estamos hablando de buscadores de información pública pero obviamente /  si uno se pone a procesar / en una forma parecida / información / textos sobre problemas que tienen los pacientes // y en los informes clínicos pues dice que el paciente fulano / vive / en -> la ciudad de &Fuenl [/] la localidad de Fuenlabrada &eh / sale el nombre del paciente / el nombre del médico / su familia / los problemas de salud concretos que tiene  22:12
+
+BUE obviamente todo este tipo de información hay que / anonimizarla ¿no?  22:15
+
+BUE  esta [/] incluso es &un [/] una cuestión bastante relevante ¿no?  22:18
+
+BUE  entrar en ese detalle // el [/] el cómo realizar eso técnicamente / y cuestiones legales  22:23
+
+BUE y bueno pues toda otra serie de [/] de elementos de información que tienen en el hospital y que &no [/] que les pareció y nos parecieron relevantes para un proyecto  22:30
+
+BUE para plantear la propuesta PROFIT // pues lo que os decía antes // era el -> [/] el objetivo era tener esta / &mm presentación básica aquí // este &mm trabajo inicial / tener esta sesión / digamos de puesta en común  22:42
+
+BUE pues hay que -> resolver toda una serie de interrogantes  22:45
+
+BUE ahí aparecen algunos  22:46
+
+BUE lo primero es cuál es la fecha de objetivo // porque hay toda una serie de convocatorias // tenemos que resolverla  22:51
+
+BUE tenemos por ejemplo en el dos mil &s [/] en este año -> la primera fue en &mm [/] en marzo pero por lo visto pues ahora / está empezando a salir [/] se está empezando a anunciar una de las convocatorias / o algo así / bueno no lo sé xxx  23:02
+
+BUE el consorcio / ¿ cómo fijarlo ?  23:04
+
+BUE  pues aquí estamos participando / &eh cuatro entidades de MAVIR  23:07
+
+BUE &eh la orientación es que esto estuviese abierto  23:09
+
+BUE pues ver si / hay alguna otra entidad / aquí participante // o [/] o no pues que se puede &eh integrar en este posible proyecto PROFIT // o este proyecto lo integramos en otro // o hacemos dos proyectos en distintos programas  23:22
+
+BUE ¿ qué tipo de proyecto ?  23:24
+
+BUE  dentro [/] esto sería un poco técnico // pues hay &dis [/] diferentes [///] técnico dentro de la convocatoria PROFIT  23:30
+
+BUE pues hay diferentes tipos de [/] de proyectos  23:32
+
+BUE &eh por ejemplo el estudio técnico previo a la investigación industrial es como más / &as [/] abstracto digamos / o podía ser un proyecto de desarrollo previo competitivo  23:40
+
+BUE interrogantes / funcionalidades / hemos perfilado aquí algunas // las tenemos / &eh con algún detalle más / pero / podríamos ampliarlas  23:47
+
+BUE otra cuestión también que se nos quedaba abierta y podemos tener más // &l [/] luego tenemos si acaso preguntas y en la sesión del debate es el propio presupuesto  23:55
+
+BUE como referencia por ejemplo ahí aparecen las dos fases de [/] del proyecto PROFIT // que [/] que tenemos [/] que os decía antes / &a [/] en marcha el año pasado y solicitada una ampliación  24:05
+
+BUE la fase uno fueron ciento dieciocho mil euros / la fase dos doscientos treinta y cuatro  24:09
+
+BUE ¿ es esto suficiente para lo que queremos hacer ?  24:11
+
+BUE  ¿ cuántas entidades participantes y de qué volumen / &eh de actividad en términos económicos estamos hablando ?  24:17
+
+BUE  pues también hay que verlo ¿no?  24:18
+
+BUE  si es una cosa chiquitita o es una mucho más grande  24:21
+
+BUE y -> con esto termino por ahora  24:25
+
+BUE muchas gracias  24:26
+
+GOM pues / muchas gracias Manolo  24:27
+
+GOM {%com: clapping} le agradecemos la brevedad porque ha ganado tres minutos sobre el tiempo estimado {%com: all laugh}  24:32
+
+GOM ahora Isidro / creo que aprovechará esos tres minutos  24:36
+
+AGU hhh {%act: click} pues &eh / hola buenos días a todos  24:57
+
+AGU &eh esta es una presentación / que aunque / la haga yo personalmente es [/] la hemos preparado al alimón / &eh junto con Anselmo Peñas del grupo de la UNED // y / &eh yo represento en este caso al grupo del CSIC / que en el Centro de Información y Documentación Científica  25:11
+
+AGU hemos puesto la presentación en inglés pues / como un pequeño detalle a los compañeros que / &eh trabajan en este idioma  25:18
+
+AGU lamentablemente &eh como mi inglés proviene fundamentalmente de mi estancia en la Universidad de Nueva Gales del Sur en Australia // y tengo un muy fuerte acento &australa [/] australiano cuando hablo inglés // pues hemos preferido que / la diga en castellano para que así / todos ustedes puedan entenderlo  25:33
+
+AGU es la única razón  25:35
+
+AGU hhh {%act: laugh} bueno / dicho esto / vamos a ir un poco con el detalle del proyecto que nosotros nos hemos encargado // que tiene que ver / &eh fundamentalmente con los contenidos  25:45
+
+AGU es decir / la idea fundamental que queremos transmitir // es que / &eh además de trabajar / sobre la estructura de la red / y trabajar / sobre &eh la implantación número de usuarios el consumo que estos hacen / creemos que es muy relevante / centrarse en los contenidos  26:01
+
+AGU y por tanto nuestro objetivo es trabajar esos contenidos  26:04
+
+AGU vamos a hacerlo desde una perspectiva / que en inglés recibe un nombre / &mm bastante / &eh sofisticado / que se llama / webometrics / pero que nos plantea un problema en castellano porque evidentemente decir que somos un grupo de webometras // pues queda un poco [/] un poco / raro  26:22
+
+AGU así que en castellano hemos decidido llamarlo cibermetría aunque a la hora de definirlo como verán ustedes / pues sencillamente hacemos esa pequeña transición de considerar / todo el conjunto de Internet como objeto de estudio / aunque nos centremos fundamentalmente en la Web  26:35
+
+AGU vamos a intentar ver / ese -> aproximación / en un área muy concreta / que es un área que pretendemos expandir // pero que originalmente va a ser el mundo académico // en ese sentido / del objetivo final de cultura / iremos añadiendo otros tipos de instituciones / y eventualmente está previsto / que los propios hospitales también se incorporen // con lo cual existiría un cierto grado de solapamiento  26:57
+
+AGU veremos cuáles son esas herramientas que vamos a utilizar // y -> &eh les presentaremos como principal novedad // pues &eh ya el -> planteamiento que se ha &eh hecho &eh recientemente // que ha significado una propuesta / que acabamos de -> terminar de presentar / al plan nacional / y que &eh esperamos que nos concedan // y poder desarrollar el trabajo  27:17
+
+AGU  lo primero / lo que les he señalado antes // &eh utilizamos &eh las técnicas cuantitativas // porque realmente son las técnicas más apropiadas en un mundo que está creciendo exponencialmente  27:27
+
+AGU  es decir / de una manera / &eh sencilla / &eh objetiva / podemos trabajar / con grandes volúmenes de información / sin tener en cuenta / el conocimiento de los contenidos concretos / o los detalles que existen en [/] en esa estructura  27:40
+
+AGU  lo que hacemos es &utilidar [/] utilizar como unidad / la propia estructura hipertextual del Web / de manera / que trabajamos con los dominios // descendemos a subdominios cuando sea necesario // y intentamos que todas estas unidades / tengan un fuerte componente institucional  27:55
+
+AGU  es decir / que haya detrás no solamente una dirección concreta / sino un grupo de trabajo / un departamento o -> directamente una universidad / sobre la cual podamos / &eh aplicar otros parámetros que permitan un análisis / comparativo  28:08
+
+AGU  por tanto la justificación queda clara // es una medida {%alt: menida} muy rápida / muy objetiva / fácil de aplicar / que nos va a permitir trabajar con todo esto  28:17
+
+AGU  pero / les voy a decir / aquí hay una agenda // no oculta sino simplemente &eh una agenda política / que es la que ya se ha presentado a lo largo de todas estas sesiones // que es la defensa de los contenidos generados en nuestro país // fundamentalmente pero no exclusivamente en castellano / entenderán / obviamente que en el mundo académico / el peso del inglés es fundamental // pero más que &eh el hecho de que estén en uno en otro idioma // esa necesidad real / de / generar contenidos propios / generar contenidos / que nos puedan &prova [/] poner en una posición equivalente a la de otros países // que de momento y como veremos dentro de un momento / no estamos logrando  28:52
+
+AGU  existen unas importantes brechas digitales  28:54
+
+AGU  brechas digitales / algunas de las cuales creo que no somos &es [/] exactamente conscientes / de los profundas que son  29:00
+
+AGU  y / sobre todo proponemos una alternativa una solución / que es la defensa de las llamadas iniciativas de Open Access // de acceso abierto / que yo creo que pueden ser la solución / en el mundo / que nos estamos moviendo el mundo académico  29:12
+
+AGU  ¿ por qué elegimos la academia ?  29:13
+
+AGU  bueno pues es un candidato excelente // primero porque / ha sido objeto de estudios cuantitativos previamente // lo cual facilita / la interpretación / no sólo consiste en sacar una serie de datos / y una serie de patrones sino intentar / comprender qué significan esos patrones y cuáles pueden ser / los resultados que &eh que vamos a [/] a obtener  29:32
+
+AGU  es evidente que en el mundo académico la Internet nació // &eh es donde &ha [/] se ha madurado {%alt: sa madurao} fundamentalmente // y donde / las técnicas / &eh más recientes se están / aplicando con mayor fuerza   29:43
+
+AGU  también es cierto que los investigadores / poco a poco / profesores investigadores &eh estudiantes avanzados de posgrado doctorado etcétera / cada vez están utilizando más la red / para los procesos de comunicación científica / y eso también facilita nuestra labor  29:58
+
+AGU  también es fácil / porque -> resulta -> / que las nuevas generaciones de [/] de crawlers [/] de robots / pues nos permiten trabajar bastante bien con estos productos // y que incluso ya / a pesar de las limitaciones que tienen / podemos ir directamente a utilizar los motores de búsqueda  30:13
+
+AGU  de aquí nos enlazamos un poco con la presentación que han hecho / anteriormente &eh tanto Isabel como Corujo / &eh relativo al hecho de que quizá los &or [/] los motores de búsqueda / ya están constituyendo / el / cuerpo central de la intermediación en el acceso de información / a [/] a la Internet  30:29
+
+AGU  &eh el último punto / la tendencia que nosotros vemos / es que / evidentemente en las técnicas cuantitativas / suponen una solución rápida y económica / a un problema de evaluación de calidad / que todo el mundo plantea // que todo el mundo reconoce como muy importante // pero que raramente se encuentra una solución / a este nivel de -> facilidad de aplicación / y de universalidad / que &eh permita -> trabajar  30:52
+
+AGU  ¿ cómo vamos a hacerlo ?  30:54
+
+AGU  pues en principio / lo que vamos a intentar hacer // es &eh hacer el muestreo / lo más cómodo / lo más fácil y lo más explicativo posible  31:01
+
+AGU  vamos a intentar desagregar &eh las unidades // es decir no trabajar / directamente con &uni [/] con universidades sino descender en detalle // no trabajar con centros de investigación sino ir a los departamentos // no trabajar con institutos / sino ver exactamente cada grupo qué está aportando // qué publica en la web  31:17
+
+AGU  la medida que vamos a utilizar es una medida / fundamentalmente de visibilidad  31:21
+
+AGU  y vuelvo a repetir lo que ya han dicho los compañeros anteriormente  31:24
+
+AGU  la visibilidad hoy por hoy es a través de los motores de búsqueda // si uno no está en los motores de búsqueda / pues realmente es como si no estuviera / en la red  31:32
+
+AGU  por tanto vamos a utilizar / &eh las herramientas disponibles / para &eh obtener los datos cuantitativos  31:38
+
+AGU  y -> lo que vamos a intentar es sacar / patrones que intentaremos explicar / por técnicas que ya conocíamos anteriormente / que son las técnicas de la [/] análisis de citas // lo único que aquí extendidas con las posibilidades que da / el [/] el análisis de los enlaces hipertextuales  31:52
+
+AGU  que tienen algunas ventajas evidentes  31:54
+
+AGU  &eh la más obvia / es que / el mundo de [/] del enlace hipertextual es más amplio que el de cita o referencia bibliográfica // y tiene también algunos inconvenientes // que es / más difícil de clasificar / la motivación que hay detrás de / el hecho de que se establezca / un enlace  32:11
+
+AGU  vuelvo [///] en esta transparencia lo que quiero marcar fundamentalmente / es / esa posición central / de los nuevos intermediarios // lo que tienen [///] aquí me he centrado en el ciclo del proceso de comunicación académica  32:22
+
+AGU  pero se puede extender a cualquier otro ciclo de comunicación a través de la electrónica // donde ven ustedes // que la posición de los diferentes y principales motores de búsqueda / o / y / podíamos añadir aquí los de carácter más &eh vertical como pueden ser los académicos // pues tienen / &eh en esa -> estructuración de los procesos de comunicación  32:41
+
+AGU  les he puesto un par de ejemplos // fíjense que resulta muy fácil / saber el número de subunidades que tiene por ejemplo la Universidad de Harvard  32:48
+
+AGU  es simplemente {%alt: siemplemente} un mecanismo que se puede hacer a través de Yahoo // más de seis mil trescientas subunidades reconocidas   32:54
+
+AGU o por &je [/] ejemplo en el caso de la visibilidad y del tamaño // utilizando xxx // tienen ustedes el caso de que / &eh la visibilidad de &ca [/] de / uno de los centros de investigación de cáncer de la Universidad de Harvard / es diez veces superior a su presencia / en la red  33:08
+
+AGU  como pueden ver / son procesos muy rápidos // que nos han permitido hacer un / &mm primer resultado // que es el ranking Web de las universidades del mundo // donde se clasifican a las diferentes instituciones // tenemos alrededor de diez mil instituciones / en nuestra base de datos //  vuelvo a repetir // se clasifican de acuerdo a su / compromiso con la Web  33:25
+
+AGU  es decir / si están presentes en la net [/] en la red // ¿ con qué volumen de información ?  33:29
+
+AGU  ¿ con qué tipo de información ?  33:30
+
+AGU  y sobre todo / en &em [/] &mm caso de la visibilidad / si realmente esto está generando / enlaces externos  33:36
+
+AGU  los resultados son bastante interesantes // porque lo que -> demuestran clarísimamente / es que no sólo existe la brecha digital / que uno cabría esperar / por motivaciones poblacionales económicas / o incluso de tradición / sino que esta es mucho más amplia // y mucho más profunda de lo que parece  33:52
+
+AGU  fíjense ustedes / que no solamente Estados Unidos representa más de la mitad de los doscientas primeras universidades / de acuerdo a estos criterios en la red // sino que / &eh si unimos a estos datos los de Canadá / Reino Unido / o el [/] o Australia / como países &eh angloparlantes / o / de los países escandinavos / que muchas veces / a la hora de poner sus páginas Web académicas / utilizan este idioma // pues realmente / el peso es abrumador  34:17
+
+AGU  yo siempre señalo aquí más que las presencias las carencias  34:20
+
+AGU  ¿ dónde está España ?  34:21
+
+AGU  ¿ dónde está Francia ?  34:22
+
+AGU  ¿ dónde está &espa [/] &eh Italia ?  34:24
+
+AGU  ¿ qué peso tiene Japón ?  34:25
+
+AGU  parece / increíble pero / &eh estos tres países por ejemplo / no aparecen / &eh claramente / en esta lista  34:32
+
+AGU  les diré que entre los doscientos primeros hay una universidad española // que es la Complutense // la ciento cuarenta y ocho del mundo  34:37
+
+AGU  ¿ cuáles son los problemas que nos vamos a enfrentar / o que vamos a intentar / resolver ?  34:42
+
+AGU  bueno pues en primer lugar / este análisis previo que les acabo de mostrar / está realizado sobre -> universidades / cuya característica fundamental es que no todos los contenidos que presentan / tienen un carácter / estrictamente académico  34:54
+
+AGU  algunos pueden / ser / claramente para académicos / o &eh sencillamente / ajenos a este mundo  34:59
+
+AGU  hablemos pues de las páginas de deportes // de las páginas de -> las tunas &eh etcétera ¿eh? algunas que pueden ser muy significativas  35:07
+
+AGU  el problema es que si queremos descender del detalle // en vez de hablar de unos pocos miles de universidades / esas diez mil que les he -> dicho que tenemos controladas // un / subconjunto de unas tres mil que es / las que seguimos más de cerca // pues &eh al descender nos encontramos con que el volumen pasa de / esos pocos miles / a -> del orden de entre un cuarto / a un millón / de subunidades  35:28
+
+AGU  lo cual / no es una cantidad excesiva  35:30
+
+AGU  creemos que no es una cantidad excesiva // pero que sí obviamente nos obliga a un tipo de aproximación totalmente diferente // basada en términos &eh [/] en herramientas automáticas  35:39
+
+AGU  aparte de eso hay un problema de control documental // como ustedes conocen // la [/] la Web es / caótica en todos los sentidos pero sobre todo / en la ausencia de un control de los contenidos / descriptivos de la &pros [/] de las propias páginas  35:51
+
+AGU  incluso cuando nos centramos / en elementos tan singulares de contenido de metadatos como pueden {%alt: bueden} ser / las etiquetas de título de metadatos o / de los encabezamientos // pues tampoco hay un control que digamos  36:02
+
+AGU  el problema es / más amplio de lo que parece // no solamente / tenemos un gran volumen de información sin control documental // sino que aparecen distintos idiomas  36:10
+
+AGU  en esas tres mil / primeras universidades / hay evidentemente universidades americanas / muchas // hay muchas universidades europeas // pero también hay universidades  iberoamericanas / asiáticas etcétera / cada cual / en general presentando algunos &eh contenidos en idiomas locales con lo cual / el &mm problema hay que extenderlo a estas áreas  36:28
+
+AGU  un [/] un &segu [/] un siguiente problema que también queremos comentar es que / no es lo mismo trabajar con la gran institución // ¿eh?  36:35
+
+AGU  que puede tener una localización / prefijada / claramente identificable / como trabajar con los diferentes grupos / algunos de los cuales pueden ser realmente / trasnacionales y estar en una &eh [/] en un país distinto // con lo cual / el análisis hay que rehacerlo a ese nuevo nivel que / hemos comentado  36:51
+
+AGU  y finalmente el hecho de que un subdominio en una página Web universitaria / &eh exista como ente independiente / no quiere decir que corresponda / a entidades comparables  37:01
+
+AGU  habrá grupos de investigación // pero también habrá departamentos que a su vez comprendan varios grupos // habrá institutos independientes // o incluso habrá organizaciones de apoyo como pueden ser bibliotecas / servicios informáticos / etcétera / que nos aparecerán en el listado y que / obviamente habrá que identificar / no sólo para &mm señalar aquellos que puedan ser más interesantes // sino para que a la hora de realizar las comparaciones / estas tengan &eh sentido  37:25
+
+AGU  ¿ cómo lo vamos a hacer ?  37:27
+
+AGU  pues evidentemente &eh contamos con el apoyo de las tecnologías de [/] del lenguaje [/] de procesamiento del lenguaje  37:32
+
+AGU  nuestra idea es hacer un primer análisis bastante / &eh sencillo // que es / sobre ese / cuarto de millón a un millón / de subdominios / vamos a intentar &eh categorizar automáticamente en veinte o veinticinco grandes disciplinas  37:47
+
+AGU  la idea fundamental es que &eh utilizaremos las principales clasificaciones existentes // tanto aquellas más populares como aquellas / que tienen un mayor peso político  37:55
+
+AGU  piensen que en España / todo se hace según los códigos UNESCO // &eh que como bien saben ustedes / ni la propia UNESCO utiliza ya // ¿eh?  38:02
+
+AGU  en España sin embargo estamos muy / avanzados en ese tema y hemos decidido / que todos los procesos de -> petición de becas / de organización de grupos / &eh y de asignación de institutos se hagan con códigos UNESCO // que &eh obviamente / tenemos que mejorar nosotros mismos // es decir en el BOE / es donde aparece la última actualización de los códigos UNESCO // en el BOE / español / ¿eh?  38:23
+
+AGU  aparte de eso nosotros hemos realizado con / un [/] un esfuerzo previo de un proyecto europeo que se llamaba EICSTES // donde clasificamos veintiséis mil / aproximadamente / veintiséis mil subunidades  38:35
+
+AGU  fíjense // estamos proponiendo un [/] un salto como mínimo de un orden de magnitud en el trabajo // en el cual / pues clasificamos / a mano / &eh de acuerdo con estos códigos UNESCO / &eh estas veintiséis mil subunidades de -> &eh lo que era la Unión Europea de los quince  38:50
+
+AGU  este &eh resultado pues &eh / va a servir también de ayuda / al trabajo  38:55
+
+AGU  aparte de la / clasificación temática donde evidentemente intentaremos llegar / a algunos detalles / pues separando ciencias básicas de aplicadas / ciencias puras / de ciencias &eh sociales y humanidades / &eh hablaremos de tecnología frente a las aportaciones de otras áreas // pues haremos análisis / tanto a nivel institucional / como a nivel geográfico  39:14
+
+AGU  institucional pues / &eh el origen de la -> financiación / pública o privada / el carácter de la universidad / el tipo de instituto / &eh si son consorcios // si cooperan etcétera // a nivel geográfico pues / comparación entre países en vías de desarrollo con países desarrollados  39:30
+
+AGU  esto / obviamente estamos / &eh muy interesados en el tema latinoamericano // &eh con lo cual / puede ser muy interesante // a nivel de idioma / etcétera  39:37
+
+AGU  hhh {%act: click} este es el caso que me refería anteriormente // el proyecto EICSTES // donde &eh ven ustedes que hicimos un esfuerzo / para &eh el dato que les he dado / veintiséis mil subunidades  39:48
+
+AGU  este es un [/] un dato [/] este es un ejemplo nuestro // pero tienen ustedes por ejemplo otro caso interesante que puede ser utilizado a la hora / de &eh realizar los {%alt: las} trabajos que es &eh / el Open Directory / que / &mm es bastante amplio bastante extenso // más de quinientas noventa mil categorías evidentemente / puede ser muy útil a la hora / de realizar las programaciones oportunas  40:08
+
+AGU  o por ejemplo como -> ejemplo de clasificación un poco más universal / tienen ustedes la clasificación decimal // la clasificación que se utiliza en -> bibliotecas etcétera // que sin embargo también ha tenido su aplicación en [/] en páginas Web // con cierto éxito en este caso la Universidad de / Strathclyde que es una universidad de / Escocia  40:26
+
+AGU  los criterios los tenemos que definir  40:28
+
+AGU  hay que hacer un fuerte trabajo en este sentido  40:31
+
+AGU  aquí les -> saco quizá uno de los últimos trabajos / que se han publicado sobre este tema // que es una selección de criterios y pesos / &eh ad [/] ad hoc  40:39
+
+AGU  que no necesariamente es la que nosotros adoptemos // pero &eh tendrá mucho que ver con ella // es un -> producto del / dos mil cuatro // y &mm evidentemente se puede &eh mejorar / en el futuro  40:52
+
+AGU  el objetivo último que vamos a hacer es / que de todos estos datos intentaremos construir &eh indicadores  40:57
+
+AGU  a partir de esos indicadores haremos análisis y sacaremos conclusiones  41:02
+
+AGU  yo creo que la principal ya la adelanto  41:04
+
+AGU  es combatir un poco con datos / ese problema que tenemos // no sé si psicológico / político / o quizá económico / a la hora de publicar la información académica en la Web / pero que creo que es un problema real  41:16
+
+AGU  e intentaremos sacarlo desde distintos puntos de vista // &a [/] utilizando análisis de -> [/] de citas // a citation analysis en este caso basado en enlaces // o un análisis tradicional de contenidos  41:26
+
+AGU  algo también muy interesante que ayer / &eh nos contó Ricardo Baeza / que es el tema del uso / del consumo de información / que creemos muy importante  41:33
+
+AGU  e incluso desde un punto de vista más académico / tengo que reconocer que en esa área / es / de ámbito -> de uso más restringido // estudiando la propia estructura que [/] que se dé  41:42
+
+AGU  al final / nuestro objetivo es / publicar más rankings // más detallados / y de más áreas  41:48
+
+AGU  &eh como &eh he comentado al principio // pues hospitales / es uno de nuestros próximos objetivos // y a medida que vayamos avanzando iremos incorporando otros centros // yo creo que el área cultural es muy importante para nosotros // &mude [/] museos / &eh fundaciones / centros que &provo [/] promocionen o defiendan un poco / el español // y esa va a ser también uno de nuestros / &eh objetivos finales  42:09
+
+AGU  &eh ¿ cómo lo vamos a financiar ?  42:11
+
+AGU  yo le doy menos peso a esta parte porque todavía no la tenemos / asegurada // pero acabamos de finalizar / una propuesta que hemos presentado a la última convocatoria del / plan nacional  42:20
+
+AGU  &eh Felisa ha aceptado dirigir el [/] el consorcio  42:23
+
+AGU  y la idea fundamental es que vamos a &eh intentar resolver los dos problemas  42:27
+
+AGU  la parte de categorización multilingüe / que será &eh por parte del grupo de la UNED // y / nuestra parte de análisis donde vamos a empezar / con un área que creemos que está bastante denostada en los procesos de evaluación / que son las humanidades // tiene mucho que ver con ese objetivo de centrarnos en el mundo cultural / de -> [/] hemos comentado que tiene MAVIR // y / intentaremos resolver primero en esta área // aunque nuestro objetivo &eh posteriormente / será / avanzar más adelante  42:53
+
+AGU  y si quieren alguna -> [///] tienen alguna pregunta o alguna cosa pues / estamos a su disposición  42:58
+
+AGU  muchísimas gracias  43:00
+
+GOM {%com: clapping} gracias  43:01
+
+GOM  pues / también te tengo que felicitar / porque ha sido / la verdad que extremadamente conciso // para todo lo que podías haber contado  43:11
+
+GOM  muchas gracias  43:12
+
+GOM  y ahora ya le damos paso a Paloma  43:14
+
+MAR bueno buenos días a todos  43:29
+
+MAR  &eh yo os voy a presentar [///] &eh soy Paloma Martínez de la Universidad Carlos III // y voy a presentar / el tercer caso -> de uso sobre el que se ha trabajado en el / marco del MAVIR  43:40
+
+MAR  bueno ha sido una evolución un poco distinta a los que se han presentado aquí  43:43
+
+MAR  es también en el dominio &des [/] de -> hospitales / y aunque -> surgió en esa -> reunión que ha mencionado antes / &eh Manolo de julio con hhh {%act: click} / un objetivo de trabajar en temas de gestión de -> documentos [/] de gestión de flujo documental en hospitales // pues ha &sur [/] ha -> tenido una -> [/] una revisión y ha ido por otros &eh derroteros  44:05
+
+MAR  &eh lo que voy a presentar aquí va a ser una presentación muy breve porque &eh &mm &eh [///] es una presentación que hemos elaborado entre iSOCO y la Universidad Carlos III  44:13
+
+MAR  es plantear una serie de necesidades que han surgido en el -> &eh [/] que nos han presentado en el hospital de Fuenlabrada // en esta reunión que / &mm no ha sido hace mucho tiempo // porque la celebramos el [/] el seis de noviembre  44:24
+
+MAR  en esa reunión participaron por parte de iSOCO Jesús Contreras y Luis Rodrigo // que se encuentra hoy aquí // &eh yo misma por parte de la Universidad Carlos III // y luego tres personas del hospital de Fuenlabrada // Paz [/] Pablo Serrano Francisco García y Paz Iglesias  44:37
+
+MAR  entonces &mm hhh {%act: click} # ¡dios mío! / &eh lo que -> &eh lo que voy a hacer es presentar / &eh &mm hhh {%act: click} &eh los objetivos que nos trasladaron desde el hospital de Fuenlabrada como usuarios // para &eh presentar a continuación las cuatro / aplicaciones que nosotros hemos identificado como potenciales en las que trabajar  45:02
+
+MAR  &eh ver un poco el papel de los participantes aunque / &eh no está &eh tan definido como en el resto de los / casos de hecho / faltarían participantes // y es una de las cosas que vamos a transmitir &eh hoy aquí  45:14
+
+MAR  y luego centrarnos en unos aspectos importantes de arquitectura y del plan de trabajo  45:18
+
+MAR  no es que esté definido el plan de -> trabajo pero sí algunos &eh aspectos que para nosotros eran / &eh muy importantes  45:24
+
+MAR  &eh &mm el problema es que [/] que nos &tra [/] nos trasladaron a nosotros desde el hospital / era -> hhh {%act: click} &eh tenían un problema de estandarización / y -> [/] y normalización / &eh en el [/] en su trabajo diario sobre todo de gestión de formularios que se realizan en distintos servicios del hospital  45:41
+
+MAR  y -> &eh nos dijeron que / estaban muy interesados en / &eh normalizar por lo menos la parte -> semántica / de esos formularios que ellos tienen diseñados y que / &eh que están muy bien diseñados // &eh que funcionan muy bien a nivel [/] a nivel local en el hospital // mediante un recurso / que existe en inglés y en castellano que se llama &eno [/] SNOMED &eh CT // una ontología sobre terminología / &eh médica  46:06
+
+MAR  pues / querían / centrar toda esta [/] esta problemática -> en torno a este -> recurso ¿no?  46:11
+
+MAR  en este primer paso de -> estandarización digamos  46:14
+
+MAR  lo que buscaban además era que fuera una solución abierta que pudiera funcionar / sobre hhh {%act: click} &eh la -> arquitectura que ellos tienen de múltiples &apli [/] aplicaciones trabajando con distintas fuentes  46:25
+
+MAR  y que todos estos &eh procesos que nos plantearon aquí como necesidades que tienen // que funcionaran entorno a este [/] a este recurso  46:31
+
+MAR  entonces bueno &eh / de manera muy breve / porque -> nosotros tampoco sabíamos mucho sobre esta [/] esta ontología // que / tiene unas dimensiones bastante / interesantes  46:41
+
+MAR  es una especie de tesauro / &eh avanzado / con casi &eh trescientos mil conceptos / &eh organizado en jerarquías / bueno es axial // tiene &eh múltiples ejes // algunos ejemplos que muestro aquí // &eh son conceptos sobre hallazgos &cli [/] hallazgos clínicos / procedimientos / organismos / &eh medicamentos / &eh &mm bueno / pues todo lo relacionado con [/] con la -> &eh práctica sanitaria // y luego &eh novecientas mil relaciones semánticas  47:08
+
+MAR  bueno además incorpora como setecientos mil [/] seiscientos mil definiciones de estos términos con los que también se puede -> trabajar ¿no?  47:14
+
+MAR  de alguna manera / &eh &mm ellos / &eh quieren trabajar // o bueno / plantearon como cuatro &eh dominios para los que poder trabajar / esta / parte que os he mencionado de / formularios [/] de estandarización de formularios  47:29
+
+MAR  es decir / no tanto sobre la parte &eh sintáctica / que ellos tienen / bien definida / &eh en [/] en el hospital // sino sobre / los valores / que pueden tomar esos campos dentro de los formularios // es decir / ahora son abiertos y quieren que se ajuste / a esta / ontología  47:44
+
+MAR  &eh &mm algunos / tienen / &eh dominios cerrados // pero otros [/] otros son texto [/] texto libre  47:53
+
+MAR  entonces {%alt: toces} esto les [/] les dificulta mucho poder obtener indicadores sobre estos &eh campos en lo [/] en estos formularios ¿no?  47:58
+
+MAR  que tienen en [/] en [/] hhh {%act: click} en todos los servicios  48:01
+
+MAR  entonces quieren manejar este vocabulario controlado de [/] de SNOMED / &eh CT / dentro de [/] dentro del hospital  48:07
+
+MAR  esto &eh les interesa especialmente / trabajar en lo que ellos llaman seguridad en &pa [/] en pacientes // que es tratar temas [/] temas de efectos de la práctica sanitaria en los pacientes  48:18
+
+MAR  es el dominio / sobre el que ellos / quiere empezar a [/] a trabajar  48:22
+
+MAR  &eh además también les interesa el tema de como segunda &mm [/] segundo problema en el que les interesa -> trabajar es &eh hhh {%act: click} estudios epidemiológicos  48:33
+
+MAR  es sobre precisamente estos formularios que al no tener / &mm campos &eh digamos con datos &eh cerrados les resulta difícil obtener &eh indicadores  48:43
+
+MAR  por ahora &eh obtienen [///] o sea solamente les interesa el tema de asociaciones previstas / que ellos pueden &eh intuir en estos análisis / y no tanto más &téc [/] técnicas de [/] de data mining ¿no?  48:54
+
+MAR  por ejemplo aquí hay un tema sobre / &eh infecciones quirúrgicas / relacionado con el tema de la seguridad en / pacientes / &eh pues obtener una serie de datos &eh estadísticos que ahora / &mm realizan de manera un poco compleja ¿no?  49:06
+
+MAR  estos que aparecen aquí como -> alertas por ejemplo es otro tema / &eh de interés en esto de los formularios para de alguna manera / trabajar en la [/] en el relleno / guiado de estos formularios ¿no?  49:17
+
+MAR  entonces el tema de alertas por ejemplo &eh algún caso que plantean es el tema de las alergias ¿no?  49:21
+
+MAR  que no puedas introducir en un formulario // si un determinado paciente / &eh tiene alergia a antibióticos // pues que de alguna manera no le puedas recetar un antibiótico ¿no? y que aquello pues esté [/] esté controlado  49:33
+
+MAR  &eh &mm como tercer &eh [/] tercera línea / y que incluso / &eh Manuel ha mencionado antes // está la parte de / &eh buscar en la historia [/] ellos hhh {%act: click} / el hospital maneja historia clínica electrónica // que está &dis [/] de pacientes que está / &eh dispersa en distintos objetos y en distintas fuentes ¿no?  49:53
+
+MAR  entonces / de manera ideal / a ellos les gustaría tener algo que / a nosotros nos describen como Google del paciente ¿no?  49:59
+
+MAR  de tal manera que / puedan localizar en estas múltiples fuentes / información específica sobre &eh pues tratamientos / pruebas / materiales adicionales / que ahora / &eh tienen que &eh buscar / sabiendo la fuente en la que se encuentran / y combinando distintas / &eh &eh &eh informaciones que al final tienen que hacer de manera manual ¿no?  50:19
+
+MAR  &eh &mm hhh {%act: click} bueno / pues además que puedan realizar búsquedas de distinto tipo // que ya mencionado Manuel pues por &eh términos en documentos / en otras fuentes externas que utilizan como [/] como referencia // y luego también navegación semántica  50:32
+
+MAR  esta es otra de las [///] no tan prioritaria como la que mencionaban de [/] os mencionaba de seguridad en el paciente // pero también importante para ellos  50:39
+
+MAR  &eh la última es esto que también os he introducido de gestión de formularios  50:42
+
+MAR  &eh es en la que primero -> / les interesaría avanzar // es decir coger estos formularios que tienen // por supuesto no en todo el hospital sino empezar trabajando en un determinado dominio // &eh [/] en un determinado servicio / y en algo puntual  50:56
+
+MAR  para ver cómo se podría implantar / el uso de este recurso de [/] esta ontología -> médica // pues en algo pequeño / y ver luego pues cómo podría ser de [/] de instalable ¿no?  51:05
+
+MAR  y que se puedan &eh / o sea hacer &eh hhh {%act: click} conversión / semiautomática de esos formularios que ya tienen // y que en los nuevos se pueda guiar / esa introducción de [/] de datos  51:16
+
+MAR  &eh el objetivo de esto / y bueno luego hay una charla sobre el tema de -> [/] de sistemas de información en hospitales de la CAM  51:23
+
+MAR  es que / bueno el hospital es [/] es pionero en [/] en -> [/] hhh {%act: click} en el tema de la historia clínica electrónica  51:30
+
+MAR  y / &eh no quieren trabajar por ahora la parte de / estandarización &eh sintáctica de los formularios // es decir / ellos tienen formularios que han definido en hhh {%act: clearing of throat} hhh {%act: click} [/] que manejan en las distintas unidades de enfermería de servicios // &eh que no son estándares {%alt: estandars}  51:44
+
+MAR  si por ejemplo recurrimos a / otros estándares que hay en medicina / como el HL7 para el tema de / &eh [/] que es la iniciativa americana para / &eh normalizar información médica  51:54
+
+MAR  &eh ellos &eh &eh saben que / tienen esta información bien definida quieren empezar con la parte de semántica // pero -> saben que si quieren comunicarse con algún otro / hospital de la / &eh comunidad de -> Madrid / pues tienen que / trabajar en esta línea de -> estandarización y normalización  52:11
+
+MAR  entonces este primer paso lo quieren hacer / vía esta [/] este -> recurso / de SNOMED CT / &eh porque además existe en castellano  52:19
+
+MAR  o sea los dos únicos idiomas en los que existe es el inglés y en castellano // por lo menos hasta donde [/] hasta donde -> / &eh sabemos  52:25
+
+MAR  bueno esto en cuanto a las cuatro / &mm hhh {%act: click} &eh problemas que nos han planteado  52:30
+
+MAR  nos han planteado otros que yo incluso he mencionado aquí // hhh {%act: cough} como otras posibles funcionalidades y que / &eh &eh &eh Manuel también ha hecho referencia a ellas en cuanto al tema de tratamiento de imágenes // y &eh en el caso que / por ejemplo nos podría interesar a nosotros de / tecnología de almacenes de datos para / gestión espacio temporal ¿no?  52:48
+
+MAR  pues tratar las imágenes &eh hhh {%act: click} &eh &eh de acuerdo a geometrías y ver cómo evolucionan y utilizar [///] pues una de las / ventajas es / &eh poder utilizar estos &eh datos que tendrían que analizarse ¿no? de radiografías / escáneres / o distintas pruebas / y que pudiéramos &eh estudiar [/] trabajar sobre data mining para estudiar evolución de tumores / por ejemplo  53:08
+
+MAR  y bueno / &mm yo creo no hemos trasladado aquí todas // todavía había más [/] &eh más posibilidades  53:14
+
+MAR  &eh &mm &eh lo que / nosotros planteamos era intentar acotar el [/] el dominio sobre el que trabajar // porque / si se quería &im [/] implantar este -> recurso había que / hacer primero una parte genérica / relativa a información común / de [/] de pacientes / y [/] y distintas cosas que sabemos que es genérico dentro del hospital  53:32
+
+MAR  y -> &eh pues intentar priorizar estas cuatro [/] estos cuatro grandes bloques  53:38
+
+MAR  &eh por ejemplo &pro [/] pues proponíamos a lo mejor trabajar sobre incidencias particulares como / flebitis / infecciones urinarias / o situaciones específicas / de [/] &eh accidentes quirófanos / por el tema de seguridad en pacientes  53:49
+
+MAR  pero no se habló nada de / ver cómo podíamos &defi [/] qué dominio iba a ser en particular  53:53
+
+MAR  en cuanto al papel de los participantes bueno / &mm de manera muy breve &eh hemos trasladado aquí alguna de la -> &mm tecnología que tiene iSOCO // &eh pues para -> / &eh Web semántica / servicios Web semánticos / &eh y adquisición de conocimiento // y una serie de [/] de [/] hhh {%act: click} de productos // que pues &eh hacen &aná [///] por ejemplo buscadores semánticos / para trabajar con peticiones &eh [/] de consultas en lenguaje natural // o -> / librerías para gestión de [/] de ontologías  54:23
+
+MAR  &eh por parte de -> la Carlos &eh tercero / bueno pues / aplicamos tecnologías &eh del lenguaje / a distintas tareas de recuperación de información / de extracción de información / y sobre todo de búsqueda de respuestas  54:35
+
+MAR  y también esta parte que os mencionaba de [/] de base de datos espacio-temporales  54:40
+
+MAR  &eh pero / no tenemos cubierto toda la / &mm parte dentro de este que [/] de tecnología que haría falta en este -> proyecto  54:46
+
+MAR  por ejemplo no tenemos la parte de tecnología &eh &lingüístima [/] lingüística que podríamos aplicar / al tema por ejemplo del Google del [/] del paciente  54:53
+
+MAR hhh {%act: click} en cuanto al hospital de Fuenlabrada bueno / esto es el [/] el mismo papel / de usuario participar en la [/] en la [/] en los análisis de requisitos  55:02
+
+MAR  sobre todo aportar estas fuentes / de información electrónica sobre las que / habría que probar las [/] las [/] las [/] los prototipos de [/] de [/] de solución // con un tema / nada trivial que es el tema de [/] de [/] de protección de datos personales y ver cómo se podría hacer esto de / armonizar toda la [/] la información sobre la que trabajar  55:21
+
+MAR  y por supuesto / &mm lo que os mencionaba de / que nos hacen falta otros participantes ¿no?  55:26
+
+MAR  ya solamente deciros que / &eh &eh nos parecía importante destacar que / &eh el hospital &eh tiene un montón de aplicativos de gestión / y de distintos &eh productos &eh de distintos proveedores integrados / con [/] de distintas fuentes  55:41
+
+MAR  pues el objetivo era / esta -> &eh caja que aparece aquí de este recurso / funcionando sobre / una serie de conectores que habría que definir para las &dis [/] distintas fuentes sobre las que trabajáramos ¿no?  55:53
+
+MAR  y aquí estas cuatro &mm hhh {%act: click} líneas &eh que nos han planteado de seguridad en el paciente // estudios epidemiológicos / &eh buscador de &eh información en [/] en historias clínicas electrónicas / y gestión de formularios  56:07
+
+MAR  con prioridad al de gestión de formularios que es el que / de todos ellos definían como más [/] más importante ¿no?  56:14
+
+MAR  y bueno en cuanto al tema del plan de trabajo / &eh no quiere decir que esto sea &eh hhh {%act: click} ¡ay! lo que hay que [/] lo que hay que hacer // &eh pero sí lo queríamos plantear como que / &eh había una serie de -> aspectos importantes / como &eh una primera fase para intentar / &eh hhh {%act: click} implantar esta ontología  56:36
+
+MAR  &eh para luego trabajar sobre la parte de los conectores sobre / &eh el dominio que elijamos / saber exactamente las fuentes que necesitaríamos ¿no?  // para luego con este que aparece como paquete tres ¿no? pues ya / &eh establecer estas cuatro funcionalidades / que os he / contado aquí de manera muy [/] muy breve ¿no?  56:52
+
+MAR  &eh hhh {%act: click} esta -> &mm espiral que aparece aquí / viene a reflejar esto que hemos / mencionado de que es necesario primero trabajar en un dominio particular y luego ver qué posibilidades tiene esto / de ser escalable a distintos &eh [/] a distintos dominios  57:06
+
+MAR  &eh para ver si es viable &eh o no / intentando &mm [///] bueno pues se podría trabajar en estas / &eh cuatro &eh funcionalidades en -> paralelo // pero siempre acotadas a un [/] a un único -> dominio  57:19
+
+MAR  y bueno / pues por mi parte -> / nada más  57:21
