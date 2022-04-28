@@ -330,6 +330,21 @@ def cambiar_minusculas(original,nuevo):
 
 		elif char == 'Z':
 			nuevo.write('z')
+		
+		elif char == 'á':
+			nuevo.write('a')
+
+		elif char == 'é':
+			nuevo.write('e')
+
+		elif char == 'í':
+			nuevo.write('i')
+
+		elif char == 'ó':
+			nuevo.write('o')
+
+		elif char == 'ú':
+			nuevo.write('u')
 
 		else:
 			nuevo.write(char)

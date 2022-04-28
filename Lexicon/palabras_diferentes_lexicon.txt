@@ -1,0 +1,193 @@
+accuracy	a k i u r a s i
+articulo	a r t i k u l o	
+asistencia	a s i s t e n T i a
+aks	a k a e s e
+alchemist	a l k e m i s t
+alltheweb	o l d e g u e b
+analysis	a n a l i s i s
+animals	a n i m a l s
+answer	a n s u e r
+answering	a n s u e r i n
+application	a p l i k e i C o n
+ars	a e R e e s e
+atom	a t o m
+autonomy	a u t o n o m i
+bag	b a g
+baseline	b a s e l i n
+bbk	b e b e k a
+be	b i
+biology	b a i o l o y i
+btob	b i t o b
+built	b i l t
+callcenter	k o l T e n t e r
+callcenters	k o l T e n t e r s
+cd	T e d e
+challenge	C a l e n y 
+citation	s a i t e i C o n
+clickando	K l i k a n d o
+cnn	T e e n e e n e
+comparais	k o m p a r a i s
+crawl	k r o l
+crawler	k r o l e r
+crawlers	k r o l e r s
+cross	k r o s
+csic	T e s i k
+ct	T e t e
+cua	k u a
+cybermetrics	T i b e r m e t r i k s
+cytit	T i t i t
+daedalus	d a e d a l u s
+data	d a t a
+dataset	d a t a s e t
+dedicarsela	d e d i k a r s e l a
+diccionario	d i k T i o n a r i o
+dietterich	d i e t e r i C
+director	d i r e k t o r
+directory	d i r e k t o r i
+dni	d e e n e i
+don't	d o n t
+ejmeplo	e x e m p l o
+endtime	e n d t a i m
+espacios	e s p a T i o s
+espaciotemporales	e s p a T i o t e m p o r a l e s 
+estatua	e s t a t u a
+everybody	e b r i b o d i
+evil	i b i l
+exercise	e k s e r s a i s
+fab	f a b
+facturaciones	f a k t u r a T i o n e s
+falso
+feature
+filetype
+filter
+flicker
+from
+fullmetal
+gap
+gestion
+gialle
+gigablast
+give
+h1
+h2
+hl7
+hpux
+html
+http
+ibm
+ibn
+iclef
+id
+iii
+imaginais
+index
+invite
+keyword
+keywords
+killer
+la2
+language
+learning
+library
+linka
+live
+llenguatge
+logs
+long
+ma
+maquina
+master
+matching
+mba
+mbas
+mining
+mysql
+na
+naturalmail
+ntcs
+ntsc
+of
+offline
+once
+once
+ong
+online
+open
+originurlextension
+otaedor
+outsourcing
+page
+pagerank
+pagine
+pago
+pal
+park
+pattern
+pdf
+pdfs
+peer
+pensad
+perespectiva
+perodista
+php
+pib
+player
+plm
+postcript
+posts
+postscript
+prococeso
+question
+questionanswering
+recumeracion
+relevance
+retrieval
+review
+rss
+rssatom
+rte
+sa
+scholar
+screw
+sdk
+semantic
+sgae
+sl
+sms
+snippet
+snomed
+spain
+spinoff
+spot
+stem
+stemmers
+strathclyde
+study
+suv
+svm
+tags
+tardebn
+that
+the
+things
+tien
+to
+tp
+tpi
+tremento
+tsystems
+unedes
+uniuniversitarias
+uoc
+up
+url
+urls
+usb
+user
+users
+veis
+verity
+wap
+way
+words
+workflow
