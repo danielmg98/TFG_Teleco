@@ -6619,17 +6619,17 @@ recuperacion	R e k u p e r a T i o n
 relevance	R e l e b a n s
 retrieval	R e t r i b a l
 review	R e b i u
-rss	e R e e T e e T e
-rssatom	e R e e T e e T e a t o m
+rss	e R e e s e e s e
+rssatom	e R e e s e e s e a t o m
 rte	e R e t e e
-sa	e T e a
+sa	e s e a
 scholar	e s k o l a r
 screw	e s k r i u
-sdk	e T e d e k a
+sdk	e s e d e k a
 semantic	s e m a n t i k
-sgae	e T e g a e
-sl	e T e e l e
-sms	e T e e m e e T e
+sgae	e s e g a e
+sl	e s e e l e
+sms	e s e e m e e T e
 snippet	e s n i p e t
 snomed	e s n o m d
 spain	e s p e i n
@@ -6639,8 +6639,8 @@ stem	e s t e m
 stemmers	e s t e m e r s
 strathclyde	e s t r a d k l a i d
 study	e s t a d i
-suv	e T e u b e
-svm	e T e u b e e m e
+suv	e s e u b e
+svm	e s e u b e e m e
 tags	t a g s
 tardebn	t a r d e b n
 that	d a t
@@ -6659,9 +6659,9 @@ uoc	u o T e
 up	u p e
 url	u e R e e l e
 urls	u e R e e l e s
-usb	u e T e b e
-user	i u T e r
-users	i u T e r s
+usb	u e s e b e
+user	i u s e r
+users	i u s e r s
 veis	b e i s
 verity	b e r i t i
 wap	u a p
