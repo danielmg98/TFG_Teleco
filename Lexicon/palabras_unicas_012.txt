@@ -1,0 +1,380 @@
+aca	a k a
+aceleracion	a T e l e r a T i o n
+ademas	a d e m a s
+ahi	a i
+algun	a l g u n
+alla	a y a
+alli	a y i
+alo	a l o
+anotacion	a n o t a T i o n
+anotation	a n o t e i C o n
+antologia	a n t o l o x i a
+aparecian	a p a r e T i a n
+aqui	a k i
+arbol	a r b o l
+arboles	a r b o l e s
+art	a r t
+asi	a s i
+atencion	a t e n T i o n
+atras	a t r a s
+aumentabamos	a u m e n t a b a m o s
+automatica	a u t o m a t i k a
+automaticamente	a u t o m a t i k a m e n t e
+automatico	a u t o m a t i k o
+bagging	b a g i n
+basandose	b a s a n d o s e
+based	b e i s d
+basical	b e i s i k a l
+basicamente	b a s i k a m e n t e
+beyond	b i y o n d
+book	b u k
+botabamos	b o t a b a m o s
+building	b i l d i n g
+buscabamos	b u s k a b a m o s
+buscare		b u s k a r e
+busqueda	b u s k e d a
+cafe	k a f e
+calculo	k a l k u l o
+calculos	k a l k u l o s
+camara	k a m a r a
+car	k a r
+caracteristica	k a r a k t e r i s t i k a
+catherine	c a T e r i n
+cerrabamos	T e R a b a m o s
+cientifica	T i e n t i f i k a
+clasica	k l a s i k a
+clasico	k l a s i k o
+clasificacion	k l a s i f i k a T i o n
+clasificador	k l a s i f i k a d o r
+clasificadores	k l a s i f i k a d o r e s
+classic	k l a s i k
+classifier	k l a s i f a i e r
+cocacola	k o k a k o l a
+colores	k o l o r e s
+com	k o m
+comerciales	k o m e r T i a l e s
+compañias	k o m p a N i a
+comparacion	k o m p a r a T i o n
+competicion	k o m p e t i T i o n
+complicado	k o m p l i k a d o
+comprimiendose	k o m p r i m i e n d o s e
+con	k o n
+conclusion	k o n k l u s i o n
+conto	k o n t o
+convenci	k o m b e n T i
+correspondian	k o R e s p o n d i a n
+cuales	k u a l e s
+cuatrocientos	k u a t r o T i e n t o s
+day	d e i
+de	d e
+deberia	d e b e r i a
+deberiamos	d e b e r i a m o s
+deberian	d e b e r i a n
+decia	d e T i a
+deciamos	d e T i a m o s
+deformacion	d e f o r m a T i o n
+dejame	d e x a m e
+deje	d e x e
+delante	d e l a n t e
+demas	d e m a s
+demostracion	d e m o s t r a T i o n
+desafio	d e s a f i o
+descripcion	d e s c r i p T i o n
+descripto	d e s c r i p t o
+despues	d e s p u e s
+deteccion	d e t e k T i o n
+detecto	d t e k t o
+dia	d i a
+dias	d i a s
+dieciseis	d i e T i s e i s
+dificil	d i f i T i l
+dificiles	d i f i T i l e s
+diganme	d i g a n m e
+dimension	d i m e n s i o n
+discusion	d i s k u s i o n
+documentacion	d o k u m e n t a T i o n
+dos	d o s
+ejercito	e x e r T i t o
+el	e l
+en	e n
+epfl	e p e e f e e l e
+eramos	e r a m o s
+es	e s
+especifica	e s p e T i f i k a
+esta	e s t a
+estan	e s t a n
+etcetera	e t T e t e r a
+explique	e k s p l i k e
+facil	f a T i l
+fast	f a s t
+features	f i C u r s
+fijado	f i x a d o
+fijense	f i x e n s e
+fin	f i n
+flores	f l o r e s
+flower	f l a u e r
+fotografia	f o t o g r a f i a
+full	f u l
+funcionaban	f u n T i o n a b a n
+funcionando	f u n T i o n a n d o
+funciono	f u n T i o n o
+galery	g a l e r i
+general	x e n e r a l
+generalizacion	x e n e r a l i T a T i o n 
+goverment	g o b e r m e n t
+gphone	y i f o n
+gps	x e p e e s e
+grafico	g r a f i c o
+gran	g r a n
+grass	g r a s
+habia	a b i a
+habiamos	a b i a m o s
+habian	a b i a n
+habra	a b r a
+habran	a b r a n
+habria	a b r i a
+haciamos	a T i a m o s
+hecho	e C o
+heuristica	e u r i s t i k a
+hipotesis	i p o t e s i s
+hp	a C e p e
+hubiesen	u b i e s e n
+hungaros	u n g a r o s
+ibamos	i b a m o s
+iluminacion	i l u m i n a T i o n
+imagenes	i m a x e n e s
+imaginense	i m a x i n e se 
+impresion	i m p r e s i o n
+indexacion	i n d e k s a T i o n
+indexaciones	i n d e k s a T i o n
+indexing	i n d e k s i n g
+informacion	i n f o r m a T i o n
+ingles	i n g l e s
+instalacion	i n s t a l a T i o n
+interesaba	i n t e r e s a b a
+investigacion	i n b e s t i g a T i o n
+jerarquica	x e r a r k i k a
+la	l a
+le	l e
+leader	l i d e r
+lingüistica	l i n g u i s t i k a
+lingüisticas	l i n g u i s t i k a
+llaman	y a m a n
+llegado	y e g a n d o
+lo	l o
+logica	l o x i k a
+logico	l o x i k o 
+machine	m a C i n
+magica	m a x i c a
+mala	m a l a
+mama	m a m a
+marcos	m a r k o s
+marriage	m a R i C
+mas	m a s
+match	m a C
+mayoria	m a y o r i a
+me	m i
+mejor	m e x o r
+mejoraba	m e x o r a b a
+mejorarlo	m e x o r a r l o
+mejoro	m e x o r o
+metiamos	m e t i a m o s
+metodo	m e t o d o
+metodos	m e t o d o s
+metrica	m e t r i k a
+mi	m i 
+miles	m i l e s
+mobile	m o b a i l
+model	m o d e l 
+modifica	m o d i f i k a b a
+mostrar	m o s t r a r
+mountain	m o u n t a i n
+mouse	m a u s
+movil	m o b i l
+moviles	m o b i l e s
+multimedia	m u l t i m e d i a 
+mystic	m i s t i k
+naturalmente	n a t u r a l m e n t e
+neighbour	n e i b u r
+ningun	n i n g u n
+no	n o u
+nocion	n o T i o n
+not	n o t
+nuevamente	n u e b a m e n t e
+numerica	n u m e r i k a
+numerico	n u m e r i k o
+numero	n u m e r o
+numeros	n u m e r o s
+o	o 
+ochocientas	o C o T i e n t a s
+oficina	o f i T i n a
+oimos	o i m o s
+organizo	o r g a n i T o
+ottovonguericke	o t o b o n g e r i k
+painting	p e i n t i n g
+pajaro	p a x a r o
+papa	p a p a
+parada	p a r a d a
+parecen	p a r e T e n
+paris	p a r i s
+pasa	p a s a
+pasando	p a s a n d o
+pasarlo	p a s a r l o
+patches	p a C e s
+pense	p e n s e
+perdia	p e r d i a 
+perdon	p e r d o n
+permiten	p e r m i t e n
+persona	p e r s o n a
+personalizacion	p e r s o n a l i T a T i o n
+photo	f o t o
+pixel	p i k s e l
+plano	p l a n o
+playa	p l a y a
+pnl	p e e n e e l e
+poblacion	p o b l a T i o n
+poderle	p o d e r l e
+podria	p o d r i a
+podriamos	p o d r i a m o s
+police	p o l i s
+politecnica	p o l i t e k n i k a
+ponen	p o n e n
+por	p o r
+posicion	p o s i T i o n
+presentacion	p r e s e n t a T i o n
+presentar	p r e s e n t a r
+primer	p r i m e r
+probo	p r o b o
+processing	p r o T e s i n g
+programacion	p r o g r a m a T i o n
+prometian	p r o m e t i a n
+proponemos	p r o p o n e m o s
+proporcion	p r o p o r T i o n
+proposicion	p r o p o s i T i o n
+proximos	p r o k s i m o s
+pueden	p u e d e n
+que	k e
+queria	k e r i a
+queriamos	k e r i a m o s
+querian	k e r i a n
+query	k u e r i
+rapida	R a p i d a
+rapidamente	R a p i d a m e n t e
+rapido	R a p i d o
+razon	R a T o n
+recall	R e k o l
+rectangulos	R e k t a n g u l o s
+regresan	R e g r e s a n
+regular	R e g u l a r
+relacion	R e l a T i o n
+relevant	R e l e b a n t
+repeticion	R e p e t i T i o n
+repiten	R e p i t e n
+representacion	R e p r e s e n t a T i o n
+resolucion	R e s o l u T i o n
+road	R o u d
+roads	R o u d s
+run	R a n
+s	e s
+sabe	s a b e
+sacabamos	s a k a b a m o s
+sacarle	s a k a r l e
+saint	s e i n t
+save	s e i f
+screen	e s k r i n
+se	s e
+seal	s i l
+seals	s i l s
+search	s e r C
+security	s e k i u r i t i
+segmentacion	s e g m e n t a T i o n
+segmentarla	s e g m e n t a r l a
+segmento	s e g m e n t o
+seis	s e i s
+semantica	s e m a n t i k a
+semanticamente	s e m a n t i k a m e n t e
+semantico	s e m a n t i k o
+seres	s e r e s
+seria	s e r i a
+ship	s i p
+si	s i
+simplemente	s i m p l e m e n t e
+sino	s i n o
+sinonimo	s i n o n i m o
+sinonimos	s i n o n i m o s
+skip	e s k i p
+sky	e s k a i
+solucion	s o l u T i o n
+sonido	s o n i d o
+sorprender	s o r p r e n d e r
+speed	e s p i d
+straight	e s t r e i t
+su	s u
+submision	s u b m i s i o n
+subtitulos	s u b t i t u l o s
+supermercados	s u p e r m e r k a d o s
+tamaños	t a m a N o s
+tambien	t a m b i e n
+te	t e
+tecnica	t e k n i k a
+tecnicas	t e k n i k a s
+tecnicos	t e k n i k o s
+telefonica	t e l e f o n i k a
+telefono	t e l e f o n o
+telefonos	t e l e f o n o s
+teller	t e l e r
+tenia	t e n i a
+teniamos	t e n i a m o s
+tenian	t e n i a n
+tests	t e s t s
+text	t e k s t
+textbased	t e k s t b e i s d	
+textos	t e k s t o s
+tienen	t i e n e n
+tipica	t i p i k a
+tipico	t i p i k o
+tipos	t i p o
+titulo	t i t u l o
+todas	t o d a s
+todavia	t o d a b i a
+todos	t o d o s
+tomar	t o m a r
+topic	t o p i k
+topics	t o p i k s
+trabaja	t r a b a x a
+trabajando	t r a b a x a n d o
+trabajos	t r b a x o s
+traduccion	t r a d u k T i o n
+transformabamos	t r a n s f r o r m a b a m o s
+trascripcion	t r a n s k r i p T i o n
+trata	t r a t a
+tratarlo	t r a t a r l o
+tree	t r i
+trees	t r i s
+trèfle	t r e f e l
+trescientos	t r e s T i e n t o s
+ultimos	u l t i m o s
+un	u n
+unica	u n i c a
+unico	u n i c o
+uniformemente	u n i f o r m e m e n t e
+union	u n i o n
+unos	u n o s
+usa	u s a
+ustedes	u s t e d e s
+utilizabamos	u t i l i T a b a m o s
+utilizacion	u t i l i T a T i o n
+utilizador	u t i l i T a d o r
+utilizando	u t i l i T a n d o
+utilizaria	u t i l i T a r i a
+utilizarlo	u t i l i T a r l o
+valia	b a l i a
+ve	b e
+veintiun	b e i n t i u n
+veran	b e r a n
+version	b e r s i o n
+vias	b i a s
+water	u o t e r
+will	u i l
+ya	y a
+york	y o r k

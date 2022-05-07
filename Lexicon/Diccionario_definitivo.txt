@@ -23,6 +23,7 @@ aburrirles	 a b u R i r l e s
 aburro	 a b u R o 
 abusar	 a b u s a r 
 abusos	 a b u s o s 
+aca	a k a
 acá	 a k a 
 acaba	 a k a b a 
 acabado	 a k a b a d o 
@@ -50,6 +51,7 @@ acción	 a k T i o n
 acciones	 a k T i o n e s 
 accionistas	 a k T i o n i s t a s 
 accuracy	a k i u r a T i
+aceleracion	a T e l e r a T i o n
 aceleración	 a T e l e r a T i o n 
 acelerado	 a T e l e r a d o 
 acelerar	 a T e l e r a r 
@@ -122,6 +124,7 @@ adelantado	 a d e l a n t a d o
 adelantar	 a d e l a n t a r 
 adelante	 a d e l a n t e 
 adelanto	 a d e l a n t o 
+ademas	a d e m a s
 además	 a d e m a s 
 adicional	 a d i T i o n a l 
 adicionales	 a d i T i o n a l e s 
@@ -172,6 +175,7 @@ aguilera	 a g i l e r a
 aguillo	 a g i y o 
 agujeros	 a g u x e r o s 
 ah	 a 
+ahi	a i
 ahí	 a i 
 ahora	 a o r a 
 ahorrar	 a o R a r 
@@ -212,6 +216,7 @@ algoritmo	 a l g o r i t m o
 algoritmos	 a l g o r i t m o s 
 alguien	 a l g i e n 
 alguna	 a l g u n a 
+algun	a l g u n
 algún	 a l g u n 
 algunas	 a l g u n a s 
 alguno	 a l g u n o 
@@ -225,7 +230,9 @@ alimentarlos	 a l i m e n t a r l o s
 alimentas	 a l i m e n t a s 
 alimentos	 a l i m e n t o s 
 alimón	 a l i m o n 
+alla	a y a
 allá	 a y a 
+alli	a y i
 allí	 a y i 
 alltheweb	o l d e g u e b
 alma	 a l m a 
@@ -236,6 +243,7 @@ almacenan	 a l m a T e n a n
 almacenar	 a l m a T e n a r 
 almacenarlas	 a l m a T e n a r l a s 
 almacenes	 a l m a T e n e s 
+alo	a l o
 aló	 a l o 
 alquimista	 a l k i m i s t a 
 alrededor	 a l R e d e d o r 
@@ -312,12 +320,14 @@ animo	 a n i m o
 año	 a N o 
 anonimizarla	 a n o n i m i T a r l a 
 años	 a N o s 
+anotacion	a n o t a T i o n
 anotación	 a n o t a T i o n 
 anotaciones	 a n o t a T i o n e s 
 anotada	 a n o t a d a 
 anotadas	 a n o t a d a s 
 anotados	 a n o t a d o s 
 anotan	 a n o t a n 
+anotation	a n o t e i C o n
 anoto	 a n o t o 
 anselmo	 a n s e l m o 
 answer	a n s u e r
@@ -336,6 +346,7 @@ anticuado	 a n t i k u a d o
 antiguamente	 a n t i g u a m e n t e 
 antiguo	 a n t i g u o 
 antispam	 a n t i e s p a m 
+antologia	a n t o l o x i a
 antología	 a n t o l o x i a 
 antonio	 a n t o n i o 
 anual	 a n u a l 
@@ -349,6 +360,7 @@ aparecen	 a p a r e T e n
 aparecerán	 a p a r e T e r a n 
 aparecer	 a p a r e T e r 
 aparecía	 a p a r e T i a 
+aparecian	a p a r e T i a n
 aparecían	 a p a r e T i a n 
 aparecido	 a p a r e T i d o 
 apareciendo	 a p a r e T i e n d o 
@@ -428,10 +440,13 @@ aquella	 a k e y a
 aquellas	 a k e y a s 
 aquello	 a k e y o 
 aquellos	 a k e y o s 
+aqui	a k i
 aquí	 a k i 
 arafat	 a r a f a t 
 arancha	 a r a n C a 
+arbol	a r b o l
 árbol	 a r b o l 
+arboles	a r b o l e s
 árboles	 a r b o l e s 
 arbusto	 a r b u s t o 
 archivo	 a r C i b o 
@@ -454,6 +469,7 @@ arriba	 a R i b a
 arriesgadas	 a R i e s g a d a s 
 arriesgan	 a R i e s g a n 
 ars	a e R e e T e
+art	a r t
 arte	 a r t e 
 articulo	a r t i k u l o	
 artículo	 a r t i k u l o 
@@ -470,6 +486,7 @@ asesoraba	 a s e s o r a b a
 asesor	 a s e s o r 
 asesores	 a s e s o r e s 
 asia	 a s i a 
+asi	a s i
 así	 a s i 
 asiática	 a s i a t i k a 
 asiáticas	 a s i a t i k a s 
@@ -498,6 +515,7 @@ asumiendo	 a s u m i e n d o
 asumir	 a s u m i r 
 asumo	 a s u m o 
 asunto	 a s u n t o 
+atencion	a t e n T i o n
 atención	 a t e n T i o n 
 atendemos	 a t e n d e m o s 
 atender	 a t e n d e r 
@@ -514,6 +532,7 @@ atractivo	 a t r a k t i b o
 atraer	 a t r a e r 
 atrapado	 a t r a p a d o 
 atrasado	 a t r a s a d o 
+atras	a t r a s
 atrás	 a t r a s 
 atravesarlo	 a t r a b e s a r l o 
 atraviesa	 a t r a b i e s a 
@@ -527,6 +546,7 @@ audio	 a u d i o
 auge	 a u x e 
 aulas	 a u l a s 
 aumenta	 a u m e n t a 
+aumentabamos	a u m e n t a b a m o s
 aumentábamos	 a u m e n t a b a m o s 
 aumentamos	 a u m e n t a m o s 
 aumentar	 a u m e n t a r 
@@ -545,9 +565,12 @@ autoemplearnos	 a u t o e m p l e a r n o s
 autoempleo	 a u t o e m p l e o 
 autofinancia	 a u t o f i n a n T i a 
 autofinanciamos	 a u t o f i n a n T i a m o s 
+automatica	a u t o m a t i k a
 automática	 a u t o m a t i k a 
+automaticamente	a u t o m a t i k a m e n t e
 automáticamente	 a u t o m a t i k a m e n t e 
 automáticas	 a u t o m a t i k a s 
+automatico	a u t o m a t i k o
 automático	 a u t o m a t i k o 
 automaticstrans	 a u t o m a t i k s t r a n s 
 automatizase	 a u t o m a t i T a s e 
@@ -591,6 +614,7 @@ azul	 a T u l
 backup	 b a k a p 
 baeza	 b a e T a 
 bag	b a x
+bagging	b a g i n
 bah	 b a 
 baja	 b a x a 
 bajada	 b a x a d a 
@@ -613,12 +637,16 @@ basa	 b a s a
 basada	 b a s a d a 
 basado	 b a s a d o 
 basándonos	 b a s a n d o n o s 
+basandose	b a s a n d o s e
 basándose	 b a s a n d o s e 
 basar	 b a s a r 
 base	 b a s e 
+based	b e i s d
 baseline	b a T e l i n
 bases	 b a s e s 
 básica	 b a s i k a 
+basical	b e i s i k a l
+basicamente	b a s i k a m e n t e
 básicamente	 b a s i k a m e n t e 
 básicas	 b a s i k a s 
 básico	 b a s i k o 
@@ -645,6 +673,7 @@ berga	 b e r g a
 berkeley	 b e ? k l e i 
 berrilan	 b e R i l a n 
 bestial	 b e s t i a l 
+beyond	b i y o n d
 bibliografía	 b i b l i o g r a f i a 
 bibliográfica	 b i b l i o g r a f i k a 
 bibliometría	 b i b l i o m e t r i a 
@@ -681,6 +710,7 @@ bomba	 b o m b a
 bonita	 b o n i t a 
 bonitas	 b o n i t a s 
 bonito	 b o n i t o 
+book	b u k
 booleana	 b o o l e a n a 
 booleanas	 b o o l e a n a s 
 booleano	 b o o l e a n o 
@@ -693,6 +723,7 @@ borrar	 b o R a r
 borroso	 b o R o s o 
 bosque	 b o s k e 
 bosquejo	 b o s k e x o 
+botabamos	b o t a b a m o s
 botábamos	 b o t a b a m o s 
 botamos	 b o t a m o s 
 botar	 b o t a r 
@@ -717,12 +748,14 @@ buenísima	 b u e n i s i m a
 bueno	 b u e n o 
 buenos	 b u e n o s 
 buf	 b u f 
+building	b i l d i n g
 built	b i l t
 bullición	 b u y i T i o n 
 bulto	 b u l t o 
 burbuja	 b u r b u x a 
 bursátil	 b u r s a t i l 
 buscaba	 b u s k a b a 
+buscabamos	b u s k a b a m o s
 buscábamos	 b u s k a b a m o s 
 buscaban	 b u s k a b a n 
 busca	 b u s k a 
@@ -735,6 +768,7 @@ buscan	 b u s k a n
 buscando	 b u s k a n d o 
 buscara	 b u s k a r a 
 buscar	 b u s k a r 
+buscare		b u s k a r e
 buscaré	 b u s k a r e 
 buscaría	 b u s k a r i a 
 buscarse	 b u s k a r s e 
@@ -743,6 +777,7 @@ buscas	 b u s k a s
 busco	 b u s k o 
 buscó	 b u s k o 
 busque	 b u s k e 
+busqueda	b u s k e d a
 búsqueda	 b u s k e d a 
 búsquedas	 b u s k e d a s 
 busquen	 b u s k e n 
@@ -755,6 +790,7 @@ cabría	 k a b r i a
 cada	 k a d a 
 cadena	 k a d e n a 
 cadenas	 k a d e n a s 
+cafe	k a f e
 café	 k a f e 
 caixa	 k a i s a 
 caja	 k a x a 
@@ -763,7 +799,9 @@ calculado	 k a l k u l a d o
 calcula	 k a l k u l a 
 calculan	 k a l k u l a n 
 calcular	 k a l k u l a r 
+calculo	k a l k u l o
 cálculo	 k a l k u l o 
+calculos	k a l k u l o s
 cálculos	 k a l k u l o s 
 calibre	 k a l i b r e 
 calidad	 k a l i d a d 
@@ -772,6 +810,7 @@ callcenter	c o l c e n t e r
 callcenters	c o l c e n t e r s
 calle	 k a y e 
 calles	 k a y e s 
+camara	k a m a r a
 cámara	 k a m a r a 
 camareros	 k a m a r e r o s 
 cambiaba	 k a m b i a b a 
@@ -819,6 +858,7 @@ captura	 k a p t u r a
 capturan	 k a p t u r a n 
 capturar	 k a p t u r a r 
 caracteres	 k a r a k t e r e s 
+caracteristica	k a r a k t e r i s t i k a
 característica	 k a r a k t e r i s t i k a 
 características	 k a r a k t e r i s t i k a s 
 carácter	 k a r a k t e r 
@@ -828,6 +868,7 @@ cardiacas	 k a r d i a k a s
 carencias	 k a r e n T i a s 
 cargar	 k a r g a r 
 cargas	 k a r g a s 
+car	k a r
 carlos	 k a r l o s 
 carrera	 k a R e r a 
 carreteras	 k a R e t e r a s 
@@ -874,6 +915,7 @@ categorización	 k a t e g o r i T a T i o n
 categoriza	 k a t e g o r i T a 
 categorizar	 k a t e g o r i T a r 
 categorizarla	 k a t e g o r i T a r l a 
+catherine	c a T e r i n
 cat	 k a t 
 catorce	 k a t o r T e 
 causa	 k a u s a 
@@ -908,6 +950,7 @@ cercanía	 T e r k a n i a
 cercanos	 T e r k a n o s 
 cerca	 T e r k a 
 cero	 T e r o 
+cerrabamos	T e R a b a m o s
 cerrábamos	 T e R a b a m o s 
 cerrada	 T e R a d a 
 cerrados	 T e R a d o s 
@@ -941,6 +984,7 @@ cielo	 T i e l o
 ciencias	 T i e n T i a s 
 ciencia	 T i e n T i a 
 cien	 T i e n 
+cientifica	T i e n t i f i k a
 científica	 T i e n t i f i k a 
 científicos	 T i e n t i f i k o s 
 científico	 T i e n t i f i k o 
@@ -975,19 +1019,26 @@ claro	 k l a r o
 claros	 k l a r o s 
 clase	 k l a s e 
 clases	 k l a s e s 
+clasica	k l a s i k a
 clásica	 k l a s i k a 
+clasico	k l a s i k o
 clásico	 k l a s i k o 
 clasificaciones	 k l a s i f i k a T i o n e s 
+clasificacion	k l a s i f i k a T i o n
 clasificación	 k l a s i f i k a T i o n 
 clasificadas	 k l a s i f i k a d a s 
 clasificadores	 k l a s i f i k a d o r e s 
+clasificadores	k l a s i f i k a d o r e s
 clasificador	 k l a s i f i k a d o r 
+clasificador	k l a s i f i k a d o r
 clasificados	 k l a s i f i k a d o s 
 clasifica	 k l a s i f i k a 
 clasificamos	 k l a s i f i k a m o s 
 clasifican	 k l a s i f i k a n 
 clasificar	 k l a s i f i k a r 
 clasificarlas	 k l a s i f i k a r l a s 
+classic	k l a s i k
+classifier	k l a s i f a i e r
 clavada	 k l a b a d a 
 clave	 k l a b e 
 claves	 k l a b e s 
@@ -1011,6 +1062,7 @@ cobrarla	 k o b r a r l a
 cobrarlo	 k o b r a r l o 
 cobras	 k o b r a s 
 coca cola	 k o k a k o l a 
+cocacola	k o k a k o l a
 coca	 k o k a 
 coche	 k o C e 
 coches	 k o C e s 
@@ -1056,6 +1108,7 @@ colombia	 k o l o m b i a
 colón	 k o l o n 
 coloquial	 k o l o k i a l 
 colores	 k o l o r e s 
+colores	k o l o r e s
 colorines	 k o l o r i n e s 
 color	 k o l o r 
 columna	 k o l u m n a 
@@ -1089,6 +1142,7 @@ comenzaré	 k o m e n T a r e
 comenzar	 k o m e n T a r 
 comenzó	 k o m e n T o 
 comerciales	 k o m e r T i a l e s 
+comerciales	k o m e r T i a l e s
 comercialización	 k o m e r T i a l i T a T i o n 
 comercial	 k o m e r T i a l 
 comercio	 k o m e r T i o 
@@ -1101,15 +1155,18 @@ comillas	 k o m i y a s
 comisión	 k o m i s i o n 
 comités	 k o m i t e s 
 com	 k o m 
+com	k o m
 cómodo	 k o m o d o 
 como	 k o m o 
 cómo	 k o m o 
 compañero	 k o m p a N e r o 
 compañeros	 k o m p a N e r o s 
 compañía	 k o m p a N i a 
+compañias	k o m p a N i a
 compañías	 k o m p a N i a s 
 comparables	 k o m p a r a b l e s 
 comparaciones	 k o m p a r a T i o n e s 
+comparacion	k o m p a r a T i o n
 comparación	 k o m p a r a T i o n 
 comparado	 k o m p a r a d o 
 comparais	k o m p a r a i s
@@ -1129,6 +1186,7 @@ compartir	 k o m p a r t i r
 compartís	 k o m p a r t i s 
 competencia	 k o m p e t e n T i a 
 competiciones	 k o m p e t i T i o n e s 
+competicion	k o m p e t i T i o n
 competición	 k o m p e t i T i o n 
 competidores	 k o m p e t i d o r e s 
 competir	 k o m p e t i r 
@@ -1156,6 +1214,7 @@ completas	 k o m p l e t a s
 completo	 k o m p l e t o 
 complicada	 k o m p l i k a d a 
 complicado	 k o m p l i k a d o 
+complicado	k o m p l i k a d o
 complica	 k o m p l i k a 
 complicar	 k o m p l i k a r 
 complutense	 k o m p l u t e n s e 
@@ -1178,6 +1237,7 @@ comprendan	 k o m p r e n d a n
 comprender	 k o m p r e n d e r 
 compren	 k o m p r e n 
 comprensión	 k o m p r e n s i o n 
+comprimiendose	k o m p r i m i e n d o s e
 comprimiéndose	 k o m p r i m i e n d o s e 
 comprobado	 k o m p r o b a d o 
 comprobamos	 k o m p r o b a m o s 
@@ -1208,6 +1268,7 @@ concienciarnos	 k o n T i e n T i a r n o s
 conciso	 k o n T i s o 
 concluir	 k o n k l u i r 
 conclusiones	 k o n k l u s i o n e s 
+conclusion	k o n k l u s i o n
 conclusión	 k o n k l u s i o n 
 concreta	 k o n k r e t a 
 concretas	 k o n k r e t a s 
@@ -1241,6 +1302,7 @@ congreso	 k o n g r e s o
 congresos	 k o n g r e s o s 
 conjunto	 k o n x u n t o 
 con	 k o n 
+con	k o n
 conocéis	 k o n o T e i s 
 conoce	 k o n o T e 
 conocemos	 k o n o T e m o s 
@@ -1349,6 +1411,7 @@ continua	 k o n t i n u a
 continuamente	 k o n t i n u a m e n t e 
 continuar	 k o n t i n u a r 
 continuidad	 k o n t i n u i d a d 
+conto	k o n t o
 contó	 k o n t o 
 contradicción	 k o n t r a d i k T i o n 
 contradictorio	 k o n t r a d i k t o r i o 
@@ -1373,6 +1436,7 @@ controlar	 k o n t r o l a r
 control	 k o n t r o l 
 convencido	 k o m b e n T i d o 
 convencidos	 k o m b e n T i d o s 
+convenci	k o m b e n T i
 convencí	 k o m b e n T i 
 convencional	 k o m b e n T i o n a l 
 convendría	 k o m b e n d r i a 
@@ -1422,6 +1486,7 @@ corresponda	 k o R e s p o n d a
 corresponde	 k o R e s p o n d e 
 corresponden	 k o R e s p o n d e n 
 corresponderá	 k o R e s p o n d e r a 
+correspondian	k o R e s p o n d i a n
 correspondían	 k o R e s p o n d i a n 
 correspondiente	 k o R e s p o n d i e n t e 
 corroborar	 k o R o b o r a r 
@@ -1498,6 +1563,7 @@ cuadro	 k u a d r o
 cuadros	 k u a d r o s 
 cua	k u a
 cuales	 k u a l e s 
+cuales	k u a l e s
 cuáles	 k u a l e s 
 cualidades	 k u a l i d a d e s 
 cualitativamente	 k u a l i t a t i b a m e n t e 
@@ -1522,6 +1588,7 @@ cuarenta	 k u a r e n t a
 cuarta	 k u a r t a 
 cuarto	 k u a r t o 
 cuatrocientos	 k u a t r o T i e n t o s 
+cuatrocientos	k u a t r o T i e n t o s
 cuatro	 k u a t r o 
 cuberto	 k u b e r t o 
 cubierto	 k u b i e r t o 
@@ -1601,6 +1668,7 @@ data	d e i t a
 dataset	d a t a s e t
 dato	 d a t o 
 datos	 d a t o s 
+day	d e i
 d	 d e
 dea	 d e a 
 debajo	 d e b a x o 
@@ -1611,14 +1679,19 @@ debemos	 d e b e m o s
 deben	 d e b e n 
 deberá	 d e b e r a 
 deberes	 d e b e r e s 
+deberia	d e b e r i a
 debería	 d e b e r i a 
+deberiamos	d e b e r i a m o s
 deberíamos	 d e b e r i a m o s 
+deberian	d e b e r i a n
 deberían	 d e b e r i a n 
 debido	 d e b i d o 
 década	 d e k a d a 
 decentemente	 d e T e n t e m e n t e 
 decentes	 d e T e n t e s 
+decia	d e T i a
 decía	 d e T i a 
+deciamos	d e T i a m o s
 decíamos	 d e T i a m o s 
 decían	 d e T i a n 
 decías	 d e T i a s 
@@ -1646,6 +1719,7 @@ decisión	 d e T i s i o n
 decisiones	 d e T i s i o n e s 
 declara	 d e k l a r a 
 de	 d e 
+de	d e
 dé	 d e 
 dedicaarsela	d e d i c a r s e l a	
 dedicaban	 d e d i k a b a n 
@@ -1684,6 +1758,7 @@ definir	 d e f i n i r
 definiré	 d e f i n i r e 
 definirlo	 d e f i n i r l o 
 definiros	 d e f i n i r o s 
+deformacion	d e f o r m a T i o n
 deformación	 d e f o r m a T i o n 
 deforma	 d e f o r m a 
 deformar	 d e f o r m a r 
@@ -1691,14 +1766,17 @@ deis	 d e i s
 dejaba	 d e x a b a 
 deja	 d e x a 
 dejado	 d e x a d o 
+dejame	d e x a m e
 déjame	 d e x a m e 
 dejan	 d e x a n 
 dejando	 d e x a n d o 
 dejar	 d e x a r 
 dejaron	 d e x a r o n 
+deje	d e x e
 dejé	 d e x e 
 dejo	 d e x o 
 delante	 d e l a n t e 
+delante	d e l a n t e
 del	 d e l 
 deletree	 d e l e t r e e 
 deletréeme	 d e l e t r e e m e 
@@ -1707,6 +1785,7 @@ delimitadores	 d e l i m i t a d o r e s
 delimitar	 d e l i m i t a r 
 demanda	 d e m a n d a 
 demandado	 d e m a n d a d o 
+demas	d e m a s
 demás	 d e m a s 
 demasiadas	 d e m a s i a d a s 
 demasiado	 d e m a s i a d o 
@@ -1714,6 +1793,7 @@ demo	 d e m o
 demografía	 d e m o g r a f i a 
 demográfica	 d e m o g r a f i k a 
 demonios	 d e m o n i o s 
+demostracion	d e m o s t r a T i o n
 demostración	 d e m o s t r a T i o n 
 demostrado	 d e m o s t r a d o 
 demostrándose	 d e m o s t r a n d o s e 
@@ -1745,6 +1825,7 @@ derecho	 d e r e C o
 derechos	 d e r e C o s 
 derivados	 d e r i b a d o s 
 derroteros	 d e R o t e r o s 
+desafio	d e s a f i o
 desafío	 d e s a f i o 
 desafortunadamente	 d e s a f o r t u n a d a m e n t e 
 desagregar	 d e s a g r e g a r 
@@ -1787,9 +1868,11 @@ describe	 d e s k r i b e
 describen	 d e s k r i b e n 
 describir	 d e s k r i b i r 
 describiros	 d e s k r i b i r o s 
+descripcion	d e s c r i p T i o n
 descripción	 d e s k r i p T i o n 
 descripciones	 d e s k r i p T i o n e s 
 descriptivos	 d e s k r i p t i b o s 
+descripto	d e s c r i p t o
 descriptó	 d e s k r i p t o 
 descriptor	 d e s k r i p t o r 
 descrito	 d e s k r i t o 
@@ -1826,6 +1909,7 @@ despliegue	 d e s p l i e g e
 desprecia	 d e s p r e T i a 
 despreciar	 d e s p r e T i a r 
 desprender	 d e s p r e n d e r 
+despues	d e s p u e s
 después	 d e s p u e s 
 destacar	 d e s t a k a r 
 destiempo	 d e s t i e m p o 
@@ -1837,6 +1921,7 @@ detallados	 d e t a y a d o s
 detallar	 d e t a y a r 
 detalle	 d e t a y e 
 detalles	 d e t a y e s 
+deteccion	d e t e k T i o n
 detección	 d e t e k T i o n 
 detectada	 d e t e k t a d a 
 detecta	 d e t e k t a 
@@ -1846,6 +1931,7 @@ detectando	 d e t e k t a n d o
 detectar	 d e t e k t a r 
 detecte	 d e t e k t e 
 detectó	 d e t e k t o 
+detecto	d t e k t o
 detector	 d e t e k t o r 
 detectores	 d e t e k t o r e s 
 determinada	 d e t e r m i n a d a 
@@ -1862,6 +1948,7 @@ devuelto	 d e b u e l t o
 devuelva	 d e b u e l b a 
 devuelve	 d e b u e l b e 
 devuelven	 d e b u e l b e n 
+dia	d i a
 día	 d i a 
 diagnóstico	 d i a g n o s t i k o 
 diagnósticos	 d i a g n o s t i k o s 
@@ -1876,6 +1963,7 @@ diapositivas	 d i a p o s i t i b a s
 diaria	 d i a r i a 
 diariamente	 d i a r i a m e n t e 
 diario	 a d i a r i o 
+dias	d i a s
 días	 d i a s 
 díaz	 d i a T 
 dibujada	 d i b u x a d a 
@@ -1896,6 +1984,7 @@ dichos	 d i C o s
 diciendo	 d i T i e n d o 
 di	 d i 
 dieciocho	 d i e T i o C o 
+dieciseis	d i e T i s e i s
 dieciséis	 d i e T i s e i s 
 diecisiete	 d i e T i s i e t e 
 diera	 d i e r a 
@@ -1910,7 +1999,9 @@ diferenciarse	 d i f e r e n T i a r s e
 diferencias	 d i f e r e n T i a s 
 diferente	 d i f e r e n t e 
 diferentes	 d i f e r e n t e s 
+dificil	d i f i T i l
 difícil	 d i f i T i l 
+dificiles	d i f i T i l e s
 difíciles	 d i f i T i l e s 
 dificualtad	 d i f i k u a l t a d 
 dificultad	 d i f i k u l t a d 
@@ -1923,6 +2014,7 @@ diga	 d i g a
 digáis	 d i g a i s 
 digamos	 d i g a m o s 
 digan	 d i g a n 
+diganme	d i g a n m e
 díganme	 d i g a n m e 
 digas	 d i g a s 
 digital	 d i x i t a l 
@@ -1940,6 +2032,7 @@ dile	 d i l e
 dimensionados	 d i m e n s i o n a d o s 
 dimensionalidad	 d i m e n s i o n a l i d a d 
 dimensionar	 d i m e n s i o n a r 
+dimension	d i m e n s i o n
 dimensión	 d i m e n s i o n 
 dimensiones	 d i m e n s i o n e s 
 dimos	 d i m o s 
@@ -1981,6 +2074,7 @@ discos	 d i s k o s
 discriminantes	 d i s k r i m i n a n t e s 
 disculpadme	 d i s k u l p a d m e 
 disculpas	 d i s k u l p a s 
+discusion	d i s k u s i o n
 discusión	 d i s k u s i o n 
 discusiones	 d i s k u s i o n e s 
 discute	 d i s k u t e 
@@ -2041,6 +2135,7 @@ doctoral	 d o k t o r a l
 doctorales	 d o k t o r a l e s 
 doctor	 d o k t o r 
 doctores	 d o k t o r e s 
+documentacion	d o k u m e n t a T i o n
 documentación	 d o k u m e n t a T i o n 
 documentados	 d o k u m e n t a d o s 
 documental	 d o k u m e n t a l 
@@ -2059,6 +2154,7 @@ dormido	 d o r m i d o
 doscientas	 d o s T i e n t a s 
 doscientos	 d o s T i e n t o s 
 dos	 d o s 
+dos	d o s
 dotan	 d o t a n 
 doy	 d o i 
 dramática	 d r a m a t i k a 
@@ -2115,6 +2211,7 @@ ejemplares	 e x e m p l a r e s
 ejemplar	 e x e m p l a r 
 ejemplo	 e x e m p l o 
 ejemplos	 e x e m p l o s 
+ejercito	e x e r T i t o
 ejército	 e x e r T i t o 
 ejes	 e x e s 
 ejmeplo	e x e m p l o
@@ -2132,6 +2229,7 @@ elegimos	 e l e x i m o s
 elegir	 e l e x i r 
 eleka	 e l e k a 
 el	 e l 
+el	e l
 él	 e l 
 elemento	 e l e m e n t o 
 elementos	 e l e m e n t o s 
@@ -2241,6 +2339,7 @@ endtime	e n d t a i m
 ene	 e n e 
 enemigo	 e n e m i g o 
 en	 e n 
+en	e n
 energía	 e n e r x i a 
 enero	 e n e r o 
 énfasis	 e n f a s i s 
@@ -2338,6 +2437,7 @@ envía	 e m b i a
 enviamos	 e n b i a m o s 
 envuelto	 e m b u e l t o 
 eon	 e o n 
+epfl	e p e e f e e l e
 epidemiológicos	 e p i d e m i o l o x i k o s 
 época	 e p o k a 
 épocas	 e p o k a s 
@@ -2354,6 +2454,7 @@ equivocarme	 e k i b o k a r m e
 equivocarse	 e k i b o k a r s e 
 equivoco	 e k i b o k o 
 era	 e r a 
+eramos	e r a m o s
 éramos	 e r a m o s 
 eran	 e r a n 
 erasmus	 e r a s m u s 
@@ -2407,6 +2508,7 @@ ese	 e s e
 esencial	 e s e n T i a l 
 esenciales	 e s e n T i a l e s 
 es	 e s 
+es	e s
 esforcemos	 e s f o r T e m o s 
 esfuerzo	 e s f u e r T o 
 eso	 e s o 
@@ -2432,6 +2534,7 @@ especializados	 e s p e T i a l i T a d o s
 especializar	 e s p e T i a l i T a r 
 especialmente	 e s p e T i a l m e n t e 
 especie	 e s p e T i e 
+especifica	e s p e T i f i k a
 específica	 e s p e T i f i k a 
 específicamente	 e s p e T i f i k a m e n t e 
 específicas	 e s p e T i f i k a s 
@@ -2471,6 +2574,7 @@ estado	 e s t a d o
 estados	 e s t a d o s 
 estadounidenses	 e s t a d o u n i d e n s e s 
 esta	 e s t a 
+esta	e s t a
 ésta	 e s t a 
 está	 e s t a 
 estáis	 e s t a i s 
@@ -2483,6 +2587,7 @@ estándares	 e s t a n d a r e s
 estándar	 e s t a n d a r 
 estandarización	 e s t a n d a r i T a T i o n 
 estando	 e s t a n d o 
+estan	e s t a n
 están	 e s t a n 
 estará	 e s t a r a 
 estarán	 e s t a r a n 
@@ -2552,6 +2657,7 @@ estuvimos	 e s t u b i m o s
 estuvo	 e s t u b o 
 etapa	 e t a p a 
 etapas	 e t a p a s 
+etcetera	e t T e t e r a
 etcétera	 e t T e t e r a 
 etiquetado	 e t i k e t a d o 
 etiquetas	 e t i k e t a s 
@@ -2633,6 +2739,7 @@ explicároslo	 e k s p l i k a r o s l o
 explicarte	 e k s p l i k a r t e 
 explicativo	 e k s p l i k a t i b o 
 explico	 e k s p l i k o 
+explique	e k s p l i k e
 expliqué	 e k s p l i k e 
 explora	 e k s p l o r a 
 exploramos	 e k s p l o r a m o s 
@@ -2679,6 +2786,7 @@ fab	f a b
 fabricantes	 f a b r i k a n t e s 
 fabuloso	 f a b u l o s o 
 fáciles	 f a T i l e s 
+facil	f a T i l
 fácil	 f a T i l 
 facilidades	 f a T i l i d a d e s 
 facilidad	 f a T i l i d a d 
@@ -2721,6 +2829,7 @@ fantástico	 f a n t a s t i k o
 fascinado	 f a s T i n a d o 
 fase	 f a s e 
 fases	 f a s e s 
+fast	f a s t
 fastidiaba	 f a s t i d i a b a 
 fastidiado	 f a s t i d i a d o 
 fastidiar	 f a s t i d i a r 
@@ -2732,6 +2841,7 @@ favor	 f a b o r
 favorita	 f a b o r i t a 
 favoritos	 f a b o r i t o s 
 feature	f i C u r
+features	f i C u r s
 fecha	 f e C a 
 fechas	 f e C a s 
 feedback	 f i d b a k 
@@ -2754,6 +2864,7 @@ fiel	 f i e l
 figura	 f i g u r a 
 figuran	 f i g u r a n 
 fijado	 f i x a d o 
+fijado	f i x a d o
 fija	 f i x a 
 fijáis	 f i x a i s 
 fijamos	 f i x a m o s 
@@ -2766,6 +2877,7 @@ fijarnos	 f i x a r n o s
 fijarse	 f i x a r s e 
 fijas	 f i x a s 
 fijen	 f i x e n 
+fijense	f i x e n s e
 fíjense	 f i x e n s e 
 fijo	 f i x o 
 filetype	f a i l t a i p
@@ -2792,6 +2904,7 @@ financieras	 f i n a n T i e r a s
 financiero	 f i n a n T i e r o 
 fines	 f i n e s 
 fin	 f i n 
+fin	f i n
 fino	 f i n o 
 firma	 f i r m a 
 firme	 f i r m e 
@@ -2804,7 +2917,9 @@ flebitis	 f l e b i t i s
 flicker	f l i k e r
 flickr	 f l i k e r 
 flores	 f l o r e s 
+flores	f l o r e s
 flor	 f l o r 
+flower	f l a u e r
 flujo	 f l u x o 
 foca	 f o k a 
 focalizadas	 f o k a l i T a d a s 
@@ -2840,6 +2955,7 @@ fortaleza	 f o r t a l e T a
 fortune	 f o r t u n 
 forum	 f o r u m 
 foto	 f o t o 
+fotografia	f o t o g r a f i a
 fotografía	 f o t o g r a f i a 
 fotografías	 f o t o g r a f i a s 
 fotos	 f o t o s 
@@ -2884,21 +3000,25 @@ fuimos	 f u i m o s
 fulanito	 f u l a n i t o 
 fulano	 f u l a n o 
 fulgurante	 f u l g u r a n t e 
+full	f u l
 fullmetal	f u l m e t a l
 funcionaba	 f u n T i o n a b a 
 funcionaban	 f u n T i o n a b a n 
+funcionaban	f u n T i o n a b a n
 funciona	 f u n T i o n a 
 funcionalidades	 f u n T i o n a l i d a d e s 
 funcionalidad	 f u n T i o n a l i d a d 
 funcionamiento	 f u n T i o n a m i e n t o 
 funcionamos	 f u n T i o n a m o s 
 funcionando	 f u n T i o n a n d o 
+funcionando	f u n T i o n a n d o
 funcionan	 f u n T i o n a n 
 funcionará	 f u n T i o n a r a 
 funcionaran	 f u n T i o n a r a n 
 funcionar	 f u n T i o n a r 
 funcionario	 f u n T i o n a r i o 
 funcione	 f u n T i o n e 
+funciono	f u n T i o n o
 funcionó	 f u n T i o n o 
 fundaciones	 f u n d a T i o n e s 
 fundación	 f u n d a T i o n 
@@ -2915,6 +3035,7 @@ futuras	 f u t u r a s
 futuristas	 f u t u r i s t a s 
 futuro	 f u t u r o 
 galaxia	 g a l a k s i a 
+galery	g a l e r i
 gales	 g a l e s 
 galicia	 g a l i T i a 
 gallego	 g a y e g o 
@@ -2951,11 +3072,13 @@ generados	 x e n e r a d o s
 generado	 x e n e r a d o 
 generales	 x e n e r a l e s 
 generalitat	 x e n e r a l i t a t 
+generalizacion	x e n e r a l i T a T i o n 
 generalización	 x e n e r a l i T a T i o n 
 generalizamos	 x e n e r a l i T a m o s 
 generalizar	 x e n e r a l i T a r 
 generalmente	 x e n e r a l m e n t e 
 general	 x e n e r a l 
+general	x e n e r a l
 generamos	 x e n e r a m o s 
 generando	 x e n e r a n d o 
 generan	 x e n e r a n 
@@ -3001,7 +3124,10 @@ gómez	 g o m e T
 google	 g u g e l 
 gordas	 g o r d a s 
 gordo	 g o r d o 
+goverment	g o b e r m e n t
 gozamos	 g o T a m o s 
+gphone	y i f o n
+gps	x e p e e s e
 grábame	 g r a b a m e 
 grabando	 g r a b a n d o 
 grabar	 g r a b a r 
@@ -3009,6 +3135,7 @@ gracia	 g r a T i a
 gracias	 g r a T i a s 
 grado	 g r a d o 
 gráfica	 g r a f i k a 
+grafico	g r a f i c o
 gráfico	 g r a f i k o 
 grama	 g r a m a 
 gramaticales	 g r a m a t i k a l e s 
@@ -3018,7 +3145,9 @@ grande	 g r a n d e
 grandes	 g r a n d e s 
 grandillas	 g r a n d i y a s 
 gran	 g r a n 
+gran	g r a n
 grano	 g r a n o 
+grass	g r a s
 gratuita	 g r a t u i t a 
 gratuito	 g r a t u i t o 
 grave	 g r a b e 
@@ -3049,8 +3178,11 @@ haber	 a b e r
 haberla	 a b e r l a 
 haberlo	 a b e r l o 
 habernos	 a b e r n o s 
+habia	a b i a
 había	 a b i a 
+habiamos	a b i a m o s
 habíamos	 a b i a m o s 
+habian	a b i a n
 habían	 a b i a n 
 habido	 a b i d o 
 habiendo	 a b i e n d o 
@@ -3083,8 +3215,11 @@ hablemos	 a b l e m o s
 hablen	 a b l e n 
 hablo	 a b l o 
 habló	 a b l o 
+habra	a b r a
 habrá	 a b r a 
+habran	a b r a n
 habrán	 a b r a n 
+habria	a b r i a
 habría	 a b r i a 
 hace	 a T e 
 hacemos	 a T e m o s 
@@ -3098,6 +3233,7 @@ haces	 a T e s
 hacia	 a T i a 
 hacía	 a T i a 
 hacíais	 a T i a i s 
+haciamos	a T i a m o s
 hacíamos	 a T i a m o s 
 hacían	 a T i a n 
 hacías	 a T i a s 
@@ -3131,6 +3267,7 @@ haz	 a T
 hecha	 e C a 
 hechas	 e C a s 
 hecho	 e C o 
+hecho	e C o
 hechos	 e C o s 
 he	 e 
 hemos	 e m o s 
@@ -3139,6 +3276,7 @@ heroico	 e r o i k o
 herramienta	 e R a m i e n t a 
 herramientas	 e R a m i e n t a s 
 heterogéneos	 e t e r o x e n e o s 
+heuristica	e u r i s t i k a
 heurística	 e u r i s t i k a 
 hice	 i T e 
 hiciera	 i T i e r a 
@@ -3155,6 +3293,7 @@ hindúes	 i n d u e s
 hipertextuales	 i p e r t e k s t u a l e s 
 hipertextual	 i p e r t e k s t u a l 
 hipervínculos	 i p e r b i n k u l o s 
+hipotesis	i p o t e s i s
 hipótesis	 i p o t e s i s 
 hispana	 i s p a n a 
 hispánica	 i s p a n i k a 
@@ -3195,6 +3334,7 @@ hospital	 o s p i t a l
 hostilidad	 o s t i l i d a d 
 hoteles	 o t e l e s 
 hoy	 o i 
+hp	a C e p e
 hpux	a C e p u k s
 html	a C e t e e m e e l e
 http	a C e t e t e p e
@@ -3203,6 +3343,7 @@ hubiéramos	 u b i e r a m o s
 hubieran	 u b i e r a n 
 hubiera	 u b i e r a 
 hubiesen	 u b i e s e n 
+hubiesen	u b i e s e n
 hubiese	 u b i e s e 
 hubo	 u b o 
 hueco	 u e k o 
@@ -3213,9 +3354,11 @@ humanísticos	 u m a n i s t i k o s
 humanos	 u m a n o s 
 humano	 u m a n o 
 hundirá	 u n d i r a 
+hungaros	u n g a r o s
 húngaros	 u n g a r o s 
 huy	 u i 
 iba	 i b a 
+ibamos	i b a m o s
 íbamos	 i b a m o s 
 ibérica	 i b e r i k a 
 iberoamericanas	 i b e r o a m e r i k a n a s 
@@ -3253,10 +3396,12 @@ i	 i
 iii	i i i
 ikea	 i k e a 
 ilegal	 i l e g a l 
+iluminacion	i l u m i n a T i o n
 iluminación	 i l u m i n a T i o n 
 ilustraciones	 i l u s t r a T i o n e s 
 ilustrar	 i l u s t r a r 
 image	 e m i C 
+imagenes	i m a x e n e s
 imágenes	 i m a x e n e s 
 imagen	 i m a x e n 
 images	 e m i C e s
@@ -3267,6 +3412,7 @@ imaginar	 i m a x i n a r
 imaginaros	 i m a x i n a r o s 
 imagínate	 i m a x i n a t e 
 imagínense	 i m a x i n e n s e 
+imaginense	i m a x i n e se 
 imagino	 i m a x i n o 
 imbricación	 i m b r i k a T i o n 
 impacto	 i m p a k t o 
@@ -3299,6 +3445,7 @@ importantísimo	 i m p o r t a n t i s i m o
 imposibilidad	 i m p o s i b i l i d a d 
 imposible	 i m p o s i b l e 
 impresionante	 i m p r e s i o n a n t e 
+impresion	i m p r e s i o n
 impresión	 i m p r e s i o n 
 impreso	 i m p r e s o 
 imprimir	 i m p r i m i r 
@@ -3352,7 +3499,9 @@ indagar	 i n d a g a r
 independiente	 i n d e p e n d i e n t e 
 independientemente	 i n d e p e n d i e n t e m e n t e 
 independientes	 i n d e p e n d i e n t e s 
+indexaciones	i n d e k s a T i o n
 indexaciones	 i n d e k s a T i o n e s 
+indexacion	i n d e k s a T i o n
 indexación	 i n d e k s a T i o n 
 indexado	 i n d e k s a d o 
 indexadores	 i n d e k s a d o r e s 
@@ -3363,6 +3512,7 @@ indexando	 i n d e k s a n d o
 indexan	 i n d e k s a n 
 indexar	 i n d e k s a r 
 index	i n d e k s
+indexing	i n d e k s i n g
 india	 i n d i a 
 indicaba	 i n d i k a b a 
 indicación	 i n d i k a T i o n 
@@ -3399,6 +3549,7 @@ influir	 i n f l u i r
 influye	 i n f l u y e 
 info	 i n f o 
 informaciones	 i n f o r m a T i o n e s 
+informacion	i n f o r m a T i o n
 información	 i n f o r m a T i o n 
 informada	 i n f o r m a d a 
 informado	 i n f o r m a d o 
@@ -3418,6 +3569,7 @@ ingenieros	 i n x e n i e r o s
 inglaterra	 i n g l a t e R a 
 inglesa	 i n g l e s a 
 ingleses	 i n g l e s e s 
+ingles	i n g l e s
 inglés	 i n g l e s 
 ingresos	 i n g r e s o s 
 inherentemente	 i n e r e n t e m e n t e 
@@ -3436,6 +3588,7 @@ innovar	 i n n o b a r
 inside	 i n s a i d 
 insisto	 i n s i s t o 
 instalable	 i n s t a l a b l e 
+instalacion	i n s t a l a T i o n
 instalación	 i n s t a l a T i o n 
 instala	 i n s t a l a 
 instalamos	 i n s t a l a m o s 
@@ -3485,6 +3638,7 @@ intercambiar	 i n t e r k a m b i a r
 intercambio	 i n t e r k a m b i o 
 interceptadas	 i n t e r T e p t a d a s 
 interesaba	 i n t e r e s a b a 
+interesaba	i n t e r e s a b a
 interesada	 i n t e r e s a d a 
 interesadas	 i n t e r e s a d a s 
 interesados	 i n t e r e s a d o s 
@@ -3548,6 +3702,7 @@ invertido	 i m b e r t i d o
 invertir	 i m b e r t i r 
 investigaciones	 i m b e s t i g a T i o n e s 
 investigación	 i m b e s t i g a T i o n 
+investigacion	i n b e s t i g a T i o n
 investigadora	 i m b e s t i g a d o r a 
 investigadores	 i m b e s t i g a d o r e s 
 investigador	 i m b e s t i g a d o r 
@@ -3601,6 +3756,7 @@ jazztel	 ? a s t e l
 jefe	 x e f e 
 jerarquías	 x e r a r k i a s 
 jerarquía	 x e r a r k i a 
+jerarquica	x e r a r k i k a
 jerárquica	 x e r a r k i k a 
 jerarquizadas	 x e r a r k i T a d a s 
 jesús	 x e s u s 
@@ -3648,6 +3804,7 @@ lado	 l a d o
 ladrones	 l a d r o n e s 
 lago	 l a g o 
 la	 l a 
+la	l a
 lamadas	 l a m a d a s 
 lamentablemente	 l a m e n t a b l e m e n t e 
 language	l an g u i C
@@ -3667,6 +3824,7 @@ latina	 l a t i n a
 latinoamérica	 l a t i n o a m e r i k a 
 latinoamericano	 l a t i n o a m e r i k a n o 
 latino	 l a t i n o 
+leader	l i d e r
 learning	l e r n i n g	
 lecciones	 l e k T i o n e s 
 lectores	 l e k t o r e s 
@@ -3680,6 +3838,7 @@ leitmotiv	 l e i t m o t i b
 lejana	 l e x a n a 
 lejos	 l e x o s 
 le	 l e 
+le	l e
 lemas	 l e m a s 
 lenguaje	 l e n g u a x e 
 lengua	 l e n g u a 
@@ -3728,7 +3887,9 @@ línea	 l i n e a
 líneas	 l i n e a s 
 lingüista	 l i n g u i s t a 
 lingüistas	 l i n g u i s t a s 
+lingüistica	l i n g u i s t i k a
 lingüística	 l i n g u i s t i k a 
+lingüisticas	l i n g u i s t i k a
 lingüísticas	 l i n g u i s t i k a s 
 lingüístico	 l i n g u i s t i k o 
 lingüísticos	 l i n g u i s t i k o s 
@@ -3750,6 +3911,7 @@ llamado	 y a m a d o
 llamamos	 y a m a m o s 
 llamando	 y a m a n d o 
 llaman	 y a m a n 
+llaman	y a m a n
 llamarla	 y a m a r l a 
 llamarlo	 y a m a r l o 
 llamaron	 y a m a r o n 
@@ -3763,6 +3925,7 @@ llavecita	 y a b e T i t a
 llegaba	 y e g a b a 
 llegada	 y e g a d a 
 llegado	 y e g a d o 
+llegado	y e g a n d o
 llegamos	 y e g a m o s 
 llegando	 y e g a n d o 
 llegan	 y e g a n 
@@ -3796,9 +3959,11 @@ localizas	 l o k a l i T a s
 local	 l o k a l 
 locos	 l o k o s 
 logarítmico	 l o g a r i t m i k o 
+logica	l o x i k a
 lógica	 l o x i k a 
 lógicamente	 l o x i k a m e n t e 
 lógicas	 l o x i k a s 
+logico	l o x i k o 
 lógico	 l o x i k o 
 login	 l a g i n 
 logo	 l o g o 
@@ -3811,6 +3976,7 @@ logren	 l o g r e n
 logro	 l o g r o 
 logs	l o g s
 lo	 l o 
+lo	l o
 londres	 l o n d r e s 
 longitud	 l o n x i t u d 
 long	l o n g s
@@ -3823,6 +3989,7 @@ lugares	 l u g a r e s
 lugar	 l u g a r 
 luis	 l u i s 
 luz	 l u T 
+machine	m a C i n
 madonna	 m a d o n a 
 madre	 m a d r e 
 madrid	 m a d r i d 
@@ -3833,6 +4000,7 @@ madurez	 m a d u r e T
 maduro	 m a d u r o 
 ma	e m e a
 magallanes	 m a g a y a n e s 
+magica	m a x i c a
 mágica	 m a x i k a 
 mágicos	 m a x i k o s 
 magnífica	 m a g n i f i k a 
@@ -3841,11 +4009,13 @@ magnitud	 m a g n i t u d
 magos	 m a g o s 
 málaga	 m a l a g a 
 mala	 m a l a 
+mala	m a l a
 malas	 m a l a s 
 maldito	 m a l d i t o 
 mal	 m a l 
 malo	 m a l o 
 malos	 m a l o s 
+mama	m a m a
 mamá	 m a m a 
 maña	 m a N a 
 mañana	 m a N a n a 
@@ -3897,21 +4067,25 @@ marchamo	 m a r C a m o
 marcin	 m a r T i n 
 marco	 m a r k o 
 marcos	 m a r k o s 
+marcos	m a r k o s
 margen	 m a r x e n 
 marginales	 m a r x i n a l e s 
 maría	 m a r i a 
 marido	 m a r i d o 
 marketing	 m a r k e t i n 
 mar	 m a r 
+marriage	m a R i C
 marruecos	 m a R u e k o s 
 martínez	 m a r t i n e T 
 marxista	 m a r s i s t a 
 marzo	 m a r T o 
+mas	m a s
 más	 m a s 
 master	m a s t e r
 máster	 m a s t e r 
 matar	 m a t a r 
 matching	m a C i n g
+match	m a C
 matemática	 m a t e m a t i k a 
 matemático	 m a t e m a t i k o 
 matemáticos	 m a t e m a t i k o s 
@@ -3928,6 +4102,7 @@ máxima	 m a k s i m a
 maximizar	 m a k s i m i T a r 
 máximo	 m a k s i m o 
 mayores	 m a y o r e s 
+mayoria	m a y o r i a
 mayoría	 m a y o r i a 
 mayoritario	 m a y o r i t a r i o 
 mayor	 m a y o r 
@@ -3956,19 +4131,24 @@ medios	 m e d i o s
 medir	 m e d i r 
 méjico	 m e x i k o 
 mejoraba	 m e x o r a b a 
+mejoraba	m e x o r a b a
 mejora	 m e x o r a 
 mejoramiento	 m e x o r a m i e n t o 
 mejoramos	 m e x o r a m o s 
 mejorarlo	 m e x o r a r l o 
+mejorarlo	m e x o r a r l o
 mejorarlos	 m e x o r a r l o s 
 mejorar	 m e x o r a r 
 mejoras	 m e x o r a s 
 mejoren	 m e x o r e n 
 mejores	 m e x o r e s 
 mejor	 m e x o r 
+mejor	m e x o r
+mejoro	m e x o r o
 mejoró	 m e x o r o 
 melbourne	 m e l b u r n e 
 me	 m e 
+me	m i
 memoria	 m e m o r i a 
 mencionaba	 m e n T i o n a b a 
 mencionaban	 m e n T i o n a b a n 
@@ -4003,15 +4183,19 @@ metemos	 m e t e m o s
 meter	 m e t e r 
 meterse	 m e t e r s e 
 metes	 m e t e s 
+metiamos	m e t i a m o s
 metíamos	 m e t i a m o s 
 metido	 m e t i d o 
 metiendo	 m e t i e n d o 
 metodología	 m e t o d o l o x i a 
 metodológicamente	 m e t o d o l o x i k a m e n t e 
 metodológica	 m e t o d o l o x i k a 
+metodo	m e t o d o
 método	 m e t o d o 
+metodos	m e t o d o s
 métodos	 m e t o d o s 
 meto	 m e t o 
+metrica	m e t r i k a
 métrica	 m e t r i k a 
 mexicanos	 m e x i k a n o s 
 mezcla	 m e T k l a 
@@ -4032,6 +4216,7 @@ migajas	 m i g a x a s
 miga	 m i g a 
 miguel	 m i g e l 
 miles	 m i l e s 
+miles	m i l e s
 millán	 m i y a n 
 millonarios	 m i y o n a r i o s 
 millones	 m i y o n e s 
@@ -4039,6 +4224,7 @@ millón	 m i y o n
 mil	 m i l 
 mimbres	 m i m b r e s 
 mi	 m i 
+mi	m i 
 mí	 m i 
 minería	 m i n e r i a 
 minimizar	 m i n i m i T a r 
@@ -4068,7 +4254,9 @@ mismos	 m i s m o s
 mitad	 m i t a d 
 mit	 m i t 
 mix	 m i k s 
+mobile	m o b a i l
 moda	 m o d a 
+model	m o d e l 
 modelo	 m o d e l o 
 modelos	 m o d e l o s 
 moderar	 m o d e r a r 
@@ -4077,6 +4265,7 @@ modestia	 m o d e s t i a
 modificado	 m o d i f i k a d o 
 modificados	 m o d i f i k a d o s 
 modifica	 m o d i f i k a 
+modifica	m o d i f i k a b a
 modificamos	 m o d i f i k a m o s 
 modo	 m o d o 
 modos	 m o d o s 
@@ -4109,16 +4298,21 @@ mostrarle	 m o s t r a r l e
 mostrarles	 m o s t r a r l e s 
 mostrarlo	 m o s t r a r l o 
 mostrar	 m o s t r a r 
+mostrar	m o s t r a r
 motivaciones	 m o t i b a T i o n e s 
 motivación	 m o t i b a T i o n 
 motivante	 m o t i b a n t e 
 motivar	 m o t i b a r 
 motores	 m o t o r e s 
 motor	 m o t o r 
+mountain	m o u n t a i n
+mouse	m a u s
 mover	 m o b e r 
 movernos	 m o b e r n o s 
 moviendo	 m o b i e n d o 
+moviles	m o b i l e s
 móviles	 m o b i l e s 
+movil	m o b i l
 móvil	 m o b i l 
 movimiento	 m o b i m i e n t o 
 mucha	 m u C a 
@@ -4142,6 +4336,7 @@ multilingüe	 m u l t i l i n g u e
 multilingües	 m u l t i l i n g u e s 
 multilingüismo	 m u l t i l i n g u i s m o 
 multimedia	 m u l t i m e d i a 
+multimedia	m u l t i m e d i a 
 multimodal	 m u l t i m o d a l 
 multi	 m u l t i 
 múltiples	 m u l t i p l e s 
@@ -4158,6 +4353,7 @@ música	 m u s i k a
 mutua	 m u t u a 
 muy	 m u i 
 mysql	m s i e T e k u e l e
+mystic	m i s t i k
 nace	 n a T e 
 nacimiento	 n a T i m i e n t o 
 nacional	 n a T i o n a l 
@@ -4171,6 +4367,7 @@ nativo	 n a t i b o
 nativos	 n a t i b o s 
 naturalmail	n a t u r a l m e i l
 naturalmente	 n a t u r a l m e n t e 
+naturalmente	n a t u r a l m e n t e
 natural	 n a t u r a l 
 navegacional	 n a b e g a T i o n a l 
 navegación	 n a b e g a T i o n 
@@ -4206,6 +4403,7 @@ negrita	 n e g r i t a
 negritas	 n e g r i t a s 
 negro	 n e g r o 
 negros	 n e g r o s 
+neighbour	n e i b u r
 net	 n e t 
 nevera	 n e b e r a 
 nichos	 n i C o s 
@@ -4213,6 +4411,7 @@ nick	 n i k
 nietzsche	 n i C e 
 nike	 n a i k 
 ninguna	 n i n g u n a 
+ningun	n i n g u n
 ningún	 n i n g u n 
 ninguno	 n i n g u n o 
 ni	 n i 
@@ -4223,6 +4422,7 @@ nivel	 n i b e l
 nobel	 n o b e l 
 noche	 n o C e 
 nociones	 n o T i o n e s 
+nocion	n o T i o n
 noción	 n o T i o n 
 nombradas	 n o m b r a d a s 
 nombre	 n o m b r e 
@@ -4230,6 +4430,7 @@ nombres	 n o m b r e s
 nómina	 n o m i n a 
 nóminas	 n o m i n a s 
 no	 n o 
+no	n o u
 nórdicas	 n o r d i k a s 
 normalización	 n o r m a l i T a T i o n 
 normalizar	 n o r m a l i T a r 
@@ -4249,6 +4450,7 @@ notario	 n o t a r i o
 notar	 n o t a r 
 noticia	 n o t i T i a 
 noticias	 n o t i T i a s 
+not	n o t
 novecientas	 n o b e T i e n t a s 
 novecientos	 n o b e T i e n t o s 
 novedad	 n o b e d a d 
@@ -4264,16 +4466,21 @@ nuestras	 n u e s t r a s
 nuestro	 n u e s t r o 
 nuestros	 n u e s t r o s 
 nuevamente	 n u e b a m e n t e 
+nuevamente	n u e b a m e n t e
 nueva	 n u e b a 
 nuevas	 n u e b a s 
 nueve	 n u e b e 
 nuevo	 n u e b o 
 nuevos	 n u e b o s 
+numerica	n u m e r i k a
 numérica	 n u m e r i k a 
 numéricas	 n u m e r i k a s 
+numerico	n u m e r i k o
 numérico	 n u m e r i k o 
 numéricos	 n u m e r i k o s 
+numero	n u m e r o
 número	 n u m e r o 
+numeros	n u m e r o s
 números	 n u m e r o s 
 nunca	 n u n k a 
 nurenberger	 n u r e n b e r g e r 
@@ -4318,6 +4525,7 @@ ocasión	 o k a s i o n
 occidentales	 o k T i d e n t a l e s 
 ochenta	 o C e n t a 
 ochocientas	 o C o T i e n t a s 
+ochocientas	o C o T i e n t a s
 ochocientos	 o C o T i e n t o s 
 ocho	 o C o 
 ocio	 o T i o 
@@ -4340,6 +4548,7 @@ ofertas	 o f e r t a s
 offline	o f l a i n
 oficiales	 o f i T i a l e s 
 oficina	 o f i T i n a 
+oficina	o f i T i n a
 of	o f
 ofrecemos	 o f r e T e m o s 
 ofrecen	 o f r e T e n 
@@ -4350,6 +4559,7 @@ ofreciese	 o f r e T i e s e
 ofreció	 o f r e T i o 
 oído	 o i d o 
 oiga	 o + i g a 
+oimos	o i m o s
 oímos	 o i m o s 
 ok	 O u k e i
 olimpiadas	 o l i m p i a d a s 
@@ -4366,6 +4576,7 @@ ontiveros	 o n t i b e r o s
 ontología	 o n t o l o x i a 
 ontologías	 o n t o l o x i a s 
 o	 o 
+o	o 
 opa	 o p a 
 opciones	 o p T i o n e s 
 opción	 o p T i o n 
@@ -4401,6 +4612,7 @@ organización	 o r g a n i T a T i o n
 organizado	 o r g a n i T a d o 
 organizadores	 o r g a n i T a d o r e s 
 organizar	 o r g a n i T a r 
+organizo	o r g a n i T o
 organizó	 o r g a n i T o 
 org	 or 
 orgullosísimos	 o r g u y o s i s i m o s 
@@ -4432,6 +4644,7 @@ otra	 o t r a
 otras	 o t r a s 
 otro	 o t r o 
 otros	 o t r o s 
+ottovonguericke	o t o b o n g e r i k
 outsourcing	a u t s o u r s i n g
 oxford	 o k s f o r 
 oyendo	 o y e n d o 
@@ -4455,8 +4668,10 @@ página	 p a x i n a
 páginas	 p a x i n a s 
 pago	p a g o
 pagos	 p a g o s 
+painting	p e i n t i n g
 países	 p a i s e s 
 país	 p a i s 
+pajaro	p a x a r o
 pájaro	 p a x a r o 
 pajas	 p a x a s 
 palabra	 p a l a b r a 
@@ -4469,12 +4684,14 @@ paneles	 p a n e l e s
 panelistas	 p a n e l i s t a s 
 panhispánico	 p a n i s p a n i k o 
 pantalla	 p a n t a y a 
+papa	p a p a
 papá	 p a p a 
 papelería	 p a p e l e r i a 
 papeles	 p a p e l e s 
 papel	 p a p e l 
 paquete	 p a k e t e 
 parada	 p a r a d a 
+parada	p a r a d a
 paralelo	 p a r a l e l o 
 parámetro	 p a r a m e t r o 
 parámetros	 p a r a m e t r o s 
@@ -4483,6 +4700,7 @@ parar	 p a r a r
 parches	 p a r C e s 
 parcialmente	 p a r T i a l m e n t e 
 parecen	 p a r e T e n 
+parecen	p a r e T e n
 parece	 p a r e T e 
 parecería	 p a r e T e r i a 
 parecer	 p a r e T e r 
@@ -4496,6 +4714,7 @@ pareció	 p a r e T i o
 pareja	 p a r e x a 
 pares	 p a r e s 
 parezca	 p a r e T k a 
+paris	p a r i s
 parís	 p a r i s 
 park	p a r k
 parlamento	 p a r l a m e n t o 
@@ -4530,13 +4749,16 @@ pasada	 p a s a d a
 pasado	 p a s a d o 
 pasamos	 p a s a m o s 
 pasando	 p a s a n d o 
+pasando	p a s a n d o
 pasan	 p a s a n 
 pasa	 p a s a 
+pasa	p a s a
 pasaporte	 p a s a p o r t e 
 pasará	 p a s a r a 
 pasaré	 p a s a r e 
 pasaría	 p a s a r i a 
 pasarlo	 p a s a r l o 
+pasarlo	p a s a r l o
 pasaron	 p a s a r o n 
 pasar	 p a s a r 
 pasas	 p a s a s 
@@ -4552,6 +4774,7 @@ pasó	 p a s o
 pasos	 p a s o s 
 patagonia	 p a t a g o n i a 
 pata	 p a t a 
+patches	p a C e s
 patente	 p a t e n t e 
 patentes	 p a t e n t e s 
 patrimonio	 p a t r i m o n i o 
@@ -4602,6 +4825,7 @@ pensamos	 p e n s a m o s
 pensando	 p e n s a n d o 
 pensar	 p e n s a r 
 pensárselo	 p e n s a r s e l o 
+pense	p e n s e
 pensé	 p e n s e 
 pensiones	 p e n s i o n e s 
 pensó	 p e n s o 
@@ -4616,10 +4840,12 @@ pequeño	 p e k e N o
 pequeños	 p e k e N o s 
 percepción	 p e r T e p T i o n 
 perder	 p e r d e r 
+perdia	p e r d i a 
 perdía	 p e r d i a 
 perdido	 p e r d i d o 
 perdiendo	 p e r d i e n d o 
 perdonad	 p e r d o n a d 
+perdon	p e r d o n
 perdón	 p e r d o n 
 perecer	 p e r e T e r 
 perfeccionando	 p e r f e k T i o n a n d o 
@@ -4648,6 +4874,7 @@ permítanme	 p e r m i t a n m e
 permitan	 p e r m i t a n 
 permita	 p e r m i t a 
 permiten	 p e r m i t e n 
+permiten	p e r m i t e n
 permite	 p e r m i t e 
 permitía	 p e r m i t i a 
 permitidas	 p e r m i t i d a s 
@@ -4667,11 +4894,13 @@ personaje	 p e r s o n a x e
 personajes	 p e r s o n a x e s 
 personales	 p e r s o n a l e s 
 personalidad	 p e r s o n a l i d a d 
+personalizacion	p e r s o n a l i T a T i o n
 personalización	 p e r s o n a l i T a T i o n 
 personalizada	 p e r s o n a l i T a d a 
 personalmente	 p e r s o n a l m e n t e 
 personal	 p e r s o n a l 
 persona	 p e r s o n a 
+persona	p e r s o n a
 personas	 p e r s o n a s 
 perspectiva	 p e r s p e k t i b a 
 perspectiva	p e r s p e k t i b a
@@ -4690,6 +4919,7 @@ peso	 p e s o
 pesos	 p e s o s 
 peticiones	 p e t i T i o n e s 
 petición	 p e t i T i o n 
+photo	f o t o
 php	p e a C e p e
 pib	p e i b
 picaban	 p i k a b a n 
@@ -4732,10 +4962,12 @@ piratear	 p i r a t e a r
 piscina	 p i s T i n a 
 pista	 p i s t a 
 pistas	 p i s t a s 
+pixel	p i k s e l
 píxel	 p i k s e l 
 planes	 p l a n e s 
 planificar	 p l a n i f i k a r 
 plano	 p l a n o 
+plano	p l a n o
 plan	 p l a n 
 plantáramos	 p l a n t a r a m o s 
 plantas	 p l a n t a s 
@@ -4758,6 +4990,7 @@ plasmarlas	 p l a s m a r l a s
 plastificado	 p l a s t i f i k a d o 
 plataforma	 p l a t a f o r m a 
 playa	 p l a y a 
+playa	p l a y a
 player	p l e y e r
 play	 p l e i 
 plaza	 p l a T a 
@@ -4767,7 +5000,9 @@ plm	p e e l e e m e
 plural	 p l u r a l 
 pluriño	 p l u r i N o 
 plusvalía	 p l u s b a l i a 
+pnl	p e e n e e l e
 poblacionales	 p o b l a T i o n a l e s 
+poblacion	p o b l a T i o n
 población	 p o b l a T i o n 
 poca	 p o k a 
 pocas	 p o k a s 
@@ -4778,6 +5013,7 @@ podeis	 p o d e i s
 podéis	 p o d e i s 
 podemos	 p o d e m o s 
 poderle	 p o d e r l e 
+poderle	p o d e r l e
 poder	 p o d e r 
 podíamos	 p o d i a m o s 
 podían	 p o d i a n 
@@ -4787,9 +5023,13 @@ podido	 p o d i d o
 podrán	 p o d r a n 
 podrá	 p o d r a 
 podremos	 p o d r e m o s 
+podriamos	p o d r i a m o s
 podríamos	 p o d r i a m o s 
 podrían	 p o d r i a n 
+podria	p o d r i a
 podría	 p o d r i a 
+police	p o l i s
+politecnica	p o l i t e k n i k a
 politécnica	 p o l i t e k n i k a 
 política	 p o l i t i k a 
 políticas	 p o l i t i k a s 
@@ -4802,6 +5042,7 @@ pondremos	 p o n d r e m o s
 ponéis	 p o n e i s 
 ponemos	 p o n e m o s 
 ponen	 p o n e n 
+ponen	p o n e n
 ponentes	 p o n e n t e s 
 pone	 p o n e 
 ponerle	 p o n e r l e 
@@ -4836,6 +5077,7 @@ porcentajes	 p o r T e n t a x e s
 pornografía	 p o r n o g r a f i a 
 pornográficas	 p o r n o g r a f i k a s 
 por	 p o r 
+por	p o r
 porque	 p o r k e 
 porqué	 p o r k e 
 porrada	 p o R a d a 
@@ -4856,6 +5098,7 @@ posicionamiento	 p o s i T i o n a m i e n t o
 posicionar	 p o s i T i o n a r 
 posicionarse	 p o s i T i o n a r s e 
 posiciones	 p o s i T i o n e s 
+posicion	p o s i T i o n
 posición	 p o s i T i o n 
 position	 p o s i s i o n 
 positiva	 p o s i t i b a 
@@ -4942,6 +5185,7 @@ presencias	 p r e s e n T i a s
 presentaban	 p r e s e n t a b a n 
 presentaba	 p r e s e n t a b a 
 presentaciones	 p r e s e n t a T i o n e s 
+presentacion	p r e s e n t a T i o n
 presentación	 p r e s e n t a T i o n 
 presentado	 p r e s e n t a d o 
 presentados	 p r e s e n t a d o s 
@@ -4955,6 +5199,7 @@ presentaremos	 p r e s e n t a r e m o s
 presentarle	 p r e s e n t a r l e 
 presentarles	 p r e s e n t a r l e s 
 presentar	 p r e s e n t a r 
+presentar	p r e s e n t a r
 presentéis	 p r e s e n t e i s 
 presenten	 p r e s e n t e n 
 presente	 p r e s e n t e 
@@ -4988,6 +5233,7 @@ primeras	 p r i m e r a s
 primero	 p r i m e r o 
 primeros	 p r i m e r o s 
 primer	 p r i m e r 
+primer	p r i m e r
 primo	 p r i m o 
 principales	 p r i n T i p a l e s 
 principalmente	 p r i n T i p a l m e n t e 
@@ -5016,6 +5262,7 @@ probé	 p r o b e
 problema	 p r o b l e m a 
 problemas	 p r o b l e m a s 
 problemática	 p r o b l e m a t i k a 
+probo	p r o b o
 probó	 p r o b o 
 procedimientos	 p r o T e d i m i e n t o s 
 procesador	 p r o T e s a d o r 
@@ -5026,6 +5273,7 @@ procesar	 p r o T e s a r
 proceso	 p r o T e s o 
 proceso	p r o T e s o	
 procesos	 p r o T e s o s 
+processing	p r o T e s i n g
 procurado	 p r o k u r a d o 
 procuren	 p r o k u r e n 
 producción	 p r o d u k T i o n 
@@ -5055,6 +5303,7 @@ profundidad	 p r o f u n d i d a d
 profundizando	 p r o f u n d i T a n d o 
 profundizar	 p r o f u n d i T a r 
 programaciones	 p r o g r a m a T i o n e s 
+programacion	p r o g r a m a T i o n
 programación	 p r o g r a m a T i o n 
 programado	 p r o g r a m a d o 
 programadores	 p r o g r a m a d o r e s 
@@ -5065,6 +5314,7 @@ prohibido	 p r o i b i d o
 prolongadas	 p r o l o n g a d a s 
 promedio	 p r o m e d i o 
 prometedores	 p r o m e t e d o r e s 
+prometian	p r o m e t i a n
 prometían	 p r o m e t i a n 
 prometido	 p r o m e t i d o 
 promocionamos	 p r o m o T i o n a m o s 
@@ -5083,6 +5333,7 @@ propio	 p r o p i o
 propios	 p r o p i o s 
 propondré	 p r o p o n d r e 
 proponemos	 p r o p o n e m o s 
+proponemos	p r o p o n e m o s
 proponen	 p r o p o n e n 
 propone	 p r o p o n e 
 proponer	 p r o p o n e r 
@@ -5099,7 +5350,9 @@ proporcionando	 p r o p o r T i o n a n d o
 proporcionan	 p r o p o r T i o n a n 
 proporciona	 p r o p o r T i o n a 
 proporcionar	 p r o p o r T i o n a r 
+proporcion	p r o p o r T i o n
 proporción	 p r o p o r T i o n 
+proposicion	p r o p o s i T i o n
 proposición	 p r o p o s i T i o n 
 propósito	 p r o p o s i t o 
 pro	 p r o 
@@ -5124,6 +5377,7 @@ proviene	 p r o b i e n e
 provincia	 p r o b i n T i a 
 provino	 p r o b i n o 
 próximo	 p r o k s i m o 
+proximos	p r o k s i m o s
 próximos	 p r o k s i m o s 
 proyecto	 p r o y e k t o 
 proyectos	 p r o y e k t o s 
@@ -5164,6 +5418,7 @@ puedan	 p u e d a n
 pueda	 p u e d a 
 puedas	 p u e d a s 
 pueden	 p u e d e n 
+pueden	p u e d e n
 puede	 p u e d e 
 puedes	 p u e d e s 
 puedo	 p u e d o 
@@ -5208,6 +5463,7 @@ queden	 k e d e n
 quedo	 k e d o 
 quedó	 k e d o 
 que	 k e 
+que	k e
 qué	 k e 
 queráis	 k e r a i s 
 queramos	 k e r a m o s 
@@ -5216,12 +5472,16 @@ queremos	 k e r e m o s
 querer	 k e r e r 
 queresmos	 k e r e s m o s 
 queríais	 k e r i a i s 
+queria	k e r i a
 quería	 k e r i a 
+queriamos	k e r i a m o s
 queríamos	 k e r i a m o s 
+querian	k e r i a n
 querían	 k e r i a n 
 querías	 k e r i a s 
 querido	 k e r i d o 
 querría	 k e R i a 
+query	k u e r i
 questionanswering	k u e s t i o n a n s u e r i n g
 question	k u e s t i o n
 quevedo	 k e b e d o 
@@ -5263,8 +5523,11 @@ rango	 R a n g o
 rangos	 R a n g o s 
 ranking	 R a n k i n 
 rankings	 R a n k i n s 
+rapidamente	R a p i d a m e n t e
 rápidamente	 R a p i d a m e n t e 
+rapida	R a p i d a
 rápida	 R a p i d a 
+rapido	R a p i d o
 rápido	 R a p i d o 
 rápidos	 R a p i d o s 
 raramente	 R a r a m e n t e 
@@ -5285,6 +5548,7 @@ razonable	 R a T o n a b l e
 razonables	 R a T o n a b l e s 
 razonamiento	 R a T o n a m i e n t o 
 razones	 R a T o n e s 
+razon	R a T o n
 razón	 R a T o n 
 reales	 R e a l e s 
 realidad	 R e a l i d a d 
@@ -5306,6 +5570,7 @@ rebajas	 R e b a x a s
 rebatido	 R e b a t i d o 
 recado	 R e k a d o 
 recados	 R e k a d o s 
+recall	R e k o l
 recapitulación	 R e k a p i t u l a T i o n 
 receptiva	 R e T e p t i b a 
 receta	 R e T e t a 
@@ -5356,6 +5621,7 @@ recorre	 R e k o R e
 recorrer	 R e k o R e r 
 recorrido	 R e k o R i d o 
 recreaciones	 R e k r e a T i o n e s 
+rectangulos	R e k t a n g u l o s
 rectángulos	 R e k t a n g u l o s 
 recuerdo	 R e k u e r d o 
 recuperacion	R e k u p e r a T i o n	
@@ -5412,6 +5678,7 @@ registros	 R e x i s t r o s
 regla	 R e g l a 
 reglas	 R e g l a s 
 regresan	 R e g r e s a n 
+regresan	R e g r e s a n
 regresa	 R e g r e s a 
 regresar	 R e g r e s a r 
 regresión	 R e g r e s i o n 
@@ -5421,6 +5688,7 @@ regularidad	 R e g u l a r i d a d
 regularización	 R e g u l a r i T a T i o n 
 regularmente	 R e g u l a r m e n t e 
 regular	 R e g u l a r 
+regular	R e g u l a r
 rehacerlo	 R e a T e r l o 
 reino	 R e i n o 
 reís	 R e i s 
@@ -5428,6 +5696,7 @@ relacionadas	 R e l a T i o n a d a s
 relacionado	 R e l a T i o n a d o 
 relacionados	 R e l a T i o n a d o s 
 relaciones	 R e l a T i o n e s 
+relacion	R e l a T i o n
 relación	 R e l a T i o n 
 relativamente	 R e l a t i b a m e n t e 
 relativa	 R e l a t i b a 
@@ -5437,6 +5706,7 @@ relevance	R e l e b a n s
 relevancia	 R e l e b a n T i a 
 relevante	 R e l e b a n t e 
 relevantes	 R e l e b a n t e s 
+relevant	R e l e b a n t
 rellenaba	 R e y e n a b a 
 rellenar	 R e y e n a r 
 relleno	 R e y e n o 
@@ -5459,17 +5729,20 @@ reparto	 R e p a r t o
 repasar	 R e p a s a r 
 repaso	 R e p a s o 
 repente	 R e p e n t e 
+repeticion	R e p e t i T i o n
 repetición	 R e p e t i T i o n 
 repetimos	 R e p e t i m o s 
 repetir	 R e p e t i r 
 repita	 R e p i t a 
 repiten	 R e p i t e n 
+repiten	R e p i t e n
 repite	 R e p i t e 
 replantear	 R e p l a n t e a r 
 repositorio	 R e p o s i t o r i o 
 repositorios	 R e p o s i t o r i o s 
 repositor	 R e p o s i t o r 
 representaba	 R e p r e s e n t a b a 
+representacion	R e p r e s e n t a T i o n
 representación	 R e p r e s e n t a T i o n 
 representados	 R e p r e s e n t a d o s 
 representando	 R e p r e s e n t a n d o 
@@ -5493,6 +5766,7 @@ residencia	 R e s i d e n T i a
 resistencias	 R e s i s t e n T i a s 
 resistir	 R e s i s t i r 
 resoluciones	 R e s o l u T i o n e s 
+resolucion	R e s o l u T i o n
 resolución	 R e s o l u T i o n 
 resolverla	 R e s o l b e r l a 
 resolverlo	 R e s o l b e r l o 
@@ -5573,6 +5847,8 @@ rioja	 R i o x a
 río	 R i o 
 ritmo	 R i t m o 
 ritmos	 R i t m o s 
+road	R o u d
+roads	R o u d s
 robot	 R o b o t 
 robots	 R o b o t s 
 robusto	 R o b u s t o 
@@ -5598,6 +5874,7 @@ rte	e R e t e e
 rueda	 R u e d a 
 ruido	 R u i d o 
 ruidosas	 R u i d o s a s 
+run	R a n
 ruptura	 R u p t u r a 
 ruta	 R u t a 
 sabéis	 s a b e i s 
@@ -5605,12 +5882,14 @@ sabemos	 s a b e m o s
 saben	 s a b e n 
 saber	 s a b e r 
 sabe	 s a b e 
+sabe	s a b e
 sabes	 s a b e s 
 sabíamos	 s a b i a m o s 
 sabían	 s a b i a n 
 sabía	 s a b i a 
 sabido	 s a b i d o 
 sabiendo	 s a b i e n d o 
+sacabamos	s a k a b a m o s
 sacábamos	 s a k a b a m o s 
 sacada	 s a k a d a 
 sacado	 s a k a d o 
@@ -5621,6 +5900,7 @@ sacan	 s a k a n
 sacaremos	 s a k a r e m o s 
 sacarla	 s a k a r l a 
 sacarle	 s a k a r l e 
+sacarle	s a k a r l e
 sacarlo	 s a k a r l o 
 sacar	 s a k a r 
 saco	 s a k o 
@@ -5628,6 +5908,7 @@ sacó	 s a k o
 sacrificarse	 s a k r i f i k a r s e 
 sacrificio	 s a k r i f i T i o 
 sa	e s e a
+saint	s e i n t
 salamanca	 s a l a m a n k a 
 salarios	 s a l a r i o s 
 salas	 s a l a s 
@@ -5662,12 +5943,17 @@ satélites	 s a t e l i t e s
 satisfacción	 s a t i s f a k T i o n 
 satisfecho	 s a t i s f e C o 
 saturado	 s a t u r a d o 
+save	s e i f
 scholar	e s k o l a r
+screen	e s k r i n
 screw	e s k r i u
 sdk	e s e d e k a
 seáis	 s e a i s 
+seal	s i l
+seals	s i l s
 seamos	 s e a m o s 
 sean	 s e a n 
+search	s e r C
 sea	 s e a 
 secciones	 s e k T i o n e s 
 sección	 s e k T i o n 
@@ -5680,12 +5966,16 @@ secundariamente	 s e k u n d a r i a m e n t e
 secundaria	 s e k u n d a r i a 
 secundario	 s e k u n d a r i o 
 secundarios	 s e k u n d a r i o s 
+security	s e k i u r i t i
 sede	 s e d e 
 sedes	 s e d e s 
+segmentacion	s e g m e n t a T i o n
 segmentación	 s e g m e n t a T i o n 
 segmentadas	 s e g m e n t a d a s 
 segmentarla	 s e g m e n t a r l a 
+segmentarla	s e g m e n t a r l a
 segmentar	 s e g m e n t a r 
+segmento	s e g m e n t o
 segmentó	 s e g m e n t o 
 segmentos	 s e g m e n t o s 
 seguíamos	 s e g i a m o s 
@@ -5705,6 +5995,7 @@ seguros	 s e g u r o s
 seiscientas	 s e i s T i e n t a s 
 seiscientos	 s e i s T i e n t o s 
 seis	 s e i s 
+seis	s e i s
 seleccionadas	 s e l e k T i o n a d a s 
 seleccionar	 s e l e k T i o n a r 
 selecciona	 s e l e k T i o n a 
@@ -5712,9 +6003,12 @@ selección	 s e l e k T i o n
 sellos	 s e y o s 
 semana	 s e m a n a 
 semanas	 s e m a n a s 
+semanticamente	s e m a n t i k a m e n t e
 semánticamente	 s e m a n t i k a m e n t e 
+semantica	s e m a n t i k a
 semántica	 s e m a n t i k a 
 semánticas	 s e m a n t i k a s 
+semantico	s e m a n t i k o
 semántico	 s e m a n t i k o 
 semánticos	 s e m a n t i k o s 
 semantic	s e m a n t i k
@@ -5760,6 +6054,8 @@ será	 s e r a
 serbia	 s e r b i a 
 seremos	 s e r e m o s 
 seres	 s e r e s 
+seres	s e r e s
+seria	s e r i a
 sería	 s e r i a 
 serie	 s e r i e 
 serio	 s e r i o 
@@ -5774,7 +6070,9 @@ servirán	 s e r b i r a n
 servirá	 s e r b i r a 
 servirnos	 s e r b i r n o s 
 servir	 s e r b i r 
+s	e s
 se	 s e 
+se	s e
 sé	 s e 
 sesenta	 s e s e n t a 
 sesgo	 s e s g o 
@@ -5786,6 +6084,7 @@ setenta	 s e t e n t a
 sevilla	 s e b i y a 
 sexo	 s e k s o 
 sgae	e s e g a e
+ship	s i p
 show	 s o u 
 sido	 s i d o 
 siempre	 s i e m p r e 
@@ -5819,6 +6118,7 @@ similares	 s i m i l a r e s
 similar	 s i m i l a r 
 similitud	 s i m i l i t u d 
 simplemente	 s i m p l e m e n t e 
+simplemente	s i m p l e m e n t e
 simple	 s i m p l e 
 simples	 s i m p l e s 
 simplificando	 s i m p l i f i k a n d o 
@@ -5831,9 +6131,12 @@ sinceramente	 s i n T e r a m e n t e
 sinergias	 s i n e r x i a s 
 singulares	 s i n g u l a r e s 
 singular	 s i n g u l a r 
+sinonimo	s i n o n i m o
 sinónimo	 s i n o n i m o 
+sinonimos	s i n o n i m o s
 sinónimos	 s i n o n i m o s 
 sino	 s i n o 
+sino	s i n o
 sin	 s i n 
 sintáctica	 s i n t a k t i k a 
 sintaxis	 s i n t a k s i s 
@@ -5843,6 +6146,7 @@ sirva	 s i r b a
 sirven	 s i r b e n 
 sirve	 s i r b e 
 si	 s i 
+si	s i
 sí	 s i 
 sistema	 s i s t e m a 
 sistemas	 s i s t e m a s 
@@ -5856,6 +6160,8 @@ situación	 s i t u a T i o n
 situado	 s i t u a d o 
 situar	 s i t u a r 
 sitúa	 s i t u a 
+skip	e s k i p
+sky	e s k a i
 skype	 e s k a i p 
 sl	e s e e l e
 sms	e s e e m e e T e
@@ -5893,6 +6199,7 @@ solucionado	 s o l u T i o n a d o
 solucionarlo	 s o l u T i o n a r l o 
 solucionar	 s o l u T i o n a r 
 soluciones	 s o l u T i o n e s 
+solucion	s o l u T i o n
 solución	 s o l u T i o n 
 sombra	 s o m b r a 
 someter	 s o m e t e r 
@@ -5900,6 +6207,7 @@ sometidos	 s o m e t i d o s
 somos	 s o m o s 
 sonar	 s o n a r 
 sonido	 s o n i d o 
+sonido	s o n i d o
 sonología	 s o n o l o x i a 
 son	 s o n 
 sopa	 s o p a 
@@ -5911,6 +6219,7 @@ soporta	 s o p o r t a
 soporte	 s o p o r t e 
 sorprendente	 s o r p r e n d e n t e 
 sorprender	 s o r p r e n d e r 
+sorprender	s o r p r e n d e r
 sorprende	 s o r p r e n d e 
 sorprendió	 s o r p r e n d i o 
 sorpresa	 s o r p r e s a 
@@ -5919,6 +6228,7 @@ soulseek	 s o u l s i k
 soy	 s o i 
 spain	e s p e i n
 spam	 e s p a m 
+speed	e s p i d
 spin-off	 e s p i n o f 
 spinoff	e s p i n o f
 spot	e s p o t
@@ -5926,6 +6236,7 @@ stanford	 e s t a n f o r
 stem	e s t e m
 stemmers	e s t e m e r s
 stones	 e s t o n s 
+straight	e s t r e i t
 strathclyde	e s t r a d k l a i d
 strauss	 e s t r a u s 
 study	e s t a d i
@@ -5939,9 +6250,11 @@ subida	 s u b i d a
 subiendo	 s u b i e n d o 
 subirlas	 s u b i r l a s 
 subjetiva	 s u b x e t i b a 
+submision	s u b m i s i o n
 submisión	 s u b m i s i o n 
 subrayar	 s u b r a y a r 
 subsanado	 s u b s a n a d o 
+subtitulos	s u b t i t u l o s
 subtítulos	 s u b t i t u l o s 
 subunidades	 s u b u n i d a d e s 
 subvencionados	 s u b b e n T i o n a d o s 
@@ -5982,6 +6295,7 @@ superficies	 s u p e r f i T i e s
 superiores	 s u p e r i o r e s 
 superior	 s u p e r i o r 
 supermercados	 s u p e r m e r k a d o s 
+supermercados	s u p e r m e r k a d o s
 supermercado	 s u p e r m e r k a d o 
 supimos	 s u p i m o s 
 suponen	 s u p o n e n 
@@ -6005,6 +6319,7 @@ sustituir	 s u s t i t u i r
 sustituyan	 s u s t i t u y a n 
 sustituyes	 s u s t i t u y e s 
 su	 s u 
+su	s u
 suv	e s e u b e
 suya	 s u y a 
 suyos	 s u y o s 
@@ -6021,7 +6336,9 @@ talento	 t a l e n t o
 taller	 t a y e r 
 tal	 t a l 
 tamaños	 t a m a N o s 
+tamaños	t a m a N o s
 tamaño	 t a m a N o 
+tambien	t a m b i e n
 también	 t a m b i e n 
 tampoco	 t a m p o k o 
 tanques	 t a n k e s 
@@ -6046,8 +6363,11 @@ teatro	 t e a t r o
 teclas	 t e k l a s 
 tecleada	 t e k l e a d a 
 técnicamente	 t e k n i k a m e n t e 
+tecnicas	t e k n i k a s
 técnicas	 t e k n i k a s 
+tecnica	t e k n i k a
 técnica	 t e k n i k a 
+tecnicos	t e k n i k o s
 técnicos	 t e k n i k o s 
 técnico	 t e k n i k o 
 tecnologías	 t e k n o l o x i a s 
@@ -6062,14 +6382,18 @@ tejido	 t e x i d o
 tela	 t e l a 
 telecom	 t e l e k o m 
 telecomunicaciones	 t e l e k o m u n i k a T i o n e s 
+telefonica	t e l e f o n i k a
 telefónica	 t e l e f o n i k a 
 telefónicos	 t e l e f o n i k o s 
 telefónico	 t e l e f o n i k o 
+telefonos	t e l e f o n o s
 teléfonos	 t e l e f o n o s 
+telefono	t e l e f o n o
 teléfono	 t e l e f o n o 
 telegate	 t e l e g e i t
 televisión	 t e l e b i s i o n 
 televisiva	 t e l e b i s i b a 
+teller	t e l e r
 temas	 t e m a s 
 tema	 t e m a 
 temáticas	 t e m a t i k a s 
@@ -6099,9 +6423,12 @@ tengan	 t e n g a n
 tengas	 t e n g a s 
 tenga	 t e n g a 
 tengo	 t e n g o 
+teniamos	t e n i a m o s
 teníamos	 t e n i a m o s 
+tenian	t e n i a n
 tenían	 t e n i a n 
 tenías	 t e n i a s 
+tenia	t e n i a
 tenía	 t e n i a 
 tenido	 t e n i d o 
 teniendo	 t e n i e n d o 
@@ -6134,10 +6461,15 @@ territorio	 t e R i t o r i o
 tesauro	 t e s a u r o 
 tesis	 t e s i s 
 tests	 t e s 
+tests	t e s t s
 test	 t e s 
 te	 t e 
+te	t e
+textbased	t e k s t b e i s d	
 textos	 t e k s t o s 
+textos	t e k s t o s
 texto	 t e k s t o 
+text	t e k s t
 textuales	 t e k s t u a l e s 
 textual	 t e k s t u a l 
 textura	 t e k s t u r a 
@@ -6149,6 +6481,7 @@ tic	 t i k
 tiempo	 t i e m p o 
 tiendas	 t i e n d a s 
 tienen	 t i e n e n 
+tienen	t i e n e n
 tienes	 t i e n e s 
 tiene	 t i e n e 
 tien	t i e n
@@ -6157,8 +6490,11 @@ tinta	 t i n t a
 tíos	 t i o s 
 tío	 t i o 
 típicas	 t i p i k a s 
+tipica	t i p i k a
 típica	 t i p i k a 
+tipico	t i p i k o
 típico	 t i p i k o 
+tipos	t i p o
 tipos	 t i p o s 
 tipo	 t i p o 
 tiraron	 t i r a r o n 
@@ -6168,13 +6504,17 @@ tires	 t i r e s
 ti	 t i 
 titulados	 t i t u l a d o s 
 títulos	 t i t u l o s 
+titulo	t i t u l o
 título	 t i t u l o 
 tocar	 t o k a r 
 toca	 t o k a 
 todas	 t o d a s 
+todas	t o d a s
 toda	 t o d a 
+todavia	t o d a b i a
 todavía	 t o d a b i a 
 todos	 t o d o s 
+todos	t o d o s
 todo	 t o d o 
 tomábamos	 t o m a b a m o s 
 tomadas	 t o m a d a s 
@@ -6182,12 +6522,15 @@ tomamos	 t o m a m o s
 tomando	 t o m a n d o 
 tomará	 t o m a r a 
 tomar	 t o m a r 
+tomar	t o m a r
 toma	 t o m a 
 tonta	 t o n t a 
 tonterías	 t o n t e r i a s 
 tontería	 t o n t e r i a 
 tonto	 t o n t o 
 topa	 t o p a 
+topics	t o p i k s
+topic	t o p i k
 top	 t o p 
 toquéis	 t o k e i s 
 torno	 t o r n o 
@@ -6207,22 +6550,26 @@ trabajadores	 t r a b a x a d o r e s
 trabajado	 t r a b a x a d o 
 trabajamos	 t r a b a x a m o s 
 trabajando	 t r a b a x a n d o 
+trabajando	t r a b a x a n d o
 trabajan	 t r a b a x a n 
 trabajáramos	 t r a b a x a r a m o s 
 trabajarlo	 t r a b a x a r l o 
 trabajar	 t r a b a x a r 
 trabajas	 t r a b a x a s 
 trabaja	 t r a b a x a 
+trabaja	t r a b a x a
 trabajen	 t r a b a x e n 
 trabaje	 t r a b a x e 
 trabajoso	 t r a b a x o s o 
 trabajos	 t r a b a x o s 
+trabajos	t r b a x o s
 trabajo	 t r a b a x o 
 trabas	 t r a b a s 
 tradicionalmente	 t r a d i T i o n a l m e n t e 
 tradicional	 t r a d i T i o n a l 
 tradición	 t r a d i T i o n 
 traducciones	 t r a d u k T i o n e s 
+traduccion	t r a d u k T i o n
 traducción	 t r a d u k T i o n 
 traduces	 t r a d u T e s 
 traduce	 t r a d u T e 
@@ -6244,6 +6591,7 @@ transferirlas	 t r a n s f e r i r l a s
 transferir	 t r a n s f e r i r 
 transfiriendo	 t r a n s f i r i e n d o 
 transformábamos	 t r a n s f o r m a b a m o s 
+transformabamos	t r a n s f r o r m a b a m o s
 transformación	 t r a n s f o r m a T i o n 
 transformando	 t r a n s f o r m a n d o 
 transformar	 t r a n s f o r m a r 
@@ -6257,6 +6605,7 @@ transmitir	 t r a n s m i t i r
 transparencias	 t r a n s p a r e n T i a s 
 transparencia	 t r a n s p a r e n T i a 
 trascendía	 t r a s T e n d i a 
+trascripcion	t r a n s k r i p T i o n
 trascripción	 t r a s k r i p T i o n 
 trasladado	 t r a s l a d a d o 
 trasladaron	 t r a s l a d a r o n 
@@ -6273,19 +6622,25 @@ tratando	 t r a t a n d o
 tratan	 t r a t a n 
 tratarlos	 t r a t a r l o s 
 tratarlo	 t r a t a r l o 
+tratarlo	t r a t a r l o
 tratar	 t r a t a r 
 trata	 t r a t a 
+trata	t r a t a
 trate	 t r a t e 
 trato	 t r a t o 
 través	 t r a b e s 
 trece	 t r e T e 
 trec	 t r e k 
+trees	t r i s
+tree	t r i
+trèfle	t r e f e l
 treinta	 t r e i n t a 
 tremendamente	 t r e m e n d a m e n t e 
 tremendo	 t r e m e n d o 
 tremento	t r e m e n t o
 trescientas	 t r e s T i e n t a s 
 trescientos	 t r e s T i e n t o s 
+trescientos	t r e s T i e n t o s
 tres	 t r e s 
 tribunal	 t r i b u n a l 
 trigramas	 t r i g r a m a s 
@@ -6317,6 +6672,7 @@ ubicarte	 u b i k a r t e
 ubicar	 u b i k a r 
 últimas	 u l t i m a s 
 última	 u l t i m a 
+ultimos	u l t i m o s
 últimos	 u l t i m o s 
 último	 u l t i m o 
 unas	 u n a s 
@@ -6325,8 +6681,10 @@ unedes	u n e d e s
 uned	 u n e d 
 unesco	 u n e s k o 
 únicamente	 u n i k a m e n t e 
+unica	u n i c a
 única	 u n i k a 
 únicos	 u n i k o s 
+unico	u n i c o
 único	 u n i k o 
 unidades	 u n i d a d e s 
 unidad	 u n i d a d 
@@ -6334,8 +6692,10 @@ unidos	 u n i d o s
 unido	 u n i d o 
 unificado	 u n i f i k a d o 
 uniformemente	 u n i f o r m e m e n t e 
+uniformemente	u n i f o r m e m e n t e
 uniforme	 u n i f o r m e 
 unimos	 u n i m o s 
+union	u n i o n
 unión	 u n i o n 
 uni	u n i
 universalidad	 u n i b e r s a l i d a d 
@@ -6349,8 +6709,10 @@ universitarios	 u n i b e r s i t a r i o s
 universitario	 u n i b e r s i t a r i o 
 universo	 u n i b e r s o 
 unos	 u n o s 
+unos	u n o s
 uno	 u n o 
 un	 u n 
+un	u n
 uoc	u o T e
 up	u p e
 urinarias	 u r i n a r i a s 
@@ -6369,12 +6731,14 @@ usarlo	 u s a r l o
 usar	 u s a r 
 usas	 u s a s 
 usa	 u s a 
+usa	u s a
 usb	u e s e b e
 user	i u s e r
 users	i u s e r s
 usos	 u s o s 
 uso	 u s o 
 ustedes	 u s t e d e s 
+ustedes	u s t e d e s
 usted	 u s t e d 
 usuarios	 u s u a r i o s 
 usuario	 u s u a r i o 
@@ -6384,20 +6748,26 @@ utilicen	 u t i l i T e n
 utilice	 u t i l i T e 
 utilidad	 u t i l i d a d 
 utilísimo	 u t i l i s i m o 
+utilizabamos	u t i l i T a b a m o s
 utilizábamos	 u t i l i T a b a m o s 
 utilizaba	 u t i l i T a b a 
 utilizable	 u t i l i T a b l e 
+utilizacion	u t i l i T a T i o n
 utilización	 u t i l i T a T i o n 
 utilizador	 u t i l i T a d o r 
+utilizador	u t i l i T a d o r
 utilizado	 u t i l i T a d o 
 utilizamos	 u t i l i T a m o s 
 utilizando	 u t i l i T a n d o 
+utilizando	u t i l i T a n d o
 utilizan	 u t i l i T a n 
 utilizaremos	 u t i l i T a r e m o s 
+utilizaria	u t i l i T a r i a
 utilizaría	 u t i l i T a r i a 
 utilizarlas	 u t i l i T a r l a s 
 utilizarla	 u t i l i T a r l a 
 utilizarlo	 u t i l i T a r l o 
+utilizarlo	u t i l i T a r l o
 utilizar	 u t i l i T a r 
 utilizas	 u t i l i T a s 
 utiliza	 u t i l i T a 
@@ -6418,6 +6788,7 @@ vale	 b a l e
 valemos	 b a l e m o s 
 valencia	 b a l e n T i a 
 valga	 b a l g a 
+valia	b a l i a
 valía	 b a l i a 
 válida	 b a l i d a 
 validación	 b a l i d a T i o n 
@@ -6459,6 +6830,7 @@ veáis	 b e a i s
 veamos	 b e a m o s 
 veas	 b e a s 
 ve	 b e 
+ve	b e
 veces	 b e T e s 
 vecindario	 b e T i n d a r i o 
 vecinos	 b e T i n o s 
@@ -6478,6 +6850,7 @@ veintiocho	 b e i n t i o C o
 veintiséis	 b e i n t i s e i s 
 veintisiete	 b e i n t i s i e t e 
 veintitantos	 b e i n t i t a n t o s 
+veintiun	b e i n t i u n
 veintiún	 b e i n t i u n 
 veintiuno	 b e i n t i u n o 
 veis	 b e i s 
@@ -6518,6 +6891,7 @@ ventajas	 b e n t a x a s
 ventana	 b e n t a n a 
 veo	 b e o 
 veracidad	 b e r a T i d a d 
+veran	b e r a n
 verán	 b e r a n 
 verano	 b e r a n o 
 verás	 b e r a s 
@@ -6529,6 +6903,7 @@ veréis	 b e r e i s
 veremos	 b e r e m o s 
 verity	b e r i t i
 verlo	 b e r l o 
+version	b e r s i o n
 versión	 b e r s i o n 
 versiones	 b e r s i o n e s 
 vertical	 b e r t i k a l 
@@ -6542,6 +6917,7 @@ viabilidad	 b i a b i l i d a d
 viable	 b i a b l e 
 viajar	 b i a x a r 
 viajes	 b i a x e s 
+vias	b i a s
 vías	 b i a s 
 vi	 b i 
 vicente	 b i T e n t e 
@@ -6638,6 +7014,7 @@ vuestras	 b u e s t r a s
 vuestro	 b u e s t r o 
 vuestros	 b u e s t r o s 
 wap	u a p
+water	u o t e r
 way	u e i
 web	 g u e b
 webmaster	 g u e b m a s t e r 
@@ -6647,6 +7024,7 @@ webometrics	 g u e b o m e t r i k s
 webs	 g u e b s 
 webtrends	 g u e b t ? e n s 
 wikipedia	 b i k i p e d i a 
+will	u i l
 windows	 g u i n d o u s 
 wordnet	 g u o r n e t 
 wordperfect	 g u o ? p e ? f e t 
@@ -6655,10 +7033,12 @@ workflow	u o r k f l o u
 yahoo	 y a x u 
 yasir	 y a s i r 
 ya	 y a 
+ya	y a
 yell	 y e l 
 yendo	 y e n d o 
 y	 i 
 york	 y o r k 
+york	y o r k
 youtube	 y u t u b 
 yo	 y o 
 zagreb	 T a g r e b 
@@ -6668,383 +7048,3 @@ zapatos	 T a p a t o s
 zaragoza	 T a r a g o T a 
 zona	 T o n a 
 zurich	 T u  r i C
-aca	a k a
-aceleracion	a T e l e r a T i o n
-ademas	a d e m a s
-ahi	a i
-algun	a l g u n
-alla	a y a
-alli	a y i
-alo	a l o
-anotacion	a n o t a T i o n
-anotation	a n o t e i C o n
-antologia	a n t o l o x i a
-aparecian	a p a r e T i a n
-aqui	a k i
-arbol	a r b o l
-arboles	a r b o l e s
-art	a r t
-asi	a s i
-atencion	a t e n T i o n
-atras	a t r a s
-aumentabamos	a u m e n t a b a m o s
-automatica	a u t o m a t i k a
-automaticamente	a u t o m a t i k a m e n t e
-automatico	a u t o m a t i k o
-bagging	b a g i n
-basandose	b a s a n d o s e
-based	b e i s d
-basical	b e i s i k a l
-basicamente	b a s i k a m e n t e
-beyond	b i y o n d
-book	b u k
-botabamos	b o t a b a m o s
-building	b i l d i n g
-buscabamos	b u s k a b a m o s
-buscare		b u s k a r e
-busqueda	b u s k e d a
-cafe	k a f e
-calculo	k a l k u l o
-calculos	k a l k u l o s
-camara	k a m a r a
-car	k a r
-caracteristica	k a r a k t e r i s t i k a
-catherine	c a T e r i n
-cerrabamos	T e R a b a m o s
-cientifica	T i e n t i f i k a
-clasica	k l a s i k a
-clasico	k l a s i k o
-clasificacion	k l a s i f i k a T i o n
-clasificador	k l a s i f i k a d o r
-clasificadores	k l a s i f i k a d o r e s
-classic	k l a s i k
-classifier	k l a s i f a i e r
-cocacola	k o k a k o l a
-colores	k o l o r e s
-com	k o m
-comerciales	k o m e r T i a l e s
-compañias	k o m p a N i a
-comparacion	k o m p a r a T i o n
-competicion	k o m p e t i T i o n
-complicado	k o m p l i k a d o
-comprimiendose	k o m p r i m i e n d o s e
-con	k o n
-conclusion	k o n k l u s i o n
-conto	k o n t o
-convenci	k o m b e n T i
-correspondian	k o R e s p o n d i a n
-cuales	k u a l e s
-cuatrocientos	k u a t r o T i e n t o s
-day	d e i
-de	d e
-deberia	d e b e r i a
-deberiamos	d e b e r i a m o s
-deberian	d e b e r i a n
-decia	d e T i a
-deciamos	d e T i a m o s
-deformacion	d e f o r m a T i o n
-dejame	d e x a m e
-deje	d e x e
-delante	d e l a n t e
-demas	d e m a s
-demostracion	d e m o s t r a T i o n
-desafio	d e s a f i o
-descripcion	d e s c r i p T i o n
-descripto	d e s c r i p t o
-despues	d e s p u e s
-deteccion	d e t e k T i o n
-detecto	d t e k t o
-dia	d i a
-dias	d i a s
-dieciseis	d i e T i s e i s
-dificil	d i f i T i l
-dificiles	d i f i T i l e s
-diganme	d i g a n m e
-dimension	d i m e n s i o n
-discusion	d i s k u s i o n
-documentacion	d o k u m e n t a T i o n
-dos	d o s
-ejercito	e x e r T i t o
-el	e l
-en	e n
-epfl	e p e e f e e l e
-eramos	e r a m o s
-es	e s
-especifica	e s p e T i f i k a
-esta	e s t a
-estan	e s t a n
-etcetera	e t T e t e r a
-explique	e k s p l i k e
-facil	f a T i l
-fast	f a s t
-features	f i C u r s
-fijado	f i x a d o
-fijense	f i x e n s e
-fin	f i n
-flores	f l o r e s
-flower	f l a u e r
-fotografia	f o t o g r a f i a
-full	f u l
-funcionaban	f u n T i o n a b a n
-funcionando	f u n T i o n a n d o
-funciono	f u n T i o n o
-galery	g a l e r i
-general	x e n e r a l
-generalizacion	x e n e r a l i T a T i o n 
-goverment	g o b e r m e n t
-gphone	y i f o n
-gps	x e p e e s e
-grafico	g r a f i c o
-gran	g r a n
-grass	g r a s
-habia	a b i a
-habiamos	a b i a m o s
-habian	a b i a n
-habra	a b r a
-habran	a b r a n
-habria	a b r i a
-haciamos	a T i a m o s
-hecho	e C o
-heuristica	e u r i s t i k a
-hipotesis	i p o t e s i s
-hp	a C e p e
-hubiesen	u b i e s e n
-hungaros	u n g a r o s
-ibamos	i b a m o s
-iluminacion	i l u m i n a T i o n
-imagenes	i m a x e n e s
-imaginense	i m a x i n e se 
-impresion	i m p r e s i o n
-indexacion	i n d e k s a T i o n
-indexaciones	i n d e k s a T i o n
-indexing	i n d e k s i n g
-informacion	i n f o r m a T i o n
-ingles	i n g l e s
-instalacion	i n s t a l a T i o n
-interesaba	i n t e r e s a b a
-investigacion	i n b e s t i g a T i o n
-jerarquica	x e r a r k i k a
-la	l a
-le	l e
-leader	l i d e r
-lingüistica	l i n g u i s t i k a
-lingüisticas	l i n g u i s t i k a
-llaman	y a m a n
-llegado	y e g a n d o
-lo	l o
-logica	l o x i k a
-logico	l o x i k o 
-machine	m a C i n
-magica	m a x i c a
-mala	m a l a
-mama	m a m a
-marcos	m a r k o s
-marriage	m a R i C
-mas	m a s
-match	m a C
-mayoria	m a y o r i a
-me	m i
-mejor	m e x o r
-mejoraba	m e x o r a b a
-mejorarlo	m e x o r a r l o
-mejoro	m e x o r o
-metiamos	m e t i a m o s
-metodo	m e t o d o
-metodos	m e t o d o s
-metrica	m e t r i k a
-mi	m i 
-miles	m i l e s
-mobile	m o b a i l
-model	m o d e l 
-modifica	m o d i f i k a b a
-mostrar	m o s t r a r
-mountain	m o u n t a i n
-mouse	m a u s
-movil	m o b i l
-moviles	m o b i l e s
-multimedia	m u l t i m e d i a 
-mystic	m i s t i k
-naturalmente	n a t u r a l m e n t e
-neighbour	n e i b u r
-ningun	n i n g u n
-no	n o u
-nocion	n o T i o n
-not	n o t
-nuevamente	n u e b a m e n t e
-numerica	n u m e r i k a
-numerico	n u m e r i k o
-numero	n u m e r o
-numeros	n u m e r o s
-o	o 
-ochocientas	o C o T i e n t a s
-oficina	o f i T i n a
-oimos	o i m o s
-organizo	o r g a n i T o
-ottovonguericke	o t o b o n g e r i k
-painting	p e i n t i n g
-pajaro	p a x a r o
-papa	p a p a
-parada	p a r a d a
-parecen	p a r e T e n
-paris	p a r i s
-pasa	p a s a
-pasando	p a s a n d o
-pasarlo	p a s a r l o
-patches	p a C e s
-pense	p e n s e
-perdia	p e r d i a 
-perdon	p e r d o n
-permiten	p e r m i t e n
-persona	p e r s o n a
-personalizacion	p e r s o n a l i T a T i o n
-photo	f o t o
-pixel	p i k s e l
-plano	p l a n o
-playa	p l a y a
-pnl	p e e n e e l e
-poblacion	p o b l a T i o n
-poderle	p o d e r l e
-podria	p o d r i a
-podriamos	p o d r i a m o s
-police	p o l i s
-politecnica	p o l i t e k n i k a
-ponen	p o n e n
-por	p o r
-posicion	p o s i T i o n
-presentacion	p r e s e n t a T i o n
-presentar	p r e s e n t a r
-primer	p r i m e r
-probo	p r o b o
-processing	p r o T e s i n g
-programacion	p r o g r a m a T i o n
-prometian	p r o m e t i a n
-proponemos	p r o p o n e m o s
-proporcion	p r o p o r T i o n
-proposicion	p r o p o s i T i o n
-proximos	p r o k s i m o s
-pueden	p u e d e n
-que	k e
-queria	k e r i a
-queriamos	k e r i a m o s
-querian	k e r i a n
-query	k u e r i
-rapida	R a p i d a
-rapidamente	R a p i d a m e n t e
-rapido	R a p i d o
-razon	R a T o n
-recall	R e k o l
-rectangulos	R e k t a n g u l o s
-regresan	R e g r e s a n
-regular	R e g u l a r
-relacion	R e l a T i o n
-relevant	R e l e b a n t
-repeticion	R e p e t i T i o n
-repiten	R e p i t e n
-representacion	R e p r e s e n t a T i o n
-resolucion	R e s o l u T i o n
-road	R o u d
-roads	R o u d s
-run	R a n
-s	e s
-sabe	s a b e
-sacabamos	s a k a b a m o s
-sacarle	s a k a r l e
-saint	s e i n t
-save	s e i f
-screen	e s k r i n
-se	s e
-seal	s i l
-seals	s i l s
-search	s e r C
-security	s e k i u r i t i
-segmentacion	s e g m e n t a T i o n
-segmentarla	s e g m e n t a r l a
-segmento	s e g m e n t o
-seis	s e i s
-semantica	s e m a n t i k a
-semanticamente	s e m a n t i k a m e n t e
-semantico	s e m a n t i k o
-seres	s e r e s
-seria	s e r i a
-ship	s i p
-si	s i
-simplemente	s i m p l e m e n t e
-sino	s i n o
-sinonimo	s i n o n i m o
-sinonimos	s i n o n i m o s
-skip	e s k i p
-sky	e s k a i
-solucion	s o l u T i o n
-sonido	s o n i d o
-sorprender	s o r p r e n d e r
-speed	e s p i d
-straight	e s t r e i t
-su	s u
-submision	s u b m i s i o n
-subtitulos	s u b t i t u l o s
-supermercados	s u p e r m e r k a d o s
-tamaños	t a m a N o s
-tambien	t a m b i e n
-te	t e
-tecnica	t e k n i k a
-tecnicas	t e k n i k a s
-tecnicos	t e k n i k o s
-telefonica	t e l e f o n i k a
-telefono	t e l e f o n o
-telefonos	t e l e f o n o s
-teller	t e l e r
-tenia	t e n i a
-teniamos	t e n i a m o s
-tenian	t e n i a n
-tests	t e s t s
-text	t e k s t
-textbased	t e k s t b e i s d	
-textos	t e k s t o s
-tienen	t i e n e n
-tipica	t i p i k a
-tipico	t i p i k o
-tipos	t i p o
-titulo	t i t u l o
-todas	t o d a s
-todavia	t o d a b i a
-todos	t o d o s
-tomar	t o m a r
-topic	t o p i k
-topics	t o p i k s
-trabaja	t r a b a x a
-trabajando	t r a b a x a n d o
-trabajos	t r b a x o s
-traduccion	t r a d u k T i o n
-transformabamos	t r a n s f r o r m a b a m o s
-trascripcion	t r a n s k r i p T i o n
-trata	t r a t a
-tratarlo	t r a t a r l o
-tree	t r i
-trees	t r i s
-trèfle	t r e f e l
-trescientos	t r e s T i e n t o s
-ultimos	u l t i m o s
-un	u n
-unica	u n i c a
-unico	u n i c o
-uniformemente	u n i f o r m e m e n t e
-union	u n i o n
-unos	u n o s
-usa	u s a
-ustedes	u s t e d e s
-utilizabamos	u t i l i T a b a m o s
-utilizacion	u t i l i T a T i o n
-utilizador	u t i l i T a d o r
-utilizando	u t i l i T a n d o
-utilizaria	u t i l i T a r i a
-utilizarlo	u t i l i T a r l o
-valia	b a l i a
-ve	b e
-veintiun	b e i n t i u n
-veran	b e r a n
-version	b e r s i o n
-vias	b i a s
-water	u o t e r
-will	u i l
-ya	y a
-york	y o r k

@@ -1,0 +1,1 @@
+sort mavir02.txt | cat >> ../nuevo/mavir02_new.txt

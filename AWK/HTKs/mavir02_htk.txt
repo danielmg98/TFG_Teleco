@@ -3,8 +3,6 @@
 se
 me
 oye
-.
-"*/mavir02_2.lab"
 si
 bueno
 vamos
@@ -76,7 +74,7 @@ por
 lo
 menos
 .
-"*/mavir02_3.lab"
+"*/mavir02_2.lab"
 voy
 a
 dejar
@@ -144,18 +142,18 @@ todo
 desde
 comunidades
 .
-"*/mavir02_4.lab"
+"*/mavir02_3.lab"
 tenemos
 a
 antonio
 por
 ahi
 .
-"*/mavir02_5.lab"
+"*/mavir02_4.lab"
 disculpadme
 adelante
 .
-"*/mavir02_6.lab"
+"*/mavir02_5.lab"
 con
 perdon
 como
@@ -256,7 +254,7 @@ etcetera
 de
 acuerdo
 .
-"*/mavir02_7.lab"
+"*/mavir02_6.lab"
 bueno
 entonces
 yo
@@ -270,7 +268,7 @@ mas
 dinamico
 posible
 .
-"*/mavir02_8.lab"
+"*/mavir02_7.lab"
 si
 planteamos
 aqui
@@ -284,7 +282,7 @@ por
 ellas
 directamente
 .
-"*/mavir02_9.lab"
+"*/mavir02_8.lab"
 de
 alguna
 manera
@@ -308,7 +306,7 @@ mercado
 es
 broma
 .
-"*/mavir02_10.lab"
+"*/mavir02_9.lab"
 pero
 bueno
 hacerlo
@@ -329,7 +327,7 @@ para
 todos
 no
 .
-"*/mavir02_11.lab"
+"*/mavir02_10.lab"
 bueno
 pues
 y
@@ -349,6 +347,8 @@ en
 un
 momento
 dado
+.
+"*/mavir02_11.lab"
 bueno
 os
 voy
@@ -390,6 +390,8 @@ os
 dedicais
 de
 acuerdo
+.
+"*/mavir02_12.lab"
 pues
 yo
 soy
@@ -458,6 +460,8 @@ que
 tiene
 la
 empresa
+.
+"*/mavir02_13.lab"
 entonces
 en
 ese
@@ -482,6 +486,8 @@ como
 cualquier
 otro
 producto
+.
+"*/mavir02_14.lab"
 isoco
 no
 si
@@ -541,6 +547,8 @@ y
 de
 tecnologia
 web
+.
+"*/mavir02_15.lab"
 como
 muchos
 de
@@ -623,6 +631,8 @@ general
 de
 de
 autores
+.
+"*/mavir02_16.lab"
 el
 capital
 de
@@ -687,6 +697,8 @@ pues
 al
 al
 mercado
+.
+"*/mavir02_17.lab"
 y
 por
 mi
@@ -795,6 +807,8 @@ que
 la
 empresa
 funcione
+.
+"*/mavir02_18.lab"
 que
 es
 mucho
@@ -824,6 +838,8 @@ que
 enfrentarnos
 y
 llegar
+.
+"*/mavir02_19.lab"
 por
 supuesto
 que
@@ -855,6 +871,8 @@ publico
 que
 es
 posible
+.
+"*/mavir02_20.lab"
 no
 obstante
 como
@@ -890,12 +908,16 @@ luego
 generen
 unos
 ingresos
+.
+"*/mavir02_21.lab"
 vamos
 viviendo
 y
 aguantando
 con
 eso
+.
+"*/mavir02_22.lab"
 hola
 buenas
 tardes
@@ -1046,6 +1068,8 @@ trabajan
 cien
 cien
 personas
+.
+"*/mavir02_23.lab"
 eleka
 estamos
 siete
@@ -1073,6 +1097,8 @@ de
 tecnologias
 lingüisticas
 no
+.
+"*/mavir02_24.lab"
 entonces
 surgio
 como
@@ -1215,6 +1241,8 @@ diria
 yo
 tan
 espectacular
+.
+"*/mavir02_25.lab"
 alcanza
 un
 setenta
@@ -1239,6 +1267,8 @@ entre
 las
 dos
 lenguas
+.
+"*/mavir02_26.lab"
 y
 entre
 tanto
@@ -1281,6 +1311,8 @@ tratamiento
 de
 la
 lengua
+.
+"*/mavir02_27.lab"
 y
 no
 solo
@@ -1364,6 +1396,8 @@ empresas
 en
 entornos
 multilingües
+.
+"*/mavir02_28.lab"
 gracias
 buenas
 tardes
@@ -1518,6 +1552,8 @@ de
 lo
 que
 vendemos
+.
+"*/mavir02_29.lab"
 bueno
 como
 representante
@@ -1533,6 +1569,8 @@ nos
 acompaña
 aqui
 hoy
+.
+"*/mavir02_30.lab"
 bueno
 muchas
 gracias
@@ -1571,6 +1609,8 @@ empresas
 en
 este
 momento
+.
+"*/mavir02_31.lab"
 por
 ejemplo
 numero
@@ -1614,6 +1654,8 @@ pues
 de
 vuestras
 dimensiones
+.
+"*/mavir02_32.lab"
 pues
 en
 isoco
@@ -1657,6 +1699,8 @@ explotacion
 de
 esos
 productos
+.
+"*/mavir02_33.lab"
 ahora
 mismo
 el
@@ -1678,6 +1722,8 @@ digamos
 unas
 veinte
 personas
+.
+"*/mavir02_34.lab"
 entonces
 pues
 como
@@ -1778,6 +1824,8 @@ el
 real
 instituto
 elcano
+.
+"*/mavir02_35.lab"
 bueno
 en
 daedalus
@@ -1803,6 +1851,8 @@ unos
 doce
 catorce
 aproximadamente
+.
+"*/mavir02_36.lab"
 en
 thera
 a
@@ -1865,6 +1915,8 @@ personal
 de
 contratos
 temporales
+.
+"*/mavir02_37.lab"
 entonces
 por
 poner
@@ -1919,6 +1971,8 @@ resto
 pues
 quedan
 fuera
+.
+"*/mavir02_38.lab"
 a
 nivel
 de
@@ -1950,6 +2004,8 @@ esperemos
 sobrepasarlo
 este
 año
+.
+"*/mavir02_39.lab"
 eh
 no
 se
@@ -1958,6 +2014,8 @@ la
 dimension
 esta
 acotada
+.
+"*/mavir02_40.lab"
 bueno
 el
 tema
@@ -2072,6 +2130,8 @@ bastante
 pelados
 pelados
 pelados
+.
+"*/mavir02_41.lab"
 es
 decir
 el
@@ -2091,6 +2151,8 @@ hay
 que
 lidiar
 mucho
+.
+"*/mavir02_42.lab"
 y
 en
 este
@@ -2129,6 +2191,8 @@ tenemos
 que
 que
 incidir
+.
+"*/mavir02_43.lab"
 porque
 bueno
 lo
@@ -2166,6 +2230,8 @@ tenias
 que
 haber
 hecho
+.
+"*/mavir02_44.lab"
 por
 ejemplo
 en
@@ -2184,6 +2250,8 @@ algo
 al
 respecto
 adelante
+.
+"*/mavir02_45.lab"
 el
 nosotros
 somos
@@ -2212,6 +2280,8 @@ ver
 si
 no
 quebrabamos
+.
+"*/mavir02_46.lab"
 era
 un
 autentico
@@ -2432,6 +2502,8 @@ de
 de
 esa
 cifra
+.
+"*/mavir02_47.lab"
 vale
 de
 momento
@@ -2482,6 +2554,8 @@ la
 como
 la
 lingüistica
+.
+"*/mavir02_48.lab"
 quizas
 se
 haga
@@ -2545,6 +2619,8 @@ un
 importante
 cliente
 nuestro
+.
+"*/mavir02_49.lab"
 a
 mi
 me
@@ -2578,6 +2654,8 @@ de
 nuestros
 principales
 clientes
+.
+"*/mavir02_50.lab"
 desde
 luego
 en
@@ -2590,6 +2668,8 @@ encima
 de
 cualquier
 otra
+.
+"*/mavir02_51.lab"
 algun
 comentario
 mas
@@ -2610,6 +2690,8 @@ son
 todos
 empresas
 privadas
+.
+"*/mavir02_52.lab"
 a
 nivel
 institucional
@@ -2628,6 +2710,8 @@ entra
 en
 la
 facturacion
+.
+"*/mavir02_53.lab"
 bien
 casi
 casi
@@ -2641,6 +2725,8 @@ de
 esta
 pregunta
 no
+.
+"*/mavir02_54.lab"
 bueno
 vamos
 a
@@ -2705,6 +2791,8 @@ si
 montaramos
 una
 empresa
+.
+"*/mavir02_55.lab"
 no
 que
 es
@@ -2719,6 +2807,8 @@ como
 lo
 habeis
 vivido
+.
+"*/mavir02_56.lab"
 es
 una
 cosa
@@ -2742,6 +2832,8 @@ desde
 desde
 esa
 optica
+.
+"*/mavir02_57.lab"
 es
 decir
 hablar
@@ -2777,6 +2869,8 @@ de
 dar
 el
 salto
+.
+"*/mavir02_58.lab"
 como
 como
 lo
@@ -2803,6 +2897,8 @@ que
 que
 tengo
 detras
+.
+"*/mavir02_59.lab"
 bueno
 yo
 entonces
@@ -2899,6 +2995,8 @@ pero
 nadie
 se
 atrevia
+.
+"*/mavir02_60.lab"
 en
 la
 en
@@ -2942,6 +3040,8 @@ sacar
 este
 proyecto
 adelante
+.
+"*/mavir02_61.lab"
 pues
 bueno
 pues
@@ -2964,6 +3064,8 @@ pues
 poner
 dos
 personas
+.
+"*/mavir02_62.lab"
 nosotros
 ya
 cogemos
@@ -2995,6 +3097,8 @@ d
 la
 pondremos
 nosotros
+.
+"*/mavir02_63.lab"
 bueno
 pues
 ahi
@@ -3117,6 +3221,8 @@ gerencia
 en
 aquel
 momento
+.
+"*/mavir02_64.lab"
 entonces
 en
 ese
@@ -3179,6 +3285,8 @@ creacion
 de
 empresas
 no
+.
+"*/mavir02_65.lab"
 pero
 que
 bueno
@@ -3243,6 +3351,8 @@ tipo
 de
 empresas
 no
+.
+"*/mavir02_66.lab"
 creo
 que
 ahora
@@ -3343,6 +3453,8 @@ el
 producto
 de
 acuerdo
+.
+"*/mavir02_67.lab"
 a
 durante
 ese
@@ -3382,6 +3494,8 @@ la
 universidad
 de
 acuerdo
+.
+"*/mavir02_68.lab"
 entonces
 no
 es
@@ -3403,6 +3517,8 @@ programa
 especifico
 etcetera
 no
+.
+"*/mavir02_69.lab"
 ese
 fue
 ese
@@ -3413,6 +3529,8 @@ digamos
 de
 de
 daedalus
+.
+"*/mavir02_70.lab"
 bueno
 thera
 thera
@@ -3612,6 +3730,8 @@ diez
 o
 doce
 años
+.
+"*/mavir02_71.lab"
 por
 lo
 que
@@ -3623,6 +3743,8 @@ empresa
 no
 es
 facil
+.
+"*/mavir02_72.lab"
 no
 es
 facil
@@ -3665,6 +3787,8 @@ es
 fuerte
 e
 importante
+.
+"*/mavir02_73.lab"
 pero
 tambien
 hay
@@ -3709,6 +3833,8 @@ motivante
 y
 y
 engrescante
+.
+"*/mavir02_74.lab"
 perdonad
 el
 catalanismo
@@ -3728,6 +3854,8 @@ en
 lo
 que
 hacer
+.
+"*/mavir02_75.lab"
 pero
 decir
 ademas
@@ -3766,6 +3894,8 @@ algo
 que
 crea
 alguien
+.
+"*/mavir02_76.lab"
 alguien
 que
 es
@@ -3819,6 +3949,8 @@ a
 pagar
 por
 ello
+.
+"*/mavir02_77.lab"
 y
 que
 te
@@ -3849,6 +3981,8 @@ la
 hora
 de
 desarrollarlo
+.
+"*/mavir02_78.lab"
 bitext
 es
 es
@@ -3866,6 +4000,8 @@ que
 por
 vocacion
 no
+.
+"*/mavir02_79.lab"
 es
 decir
 la
@@ -3955,6 +4091,8 @@ pues
 decidimos
 auto
 autoemplearnos
+.
+"*/mavir02_80.lab"
 esa
 fue
 la
@@ -3992,6 +4130,8 @@ efectivamente
 existe
 un
 mercado
+.
+"*/mavir02_81.lab"
 un
 mercado
 dificil
@@ -4079,6 +4219,8 @@ un
 negocio
 de
 verdad
+.
+"*/mavir02_82.lab"
 y
 con
 eso
@@ -4091,6 +4233,8 @@ arranca
 arranca
 la
 empresa
+.
+"*/mavir02_83.lab"
 en
 mi
 caso
@@ -4138,6 +4282,8 @@ la
 historia
 de
 isoco
+.
+"*/mavir02_84.lab"
 isoco
 surge
 del
@@ -4152,6 +4298,8 @@ barcelona
 como
 una
 spinoff
+.
+"*/mavir02_85.lab"
 o
 sea
 como
@@ -4164,6 +4312,8 @@ buenas
 tardes
 me
 escuchais
+.
+"*/mavir02_86.lab"
 si
 que
 funciona
@@ -4172,10 +4322,14 @@ dile
 que
 le
 escuchamos
+.
+"*/mavir02_87.lab"
 problemas
 del
 riguroso
 directo
+.
+"*/mavir02_88.lab"
 alguien
 que
 no
@@ -4186,6 +4340,8 @@ y
 que
 queria
 participar
+.
+"*/mavir02_89.lab"
 bueno
 decia
 eso
@@ -4222,6 +4378,8 @@ tienen
 en
 la
 cabeza
+.
+"*/mavir02_90.lab"
 entonces
 encuentran
 financiacion
@@ -4267,6 +4425,8 @@ de
 de
 de
 vida
+.
+"*/mavir02_91.lab"
 lo
 que
 pasa
@@ -4330,6 +4490,8 @@ he
 contado
 al
 principio
+.
+"*/mavir02_92.lab"
 enric
 comentaba
 que
@@ -4342,6 +4504,8 @@ por
 el
 apoyo
 institucional
+.
+"*/mavir02_93.lab"
 yo
 no
 se
@@ -4377,6 +4541,8 @@ momento
 de
 la
 creacion
+.
+"*/mavir02_94.lab"
 le
 has
 dado
@@ -4388,6 +4554,8 @@ en
 el
 clavo
 exacto
+.
+"*/mavir02_95.lab"
 las
 ayudas
 son
@@ -4437,6 +4605,8 @@ facturar
 ciertas
 cantidades
 punto
+.
+"*/mavir02_96.lab"
 podriamos
 habernos
 constituido
@@ -4456,6 +4626,8 @@ el
 ministerio
 es
 determinante
+.
+"*/mavir02_97.lab"
 si
 tienes
 mas
@@ -4498,6 +4670,8 @@ venderselo
 a
 a
 alguien
+.
+"*/mavir02_98.lab"
 nosotros
 nunca
 hemos
@@ -4528,6 +4702,8 @@ de
 la
 administracion
 publica
+.
+"*/mavir02_99.lab"
 en
 la
 vida
@@ -4582,6 +4758,8 @@ con
 la
 administracion
 no
+.
+"*/mavir02_100.lab"
 el
 donde
 si
@@ -4611,6 +4789,8 @@ sociedades
 de
 capital
 riesgo
+.
+"*/mavir02_101.lab"
 nosotros
 empezamos
 la
@@ -4648,6 +4828,8 @@ no
 ya
 estamos
 acostumbrados
+.
+"*/mavir02_102.lab"
 sin
 embargo
 estamos
@@ -4678,6 +4860,8 @@ ganamos
 el
 primer
 premio
+.
+"*/mavir02_103.lab"
 y
 era
 la
@@ -4713,6 +4897,8 @@ dieron
 el
 primer
 premio
+.
+"*/mavir02_104.lab"
 y
 no
 habia
@@ -4725,6 +4911,8 @@ el
 tribunal
 etcetera
 etcetera
+.
+"*/mavir02_105.lab"
 porque
 sirve
 para
@@ -4734,6 +4922,8 @@ no
 sirve
 para
 nada
+.
+"*/mavir02_106.lab"
 y
 y
 en
@@ -4748,6 +4938,8 @@ mas
 o
 menos
 clara
+.
+"*/mavir02_107.lab"
 y
 que
 la
@@ -4791,6 +4983,8 @@ mil
 por
 ejemplo
 no
+.
+"*/mavir02_108.lab"
 mas
 comentarios
 algo
@@ -4835,6 +5029,8 @@ trabajo
 a
 la
 administracion
+.
+"*/mavir02_109.lab"
 porque
 un
 elemento
@@ -4869,6 +5065,8 @@ proyecto
 y
 y
 obtenerlo
+.
+"*/mavir02_110.lab"
 generalmente
 las
 experiencias
@@ -4896,6 +5094,8 @@ en
 el
 sentido
 economico
+.
+"*/mavir02_111.lab"
 quiero
 decir
 que
@@ -4921,6 +5121,8 @@ duras
 penas
 el
 trabajo
+.
+"*/mavir02_112.lab"
 cambiar
 esa
 esa
@@ -4981,6 +5183,8 @@ concursos
 ganarlos
 y
 producir
+.
+"*/mavir02_113.lab"
 y
 una
 ley
@@ -5020,6 +5224,8 @@ publicas
 ni
 las
 empresas
+.
+"*/mavir02_114.lab"
 bueno
 si
 una
@@ -5059,6 +5265,8 @@ contento
 puede
 ser
 heroico
+.
+"*/mavir02_115.lab"
 es
 decir
 puede
@@ -5136,6 +5344,8 @@ de
 esos
 con
 concursos
+.
+"*/mavir02_116.lab"
 y
 en
 muchas
@@ -5196,6 +5406,8 @@ uno
 de
 esos
 concursos
+.
+"*/mavir02_117.lab"
 y
 la
 unica
@@ -5238,6 +5450,8 @@ vuelto
 a
 a
 explotar
+.
+"*/mavir02_118.lab"
 yo
 un
 un
@@ -5276,6 +5490,8 @@ de
 su
 facturacion
 anual
+.
+"*/mavir02_119.lab"
 entonces
 en
 principio
@@ -5314,6 +5530,8 @@ de
 trescientos
 mil
 euros
+.
+"*/mavir02_120.lab"
 mas
 alla
 es
@@ -5327,6 +5545,8 @@ y
 no
 se
 arriesgan
+.
+"*/mavir02_121.lab"
 eh
 y
 eso
@@ -5351,6 +5571,8 @@ una
 dimension
 economica
 fuerte
+.
+"*/mavir02_122.lab"
 entonces
 es
 un
@@ -5362,6 +5584,8 @@ y
 es
 una
 limitacion
+.
+"*/mavir02_123.lab"
 y
 hemos
 de
@@ -5421,6 +5645,8 @@ siendo
 marginales
 en
 ellos
+.
+"*/mavir02_124.lab"
 bien
 algun
 comentario
@@ -5485,6 +5711,8 @@ bueno
 un
 primer
 paso
+.
+"*/mavir02_125.lab"
 lo
 lo
 que
@@ -5511,6 +5739,8 @@ que
 pueda
 haber
 detras
+.
+"*/mavir02_126.lab"
 o
 sea
 no
@@ -5524,6 +5754,8 @@ de
 la
 administracion
 publica
+.
+"*/mavir02_127.lab"
 el
 soporte
 es
@@ -5555,6 +5787,8 @@ a
 una
 unica
 empresa
+.
+"*/mavir02_128.lab"
 tsystems
 con
 lo
@@ -5598,6 +5832,8 @@ mercado
 informatico
 en
 cataluña
+.
+"*/mavir02_129.lab"
 es
 decir
 o
@@ -5625,6 +5861,8 @@ son
 dimensiones
 dimensionados
 iguales
+.
+"*/mavir02_130.lab"
 y
 esto
 es
@@ -5648,6 +5886,8 @@ recursos
 y
 de
 crecer
+.
+"*/mavir02_131.lab"
 eso
 ahora
 ha
@@ -5663,6 +5903,8 @@ es
 un
 handicap
 realmente
+.
+"*/mavir02_132.lab"
 bueno
 pues
 por
@@ -5683,6 +5925,8 @@ necesita
 para
 crear
 empresas
+.
+"*/mavir02_133.lab"
 si
 pensais
 que
@@ -5711,6 +5955,8 @@ investigadores
 aqui
 y
 alla
+.
+"*/mavir02_134.lab"
 o
 si
 es
@@ -5731,6 +5977,8 @@ raiz
 de
 vuestra
 experiencia
+.
+"*/mavir02_135.lab"
 yo
 como
 gran
@@ -5739,6 +5987,8 @@ doy
 un
 consejo
 gratuito
+.
+"*/mavir02_136.lab"
 el
 o
 sea
@@ -5752,6 +6002,8 @@ lanza
 por
 favor
 pensadlo
+.
+"*/mavir02_137.lab"
 es
 decir
 el
@@ -5793,6 +6045,8 @@ vamos
 a
 por
 ello
+.
+"*/mavir02_138.lab"
 entonces
 nos
 preocupamos
@@ -5812,6 +6066,8 @@ solo
 cuando
 nos
 falta
+.
+"*/mavir02_139.lab"
 una
 empresa
 es
@@ -5853,6 +6109,8 @@ debe
 montar
 una
 empresa
+.
+"*/mavir02_140.lab"
 es
 decir
 aprender
@@ -5884,6 +6142,8 @@ es
 decir
 es
 todo
+.
+"*/mavir02_141.lab"
 es
 donde
 guardar
@@ -5895,6 +6155,8 @@ porque
 nadie
 te
 protege
+.
+"*/mavir02_142.lab"
 es
 decir
 el
@@ -5933,6 +6195,8 @@ llevar
 adelante
 una
 sociedad
+.
+"*/mavir02_143.lab"
 insisto
 una
 contabilidad
@@ -5961,6 +6225,8 @@ puede
 frenar
 una
 inversion
+.
+"*/mavir02_144.lab"
 es
 decir
 si
@@ -5988,6 +6254,8 @@ basicos
 de
 una
 empresa
+.
+"*/mavir02_145.lab"
 porque
 como
 hemos
@@ -6005,6 +6273,8 @@ empresas
 que
 base
 tecnologica
+.
+"*/mavir02_146.lab"
 vale
 es
 decir
@@ -6044,6 +6314,8 @@ los
 que
 estamos
 aqui
+.
+"*/mavir02_147.lab"
 es
 decir
 son
@@ -6065,6 +6337,8 @@ lo
 mejor
 es
 tecnologica
+.
+"*/mavir02_148.lab"
 punto
 y
 final
@@ -6116,6 +6390,8 @@ ya
 esta
 escrito
 no
+.
+"*/mavir02_149.lab"
 es
 decir
 si
@@ -6132,6 +6408,8 @@ o
 hacerse
 un
 curso
+.
+"*/mavir02_150.lab"
 yo
 ya
 añadir
@@ -6147,6 +6425,8 @@ es
 una
 mala
 idea
+.
+"*/mavir02_151.lab"
 es
 decir
 hay
@@ -6164,6 +6444,8 @@ que
 tu
 puedes
 tener
+.
+"*/mavir02_152.lab"
 digo
 o
 si
@@ -6199,6 +6481,8 @@ que
 el
 lo
 necesita
+.
+"*/mavir02_153.lab"
 entonces
 una
 empresa
@@ -6277,6 +6561,8 @@ y
 unos
 buenos
 rotos
+.
+"*/mavir02_154.lab"
 tres
 cinco
 años
@@ -6297,6 +6583,8 @@ al
 tercer
 o
 quinto
+.
+"*/mavir02_155.lab"
 cuando
 ya
 te
@@ -6315,6 +6603,8 @@ mas
 mas
 complicado
 no
+.
+"*/mavir02_156.lab"
 enric
 algun
 comentario
@@ -6343,6 +6633,8 @@ un
 buen
 departamento
 comercial
+.
+"*/mavir02_157.lab"
 que
 a
 fin
@@ -6407,6 +6699,8 @@ sobre
 todo
 una
 ambicion
+.
+"*/mavir02_158.lab"
 porque
 es
 muy
@@ -6442,6 +6736,8 @@ que
 nivel
 quiere
 llegar
+.
+"*/mavir02_159.lab"
 es
 un
 aspecto
@@ -6482,6 +6778,8 @@ demas
 que
 somos
 nosotros
+.
+"*/mavir02_160.lab"
 no
 es
 lo
@@ -6519,6 +6817,8 @@ que
 es
 la
 empresa
+.
+"*/mavir02_161.lab"
 eso
 va
 a
@@ -6541,6 +6841,8 @@ a
 donde
 queremos
 llegar
+.
+"*/mavir02_162.lab"
 que
 nuestra
 empresa
@@ -6554,6 +6856,8 @@ aquella
 facturacion
 que
 queremos
+.
+"*/mavir02_163.lab"
 no
 se
 pueden
@@ -6573,6 +6877,8 @@ una
 administrativa
 y
 un
+.
+"*/mavir02_164.lab"
 de
 la
 misma
@@ -6644,6 +6950,8 @@ ambicion
 necesaria
 para
 empujar
+.
+"*/mavir02_165.lab"
 porque
 llevar
 tirar
@@ -6679,6 +6987,8 @@ administracion
 de
 empresas
 directamente
+.
+"*/mavir02_166.lab"
 esta
 es
 la
@@ -6715,6 +7025,8 @@ ya
 no
 los
 tenemos
+.
+"*/mavir02_167.lab"
 una
 empresa
 no
@@ -6727,6 +7039,8 @@ mba
 no
 es
 eso
+.
+"*/mavir02_168.lab"
 una
 empresa
 es
@@ -6748,6 +7062,8 @@ ayudas
 o
 los
 auxilios
+.
+"*/mavir02_169.lab"
 es
 mas
 importante
@@ -6775,6 +7091,8 @@ contabilidad
 la
 llevas
 bien
+.
+"*/mavir02_170.lab"
 porque
 es
 importante
@@ -6807,6 +7125,8 @@ no
 vale
 para
 nada
+.
+"*/mavir02_171.lab"
 eh
 necesitas
 disponer
@@ -6822,6 +7142,8 @@ lo
 que
 sea
 necesario
+.
+"*/mavir02_172.lab"
 pero
 sobre
 todo
@@ -6836,6 +7158,8 @@ la
 idea
 de
 meter
+.
+"*/mavir02_173.lab"
 y
 eso
 cualquiera
@@ -6857,6 +7181,8 @@ luchar
 y
 a
 sacrificarse
+.
+"*/mavir02_174.lab"
 pero
 eso
 me
@@ -6892,6 +7218,8 @@ ser
 capaces
 de
 movernos
+.
+"*/mavir02_175.lab"
 lo
 unico
 que
@@ -6907,6 +7235,8 @@ empresa
 es
 funcionario
 publico
+.
+"*/mavir02_176.lab"
 es
 lo
 unico
@@ -6926,6 +7256,8 @@ ser
 en
 tu
 vida
+.
+"*/mavir02_177.lab"
 yo
 creo
 que
@@ -6952,6 +7284,8 @@ de
 analisis
 de
 mercado
+.
+"*/mavir02_178.lab"
 ese
 ese
 es
@@ -6982,6 +7316,8 @@ permite
 llegar
 al
 mercado
+.
+"*/mavir02_179.lab"
 porque
 nosotros
 con
@@ -7004,6 +7340,8 @@ nos
 de
 la
 gana
+.
+"*/mavir02_180.lab"
 lo
 que
 queramos
@@ -7052,6 +7390,8 @@ la
 tiene
 que
 crear
+.
+"*/mavir02_181.lab"
 y
 normalmente
 ese
@@ -7080,6 +7420,8 @@ que
 ser
 un
 comercial
+.
+"*/mavir02_182.lab"
 que
 sepa
 llegar
@@ -7105,6 +7447,8 @@ cumplimentar
 esa
 esa
 necesidad
+.
+"*/mavir02_183.lab"
 yo
 creo
 que
@@ -7131,6 +7475,8 @@ tu
 tecnologia
 es
 capaz
+.
+"*/mavir02_184.lab"
 es
 capaz
 de
@@ -7160,6 +7506,8 @@ muy
 dificil
 de
 comunicar
+.
+"*/mavir02_185.lab"
 muy
 bien
 yo
@@ -7190,6 +7538,8 @@ y
 lo
 vamos
 resolviendo
+.
+"*/mavir02_186.lab"
 pero
 bueno
 justo
@@ -7214,6 +7564,8 @@ empresa
 y
 la
 investigacion
+.
+"*/mavir02_187.lab"
 en
 el
 mundo
@@ -7242,6 +7594,8 @@ fundamentalmente
 tambien
 publicaciones
 no
+.
+"*/mavir02_188.lab"
 se
 publica
 como
@@ -7271,6 +7625,8 @@ grupo
 en
 la
 universidad
+.
+"*/mavir02_189.lab"
 entran
 en
 juego
@@ -7289,6 +7645,8 @@ fin
 este
 tipo
 de
+.
+"*/mavir02_190.lab"
 la
 relacion
 entre
@@ -7306,6 +7664,8 @@ se
 constituye
 una
 empresa
+.
+"*/mavir02_191.lab"
 la
 diferencia
 principal
@@ -7316,6 +7676,8 @@ en
 el
 objetivo
 final
+.
+"*/mavir02_192.lab"
 la
 empresa
 tiene
@@ -7351,6 +7713,8 @@ que
 tenia
 cuando
 empezo
+.
+"*/mavir02_193.lab"
 entonces
 eso
 marca
@@ -7364,6 +7728,8 @@ en
 isoco
 si
 publicamos
+.
+"*/mavir02_194.lab"
 cuando
 podemos
 publicamos
@@ -7381,6 +7747,8 @@ en
 el
 mismo
 area
+.
+"*/mavir02_195.lab"
 ahora
 en
 en
@@ -7394,6 +7762,8 @@ objetivo
 en
 si
 mismo
+.
+"*/mavir02_196.lab"
 en
 isoco
 el
@@ -7419,6 +7789,8 @@ proyecto
 con
 con
 exito
+.
+"*/mavir02_197.lab"
 pero
 el
 objetivo
@@ -7434,6 +7806,8 @@ una
 empresa
 de
 transferencia
+.
+"*/mavir02_198.lab"
 no
 hacemos
 investigacion
@@ -7448,6 +7822,8 @@ sea
 muy
 lejana
 no
+.
+"*/mavir02_199.lab"
 bueno
 pero
 hay
@@ -7481,6 +7857,8 @@ hace
 alguno
 un
 doctorado
+.
+"*/mavir02_200.lab"
 entonces
 ahi
 alguna
@@ -7512,6 +7890,8 @@ lo
 hacemos
 esto
 no
+.
+"*/mavir02_201.lab"
 pues
 ahi
 tambien
@@ -7571,6 +7951,8 @@ producto
 de
 alguna
 manera
+.
+"*/mavir02_202.lab"
 y
 nuestra
 preocupacion
@@ -7615,6 +7997,8 @@ unos
 codigos
 muy
 sucios
+.
+"*/mavir02_203.lab"
 y
 te
 pasas
@@ -7626,6 +8010,8 @@ aqui
 limpiando
 el
 codigo
+.
+"*/mavir02_204.lab"
 empiezan
 a
 hablar
@@ -7648,6 +8034,8 @@ pues
 sera
 asi
 no
+.
+"*/mavir02_205.lab"
 en
 este
 momento
@@ -7666,6 +8054,8 @@ tema
 de
 estos
 no
+.
+"*/mavir02_206.lab"
 limpiando
 el
 codigo
@@ -7713,6 +8103,8 @@ entregar
 el
 producto
 no
+.
+"*/mavir02_207.lab"
 desde
 la
 la
@@ -7746,6 +8138,8 @@ trabajarlo
 un
 poco
 no
+.
+"*/mavir02_208.lab"
 y
 tambien
 el
@@ -7793,6 +8187,8 @@ convendria
 que
 hiciese
 eso
+.
+"*/mavir02_209.lab"
 y
 casar
 el
@@ -7825,6 +8221,8 @@ momento
 en
 la
 universidad
+.
+"*/mavir02_210.lab"
 o
 en
 nuestro
@@ -7857,6 +8255,8 @@ y
 que
 es
 importante
+.
+"*/mavir02_211.lab"
 nosotros
 en
 daedalus
@@ -7895,6 +8295,8 @@ la
 investigacion
 y
 viceversa
+.
+"*/mavir02_212.lab"
 lo
 que
 aprendemos
@@ -7934,6 +8336,8 @@ publicitario
 entre
 comillas
 no
+.
+"*/mavir02_213.lab"
 pues
 tienes
 un
@@ -7952,6 +8356,8 @@ que
 puede
 dar
 cierto
+.
+"*/mavir02_214.lab"
 prestigio
 eso
 es
@@ -8060,6 +8466,8 @@ punto
 de
 vista
 practico
+.
+"*/mavir02_215.lab"
 que
 problematica
 os
@@ -8075,6 +8483,8 @@ de
 de
 los
 problemas
+.
+"*/mavir02_216.lab"
 quiza
 terminando
 con
@@ -8093,6 +8503,8 @@ y
 no
 ha
 salido
+.
+"*/mavir02_217.lab"
 pues
 ahi
 bueno
@@ -8103,6 +8515,8 @@ tiene
 un
 problema
 importantisimo
+.
+"*/mavir02_218.lab"
 y
 es
 que
@@ -8121,6 +8535,8 @@ tenga
 tu
 codigo
 fuente
+.
+"*/mavir02_219.lab"
 porque
 es
 un
@@ -8183,6 +8599,8 @@ se
 lo
 proponen
 no
+.
+"*/mavir02_220.lab"
 y
 les
 interesa
@@ -8198,6 +8616,8 @@ para
 ellos
 o
 economico
+.
+"*/mavir02_221.lab"
 entonces
 proteger
 es
@@ -8219,6 +8639,8 @@ persona
 que
 lo
 hizo
+.
+"*/mavir02_222.lab"
 porque
 creen
 que
@@ -8253,6 +8675,8 @@ tio
 que
 escribe
 otra
+.
+"*/mavir02_223.lab"
 no
 hay
 dos
@@ -8275,6 +8699,8 @@ cien
 veces
 ademas
 eh
+.
+"*/mavir02_224.lab"
 entonces
 no
 el
@@ -8306,6 +8732,8 @@ eso
 no
 es
 verdad
+.
+"*/mavir02_225.lab"
 con
 todos
 mis
@@ -8343,6 +8771,8 @@ vas
 a
 tu
 casa
+.
+"*/mavir02_226.lab"
 y
 no
 tienes
@@ -8375,6 +8805,8 @@ de
 hoy
 en
 dia
+.
+"*/mavir02_227.lab"
 bueno
 pues
 tu
@@ -8397,6 +8829,8 @@ te
 lo
 ha
 pagado
+.
+"*/mavir02_228.lab"
 bueno
 o
 sea
@@ -8415,6 +8849,8 @@ dificil
 nos
 alargariamos
 mucho
+.
+"*/mavir02_229.lab"
 es
 decir
 la
@@ -8484,6 +8920,8 @@ registro
 de
 propiedad
 intelectual
+.
+"*/mavir02_230.lab"
 vale
 sin
 eso
@@ -8575,6 +9013,8 @@ instrumentos
 legales
 de
 proteccion
+.
+"*/mavir02_231.lab"
 patentes
 no
 existen
@@ -8591,6 +9031,8 @@ de
 la
 propiedad
 intelectual
+.
+"*/mavir02_232.lab"
 que
 es
 relativamente
@@ -8623,6 +9065,8 @@ importa
 que
 sean
 nuestras
+.
+"*/mavir02_233.lab"
 en
 el
 sentido
@@ -8652,6 +9096,8 @@ hecho
 y
 lo
 usaran
+.
+"*/mavir02_234.lab"
 no
 lo
 venderan
@@ -8681,6 +9127,8 @@ economico
 por
 esta
 situacion
+.
+"*/mavir02_235.lab"
 a
 lo
 mejor
@@ -8705,6 +9153,8 @@ que
 esto
 genere
 problemas
+.
+"*/mavir02_236.lab"
 no
 estan
 compitiendo
@@ -8726,6 +9176,8 @@ de
 cara
 a
 posibles
+.
+"*/mavir02_237.lab"
 yo
 no
 no
@@ -8746,6 +9198,8 @@ no
 sea
 transmisible
 facilmente
+.
+"*/mavir02_238.lab"
 pero
 en
 general
@@ -8779,6 +9233,8 @@ se
 respetan
 los
 derechos
+.
+"*/mavir02_239.lab"
 en
 principio
 y
@@ -8791,6 +9247,8 @@ problemas
 de
 este
 tipo
+.
+"*/mavir02_240.lab"
 pero
 existe
 si
@@ -8811,6 +9269,8 @@ que
 hay
 mayores
 problemas
+.
+"*/mavir02_241.lab"
 porque
 hay
 algunas
@@ -8864,6 +9324,8 @@ someter
 a
 software
 libre
+.
+"*/mavir02_242.lab"
 en
 el
 sentido
@@ -8884,6 +9346,8 @@ excesivamente
 el
 el
 programa
+.
+"*/mavir02_243.lab"
 lo
 unico
 que
@@ -8930,6 +9394,8 @@ no
 los
 puedes
 liberar
+.
+"*/mavir02_244.lab"
 y
 esto
 nos
@@ -8955,6 +9421,8 @@ corrector
 gramatical
 del
 catalan
+.
+"*/mavir02_245.lab"
 en
 donde
 se
@@ -8989,6 +9457,8 @@ ni
 en
 estos
 momentos
+.
+"*/mavir02_246.lab"
 pero
 no
 nos
@@ -9010,6 +9480,8 @@ mayor
 capacidad
 de
 proteccion
+.
+"*/mavir02_247.lab"
 sobre
 todo
 en
@@ -9054,6 +9526,8 @@ de
 microsoft
 o
 de
+.
+"*/mavir02_248.lab"
 entonces
 bien
 esos
@@ -9078,6 +9552,8 @@ tampoco
 nos
 afecta
 tanto
+.
+"*/mavir02_249.lab"
 no
 se
 yo
@@ -9093,6 +9569,8 @@ software
 libre
 no
 se
+.
+"*/mavir02_250.lab"
 nosotros
 nuestro
 producto
@@ -9109,6 +9587,8 @@ esta
 en
 codigo
 libre
+.
+"*/mavir02_251.lab"
 esta
 en
 internet
@@ -9156,6 +9636,8 @@ las
 necesidades
 del
 cliente
+.
+"*/mavir02_252.lab"
 porque
 evidentemente
 los
@@ -9173,6 +9655,8 @@ org
 pues
 son
 limitados
+.
+"*/mavir02_253.lab"
 y
 si
 tu
@@ -9229,6 +9713,8 @@ a
 tener
 muchos
 problemas
+.
+"*/mavir02_254.lab"
 igual
 le
 va
@@ -9257,6 +9743,8 @@ necesidades
 propias
 del
 cliente
+.
+"*/mavir02_255.lab"
 luego
 en
 temas
@@ -9288,6 +9776,8 @@ de
 las
 entidades
 financieras
+.
+"*/mavir02_256.lab"
 el
 acceso
 etcetera
@@ -9321,6 +9811,8 @@ de
 vista
 un
 problema
+.
+"*/mavir02_257.lab"
 es
 decir
 tienes
@@ -9351,6 +9843,8 @@ en
 esa
 area
 concreta
+.
+"*/mavir02_258.lab"
 en
 este
 momento
@@ -9393,6 +9887,8 @@ colgado
 de
 la
 red
+.
+"*/mavir02_259.lab"
 para
 para
 linux
@@ -9425,6 +9921,8 @@ no
 se
 le
 renovara
+.
+"*/mavir02_260.lab"
 nosotros
 estamos
 renovando
@@ -9459,6 +9957,8 @@ unificado
 todos
 los
 meses
+.
+"*/mavir02_261.lab"
 y
 en
 todos
@@ -9492,6 +9992,8 @@ su
 modelo
 de
 negocio
+.
+"*/mavir02_262.lab"
 igual
 que
 eso
@@ -9507,6 +10009,8 @@ mucho
 y
 bastante
 largamente
+.
+"*/mavir02_263.lab"
 bueno
 no
 nos
@@ -9517,6 +10021,8 @@ acaso
 un
 ultimo
 comentario
+.
+"*/mavir02_264.lab"
 no
 yo
 queria
@@ -9540,6 +10046,8 @@ de
 de
 quien
 investiga
+.
+"*/mavir02_265.lab"
 la
 universidad
 o
@@ -9553,6 +10061,8 @@ se
 interrelaciona
 esta
 investigacion
+.
+"*/mavir02_266.lab"
 por
 lo
 menos
@@ -9564,6 +10074,8 @@ investigacion
 la
 hacemos
 todos
+.
+"*/mavir02_267.lab"
 mas
 o
 menos
@@ -9600,6 +10112,8 @@ tenga
 una
 determinada
 importancia
+.
+"*/mavir02_268.lab"
 en
 la
 empresa
@@ -9624,6 +10138,8 @@ que
 un
 cliente
 tiene
+.
+"*/mavir02_269.lab"
 que
 no
 habia
@@ -9671,6 +10187,8 @@ no
 no
 vendemos
 moviles
+.
+"*/mavir02_270.lab"
 hacemos
 cosas
 especificas
@@ -9765,6 +10283,8 @@ y
 vamos
 a
 cobrarla
+.
+"*/mavir02_271.lab"
 comentar
 aqui
 que
@@ -9780,6 +10300,8 @@ a
 estudiantes
 que
 acaban
+.
+"*/mavir02_272.lab"
 como
 tenemos
 buenas
@@ -9933,6 +10455,8 @@ en
 una
 empresa
 trabajando
+.
+"*/mavir02_273.lab"
 y
 eso
 es
@@ -9956,6 +10480,8 @@ investigador
 de
 esta
 persona
+.
+"*/mavir02_274.lab"
 lo
 cual
 es
@@ -10004,6 +10530,8 @@ esta
 gente
 y
 desarrollarla
+.
+"*/mavir02_275.lab"
 y
 es
 una
@@ -10018,6 +10546,8 @@ deberian
 pensarselo
 dos
 veces
+.
+"*/mavir02_276.lab"
 de
 todas
 maneras
@@ -10032,6 +10562,8 @@ tenemos
 que
 hacer
 todos
+.
+"*/mavir02_277.lab"
 porque
 investigacion
 es
@@ -10060,6 +10592,8 @@ nuestras
 caracteristicas
 debe
 desarrollar
+.
+"*/mavir02_278.lab"
 bueno
 si
 quereis
@@ -10076,6 +10610,8 @@ ya
 por
 por
 fin
+.
+"*/mavir02_279.lab"
 me
 gustaria
 preguntaros
@@ -10101,12 +10637,16 @@ vuestros
 productos
 en
 investigacion
+.
+"*/mavir02_280.lab"
 como
 conseguis
 decir
 lo
 que
 cuestan
+.
+"*/mavir02_281.lab"
 es
 una
 cuestion
@@ -10128,6 +10668,8 @@ como
 dais
 ese
 precio
+.
+"*/mavir02_282.lab"
 es
 una
 cuestion
@@ -10166,6 +10708,8 @@ encontrar
 para
 esa
 solucion
+.
+"*/mavir02_283.lab"
 yo
 creo
 que
@@ -10227,6 +10771,8 @@ propios
 entornos
 de
 trabajo
+.
+"*/mavir02_284.lab"
 vale
 pues
 como
@@ -10260,6 +10806,8 @@ de
 datos
 a
 sus
+.
+"*/mavir02_285.lab"
 entonces
 eso
 es
@@ -10322,18 +10870,24 @@ que
 tienes
 que
 resolver
+.
+"*/mavir02_286.lab"
 entonces
 la
 ecuacion
 perfecta
 no
 se
+.
+"*/mavir02_287.lab"
 yo
 no
 se
 como
 lo
 veis
+.
+"*/mavir02_288.lab"
 yo
 yo
 yo
@@ -10383,6 +10937,8 @@ que
 nos
 cuesta
 producirlo
+.
+"*/mavir02_289.lab"
 y
 es
 asi
@@ -10465,6 +11021,8 @@ por
 lo
 que
 puedes
+.
+"*/mavir02_290.lab"
 por
 lo
 que
@@ -10506,6 +11064,8 @@ haces
 lo
 que
 puedes
+.
+"*/mavir02_291.lab"
 pero
 en
 todo
@@ -10520,6 +11080,8 @@ que
 es
 una
 empresa
+.
+"*/mavir02_292.lab"
 es
 una
 parte
@@ -10561,6 +11123,8 @@ teniamos
 de
 un
 producto
+.
+"*/mavir02_293.lab"
 eh
 hemos
 cerrado
@@ -10591,6 +11155,8 @@ y
 que
 esta
 bien
+.
+"*/mavir02_294.lab"
 pero
 bueno
 que
@@ -10608,6 +11174,8 @@ reyes
 magos
 desgracias
 absolutas
+.
+"*/mavir02_295.lab"
 asi
 se
 venden
@@ -10640,6 +11208,8 @@ que
 te
 puede
 pagar
+.
+"*/mavir02_296.lab"
 eso
 porque
 porque
@@ -10696,6 +11266,8 @@ diseñar
 y
 en
 documentar
+.
+"*/mavir02_297.lab"
 eso
 si
 nosotros
@@ -10721,6 +11293,8 @@ la
 cartera
 de
 clientes
+.
+"*/mavir02_298.lab"
 es
 decir
 por
@@ -10799,6 +11373,8 @@ discusiones
 si
 tienes
 no
+.
+"*/mavir02_299.lab"
 entonces
 es
 el
@@ -10827,6 +11403,8 @@ estas
 herramientas
 lingüisticas
 realmente
+.
+"*/mavir02_300.lab"
 es
 decir
 si
@@ -10866,6 +11444,8 @@ de
 gestion
 para
 ellos
+.
+"*/mavir02_301.lab"
 si
 existe
 si
@@ -10903,6 +11483,8 @@ asi
 arreglamos
 el
 tema
+.
+"*/mavir02_302.lab"
 y
 no
 se
@@ -10924,6 +11506,8 @@ tipo
 de
 situaciones
 no
+.
+"*/mavir02_303.lab"
 es
 decir
 si
@@ -10959,6 +11543,8 @@ de
 herramientas
 puede
 tener
+.
+"*/mavir02_304.lab"
 pues
 igual
 si
@@ -10989,6 +11575,8 @@ cosa
 practica
 enseguida
 no
+.
+"*/mavir02_305.lab"
 pero
 yo
 para
@@ -11021,6 +11609,8 @@ me
 aporta
 a
 mi
+.
+"*/mavir02_306.lab"
 pues
 en
 dinero
@@ -11053,6 +11643,8 @@ menos
 de
 nuestro
 entorno
+.
+"*/mavir02_307.lab"
 no
 se
 como
@@ -11087,6 +11679,8 @@ de
 la
 del
 multilingüismo
+.
+"*/mavir02_308.lab"
 pues
 nada
 algun
@@ -11125,6 +11719,8 @@ nos
 iria
 mucho
 mejor
+.
+"*/mavir02_309.lab"
 es
 decir
 nosotros
@@ -11166,6 +11762,8 @@ su
 lista
 de
 clientes
+.
+"*/mavir02_310.lab"
 aunque
 sea
 mentira
@@ -11271,6 +11869,8 @@ vendiendo
 empresas
 de
 fuera
+.
+"*/mavir02_311.lab"
 que
 no
 saben
@@ -11289,6 +11889,8 @@ euskera
 ni
 el
 gallego
+.
+"*/mavir02_312.lab"
 ni
 les
 interesa
@@ -11316,6 +11918,8 @@ ese
 en
 esa
 piscina
+.
+"*/mavir02_313.lab"
 eh
 pero
 contra
@@ -11365,6 +11969,8 @@ preguntas
 en
 lenguaje
 natural
+.
+"*/mavir02_314.lab"
 o
 sea
 espectacular
@@ -11407,6 +12013,8 @@ o
 lo
 que
 sea
+.
+"*/mavir02_315.lab"
 bueno
 eso
 es
@@ -11468,6 +12076,8 @@ muy
 pequeña
 medida
 no
+.
+"*/mavir02_316.lab"
 yo
 lo
 que
@@ -11478,6 +12088,8 @@ es
 pura
 culpa
 nuestra
+.
+"*/mavir02_317.lab"
 exacto
 eso
 digo
@@ -11522,6 +12134,8 @@ compren
 fuera
 por
 supuesto
+.
+"*/mavir02_318.lab"
 o
 sea
 en
@@ -11547,6 +12161,8 @@ alguien
 alguien
 lo
 cogera
+.
+"*/mavir02_319.lab"
 y
 pasara
 eso
@@ -11593,6 +12209,8 @@ no
 vuelva
 a
 pasar
+.
+"*/mavir02_320.lab"
 como
 tu
 decias
@@ -11606,6 +12224,8 @@ tener
 un
 buen
 comercial
+.
+"*/mavir02_321.lab"
 sobre
 todo
 si
@@ -11667,6 +12287,8 @@ que
 tienen
 buenos
 comerciales
+.
+"*/mavir02_322.lab"
 y
 eso
 es
@@ -11692,6 +12314,8 @@ como
 como
 las
 nuestras
+.
+"*/mavir02_323.lab"
 bueno
 hay
 otros
@@ -11722,6 +12346,8 @@ venir
 aqui
 a
 vender
+.
+"*/mavir02_324.lab"
 a
 que
 si
@@ -11739,6 +12365,8 @@ facilidad
 de
 acceso
 al
+.
+"*/mavir02_325.lab"
 mercado
 pero
 mejor
@@ -11771,6 +12399,8 @@ profeta
 en
 su
 tierra
+.
+"*/mavir02_326.lab"
 pero
 existen
 mecanismos
@@ -11792,6 +12422,8 @@ parece
 que
 hay
 mercado
+.
+"*/mavir02_327.lab"
 es
 decir
 para
@@ -11816,6 +12448,8 @@ parece
 que
 hay
 mercado
+.
+"*/mavir02_328.lab"
 o
 el
 mercado
@@ -11861,6 +12495,8 @@ con
 el
 comentario
 anterior
+.
+"*/mavir02_329.lab"
 muchas
 veces
 cuando
@@ -11884,6 +12520,8 @@ para
 conseguir
 una
 cosa
+.
+"*/mavir02_330.lab"
 entonces
 tu
 no
@@ -11903,6 +12541,8 @@ que
 te
 estan
 ofertando
+.
+"*/mavir02_331.lab"
 es
 una
 situacion
@@ -11918,6 +12558,8 @@ simplemente
 despreciar
 este
 proyecto
+.
+"*/mavir02_332.lab"
 nosotros
 o
 al
@@ -11937,6 +12579,8 @@ un
 pais
 de
 innovadores
+.
+"*/mavir02_333.lab"
 o
 de
 gente
@@ -11970,6 +12614,8 @@ tiene
 un
 sistema
 nuevo
+.
+"*/mavir02_334.lab"
 lo
 que
 hablamos
@@ -11986,6 +12632,8 @@ sueco
 porque
 son
 suecos
+.
+"*/mavir02_335.lab"
 entonces
 y
 alli
@@ -12008,6 +12656,8 @@ y
 la
 estan
 aplicando
+.
+"*/mavir02_336.lab"
 bien
 quiero
 decir
@@ -12027,6 +12677,8 @@ ikea
 viniera
 a
 hacerlo
+.
+"*/mavir02_337.lab"
 nadie
 yo
 no
@@ -12061,6 +12713,8 @@ consulta
 en
 lenguaje
 natural
+.
+"*/mavir02_338.lab"
 ni
 se
 me
@@ -12125,6 +12779,8 @@ tener
 para
 ser
 primero
+.
+"*/mavir02_339.lab"
 el
 unico
 momento
@@ -12164,6 +12820,8 @@ a
 abusar
 como
 brutos
+.
+"*/mavir02_340.lab"
 entonces
 no
 tienen
@@ -12212,6 +12870,8 @@ de
 inversion
 en
 id
+.
+"*/mavir02_341.lab"
 por
 que
 dice
@@ -12268,6 +12928,8 @@ treinta
 o
 cuarenta
 veces
+.
+"*/mavir02_342.lab"
 o
 se
 ha
@@ -12304,6 +12966,8 @@ de
 cosas
 de
 aplicaciones
+.
+"*/mavir02_343.lab"
 aqui
 no
 lo
@@ -12540,6 +13204,8 @@ trabajos
 del
 mes
 no
+.
+"*/mavir02_344.lab"
 el
 mercado
 de
@@ -12556,6 +13222,8 @@ que
 exige
 mucho
 esfuerzo
+.
+"*/mavir02_345.lab"
 y
 es
 un
@@ -12570,6 +13238,8 @@ nosotros
 lo
 a
 ver
+.
+"*/mavir02_346.lab"
 estamos
 creando
 el
@@ -12598,6 +13268,8 @@ con
 las
 actividades
 sociales
+.
+"*/mavir02_347.lab"
 para
 que
 socialmente
@@ -12620,6 +13292,8 @@ que
 cualquier
 otra
 cosa
+.
+"*/mavir02_348.lab"
 porque
 lo
 conoce
@@ -12650,6 +13324,8 @@ catalan
 ni
 de
 nada
+.
+"*/mavir02_349.lab"
 simplemente
 porque
 nadie
@@ -12691,6 +13367,8 @@ al
 final
 tengas
 exito
+.
+"*/mavir02_350.lab"
 bueno
 vamos
 yendo
@@ -12724,6 +13402,8 @@ a
 las
 preguntas
 de
+.
+"*/mavir02_351.lab"
 no
 porque
 nosotros
@@ -12750,6 +13430,8 @@ que
 es
 la
 lengua
+.
+"*/mavir02_352.lab"
 es
 decir
 el
@@ -12786,6 +13468,8 @@ el
 mercado
 del
 euskera
+.
+"*/mavir02_353.lab"
 es
 decir
 nosotros
@@ -12808,6 +13492,8 @@ mas
 vendido
 del
 mercado
+.
+"*/mavir02_354.lab"
 que
 copa
 el
@@ -12867,6 +13553,8 @@ no
 entremos
 en
 politica
+.
+"*/mavir02_355.lab"
 de
 catalanohablantes
 entonces
@@ -12890,6 +13578,8 @@ posibles
 incursiones
 del
 exterior
+.
+"*/mavir02_356.lab"
 pero
 nuestro
 problema
@@ -12929,6 +13619,8 @@ pues
 no
 lo
 entiendo
+.
+"*/mavir02_357.lab"
 a
 nosotros
 nos
@@ -12961,9 +13653,13 @@ dado
 ni
 una
 peseta
+.
+"*/mavir02_358.lab"
 eso
 es
 asi
+.
+"*/mavir02_359.lab"
 por
 que
 porque
@@ -12982,6 +13678,8 @@ capaces
 de
 hacer
 eso
+.
+"*/mavir02_360.lab"
 y
 se
 van
@@ -13022,6 +13720,8 @@ para
 no
 conseguir
 nada
+.
+"*/mavir02_361.lab"
 bueno
 pero
 tambien
@@ -13060,6 +13760,8 @@ les
 podiamos
 conseguir
 algo
+.
+"*/mavir02_362.lab"
 es
 decir
 ese
@@ -13086,6 +13788,8 @@ tecnologia
 del
 pais
 funcione
+.
+"*/mavir02_363.lab"
 y
 cuando
 pusimos
@@ -13101,6 +13805,8 @@ gente
 de
 la
 administracion
+.
+"*/mavir02_364.lab"
 es
 que
 mira
@@ -13160,6 +13866,8 @@ al
 respecto
 por
 aqui
+.
+"*/mavir02_365.lab"
 pues
 si
 no
@@ -13201,6 +13909,8 @@ acceso
 a
 la
 informacion
+.
+"*/mavir02_366.lab"
 entonces
 pues
 ahi
@@ -13218,6 +13928,8 @@ era
 lo
 que
 hacian
+.
+"*/mavir02_367.lab"
 o
 sea
 si
@@ -13277,6 +13989,8 @@ va
 a
 pensar
 poco
+.
+"*/mavir02_368.lab"
 entonces
 ademas
 de
@@ -13308,6 +14022,8 @@ son
 proyectos
 muy
 especiales
+.
+"*/mavir02_369.lab"
 son
 proyectos
 que
@@ -13357,6 +14073,8 @@ vez
 que
 el
 proyecto
+.
+"*/mavir02_370.lab"
 y
 y
 y
@@ -13371,6 +14089,8 @@ el
 caracter
 del
 proyecto
+.
+"*/mavir02_371.lab"
 pues
 muy
 bien
@@ -13381,3 +14101,5 @@ por
 aqui
 habia
 una
+.
+"*/mavir02_372.lab"

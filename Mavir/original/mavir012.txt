@@ -1,0 +1,1481 @@
+DET entonces / &eh bueno / entonces la charla la voy a dar &eh [/] en español con subtítulos en inglés  00:05
+
+DET   y &mm / bueno la idea de esta charla es / hablarle yo &pe / o sea / uno siempre cuando tiene que proponer una charla uno no sabe a quién le va a estar hablando / entonces yo pensé / y espero que mi hipótesis sea la correcta / que es / para hablar a la gente que sabe algo de búsqueda de información basada en texto  00:23
+
+DET  y / la idea es / no mostrarlo en lo que se &hac [/] bueno sí / lo que se hace [/] lo que se está haciendo ahora / un poco más allá del texto / como que para que los que hacen que trabajan con texto / darle algunas ideas de ir más allá / ¿no?  00:36
+
+DET  para poder ir hacia [/] hacia el tema del multimedia  00:38
+
+DET  este / este trabajo / bueno / o sea / es bajo mi nombre pero en realidad hay mucha gente que ha trabajado para mí / en general son los estudiantes que hacen el trabajo entonces / bueno / nos los voy a citar porque si no no entra / ¿no? / en la [/] en la primera página  00:53
+
+DET  pero / bueno / entonces / lo que quería decir / es / que bueno / los que han estado en la clase que he presentado aquí donde [/] durante los últimos dos días / que / a pesar del hecho de que multimedia tiene la palabra multi / eso no quiere decir / que vamos a ver muchas medias / puede pasar / pero en general se trata una de las medias que no es texto y eso se [/] de [/] así hablamos del multimedia  01:18
+
+DET  como la charla no es muy muy larga / lo que voy a hacer es / que les voy a presentar / todo sobre / &eh / imagen entonces deberíamos cambiar el título para / Beyond text-besed/ image retrieval / aunque muchas de estas ideas se pueden pasar al sonido / como lo pude mostrar / los últimos días a [/] a los alumnos de la [/] de la UNED y de la Carlos Tercero  01:36
+
+DET  y creo que también de la politécnica  01:39
+
+DET  ¿ok?  01:40
+
+DET  entonces bueno / ¿ por qué Text-based &eh [/] qué es esto de Text-based multimedia retrieval ?  01:46
+
+DET  bueno / lo típico / es / un motor / por ejemplo Google Images Search / donde uno pone una palabra / y de manera mágica / aparecen / imágenes que son excelentes  01:57
+
+DET  por ejemplo / uno pone una query / por ejemplo mi nombre / y aparecen cuadros / de mi papá / o aparecen &im [/] el [/] la portada de un libro que hizo mi mamá  02:07
+
+DET  y entonces / ¿ cómo hace / el sistema / para ser tan inteligente / para conseguir este tipo de imágenes / no ?  02:13
+
+DET  entonces / esa es una de las primeras preguntas que [/] que las vamos a ver enseguida // pero esto es el hecho de que funcione tan bien / ha hecho que simplemente toda la gente que hace &servi [/] &eh [/] productos comerciales / usa el texto  02:26
+
+DET  el texto es de verdad un método genial para conseguir información multimedia  02:31
+
+DET  ¿ en qué se basa este &te [/] este método ?   02:33
+
+DET bueno / es muy simple o sea / va a buscar / dentro de la página / va a buscar por ejemplo / si hay un link / y a ver si pasa algo / por ejemplo / sale algo sobre mi nombre / consigue la página / y basado en esto / va a decir / ah / bueno / aquí hay algo interesante / y [/] &eh [/] y va a agarrar por ejemplo el nombre / de [/] de la imagen / que va a ser / por ejemplo / xxx / y a &pas [/] a partir de eso va a decir / ok / genial  02:58
+
+DET  eso debe ser / de xxx / ese debe ser de xxx {%com: pointing at the screen}  03:02
+
+DET  ahora / si ahora he puesto / un nombre de otra persona / hubiese puesto por ejemplo Nurenberger punto xxx / entonces hubiese aparecido / Nurenberger  03:09
+
+DET  ¿ok?  03:11
+
+DET  bueno / &bas [/] eso es básicamente / y me imagino que ustedes todos lo tienen claro / es el truco / de / conseguir la información / basado en texto  03:19
+
+DET  entonces / ah / bueno esto era para dar el ejemplo / de [/] de buscar la palabra  03:25
+
+DET  entonces / ¿ qué es lo que vamos a ver en esta presentación ?  03:29
+
+DET  bueno / lo primero que vamos a ver es / que puede pasar / aunque ustedes no lo crean / que puede pasar es / que / no hay información textos  03:39
+
+DET  o que tenemos una imagen / y simplemente no está muy bien anotada  03:42
+
+DET  eso fue todo lo que les presentó esta mañana Paul  03:45
+
+DET  y / bueno entonces la idea sería / bueno cómo hacer / para crear ese texto / porque si el texto funciona también / bueno genial  03:51
+
+DET  vamos a hacerlo  03:53
+
+DET  por esa misma razón / toda la [/] la Unión Europea / financia muy bien este tipo de proyectos porque le parece / ¡ah! / como el texto funciona bien / vamos a hacer algo / que nos permita automáticamente / a partir de una imagen / hacer un texto  04:06
+
+DET  esa es la idea que hay en el CLEF  04:08
+
+DET  el CLEF / la idea es decir / ah bueno / como hay sistemas de traducción / de texto a texto / no podríamos hacer / un sistema de traducción por ejemplo / de imagen a texto  04:17
+
+DET  que no era la idea inicial / pero es la idea que se está haciendo ahora mucho / en CLEF  04:22
+
+DET  entonces / &eh [/] a ese tema [/] cuando veamos ese tema / de repente va a ser con la = ¡guau!  04:29
+
+DET  ¿ qué pasó ? {%com: problem with the image on the screen}  04:30
+
+DET  yo no veo  04:31
+
+DET  ahí ven el [/] ¿ ven el / mouse o no ?  04:38
+
+DET  ok / entonces lo que vamos a ver / es / una técnica un poco particular / que crea / algo que se llaman diccionarios / visuales  04:48
+
+DET  y / vamos a ver que esto es bastante parecido al texto y se [/] y yo pienso que las técnicas de texto más avanzadas / pueden ayudar aquí / a obtener algo más interesante  04:58
+
+DET  les voy a demostrar eso  04:59
+
+DET  pero / como / estos métodos no son / perfectos / vamos a ver otro axis / que sería un axis intermedio / de / cómo combinar / textos y imágenes / ¿no?  05:09
+
+DET  entonces aquí la idea va a ser por ejemplo / cómo mejorar un Text-based retrieval clásico como el que acabamos de ver / el de Google Search / y cómo hacer para mejorarlo / usando / conceptos visuales  05:19
+
+DET  ¿ok?  05:21
+
+DET  y / la tercera parte / es / algo completamente / diferente que les puede parecer raro / es / vamos a ver si podemos conseguir texto / pero esta vez utilizando imágenes  05:33
+
+DET  parece raro / parece difícil / bueno los que se queden hasta el final / lo verán  05:38
+
+DET  ok  05:40
+
+DET  entonces / por qué es / por qué puede ser / este / interesante de tratar / de no solamente focalizarse en el texto pero si no / focalizar un poco en el media / es que de repente puede ser que no hay / no hay texto simplemente alrededor  05:56
+
+DET  ahora lo que puede también pasar / es / que / el media que está alrededor / no describe la imagen  06:02
+
+DET  por ejemplo / podemos tener / una foto de un personaje vestido de / azul o de verde o de lo que sea / y la descripción / o un producto comercial / y la descripción / no tiene la información / escrita / de manera escrita en el texto / de qué es el &co [/] los colores que aparecen en esa imagen  06:19
+
+DET  entonces / en ese caso / no vamos a poder conseguir / esa imagen basado en el texto porque simplemente / en el texto esa información no aparece  06:27
+
+DET  ¿ok?  06:29
+
+DET  entonces bueno la idea es / ok / muy bien / vamos a agarrar / y vamos a hacer / un / traductor automático / que nos va a transformar / el media / en el texto  06:37
+
+DET  es un poco también lo que se hace [/] que se está empezando a hacer ahora / con el audio  06:41
+
+DET  en el audio lo que se hace es / bueno vamos a tratar de hacer un sistema / un motor / por ejemplo el proyecto europeo Cuero / bueno vamos a buscar información dentro del video / bueno la idea es decir bueno / ¿ que de dónde podemos sacar texto ?  06:53
+
+DET  ¡ah! / trascripción automática  06:55
+
+DET  entonces conseguimos el texto / y así vamos a poder conseguir información / dentro / del audio / dentro del [/] del media / basándose en el texto  07:04
+
+DET  ¿ok?  07:05
+
+DET  bueno / entonces si necesitan un traductor / hay &don [/] hay [/] hay básicamente / dos maneras  07:10
+
+DET  una es decir / ok / hacemos eso de manera manual / lo que pasa es que uno cuesta mucho  07:14
+
+DET  segundo / es muy muy lento  07:17
+
+DET  y con la cantidad de información / que tenemos / y que aparece cada día va a ser bastante difícil  07:22
+
+DET  y además / si pasamos a grandes escalas / vamos a tener un problema de / lo que hablaban / esta mañana la [/] la gente que trabaja en documentación / que es bastante difícil para poder / tener &u [/] un vocabulario / unificado / y / &eh / que sea / igual para todas las personas que anotan  07:39
+
+DET  ese se puede complicar muy rápidamente  07:41
+
+DET  pero / claro / la calidad de la anotación puede ser bastante / de alta calidad  07:45
+
+DET  entonces / la idea es / inventar un sistema / donde uno puede mostrar una imagen / y esa imagen les va a decir a ustedes / ¡ah! / ok  07:52
+
+DET  lo que yo veo ahí / es / no sé / cielo por ejemplo o / veo un poco de [/] de hierbas / o veo un bosque o veo un lago  08:00
+
+DET  que hay simple [/] eso son lo que / más o menos clasificadores bastante simples  08:04
+
+DET  entonces / ¿ cómo [/] cómo se puede hacer / un clasificador de ese tipo ?  08:09
+
+DET  hay / básicamente dos ideas  08:11
+
+DET  una es / inventar / como una receta de cocina / que dice / por ejemplo / si hacemos tal cosa tal cosa entonces detectamos / que hay / por ejemplo / una cara  08:22
+
+DET  una técnica muy especializada / para un &contep [/] un concepto / muy especializado  08:26
+
+DET  este / para presentarles eso debería presentarle a ustedes concepto por concepto del diccionario y explicarles la técnica específica / ¿no?  08:34
+
+DET  entonces lo que nosotros proponemos / o que / más bien / la comunidad científica / propone es / utilizar algo como / machine learning / aprendizaje / artificial / y la idea es / de aprender a partir de ejemplos  08:47
+
+DET  o sea / le vamos a mostrar a la máquina / ejemplos / la &ma [/] la [/] la [/] la computadora o el algoritmo va a tratar de generalizar / algo / conseguir / alguna repetición dentro de la información / algo en lo que se va a repetir / y nos va a extraer esa información / y cuando mostramos algo nuevo / va a decir ok  09:05
+
+DET  vamos a aprender  09:06
+
+DET  ¿ cómo ?  09:07
+
+DET  para darles un ejemplo / vamos a tener ejemplos / positivos y negativos / que pueden ser que sea o carros de un lado y cualquier cosa del otro / o vacas de un lado y [/] y cualquier cosa  09:16
+
+DET  se lo mostramos al sistema de clasificación / y él va a aprender / no sé / cualquier cosa / alguna regularidad / algo que se repita mucho en esta imagen / o algo que se repita en este grupo de imágenes / y después / en una segunda etapa / lo que vamos a hacer / si presentamos una vaca / a ver / bueno / qué es / es / ¿ un carro / o una vaca ?  09:36
+
+DET  entonces nos va a dar / una probabilidad / o un grado / para saber / si es un carro o una vaca  09:41
+
+DET  esa es básicamente la idea de la xxx automática  09:44
+
+DET  ¿ok?  09:45
+
+DET  entonces / este / qué es importante en xxx sistemas / es que tenemos que tener / un / conjunto de imágenes / que fueron / anotadas manualmente / y son la base de nuestro aprendizaje  10:01
+
+DET  esto puede parecer primero simple pero / como nos vamos a basar en imágenes / como vamos a tratar de generalizar / es bastante dependiente a lo que uno aprende  10:11
+
+DET  si uno &mu [/] &ap [/] muestra / cierto tipo de imágenes la computadora va a &tro [/] conseguir una generalización / bastante grande = &eh / basada en lo que presentamos  10:19
+
+DET  por ejemplo / si yo presento estos / y le digo a la computadora qué / bueno / ¿ cómo hace uno para aprender ?  10:25
+
+DET  de repente lo muestro acá  10:26
+
+DET  si uno = ¿ cómo hace uno para aprender / que esto son vacas ?  10:30
+
+DET  yo / si fuese la computadora / digo mira / fíjense en la esquina derecha / abajo / siempre es verde  10:37
+
+DET  ¿ok?  10:38
+
+DET  entonces si yo veo / una imagen donde / abajo / a la derecha / es verde / es que tengo una vaca  10:44
+
+DET  entonces el hecho / de / elegir / la información / es bastante [/] es bastante importante y es bastante complicado  10:51
+
+DET  y si se hace muy muy general / entonces no aprendemos nada tampoco  10:56
+
+DET  ¿ok?  10:56
+
+DET  entonces todo esto es un tema de investigación que no [/] no voy a hablar mucho / en [/] en esta charla / ¿no?  11:01
+
+DET  pero se [/] lo quería [/] lo quería tener &eh presente  11:04
+
+DET  ok  11:05
+
+DET  aquí / el número de / clasificadores que vamos a tener / es del tamaño del diccionario  11:10
+
+DET  o sea que para cada / &co [/]vocablo que uno quiere nuevo / vamos a tener / que aprender un clasificador nuevo / por ejemplo / si es un SVM / vamos a poner un SVM / si es no sé qué / vamos a tener / uno nuevo / y puede ser hasta un grupo de clasificadores / por / cada concepto que vamos a querer aprender  11:26
+
+DET  este / para ustedes que trabajan / si trabajan con cosas lingüísticas y tal / en el caso de multimedia / en el caso de estudios de este tipo / no hay relación entre las palabras  11:37
+
+DET  si no hay / en general hay muy pocos trabajos en los cuales / efectivamente se aprende / y se aprende / por ejemplo / las relaciones / al mismo tiempo / entre los diferentes conceptos  11:46
+
+DET  entonces bueno / simplemente es plano / un diccionario plano / de conceptos bastante simples / y gente que estudia / cómo vamos a hacer para elegir los conceptos que queremos  11:56
+
+DET  y que podemos aprender  11:58
+
+DET  entonces / ¿ cuál es el problema más grande que tenemos ?  12:01
+
+DET  porque puede parecer / claro si vemos lo que [/] lo que teníamos hace un segundo / este problema les parece bastante simple / a ustedes  12:10
+
+DET  lo que pasa / es que la computadora yo no le puedo presentar / la imagen tal cual / sino que tengo que transformar / esta imagen / en un vector / que va a representar / esta imagen / dentro de la computadora  12:21
+
+DET  y al representar esto / lo que yo tengo / a mano / es / la señal / que es píxel por píxel / y tengo el color / básicamente de cada uno de los puntos / porque eso es &as [/] así / que nosotros podemos representar / la imagen / en la computadora  12:35
+
+DET  y / el / &en [/] de un lado tenemos esta representación que es un vector / imagínense ustedes un vector / y del otro lado tengo una imagen  12:42
+
+DET  la imagen nosotros la podemos representar / muy bien / y podemos / analizarla como seres humanos y de [/] por el otro lado el vector no lo podemos entender / y la computadora / parece que tampoco  12:52
+
+DET  y la diferencia entre estos dos extremos / es lo que llamo el semantic gap / que / ya oímos esta noción esta mañana / ¿no?  12:59
+
+DET  entonces / ¿ qué es lo que podemos extraer de las imágenes ?  13:04
+
+DET  bueno / de los píxel podemos sacar / píxel por píxel / podemos sacarle el color  13:08
+
+DET  después / viendo / cómo se comporta un píxel con otro / por ejemplo / si se repiten / podemos ver si hay textura / si hay algo que se repite / de manera horizontal tipo una cebra / entonces tenemos una textura / ¿no?  13:19
+
+DET  y podemos / descubrir otro tipo de cosas como formas y tal  13:23
+
+DET  esto lo tenemos que meter en un espacio numérico para poder hacer comparaciones  13:28
+
+DET  y / este / y / el problema que vamos a tener es / que / como [/] para poder asociar estas dos cosas  13:35
+
+DET  y eso es lo que vamos a hacer / con el aprendizaje automático  13:38
+
+DET  tratar de conseguir regularidad en el vector / para analizar  13:42
+
+DET  ¿ok?  13:42
+
+DET  entonces / les voy a mostrar / para[/] para mostrarles / qué pasa / si uno se fija solamente en el vector  13:50
+
+DET  por ejemplo esto es una descripción / esta imagen / esta imagen y todas estas imágenes / tienen la misma descripción de color // de proporción de colores  13:58
+
+DET  tenemos la misma cantidad / de amarillo / la misma cantidad / de negro / la misma cantidad de rojo / pero semánticamente no tienen nada que ver  14:06
+
+DET  esto es exactamente el problema del semantic gap / que de un lado tenemos / la / descripción / numérica / que nos da la proporción de color / y del otro lado tenemos / una &eh [/] cosas que son completamente interpretadas de otra manera / además / en un &conte [/] en cada vez / en un contexto diferente  14:22
+
+DET  ¿ok?  14:23
+
+DET  ok  14:25
+
+DET  entonces / una de las ideas / de [/] para poder hacer un clasificador [/] un clasificador de este tipo / un poco más inteligente / es tratar / de destructurar / o de / sacar / de este &du [/] de este documento / o de este [/] de este [/] del documento / perdón / de este documento / es / de tratar de descomponerlo / y tratar de sacar palabras  14:51
+
+DET  ¿ por qué ?  14:52
+
+DET  porque en esta imagen tenemos muchas cosas  14:53
+
+DET  tenemos la vaca / tenemos un poco de / &eh / hierba / o grama / en español  14:59
+
+DET  en Venezuela no se dice &españ [/] &eh grama  15:01
+
+DET  y / tenemos un poco de cielo  15:03
+
+DET  entonces / la idea / es tratar de crear un diccionario / automáticamente / que nos va a permitir / a descubrir / las palabras que están dentro de la imagen  15:12
+
+DET  ¿ok?  15:13
+
+DET  entonces / por ejemplo / si tenemos esta imagen / lo que podemos hacer es / segmentarla de alguna manera automática / y cortar esta flores / y después dejar el fondo y decir que eso es / no sé / un arbusto  15:27
+
+DET  eso se puede hacer automáticamente / pero / se ha descubierto que / el [/] la [/] el [/] la segmentación inteligente / no mejora mucho los resultados a comparación a una segmentación / bastante simple / que sería / una segmentación de este tipo  15:42
+
+DET  ¿ok?  15:44
+
+DET  entonces lo que se hace es / podemos segmentar esto en pequeños cuadraditos / y tratar de aprender después / qué es [/] qué es / cada cuadradito / ¿no?  15:52
+
+DET  en el caso / del &si [/] del primer problema que teníamos del semantic gap / ¿ qué hacíamos ?  15:56
+
+DET  cerrábamos la imagen / la transformábamos en un vector / que puede ser un histograma por ejemplo de color y de textura / y claro / la información se nos perdía un poco dentro de este vector  16:07
+
+DET  ahora / lo que vamos a hacer / es / segmentar la imagen / sacar / varios / cuadraditos y cada cuadradito lo vamos a poder / clasificar / y decir / ok / esto es una flor / esto es / hierba / esto es tal cosa / y hacer un descriptor / visual  16:25
+
+DET  ok  16:26
+
+DET  el problema del semantic gap no fue resuelto completamente  16:29
+
+DET  yo no les voy a decir que claro / si yo veo esto / igual voy a tener [/] si yo veo [/] si yo tengo / un vector / &eh si yo tengo esta descripción / igual voy a tener un vector  16:40
+
+DET  o sea que igual el semantic gap está / pero como que / comprimiéndose / haciendo una &es [/] un clustering  16:47
+
+DET  bueno / es un clustering un poco / simple / pero se [/] es / tratando de focalizar el algoritmo en pequeños espacios / esto nos permite / de [/] como que / descomponer el problema del gap  16:59
+
+DET  ¿no?  17:00
+
+DET  del xxx  17:00
+
+DET  en [/] en vez de tratar de saltar / el gap completo / atravesarlo completo / lo que hacemos es tratarlo de pasarlo por &esp [/] por pasos  17:07
+
+DET  ¿ok?  17:08
+
+DET  aquí pueden aparecer bastantes problemas  17:10
+
+DET  por ejemplo / la anotación que teníamos hace un segundo / era una anotación / a nivel global / de la imagen  17:17
+
+DET  claro decíamos bueno / ahí hay una flor  17:18
+
+DET  ahora aquí / no te [/] no se sabe / dónde [/] dónde está la flor / dónde está la [/] la [/] dónde está la parte de atrás / entonces hay que hacer una anotación un poco más precisa  17:28
+
+DET  o tratar de aprender / a pesar del hecho que uno no sabe  17:32
+
+DET  ahora lo que yo les voy a mostrar es / simplemente / cuando uno sabe / el caso / donde uno sabe / que esto es una flor y que no es una flor  17:40
+
+DET  y el truco para pasar de [/] del caso / del [/] de lo que le voy a presentar a ustedes al caso donde no se sabe / es / tratando de hacer lo mismo que se hace en [/] siempre / con el aprendizaje artificial / tratar de ver cuando algo se repite muy a menudo o una [/] algo que se repite / bueno / se hace esa hipótesis / que si algo me aparece muchas veces / verde / verde / verde / verde / verde / entonces digamos / y &s [/] y otros colores / vamos a decir que lo que es más frecuente / es / justamente / por ejemplo / árbol o hierba  18:08
+
+DET  ¿ok?  18:09
+
+DET  y vamos a botar el &b [/] el ruido de las palabras que fueron mal asociadas  18:12
+
+DET  ¿ok?  18:13
+
+DET  pero eso no lo vamos a ver / sino vamos a ver simplemente / asumiendo que yo sé / que esto es [/] que / yo sé qué [/] qué cuadradito es qué  18:21
+
+DET  entonces / &eh / ¿ cómo va a funcionar esto ?  18:25
+
+DET  a ver {%com: preparing the demonstration}  18:27
+
+DET  ¿ cómo va a funcionar ?  18:33
+
+DET  vamos a tener / una bolsa / donde vamos a tener / flores / de diferentes colores / ¿ok?  18:40
+
+DET  entonces / aquí lo que [/] lo que pasa es como vamos a tener unos ejemplos / ya sabemos que cada cuadradito es una flor  18:46
+
+DET  ¿ pero qué pasa ?  18:47
+
+DET  las flores pueden ser de muchos colores  18:48
+
+DET  pueden ser amarillas / pueden ser rojas / pueden ser de cualquier color  18:52
+
+DET  y / lo que tenemos que hacer / es / tratar de hacer un poco lo que hace la gente cuando trabaja con el texto / tratar de &co [/] de &co [/] conseguir grupos / de algo como / grupo de sinónimos / del mismo sentido  19:04
+
+DET  como aquí estamos trabajando más bien en algo visual / lo que vamos a tratar de hacer es hacer un clustering / lo que presentaba / Andreas hace un segundo / pero no aplicado / a la información / a los documentos / a los ficheros de manera / general / pero si no / aquí / aplicado / a / la descripción de los pequeños patches / de los pequeños / parches / traducción de patches / de parches / de las imágenes / ¿no?  19:29
+
+DET  y así vamos a poder separar / en pequeños grupos y &erregi [/] y elegir un representante / de cada de estos grupos / para poder después / hacer un razonamiento basado en casos / por ejemplo  19:39
+
+DET  ¿ok?  19:40
+
+DET  entonces / ¿ cuál es la idea del clustering ?  19:44
+
+DET  es / reducir / el tamaño / del vocabulario  19:47
+
+DET  que es un poco lo que les decía / elegir un poco / un grupo de sinónimos / es decir / todas las flores rojas  19:54
+
+DET  bueno / ese es un concepto / ese es / como que / un sentido  19:57
+
+DET  pues todas las rojas amarillas / eso / es otro sentido  20:00
+
+DET  ¿ok?  20:01
+
+DET  y / además / lo que nos va a permitir / es que si nos aparecen cosas raras o / que están mal anotadas / por ejemplo algo verde o algo / se va a perder / porque lo que vamos a conseguir son los grandes grupos y vamos a elegir un representante / de un grupo que sea bastante grande  20:15
+
+DET  ¿ok?  20:16
+
+DET  bueno / a ver {%com: manipulating the computer}  20:22
+
+DET  ok  20:24
+
+DET  entonces / estos son / unos experimentos / que hicimos / &eh [/] que hice con Andreas y un estudiante que / está haciendo un doctorado donde Andreas // y / &eh / básicamente la técnica para &eh construir el diccionario / es la utilización de un xxx clustering / bastante simple  20:43
+
+DET  y / para clasificar / es un xxx classifier / que es un clasificador muy muy simple  20:47
+
+DET  la idea es de conseguir un ejemplo / ¿no?  20:50
+
+DET  si yo tengo / un cuadradito que es rojo / bueno / vamos a ver / déjame ver si tengo un cuadradito rojo / y veo de qué clase es  20:56
+
+DET  si es una flor digo ok / genial / es una flor  20:59
+
+DET  ese es / el [/] un / neighbour classifier  21:03
+
+DET  y claro / como uno se puede equivocar porque puede tener ruido / entonces uno hace un xxx / o sea busca cuatro vecinos / cuatro cosas que se parecen / y veo / ¡ah! / si tres me dicen que esto es flor / debe ser que es flor  21:13
+
+DET  ok / es el / la técnica / bastante simple  21:16
+
+DET  utilizamos una base de imágenes {%alt: imagedes} / bastante pequeña hay que decir para [/] para el tipo de [/] de experimentos / o sea para este tipo de experimentos está bien pero para / retrieval en general / esto es / aprendizaje de anotaciones / de seiscientas imágenes y había {%alt: habían} veintiún conceptos  21:31
+
+DET  estas imágenes fueron segmentadas / &eh / no sé por quién / la verdad que no sé quién las segmentó pero / nos permite / automáticamente / de saber qué clase es / qué clase es / cada cuadradito  21:42
+
+DET  podemos saber si es la vaca / o es la grama / o es el carro  21:45
+
+DET  ¿ok?  21:46
+
+DET  teníamos sesenta por ciento  21:48
+
+DET  entonces / para poder / evaluar / nuestro trabajo / ¿ qué hacemos ?  21:52
+
+DET  aprendemos con una parte la base / y hacemos tests / con una parte completamente separada / de la base / para poder ver / si lo generalizamos  21:59
+
+DET  ¿ por qué ?  22:00
+
+DET  porque si usamos / la misma parte de aprendizaje para el test / lo que va a hacer la [/] la computadora es aprender de memoria porque las &pre [/] las computadoras tienen un poco tendencia / a aprenderse todo de memoria porque es lo más fácil  22:10
+
+DET  se aprende que si el píxel este / aquí / y el píxel este de aquí / valía tanto y tanto / entonces / es un carro  22:17
+
+DET  y eso no es lo que queremos  22:19
+
+DET  nosotros queremos / es / aprender una generalización  22:21
+
+DET  hay que separar el aprendizaje y el test / para poder aprender / un poco mejor  22:26
+
+DET  entonces / este / los resultados / aquí tenemos [///] o sea / puse algunas clases para que [/] para que uno vea / basical book car grass / &eh sky tree y water  22:38
+
+DET  y / ¿ qué podemos ver ?  22:40
+
+DET  bueno / podemos ver que / la precisión / de / los cuadraditos / es bastante alta / ¿no?  22:47
+
+DET  tenemos la precisión local / o sea viendo cuadraditos nada más / es mucho más alta que la precisión usando un sistema / global  22:54
+
+DET  ¿ qué quiere decir ?  22:54
+
+DET  que cuando = ¿ qué es la precisión ?  22:56
+
+DET  que cuando nosotros decimos que es / esto es tal cosa / eso quiere decir que sí es  23:01
+
+DET  entonces genial / ¿no?  23:03
+
+DET  entonces bueno / nos parece vamos bien  23:04
+
+DET  pero por el otro lado / ¿ qué pasa ?  23:07
+
+DET  si nos fijamos en el recall / tenemos lo contrario  23:10
+
+DET  que / cada vez que vemos un cuadradito / a veces [///] por ejemplo / de todos los cuadraditos que teníamos en la base / que no sé cuántos / deberían ser bastantes porque seiscientos por / el número de cuadrados por imágenes / hay muchos muchos cuadrados que nosotros / no supimos / reconocer  23:26
+
+DET  que dijimos debe ser otra cosa y no sé qué  23:28
+
+DET  entonces / este efecto / es / bastante interesante  23:34
+
+DET  y / ¿ qué &pa [/] qué va a pasar ?  23:36
+
+DET  lo que vamos a hacer es / que / lo que sabemos es que &nosot [/] los detectores de este tipo / son muy especializados / saben bien detectar / y cuando dicen que está bueno / está bueno  23:45
+
+DET  ¿ok?  23:46
+
+DET  pero no saben siempre  23:47
+
+DET  ahora el truco va a ser que como en la imagen / vamos a tener muchos lugares / vamos a tener varios lugares / vamos a decir que esto fue flor / esto es flor / esto es flor / y esto es hierba / esto es hierba / pero hay unos que no [/] que no vamos a hacer el recall / o sea no lo vamos a detectar / y básicamente de alguna manera hay que / decir por los sistemas de voto / por ejemplo / adivinar si es o no  24:06
+
+DET  eso es lo que voy a explicar / ahora un poco más / con detalle  24:10
+
+DET  pero antes / para poder comparar bien / las diferentes &eh [/] el comportamiento de este tipo de [/] de sistemas / &eh / pero de manera un poco más global tenemos que combinar / la precisión / y el [/] el recall  24:23
+
+DET  ¿ pero recall en español era el ?  24:25
+
+DET  la cobertura / y podemos ver que por ejemplo cosas tipo como xxx sky / funciona / es [/] es genial / o sea esto es / para detectar el cielo es muy bueno  24:35
+
+DET  ¿ por qué ?  24:35
+
+DET  porque el cielo tiene poca variabilidad  24:37
+
+DET  o sea / en general el cielo / o es / bastante uniformemente / azul / o bastante uniformemente blanco / pero básicamente dentro de / dos o tres clases / es bastante uniforme  24:47
+
+DET  y entonces este tipo de técnica funciona muy bien  24:49
+
+DET  ahora / si uno &eli [/] elige algo como / un pájaro / el problema se complica / ¿no?  24:54
+
+DET  porque la variabilidad dentro de la clase pájaro / es muy / muy / muy grande  24:58
+
+DET  ahora tenemos cosas que pueden sorprender un poco / por ejemplo / si vemos la clase building / que son edificios a uno le parece que todos los edificios se parecen  25:07
+
+DET  bueno / la verdad es / que / no  25:10
+
+DET  la verdad es que acá los edificios son bastante diferentes / y este sistema / no da muy buenos resultados  25:15
+
+DET  pero claro / es basado[/] esta conclusión es basada en un ejemplo / en un experimento  25:20
+
+DET  ¿ok?  25:21
+
+DET  así que [///] pero de manera general / flores / hierba / vías / todo lo que son / descripciones de superficies / de la imagen / funcionan bastante bien  25:32
+
+DET  y es bastante lógico  25:33
+
+DET  ¿ok?  25:34
+
+DET  ahora / este / no[///] el estudiante Cristian [/] Cristian desarrolló un sistema entonces se lo voy a mostrar / espero que / funcione  25:45
+
+DET  {%com: preparing the application} ok  25:54
+
+DET  entonces / este sistema lo [/] fue desarrollado en la [/] en la universidad de / Otto-von-Guericke  26:01
+
+DET  y / aquí les vamos a mostrar[/] yo les voy a mostrar solamente / si logro hacerlo  26:06
+
+DET  a ver  26:07
+
+DET  no nos interesa el principio  26:11
+
+DET  esto [/] pero es para mostrarles a ustedes un poco la [/] la [/] la calidad de la [/] el problema que yo tengo en la pantalla no ->  26:18
+
+DET  lo veo difícil  26:24
+
+DET  # para el micro / &eh / ¿ acá ?  26:41
+
+DET  &ah / no / no / pero yo puedo hacer con los dos  26:43
+
+DET  {%com: speaking over the microphone} ¿ aló ?  26:44
+
+DET  el problema es que [/] el problema es que yo quería skip / y quería pasarlo en full screen pero [/] en pantalla completa / y quería pasar skip pero / mi pantalla no -> [/] está cortada / entonces no tengo la [/] no puedo tocar al play  26:57
+
+DET  a ver / a ver / a ver  26:59
+
+DET  bueno / no importa  27:01
+
+DET  &ah {%com: someone brings him a microphone} / puedo hablar / por acá  27:05
+
+DET  ok  27:07
+
+DET  esta es la parte de segmentación / que se puede hacer en el sistema manual / pero yo no quería mostrarle esto a ustedes sino que le iba a &mo [/] quería mostrarles / el [/] la parte de =  27:19
+
+DET  a ver  27:20
+
+DET  yo tengo una idea  27:21
+
+DET  va a durar un poco / pero bueno  27:26
+
+DET  # la mejor idea es esta  27:37
+
+DET  esta es la mejor idea  27:38
+
+DET  ok  27:41
+
+DET  ¡ah!  27:50
+
+DET  ok  27:52
+
+DET  ok  27:59
+
+DET  ya está  28:00
+
+DET  entonces esto es la [///] ahora sí  28:02
+
+DET  a ver  28:08
+
+DET  ¿ funciona ?  28:08
+
+DET  ok  28:13
+
+DET  está [/] está funcionando / ¿verdad?  28:14
+
+DET  entonces aquí / bueno / podemos ver =  28:17
+
+DET  bueno me quedo sentado  28:19
+
+DET  aquí podemos ver / entonces el sistema / buscamos una flor / entonces podemos conseguir imágenes que tienen flores / y / lo que podemos ver / es / que [/] que la computadora detecta / flores / pero también detecta pequeños patches / donde se equivoca  28:35
+
+DET  en la parte de abajo / donde dice xxx anotation / podemos ver qué fue lo que fue detectado en el cuadradito por donde está pasando el mouse / ¿no?  28:41
+
+DET  el mouse está pasando por aquí arriba  28:43
+
+DET  ahí lo pueden ver  28:45
+
+DET  y entonces abajo aparece / la anotación / en la zona inferior / central / aparece que es flower que no [/] que es flower  28:53
+
+DET  aquí de repente detectó una vaca / por ejemplo &por  28:55
+
+DET  aquí detectó a un árbol  28:57
+
+DET  ¿ok?  28:58
+
+DET  pero se pueden fijar / que la mayoría / de los [/] de las palabras / o sea de los tags / que fueron descubiertos / son / &eh tags de [/] la mayoría son correctos  29:08
+
+DET  pero hay varios que se equivoca / ¿no?  29:09
+
+DET  y parece bastante impresionante / y ese es justamente el problema del gap / semántico  29:13
+
+DET  lo único que aquí / &resolvimo [/] hemos resuelto un poco el problema / y tratamos de / evitar / el ruido  29:19
+
+DET  aquí bicicleta funciona bastante bien  29:21
+
+DET  tenemos road  29:22
+
+DET  fue detectado también  29:23
+
+DET  y / bueno / tenemos a veces algunos errores tipo / water / tree / ship / y tal / ¿ok?  29:31
+
+DET  bueno  29:33
+
+DET  ok  29:36
+
+DET  a ver  29:37
+
+DET  ahora para seguir en la presentación / {%com: talking to himself} xxx / don't save  29:44
+
+DET  ok  29:48
+
+DET  entonces / a partir / a partir {%com: testing the microphone}  29:58
+
+DET  ok  29:59
+
+DET  entonces a partir / de / estas indexaciones / ahora uno puede [/] uno tiene [///] ¿ qué tenemos ?  30:04
+
+DET  una imagen / y dentro de cada imagen tenemos como que detectamos varias cosas  30:08
+
+DET  que si perro / flor / y tal / y tenemos la mayoría de las &i [/] de las [/] de la [/] de las cosas que detectamos / que son / en general / en mayoría / son las que queremos / ¿verdad?  30:17
+
+DET  entonces bueno / podemos inventar un sistema muy fácil  30:20
+
+DET  seguimos / ok  30:21
+
+DET  si / a partir de cierto cantidad / de imágenes / a [/] a cierto cantidad de cuadraditos / &eh / tenemos / tal concepto / entonces por sistema de voto / decimos / está bien  30:33
+
+DET  es / tenemos una flor / vimos que hay / no sé / treinta cuadraditos / o una proporción / y / por lo tanto / debe ser una flor  30:40
+
+DET  podemos hacer algo tipo una region based xxx que es / fijarse en alrededor si tenemos / alrededor / qué sé yo / tenemos que es flor / flor / flor / flor / flor y en centro tenemos una vaca / podemos decir / o cualquier cosa / podemos decir no / debe ser un error / que es como que es xxx / pasar como un filtro / encima de la imagen / para poder filtrar esto  30:58
+
+DET  ahora / de esto no les voy a explicar / porque eso son / como que técnicas  31:02
+
+DET  lo que sí puede ser / muy / interesante / y se hace / es / considerar esto &com [/] &pal [/] &var [/] verdaderas palabras  31:11
+
+DET  que es decir / transformar esto / en un vector / en un vector como si fuese un diccionario / de lo más normal / y tratar de conseguir / otro documento con las mismas técnicas que uno consigue documentos de / &eh / en el &siste [/] en el sistema texto  31:26
+
+DET  ahora se [/] lo que se hace básicamente es algo tipo / xxx  31:30
+
+DET  ¿ por qué ?  31:30
+
+DET  porque vamos a tener muchos / flor / flor / flor / flor / flor / entonces vamos a pensar / &ah este documento / sí / debe hablar de flor / y bueno / de vez en cuando sale algo  31:37
+
+DET  hay que xxx un poco / hay que cambiar un poco la idea / de / los errores  31:42
+
+DET  hay que hacer un [/] xxx un poco / cambiar la idea del xxx normal  31:45
+
+DET  ¿ por qué ?  31:46
+
+DET  porque claro / lo [/] en un texto cuando yo pongo xxx / una palabra que es bastante rara / y me sale en alguna parte / me interesa que me aparezca este documento  31:54
+
+DET  en este caso / es un poco diferente  31:55
+
+DET  yo no quiero que si tengo / no sé / de repente tengo una bicicleta / dentro de / un lago / entonces yo no quiero que me aparezca  32:03
+
+DET  yo pienso que en este [/] en este &pue [/] este tipo de [/] de cosas / hay bastantes [/] bastantes posibilidades / de / hacer / trabajos sobre / &lingüi [/] tipo de [/] de lingüística / de trabajo &proce [/] natural processing language  32:16
+
+DET  ¿ por qué ?  32:17
+
+DET  porque aquí podemos / tratar de tener las relaciones / entre los diferentes conceptos  32:21
+
+DET  por ejemplo / si hay agua / si hay tal cosa / que todo esto tiene que / tener alguna lógica / a un nivel un poco más / abstracto  32:28
+
+DET  yo no conozco mucho de natural processing / pero me parece es una gran oportunidad  32:32
+
+DET  ¿ por qué me parece una oportunidad ?  32:34
+
+DET  porque es muy [/] funciona muy bien / del [/] en una manera naive  32:37
+
+DET  o sea simplemente transformando esto / en un diccionario / funciona muy bien  32:41
+
+DET  porque eso fue [///] este / esto es / la técnica / la técnica de los cinco mejores / &sistem [/] puede ser que no los cinco / cuatro de los cinco mejores sistemas / de xxx dos mil ocho / que se acaba de presentar hace [/] hace dos semanas  32:55
+
+DET  es exactamente lo que les acabo de contar  32:58
+
+DET  ahora lo que cambia es que no se utilizó / &eh / no se utilizó como descriptor el color  33:03
+
+DET  lo que se descriptó / &eh se [/] utilizó / fue xxx / que es una técnica bastante [/] que es bastante [///] además ya la veremos un poco más adelante / pero una técnica / nueva que está bastante de moda que permite / conseguir los puntos / que &discri / son bastante discriminantes / que permiten escribir en [/] en [/] en la pantalla  33:19
+
+DET  entonces / igual  33:20
+
+DET  a partir de esos puntos / hacemos un diccionario / basado en un clustering / y hacemos un diccionario tipo texto / y con eso / lo que vamos a hacer / es tratar / de detectar / y buscar / &eh / conceptos  33:31
+
+DET  funciona bastante bien  33:32
+
+DET  ahora / cuando digo bastante bien / es / que son los mejores del mundo / los que tienen los mejores resultados / en la competición  33:40
+
+DET  esto da un average precision  33:42
+
+DET  o sea / da un / &prome [/] el promedio / de el &prome [/] de la precisión promedio / ¿no?  33:49
+
+DET  o sea / el promedio sobre todos los conceptos que tenemos / sobre la precisión / promedio / cuando vemos los resultados que obtenemos en una lista  33:57
+
+DET  y es / &eh más o menos de [/] oscila entre / cero coma cero siete / para los conceptos / los más difíciles / que puede ser por ejemplo / goverment leader / que es bastante difícil de detectar / a / hasta cero coma tres / por ejemplo / si queremos detectar / un terreno de basketball  34:14
+
+DET  ¿no?  34:16
+
+DET  aquí / bueno / esto es el gráfico &por [/] típico  34:18
+
+DET  por ejemplo / si / queremos detectar en [/] en [/] tenemos aquí de = perdón / siempre lo mismo  34:24
+
+DET  de aquí en [/] en rojo / tenemos / este por ejemplo / si vemos / algo como maps / para ver si es [/] que estamos viendo en la pantalla un maps / bastante alto / para ver si es el xxx bastante alto  34:35
+
+DET  ¿ por qué ?  34:35
+
+DET  porque esto es / sobre imágenes de video / entonces xxx es la presentación del video / que es bastante característica y se repite bastante / y siempre muy regularmente / se parece  34:45
+
+DET  este / y pero / se complica por ejemplo si buscamos que es / police security corporate leader / por ejemplo  34:51
+
+DET  ¿ok?  34:52
+
+DET  ahora / entonces / si esto / funciona / bastante bien / pero tenemos el problema del diccionario / o sea cuántas palabras vamos a hacer  35:02
+
+DET  los / mejores equipos del mundo / que / prometían que para este año íbamos a tener / varios miles de palabras / de conceptos / bueno / actualmente / van / por / trescientos setenta y cuatro  35:13
+
+DET  o sea el diccionario actual / visual / es de &set [/] &tres [/] trescientos setenta y cuatro / palabras  35:19
+
+DET  y / &eh / fue propuesto [/] es basado en una antología / que tiene creo que son mil / y se eligieron trescientos setenta y cuatro / que funcionan más o menos decentemente  35:29
+
+DET  ¿ok?  35:30
+
+DET  pero a pesar de todo yo pienso / que estos conceptos se pueden utilizar / se pueden utilizar / para mejorar / la busca de información basada en texto  35:38
+
+DET  porque / el texto funciona muy bien / es muy semántico  35:41
+
+DET  ¿ por qué es semántico ?  35:42
+
+DET  porque cada una de las palabras tiene / un significado / cuando hacemos la representación dentro de la computadora / vamos a hacer una representación también vectorial  35:50
+
+DET  pero cada los &vect [/] cada uno de las dimensiones / tiene un significado  35:53
+
+DET  es [/] si vamos a [/] y hacemos un xxx semantic indexing / siguen teniendo / aunque no es una palabra &contre [/] concreta / vamos a tener / dentro de [/] de cada dimensión / va a tener un significado bastante &contre [/] concreto  36:04
+
+DET  entonces / este / ¿ qué es la proposición que &te [/] que hacemos aquí ?  36:10
+
+DET  es / la idea de utilizar el texto / y después / botar / las imágenes / que nos molestan / que no corresponden a lo visual  36:18
+
+DET  este / &co [/] un [/] un ejemplo de [/] un ejemplo de [/] de este tipo de [/] de ideas / es / lo que les contaba al principio  36:28
+
+DET  si tenemos un sistema de búsqueda / por ejemplo / que estamos buscando / imágenes de productos / yo les decía / claro / el producto lo puedo conseguir / por la descripción / del texto  36:38
+
+DET  pero en el texto me va a aparecer / el hecho que ese producto es / amarillo / azul o algo  36:44
+
+DET  entonces si yo puedo combinar estas dos informaciones / viendo la imagen / veo que es azul / y viendo el texto / veo que es una cartera Nike  36:53
+
+DET  entonces / puedo saber / que me [/] puedo saber que la imagen / o puedo / apostar / que la imagen / es una imagen de una cartera azul / de Nike  37:01
+
+DET  ¿ok?  37:02
+
+DET  ese tipo de cosas nosotros hicimos en el dos mil dos / un sistema de venta online para / prototipo / ¿no?  37:08
+
+DET  de [/] de [/] para buscar productos  37:10
+
+DET  y / &eh [/] y / &eh [/] y bueno / yo no sé si lo tengo acá  37:15
+
+DET  es un sistema así de productos  37:19
+
+DET  aquí tuvimos que separar / el [/] las dos nociones para [/] para bien separar en la demostración / para poder mostrar / que si uno lo busca en el texto no funciona / y si uno lo busca / texto con imagen / junto / pero / básicamente / por ejemplo / esto es la búsqueda de [/] de un [/] de una camiseta / morada / por ejemplo  37:36
+
+DET  y es bastante eficaz ese tipo de noción  37:38
+
+DET  ¿ok?  37:40
+
+DET  este / ese tipo de idea / también en el [/] en el sistema también lo teníamos  37:44
+
+DET  pero es una &ite [/] una idea que puede ser [/] es bastante interesante / por ejemplo es / la utilización de detector / de caras  37:50
+
+DET  ¿ por qué ?  37:51
+
+DET  porque detectar caras es bastante simple  37:53
+
+DET  pero &eh [///] y se puede utilizar más &bas [/] de manera bastante inteligente  37:57
+
+DET  por ejemplo hoy / vimos una presentación / donde se utilizaba / la &detecció [/] detectamos que hay nombres propios por ejemplo  38:04
+
+DET  se puede combinar / si sabemos que es nombre propio / probablemente lo que queremos ver es la imagen de esa persona / entonces podemos combinar el hecho / que sabemos que un nombre propio / en la [/] en la pregunta  38:14
+
+DET  y después / cuando uno busca la [/] la [/] cuando uno tiene la imagen / selecciona simplemente las imágenes donde sabemos que tenemos una cara  38:22
+
+DET  ¿ok?  38:23
+
+DET  bueno / ese tipo de cosas se hacen  38:25
+
+DET  hoy en día hay bastantes sistemas  38:27
+
+DET  &eh / xxx punto com es uno de / venta online  38:30
+
+DET  tenemos xxx punto com que propuso el &pri [/] de primero la búsqueda de imágenes basada / &eh con filtro  38:37
+
+DET  que uno lo tiene [///] pero &lo [/] el filtro lo tiene que hacer / en postproceso / no lo hace automáticamente  38:42
+
+DET  lo mismo hace Google que lo puso / una semana más tarde  38:45
+
+DET  y / este / y [///] perdón  38:49
+
+DET  y / la idea / es / ahora  38:53
+
+DET  y / bueno / y eso funciona bastante bien  38:54
+
+DET  ¿ por qué ?  38:55
+
+DET  porque estos dos detectores son bastante visuales  38:57
+
+DET  el hecho de conseguir caras  / o conseguir colores es bastante visual  39:00
+
+DET  entonces / todavía no nos atrevemos mucho a hacer / el salto del semantic gap / aquí es un saltito / ¿no?  39:05
+
+DET  simplemente decimos / ¡ah! / ¿ azul ?  39:07
+
+DET  bueno / entonces detectamos acá azul  39:08
+
+DET  que no es tan trivial / porque / los colores pueden estar / por ejemplo el blanco / si hay sombra / o si hay iluminación de fotografía puede no ser tan blanco / por ejemplo / entonces el salto puede ser un poquito más / largo de lo que uno piensa  39:20
+
+DET  pero en fin / lo que queríamos ver acá / es cómo / podemos utilizar / este / el &tip [/] &eh &c [/] utilizar conceptos un poco de nivel más alto / o sea conceptos &de [/] del tipo de los que acabamos de ver / para mejorar una búsqueda de información / texto  39:35
+
+DET  entonces esto es [/] son resultados / que utilizamos de xxx que organizó / Paul // esta mañana  39:42
+
+DET  y / este / la idea va a ser / agarrar / un topic / que esto eran los topics  39:48
+
+DET  por ejemplo teníamos / que hay que buscar xxx / que [/] y las relevant images will show xxx  39:54
+
+DET  o sea / las imágenes pertinentes nos van a mostrar / &eh / focas / que -> &ah de [/] aquí hay varios ejemplos de focas  40:02
+
+DET  y / nos va a &mos [/] mostrar un poco de agua que puede ser / el mar / un lago  40:06
+
+DET  pero / las imágenes que no son relevantes / este / {%com: pointing the screen} ¿ dónde es ?  40:12
+
+DET  imágenes de / focas / con no agua / con no agua visible / en la imagen / no son / pertinentes / para nuestro problema / ¿ok?  40:21
+
+DET  uno tiene derecho [/] nosotros tenemos derecho de utilizar / todo este [/] esto / para construir / la pregunta de manera automática  40:28
+
+DET  como nosotros no sabemos hacer / processing automático y lenguaje natural / lo que inventamos / que fue absolutamente genial / ya lo verán / es / que cuando sale not / dentro de la frase / entre dos puntos / lo borramos y lo botamos  40:41
+
+DET  pero esto no es / importante para el problema que tenemos acá / ¿ok?  40:45
+
+DET  lo que vamos a hacer es / simplemente transformar este topic en alguna pregunta / texto / y vamos a conseguir imágenes / y funciona bastante bien  40:53
+
+DET  y después / vamos a tratar / de detectar / a partir del query / que nos interesa / un concepto que [/] que ya conocemos / de nuestro diccionario / de trescientos setenta y cuatro palabras / y tratar de utilizarlo  41:06
+
+DET  el diccionario este de nosotros era más pequeño / porque era del [/] de la misma competición  41:10
+
+DET  ¿ok?  41:12
+
+DET  y después / aplicamos el detector en las imágenes / y decimos sí / aquí había agua / no / aquí no había / esta / va para la basura  41:20
+
+DET  ¿ok?  41:20
+
+DET  ese es el concepto de / la [/] de este [/] de este [/] de [/] de este [/] del [/] del método  41:26
+
+DET  entonces / para [/] para poder / &eh / medir &si [/] qué tan bien funciona este &si [/] este tipo de sistemas / este / trabajamos con / diecisiete conceptos  41:36
+
+DET  estos conceptos los aprendimos con doscientos / &eh / con dos mil imágenes  41:40
+
+DET  con / un método un poco diferente del que presenté hace un momento &si [/] utilizamos árboles de decisión  41:45
+
+DET  y / &eh / para poder entrenar la [///] esto son las dos [/] dos mil imágenes de ejemplo / y / mil imágenes de text / ¿no?  41:53
+
+DET  para [/] para [/] para poder aprender la generalización  41:55
+
+DET  después / en / el challenge [/] en el [/] en el desafío / de -> / búsqueda de imágenes / photo retrieval / habían veinte mil imágenes / que eran del mismo tipo / de la misma familia digamos / de la imágenes que teníamos / y &to [/] cada imagen tenía texto  42:10
+
+DET  o sea tenía una descripción / como la que acabamos de ver / y / era semiestructurada / eso no se utilizó pero bueno / tenía  42:16
+
+DET  y / ¿ cómo vamos a [/] a [/] cómo se [/] se probó ?  42:18
+
+DET  bueno habían treinta y nueve / topics / como los que acabamos de ver / y también era semiestructurado  42:24
+
+DET  y habían imágenes / ejemplos también / para el que quiera &apa [/] participar el año que viene / habían imágenes ejemplos que nosotros no utilizamos / ¿ok?  42:31
+
+DET  es para darle un poco el [/] el peso / y la calidad de los resultados / &par [/] sabiendo qué tipo / en qué tipo de información / en qué tipo de data / hemos trabajado  42:40
+
+DET  ok  42:41
+
+DET  el tipo de conceptos que teníamos / era / conceptos [/] era una [/] o sea / era &u [/] una [/] un grupo de conceptos / diecisiete / que tenían una estructura un poco jerárquica  42:53
+
+DET  son conceptos que en general / no lo elegimos nosotros / los eligieron en la competición / que son / bastante simples de aprender / porque son los que funcionaban bien / cuando les mostraba el ejemplo hace un segundo / water / sky / day / road / building / mountain / etcétera / etcétera / ¿no?  43:08
+
+DET  son ejemplos que funcionan bastante bien  43:10
+
+DET  y / &eh / la descripción que nosotros utilizamos / era una descripción / que era una mezcla de descripción / global / y local  43:17
+
+DET  porque como les decía / bastante interesante / ver las cosas de manera local porque si / no es de los cuadraditos como / lo que acabamos de ver pero / tenemos &cuad [/] tenemos rectángulos que nos permiten detectar / focalizar / la atención del algoritmo / al cielo / o a la parte superior de la imagen / o a la parte inferior de la imagen / o / el centro porque son &im [/] son lugares donde puede aparecer / de manera regular / alguna descripción visual / y de ahí podemos aprender  43:42
+
+DET  el sistema de aprendizaje / es / un sistema de árboles y / &eh / no voy a entrar mucho en detalles / pero / utilizamos un método de xxx decision trees  43:53
+
+DET  si alguien tiene una pregunta me puede venir / a ver después / de [/] de la presentación  43:57
+
+DET  y / utilizamos un sistema de bagging / para poder / &eh / tener / resultados / de [/] más robustos que simplemente / utilizar / un / clasificador único  44:08
+
+DET  entonces se combinan varios clasificadores / en [/] en cadena  44:11
+
+DET  ¿ok?  44:12
+
+DET  entonces / el texto / era / &bu [/] buscábamos el texto como un xxx muy simple  44:19
+
+DET  y / para construir la [/] la query / lo que hacíamos en este experimento / particular era simplemente / agarramos el título / ¿verdad?  44:28
+
+DET  ¿ok?  44:29
+
+DET  y después / utilizábamos el filtro para [/] para borrar  44:32
+
+DET  ok  44:33
+
+DET  una de las grandes preguntas / todo esto parece bastante simple / pero una de las grandes preguntas es / qué concepto vamos a utilizar  44:40
+
+DET  ¿ok?  44:40
+
+DET  porque yo tengo seals / y the water / cómo hago yo / yo para saber / que &es [/] que water / es water / es fácil  44:48
+
+DET  pero para saber que un seals / es un animal / la cosa se complica  44:53
+
+DET  ¿ok?  44:53
+
+DET  entonces nosotros hicimos dos métodos para poder / detectar esto  44:57
+
+DET  un método es / simplemente utilizamos el concepto directamente si aparece  45:01
+
+DET  y después / un [/] utilizamos / wordnet / porque nosotros no sabemos hacer nada más complicado que eso / simplemente wordnet / para tratar de conseguir sinónimos / y tratar de ver  45:11
+
+DET  este / yo no les voy a presentar los resultados de wordnet aquí para no complicar / la presentación  45:17
+
+DET  pero básicamente lo que pasa cuando es wordnet / que las asociaciones que uno piensa / que son / las buenas / bueno por mala suerte / a veces sí / a veces no  45:27
+
+DET  claro / en el caso del seal / funciona perfecto / conseguimos el animal  45:32
+
+DET  pero otro de los topics / había que conseguir straight roads / que eran / carreteras derechas  45:38
+
+DET  y straight / en inglés / da la casualidad / que uno de los sinónimos / es una persona / que no es homosexual  45:46
+
+DET  entonces &usi [/] utilizamos / la detección / de personas / en / el sistema  45:51
+
+DET  entonces conseguimos muchas calles / donde había gente parada // de todo tipo  45:56
+
+DET  ¿ok?  45:57
+
+DET  y entonces / el sistema / completamente no funcionó  45:59
+
+DET  entonces / globalmente / los resultados / son / de la misma calidad que no utilizarlo / pero / sí funciona  46:06
+
+DET  entonces / bueno / para eso se puede hacer toda una discusión / y / nuevamente me parece que aquí / se podría hacer algo / un poco más inteligente  46:13
+
+DET  porque si ustedes saben que straight / aquí no es [/] no estamos hablando de una persona / sino que straight / es [/] describe / la road / entonces ustedes pueden saber [/] puede ser / que no es un sinónimo {%alt: sinómono} correcto  46:24
+
+DET  no sé  46:25
+
+DET  en fin / veamos entonces / cómo funciona / la [/] la [/] la parte / del filtro  46:31
+
+DET  entonces ustedes dicen bueno ok / ya sabemos que seguro / es / agua / ¿no?  46:35
+
+DET  estamos seguros que es agua  46:36
+
+DET  ¿ cómo vamos a hacer ahora ?  46:37
+
+DET  ¿ qué hacemos ?  46:38
+
+DET  problema es / que las imágenes que vienen con el texto en general las primeras son muy buenas / en general  46:44
+
+DET  entonces &co [/] si el [/] mi detector / que ya vimos / no era muy bueno / dice que no / ¿ qué hago ?  46:50
+
+DET  eso se puede hacer cálculo probabilista y tal / no sé  46:53
+
+DET  nosotros lo que hicimos / es / simplemente / como el focus de la métrica / y eso por eso que hay que hacer atención en las competiciones / el &fo [/] el [/] la métrica de aquí era decir que las primeras {%alt: primentas} &ve [/] lo que nos interesa son las primeras {%alt: primentas} / veinte imágenes / y ver cuál es la precisión en veinte  47:08
+
+DET  básicamente es / yo le doy veinte imágenes / de las veinte cuántas son buenas  47:12
+
+DET  entonces lo que nosotros hicimos es / simplemente / sacábamos las imágenes que no / correspondían / a nuestro criterio / ¿ok?  47:20
+
+DET  que no habían [/] que no tenían el concepto visual que nosotros queríamos  47:23
+
+DET  y las metíamos en el rango cincuenta / por si / botábamos las primeras cincuenta / ¿no?  47:28
+
+DET  y así regresan  47:29
+
+DET  por que así no / porque si / empezamos a traer cosas de abajo / ahí si es que íbamos probablemente muy mal  47:34
+
+DET  ¿ok?  47:36
+
+DET  entonces / ¿ cómo funciona esto ?  47:38
+
+DET  aquí les muestro bueno  47:39
+
+DET  el rango uno / era esto / ¿no?  47:41
+
+DET  había una [/] una [/] una foca en la playa  47:43
+
+DET  había un poco de agua  47:44
+
+DET  detectamos que hay agua  47:45
+
+DET  dijimos / ok  47:46
+
+DET  se queda  47:47
+
+DET  bien  47:48
+
+DET  la pegamos  47:49
+
+DET  a la segunda / hay una foca / no hay agua / no la queremos / la metemos en el rango cincuenta  47:55
+
+DET  bien  47:56
+
+DET  llega la tres / tenemos a un señor / y detectamos / que no hay agua  48:04
+
+DET  ahora bastante extraño / ¿no?  48:05
+
+DET  porque / problema del semantic gap / ¿no?  48:08
+
+DET  en la primera sí habíamos visto el agua / y en esta / no vemos el agua  48:12
+
+DET  ¿ok?  48:13
+
+DET  pero bueno / ese es el precio / del aprendizaje automático  48:17
+
+DET  y bueno / la botamos  48:18
+
+DET  la metemos en la cincuenta y uno por si exageramos mucho / y ella regresa / ¿no?  48:23
+
+DET  y bueno / y así va el sistema  48:25
+
+DET  hay una [/] no sé qué rango es esta / pero bastante alto  48:27
+
+DET  aparece {%alt: apareste} este señor  48:29
+
+DET  no sé por qué aparece ese señor  48:30
+
+DET  pero en todo caso / ese señor / no le detectamos agua / y así vamos  48:35
+
+DET  hasta / el segundo error / aparece / apenas en el rango veinte de este sistema  48:40
+
+DET  o sea que / pueden ver que con un / concepto tipo agua que es bastante bueno / y / con a [/] un algo [/] un concepto / textual tipo seal que / también es bastante bueno / desde el punto de vista texto / podemos funcionar bastante bien  48:53
+
+DET  ¿ok?  48:54
+
+DET  es más / nosotros / éramos un poco mejor / que la competición / porque en el rango ocho nosotros detectamos / que / esto era seal / que había agua / y no la filtramos / pero la competición nos las contó / como mala  49:08
+
+DET  entonces / bueno / yo ya con Paul / por eso que yo no soy muy amigo con Paul / como se habrán dado cuenta {%act: laugh}  49:15
+
+DET  entonces bueno / justamente / este es el problema  49:18
+
+DET  o sea / simplemente para decir que este tipo de sistema puede funcionar bastante bien  49:21
+
+DET  el hecho de / traer la semántica / con el texto / y filtrar con las imágenes  49:25
+
+DET  ahora / esto es un poco [/] un poco de venta / entonces veamos mejor / un poco los números / los resultados técnicos  49:31
+
+DET  entonces / lo que vemos es que en general mejora  49:34
+
+DET  no se fijen mucho en [/] en los porcentajes / aunque yo los dejé / porque se dejan pero / el porcentaje no es porque / la precision es bastante baja / en general / para el texto puro  49:44
+
+DET  del lado &eh [/] del lado qué  49:47
+
+DET  del lado izquierdo / tenemos / para los treinta y nueve topics  49:52
+
+DET  claro / de los treinta y nueve / como el sistema no es [/] no usa sinónimos / sino simplemente busca el topic / solamente once fueron modificados entonces / claro / siempre se mejora  50:01
+
+DET  o sea / pase lo que pase / si mejoramos de este lado / si mejoramos en los &mod [/] en los topics que modificamos / entonces también mejoramos el resultado total porque las otras no modificamos  50:10
+
+DET  entonces vamos a fijarnos simplemente en los once topics / que si en los [/] en las [/] si / las once preguntas / que sí funcionan y aquí vemos que / mejoramos de manera digamos relativa / bastante / bastante bien / funciona este sistema  50:23
+
+DET  lo que podemos observar / es / que los conceptos donde aparecían {%alt: apariecían} &pro [/] este // ¿ cómo se llama ? // conceptos visuales / de / nuestro pequeño diccionario / eran [/] funcionaban mucho / menos / o sea la precisión a veinte era mucho más baja que la precisión a veinte / promedio / en los treinta y nueve / esos  50:43
+
+DET  parece como / si / &sim [/] &eh / naturalmente / la gente cuando / busca un concepto / que se clasifica muy bien de manera visual / la gente no lo indexa  50:54
+
+DET  o sea simplemente eso no aparece en el texto  50:56
+
+DET  esa es la impresión / es un poco la impresión / que da / estos tipos de resultado  51:00
+
+DET  habría que investigar un poco más  51:01
+
+DET  ¿ok?  51:02
+
+DET  y / &eh / bueno / y también / probamos otro tipo de busca de información / basada en language model / y / se ve un poco lo mismo con / una diferencia un poco más baja / pero / más o menos el mismo [/] el mismo comportamiento general  51:16
+
+DET  o sea que no depende del modelo / de búsqueda de texto  51:19
+
+DET  ok  51:21
+
+DET  pero / ¿ qué pasa exactamente ?  51:24
+
+DET  vamos / &eh [/] lo [/] lo que xxx para ver  51:26
+
+DET  ¿ qué pasa exactamente ?  51:27
+
+DET  lo que hicimos es simplemente / comparamos / en un axis / vamos a comparar la precisión a veinte / de los [/] de &pu [/] de una [/] de una [/] de un resultado / o sea de un run / de una submisión / &eh / simplemente texto contra una &a [/] aplicando el filtro  51:44
+
+DET  y lo que vamos a ver es / que todo lo que no fue / modificado por nuestro sistema porque no había concepto / está en la diagonal  51:50
+
+DET  por que es normal / es el mismo valor  51:52
+
+DET  y / vamos [///] algunos de los [/] de los [/] de lo [/] de lo que sí ha sido modificado / se / modifica / y funciona mucho mejor  52:00
+
+DET  por ejemplo tenemos el topic cincuenta y ocho / que se mejoró mucho  52:03
+
+DET  el topic cuarenta y cuatro que se mejoró mucho  52:05
+
+DET  conclusión / este tipo de método siempre / mejora los resultados a la precisión de veinte  52:10
+
+DET  atención / es la precisión de veinte  52:13
+
+DET  o sea nos interesan las primeras veinte imágenes / y no el recall  52:16
+
+DET  aquí nosotros botamos / bastante imágenes / de / las primeras  52:21
+
+DET  y / claro / tenemos la impresión que funciona muy bien  52:23
+
+DET  pero / para [///] en un contexto de búsqueda de información tipo / Google o algo así / es / un sistema que funciona bastante bien  52:30
+
+DET  ok  52:33
+
+DET  entonces / este / conclusión de esta parte / es / text-based image retrieval / puede [/] puede / beneficiar del uso de concepto detección automática / a pesar de los [/] que los detectores no son de muy buena calidad  52:49
+
+DET  y / para algunos / de los / &eh [/] de los topics / o para alguno de los casos / funciona muy bien  52:55
+
+DET  y en los otros casos / no [/] no [/] no afecta  52:58
+
+DET  ahora / cómo detectar  53:00
+
+DET  eso ya es lo que yo quisiera que me responda a mí / la población del / &eh [/] del &eh / PNL  53:06
+
+DET  que me &p [/] {%alt: respenda} responda a mí  53:07
+
+DET  me diga / cuál concepto / cómo hago yo para extender / mi query / y saber / qué tipo de / concepto visual tengo que utilizar  53:14
+
+DET  porque funciona bien  53:15
+
+DET  el problema está / en / saber/  qué concepto visual utilizar  53:19
+
+DET  ¿ok?  53:21
+
+DET  bueno  53:23
+
+DET  ok  53:26
+
+DET  entonces / no sé si ... {%com: }  53:30
+
+DET  no / no / pero ya [///] porque / cuando es muy largo / y a esta hora / lo puedo hacer / un poco más [/] menos [/] sin entrar en detalles  53:38
+
+DET  y [/] y vamos a ver  53:40
+
+DET  entonces bueno / lo que acabamos de ver / es lo que ustedes conocen un poco que es [///] bueno / vamos a utilizar el texto / ¿verdad?  53:46
+
+DET  entonces ustedes van a decir claro / yo puedo resolver todos los problemas de mi vida / sin ningún problema  53:51
+
+DET  yo puedo vivir feliz  53:52
+
+DET  porque claro / yo con el texto / yo voy a Google / yo me meto en Google / y resuelvo el problema  53:57
+
+DET  bueno / puede ser que pase un poquito más de tiempo y tal  53:59
+
+DET  entonces lo que [/] lo que yo les propongo aquí / es / que ustedes me digan / y pueden utilizar Google / pueden utilizar lo que ustedes quieran / que me digan / quién es el autor / de esta pintura  54:11
+
+DET  {%com: he waits for an answer} ok / les doy una -> [///] les puedo ayudar  54:18
+
+DET  les puedo dar el GPS position de la imagen / si quieren  54:20
+
+DET  donde fue sacada  54:21
+
+DET  ¿ saben cuál es ? {%com: nobody answers}  54:23
+
+DET  bueno / les digo que es en el Louvre  54:25
+
+DET  la sacamos en el [///] eso es del Louvre  54:27
+
+DET  bueno / justamente / eso es lo que nosotros queremos hacer / &co [/] eso es lo que [///] la idea aquí va a ser / voltear el problema  54:35
+
+DET  tengo una imagen / y lo que yo quiero ahora es / que me consigan el texto  54:39
+
+DET  ¿ok?  54:39
+
+DET  bueno entonces / ¿ cómo [/] cómo [/] qué es lo que proponemos ?  54:43
+
+DET  esto es un trabajo que hicimos con Boris / xxx / de la EPFL  54:47
+
+DET  y / la idea es / hacer un sistema móvil / para guiar / a los turistas / en [/] en [/] en un museo  54:54
+
+DET  esto es basado en un teléfono o un móvil  54:56
+
+DET  este / y / &eh / vamos a utilizar [///] lo que vamos a hacer es / que vamos a utilizar la cámara / del móvil / para detectar / qué cuadro es  55:03
+
+DET  o sea / por ejemplo / vamos a los museos / le damos / y detectamos  55:06
+
+DET  ustedes me van a decir / &ah / sí / bueno / pero / de qué me sirve a mí / sacarle la foto / al cuadro si yo tengo el nombre allí abajo  55:13
+
+DET  bueno / es que yo les puse la pregunta fácil  55:16
+
+DET  si les pregunto algo más / entonces ustedes me van a decir / bueno  55:20
+
+DET  &eh si les &pregu [/] les [/] les puse la pregunta = no / no me acuerdo qué iba a decir {%act: laugh }  55:24
+
+DET  si yo les pregunto a ustedes / les dicen / bueno / yo les puse la pregunta / yo les digo / bueno / díganme / por ejemplo / qué es [/] qué escuela es / o algo así  55:33
+
+DET  entonces me van a decir / bueno / no importa  55:34
+
+DET  yo me lo anoto  55:35
+
+DET  y voy a la casa / y yo lo busco en Google  55:37
+
+DET  entonces yo lo que les voy a &de [/] les puedo poner como ejemplo // aquí no hicimos el experimento pero / es la misma técnica / funciona perfectamente // ustedes pueden apuntar / a uno de los personajes / del cuadro / y / basado en eso / yo le puedo designar / la descripción que es lo mismo  55:51
+
+DET  a partir de una imagen / yo le buscaré la descripción / del personaje  55:54
+
+DET  ya no del cuadro  55:55
+
+DET  les voy a decir / este personaje / tiene que ver esto / y lo otro / con la imagen  55:58
+
+DET  eso dudo / que sin leer / un artículo bastante largo / ustedes logren saber  56:03
+
+DET  bueno / en fin / eso es / para un poco justificar este tipo de sistemas / que probablemente ustedes verán / dentro de los próximos años / en los supermercados  56:11
+
+DET  la gente va a tener / de la telefónica / usted va a poder / detectar un producto comercial / por ejemplo / Coca-cola / y va [/] le va a decir / &ah / ok / pero el supermercado de al lado es más barato  56:20
+
+DET  ¿ok?  56:21
+
+DET  y bueno / y como [///] y si no funciona no importa porque / de todas maneras todo el &m [/] el móvil se vende muy bien  56:26
+
+DET  ¿ok?  56:27
+
+DET  ahora / ¿ qué pasa ?  56:29
+
+DET  esto es / bastante interesante  56:30
+
+DET // no se necesita ninguna instalación  56:31
+
+DET  no lo tiene que instalar el museo  56:33
+
+DET  se puede / instalar / &eh / simplemente desde el móvil  56:36
+
+DET  y [///] pero hay un problema  56:38
+
+DET  ¿ cuál es el problema ?  56:39
+
+DET  que / podemos conseguir imágenes que se parecen mucho pero / aquí las imágenes no se van a parecer mucho  56:45
+
+DET  ¿ por qué ?  56:45
+
+DET  porque vamos a tener problemas de reflexiones / porque ponen vidrios / los [/] los del museo no sé / pero ponen vidrios delante de los [/] de los cuadros  56:52
+
+DET  hay deformación si yo saco la foto de un lado / se me va a deformar la imagen  56:55
+
+DET  y / hay gente que tiene la mala maña / no sé si se han fijado en los museos / de pasar cuando uno quiere sacar la foto / pasan delante  57:02
+
+DET  entonces el sistema de búsqueda tiene que ser bastante / robusto a este tipo de problemas  57:06
+
+DET  por eso es que nosotros utilizamos / xxx  57:09
+
+DET  claro / aquí no les voy a presentar / &eh / cómo funciona / esto / en detalle pero / como ven / es una técnica que está así como en [/] en [/] en el aire actual  57:18
+
+DET  y mucha gente la está utilizando  57:19
+
+DET  hay otros tipos de método / por ejemplo xxx que es lo mismo un poco más acelerado  57:23
+
+DET  en tal nosotros hicimos un estudio &eh / sobre este tema  57:26
+
+DET  y / después / hicimos / un sistema [///] perdón  57:30
+
+DET  después hicimos un sistema de / búsqueda / acelerado / basado en / xxx  57:36
+
+DET  es un poco misma la idea  57:38
+
+DET  es poder / acelerar la búsqueda de la imagen / dentro de &eh [///] / buscar un poco rápidamente la &i [/] la [/] la imagen / el correcto match pero &ráp [/] de manera rápida / ¿ok?  57:47
+
+DET  no sé  57:48
+
+DET  no [/] no entremos mucho en detalles  57:50
+
+DET  ¿ok?  57:51
+
+DET  ¿ qué pasa con los teléfonos celulares ?  57:54
+
+DET  &eh / perdón / móviles  57:56
+
+DET  los teléfonos móviles / lo que pasa / es / que / a ustedes se los venden por seiscientos euros / o cuatrocientos euros si no se ponen un plan de cuatro años  58:05
+
+DET  &eh / esos teléfonos tienen / un procesador que es / de lo más barato / que existe / en el mercado  58:11
+
+DET  y / calculan muy lentamente  58:13
+
+DET  por lo tanto / nosotros hicimos primero test / empezamos a hacer algunos tests / sobre la [/] la busca de información móvil  58:19
+
+DET  y / descubrimos bastante rápidamente / que / si uno quiere hacer los cálculos en el móvil / el señor tiene que sacar la foto / irse a tomar un café y regresar en la tarde / para saber qué cuadro era  58:28
+
+DET  entonces hicimos una arquitectura que simplemente el móvil / es / un aparato que permite / transferir / la pregunta a un servidor que hace el [/] que hace todos los cálculos / y es bastante mucho [/] es mucho más rápido  58:39
+
+DET  ahora / hay que mandar toda la imagen  58:42
+
+DET  entonces / lo que nosotros vamos a hacer / es que vamos a tratar / de fijarnos / en diferente tipo de resoluciones  58:48
+
+DET  ¿ por qué ?  58:49
+
+DET  porque primero / hay que mandar una imagen / no puede ser muy grande / primero  58:52
+
+DET  y segundo / que para calcular las features de la imagen / tenemos que hacerlo de bastante manera rápida  58:58
+
+DET  mientras más grande la imagen / más tardamos para calcular las features  59:01
+
+DET  y en el caso de la xxx / esto es exponencial  59:04
+
+DET  ¿ok?  59:05
+
+DET  bueno / para darle un poco / la idea de si funciona o no funciona / tenemos una base de referencia / utilizamos una base de referencia que nos prestaron los [/] los amigos del [/] húngaros de la / web galery of art // que es excelente / se la recomiendo si quieren buscar alguna cosa  59:19
+
+DET  &ah / ellos tienen a dos mil doscientos artistas registrados  59:23
+
+DET  hay dieciséis mil / ochocientas piezas de arte / y para no poner el problema muy difícil / este / elegimos solamente las mil doscientas imágenes / de los cuadros del Louvre / admitiendo / que [///] o sea / como hipótesis de trabajo / que le podemos pedir al utilizador / cuando llegue / decir en qué museo está  59:41
+
+DET  entonces ya / podemos simplificar un poco el problema  59:44
+
+DET  ¿ok?  59:44
+
+DET  &u [/] un escenario bastante realista / o simplemente conseguimos la &co [/] en qué posición se encuentra  59:49
+
+DET  y sabemos que está en el Louvre / en fin  59:51
+
+DET  después para los tests / elegimos cuarenta pinturas  59:54
+
+DET  y / &eh / cuatro &dip [/] &eh / perspectivas diferentes  59:58
+
+DET  y &va [/] varios tipos de resoluciones  1:00:00
+
+DET  para que uno vea / el problema de la resolución / para poderle darle un poco el sentimiento a la resolución / a mano de [/] izquierda tenemos / la imagen / la imagen que vimos al principio / a una resolución de sesenta y cuatro por cincuenta y uno  1:00:12
+
+DET  si ya era difícil reconocer / la imagen / de buena calidad / imagínense de más baja calidad  1:00:19
+
+DET  y bueno / esto es una imagen de doscientos cincuenta y seis  1:00:21
+
+DET  hicimos experimentos hasta quinientos doce por el / proporcional / ¿no?  1:00:25
+
+DET  este / sobre el tema de la perspectiva / aquí tenemos / una imagen &a [/] arriba y a la izquierda tenemos una imagen frontal  1:00:34
+
+DET  y después tenemos / una imagen a la derecha / a la [/] arriba a la derecha / una perspectiva de la derecha  1:00:41
+
+DET  fíjense que elegimos cuadros de diferentes tamaños  1:00:43
+
+DET  fíjense que los cuadros están [/] tienen [/] tienen / &eh / tienen marcos  1:00:48
+
+DET  fíjense que hay gente que se nos atraviesa / por ejemplo cuando se hace una imagen / a distancia  1:00:52
+
+DET  en fin / tratamos de hacer / una base de [/] una base / de tests / bastante realista  1:00:58
+
+DET  ¿ok?  1:00:59
+
+DET  ¿ qué observamos ?  1:01:00
+
+DET  bueno / observamos que claro / lo que se esperaba un poco / era que si aumentábamos la resolución de la imagen / lo que iba a pasar / es / que se mejoraba mucho / &eh / el [/] el tiempo de cálculo / iba a aumentar mucho  1:01:12
+
+DET  aquí comparamos básicamente tres técnicas / o sea en este gráfico simplemente vemos tres técnicas / la xxx / la xxx que es una speed up / xxx / y la xxx / fast / que es lo que nosotros proponemos {%alt: proponimos}  1:01:22
+
+DET  y como imagino que nadie se sorprende / nuestro método combinado / es el más rápido / y probablemente el más eficaz  1:01:29
+
+DET  ¿ok?  1:01:30
+
+DET  pero lo que quiero decir / que / es / &va [///] aumentamos un poco s/ y fíjense / el xxx / aumenta  1:01:35
+
+DET  esto es / una escala en segundos / y nos conseguimos en algo / tipo mil quinientos segundos  1:01:40
+
+DET  que es / bastante / bastante alto / ¿no?  1:01:42
+
+DET  entonces / por eso fue que nosotros propusimos después / la aceleración  1:01:46
+
+DET  ¿ok?  1:01:47
+
+DET  ahora la performance / &al [/] algún truco tiene que haber  1:01:50
+
+DET  ¿ cómo hacemos nosotros para acelerar ?  1:01:51
+
+DET  al acelerar / lo que hicimos es / un sistema de indexación de la base de datos / que nos permite / adivinar / básicamente  1:01:57
+
+DET  adivinar / cuál es la imagen  1:01:59
+
+DET // pero claro / de vez en cuando nos tenemos que equivocar  1:02:01
+
+DET  o sea / no podemos ir / igual de rápido que los demás / o sea / no podemos ir cien veces más rápido que los demás / pero eso sí / no equivocarse nunca  1:02:08
+
+DET  o sea / puede ser que se pueda / pero lo que nosotros hicimos es / una / receta / heurística / ¿no?  1:02:14
+
+DET  y aquí vemos / que si utilizamos doscientos cincuenta y seis / lo que era lo más lento hace un &se [/] hace un momento / no nos equivocamos absolutamente nunca / tenemos / el cien por ciento / o sea / esto es el rango / de la imagen / en qué [/] en qué rango ahí aparece  1:02:29
+
+DET  y / &eh / si agarramos el rango uno / la tenemos cien por cien  1:02:32
+
+DET  entonces agarramos / en los dos primeros rangos cuántas veces aparece  1:02:35
+
+DET  y bueno / y aquí vemos que / por ejemplo / ciento veintiocho / es bastante eficaz  1:02:38
+
+DET  ahora / hay efectos bastante interesantes / que no puedo explicar aquí  1:02:42
+
+DET  &eh / que no voy a explicar  1:02:43
+
+DET  pero / por ejemplo / algo de mejor calidad / acelerado / funciona / doscientos cincuenta y seis fast / contra ciento veintiocho fast / la [/] &e [/] funciona [/] no funciona tan bien  1:02:55
+
+DET  ¿ por qué ?  1:02:55
+
+DET  porque el momento / &eh [///] habría que ver cómo funciona el algoritmo de aceleración / hace que / simplemente / hacemos muchos errores / en el momento de acelerar / ¿ok?  1:03:04
+
+DET  en fin / ese es [/] es eso  1:03:06
+
+DET  bueno  1:03:07
+
+DET  entonces / este / para [/] para mostrarle un poco cómo funciona / el sistema = no / no se pudo {%com: manipulating the computer}  1:03:14
+
+DET  ok  1:03:19
+
+DET  este / para mostrarles el [/] el sistema entonces / bueno esto es hecho en un [/] la oficina / entonces no tenemos el [/] tenemos / pero tenemos un cuadro de [/] de alta calidad  1:03:29
+
+DET  y / entonces / esto fue programado en / &eh [///] o sea tenemos versión [/] varias versiones / porque el estudiante estaba fascinado por la programación / entonces la tenemos en / Android  1:03:37
+
+DET  o sea / si se compran un GPhone / lo pueden [/] se lo pueden instalar sin ningún problema / lo tenemos en la / HP / en el Windows Mobile HP  1:03:45
+
+DET  en fin / el [/] el [/] el [/] el estudiante / le gustaba programar  1:03:49
+
+DET  entonces / la interface no es ideal / porque es un prototipo  1:03:53
+
+DET  lo que nos interesaba es saber la [/] la [/] la [/] la calidad de la programación  1:03:56
+
+DET  entonces se toma la imagen / ¿ok?  1:03:59
+
+DET  y después fíjense que la imagen era / blanco y negro / ¿no?  1:04:02
+
+DET  ¿ por qué ?  1:04:03
+
+DET  porque no importa  1:04:04
+
+DET  o sea / este sistema es bastante robusto / y / no importa / porque el descriptor xxx / se fija // que no se los expliqué // se [///] no / toma en cuenta los colores  1:04:12
+
+DET  o sea / cuando esta mañana oímos / que Paul dijo / que ese es el mejor sistema / sí es verdad / es lo que se [/] más se ha utilizado &o [/] hasta el día de hoy  1:04:19
+
+DET  se ha utilizado / pero los xxx no utilizan el color / aunque existen / claro / versiones / color del xxx  1:04:25
+
+DET  no sé / cuánto se puede ganar  1:04:27
+
+DET  y bueno / y al final / descubrimos / que &efecti [/] efectivamente descubrimos que era el fortune teller / la versión de París  1:04:35
+
+DET  &eh / sí / creo que hay una solo versión  1:04:36
+
+DET  es del [/] el del as [/] el as de pique / y &e [/] y el as de trèfle en [/] uno en Nueva York y uno en París  1:04:41
+
+DET  en fin / conseguimos el / xxx  1:04:44
+
+DET  ¿no?  1:04:45
+
+DET  ¿ es el xxx ?  1:04:46
+
+DET  yo creo que sí  1:04:47
+
+DET  en fin  1:04:48
+
+DET  ok / entonces / así es que funciona / el / sistema  1:04:52
+
+DET  y con esto / quería / terminar  1:04:56
+
+DET // quería decirles que yo pienso que la anotación automática / es / este [/] este [/] esta idea de traducción / es posible / especialmente para algunos conceptos  1:05:06
+
+DET  hay conceptos que / aunque interesen mucho / al ejército &amerita [/] americano son bastante difíciles de detectar  1:05:12
+
+DET  este / tenemos un / &eh = yo creo que / estos resultados / de estos conceptos se pueden utilizar / para mejorar / la busca de información / texto típica  1:05:24
+
+DET  y / este / hay una [/] un [/] una [/] una [/] un [/] unos pocos trabajos que están empezando a ver / la relación / entre los diferentes conceptos / en el momento del aprendizaje de los conceptos  1:05:35
+
+DET  o sea porque / si yo aprendo / y yo veo que tengo agua / bueno / y tengo un objeto / que puede ser que sea un barco / entonces / bueno / puedo adivinar que es un barco  1:05:43
+
+DET  entonces tratar de / utilizar este hecho que tenemos la relación  1:05:46
+
+DET  nosotros tenemos algunos trabajos también sobre eso / ¿no?  1:05:49
+
+DET  ¿ok?  1:05:50
+
+DET  yo creo que esto puede mejorar / la búsqueda de información / texto -> classic  1:05:56
+
+DET  y / claro / y eso ya funciona hoy en día / con conceptos bastante simples / para / que [/] que podemos / &eh [///] tipo color / y caras / y bueno  1:06:06
+
+DET  ustedes lo pueden ver en [/] en internet / ¿no?  1:06:08
+
+DET  hay ejemplos / hay / compañías que funcionan con eso  1:06:11
+
+DET  ok / yo creo que / este [/] yo &piens [///] espero que los convencí  1:06:16
+
+DET  si ustedes son la gente que trabaja en texto espero que los convencí que / texto no es lo único  1:06:22
+
+DET  o sea / no es la única solución / que existe  1:06:24
+
+DET  bueno / claro / si hay texto / yo soy el primero que utilizaría texto  1:06:30
+
+DET  pero si no hay / habrá que ver / cómo hacer / para mejorar los resultados  1:06:34
+
+DET  y yo pienso que el [/] la investigación sobre el tema de la busca de información texto / no en la parte de / procesamiento del lenguaje natural / pero sino en la búsqueda texto clásica / con keywords  1:06:46
+
+DET  yo creo que ha llegado un xxx / ya se consiguen resultados básicamente / las diferencias son pequeñas entre los diferentes sistemas  1:06:52
+
+DET  y pienso que hay que empezar a ver cosas / alrededor  1:06:55
+
+DET  &eh / yo pienso que hay ver cosas alrededor / el contexto / un poco cómo se hace la personalización / el utilizador y tal y hay que ver un poco alrededor / de la misma manera que yo trato de ver las imágenes y la media también se puede ver el utilizador / y las cosas que están alrededor  1:07:09
+
+DET  ok / entonces yo con esto quería terminar  1:07:12
+
+DET  y para los que querían saber / de qué cuadro se [/] se [/] qué cuadro era / el cuadro era de / Correggio  1:07:20
+
+DET  &eh / mil cuatrocientos noventa  1:07:22
+
+DET  es el Mystic Marriage of Saint Catherine  1:07:25
+
+DET  está en el Louvre / claro  1:07:25
+
+DET  los experimentos los hicimos en el Louvre / eso sí lo hubiesen podido adivinar  1:07:28
+
+DET  y / &eh / pertenece a un grupo de la Madonna Painting / donde Correggio participaba / donde representaba / el ideal femenino  1:07:38
+
+DET  gracias por su atención  1:07:40

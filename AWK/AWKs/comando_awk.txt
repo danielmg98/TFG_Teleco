@@ -1,1 +1,1 @@
-awk '{print "sox "$1" "$2" "$3" trim "$4}' awk_mavir013.txt > ejecutar013.sh
+awk '{print "sox "$1" "$2" trim "$3" "$4}' awk_mavir013.txt > ejecutar013.sh

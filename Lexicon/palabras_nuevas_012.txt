@@ -1,0 +1,7076 @@
+0a1
+> .
+3,12d3
+< abandonaba
+< abierta
+< abierto
+< abiertos
+< abogados
+< abriendo
+< abrigo
+< abrir
+< abrumador
+< absoluta
+14,17d4
+< absolutas
+< absoluto
+< absolutos
+< abstracción
+19,26c6
+< absurda
+< abundado
+< abundante
+< aburrirles
+< aburro
+< abusar
+< abusos
+< acá
+---
+> aca
+28d7
+< acabado
+30,32d8
+< acaban
+< acabar
+< acabas
+34,53c10
+< acabó
+< academia
+< academias
+< académica
+< académicas
+< académico
+< académicos
+< acaso
+< acceder
+< accesibilidad
+< accesible
+< acceso
+< accesos
+< access
+< accidentes
+< acción
+< acciones
+< accionistas
+< accuracy
+< aceleración
+---
+> aceleracion
+56,93d12
+< acento
+< aceptación
+< aceptado
+< acerca
+< acercamiento
+< acercar
+< acercarse
+< acertados
+< acertar
+< acierto
+< aciertos
+< aclaran
+< aclarar
+< acompaña
+< acompañado
+< acompañamos
+< acompañar
+< acordaba
+< acostumbrado
+< acostumbrados
+< acostumbramos
+< acotada
+< acotadas
+< acotar
+< acrónimos
+< actitud
+< actitudes
+< activa
+< activamente
+< activar
+< actividad
+< actividades
+< activo
+< activos
+< actos
+< actriz
+< actúa
+< actuación
+95,103d13
+< actuales
+< actualicen
+< actualidad
+< actualiza
+< actualización
+< actualizada
+< actualizado
+< actualizados
+< actualizar
+105,108d14
+< acuden
+< acudir
+< acuerda
+< acuerdes
+110,122d15
+< acuerdos
+< acumulan
+< ad
+< adapta
+< adaptación
+< adaptado
+< adaptar
+< adecua
+< adecuada
+< adecuadamente
+< adecuado
+< adelantado
+< adelantar
+124,127c17
+< adelanto
+< además
+< adicional
+< adicionales
+---
+> ademas
+129,132d18
+< adjuntar
+< administración
+< administraciones
+< administrativa
+134,141d19
+< adolfo
+< adoptemos
+< adquiere
+< adquirido
+< adquirir
+< adquirirlos
+< adquisición
+< adrede
+143,149d20
+< afectados
+< afectará
+< aficionados
+< afortunadamente
+< África
+< ag
+< agapea
+152,168d22
+< agencia
+< agencias
+< agenda
+< agente
+< agentes
+< ágil
+< agosto
+< agradecemos
+< agradecer
+< agradeceros
+< agradecimiento
+< agradecimientos
+< agradezco
+< agregado
+< agresivo
+< agronomía
+< agrupamiento
+170,173d23
+< aguantando
+< aguilera
+< aguillo
+< agujeros
+175c25
+< ahí
+---
+> ahi
+177,178d26
+< ahorrar
+< ahorros
+180,186d27
+< ajenas
+< ajenos
+< ajustada
+< ajustado
+< ajustan
+< ajuste
+< aks
+188,209d28
+< alargaríamos
+< alarguemos
+< alcalá
+< alcance
+< alcanza
+< alcanzará
+< alcanzar
+< alcanzarnos
+< alcanzo
+< alcázar
+< alchemist
+< aldea
+< aleatorio
+< alemana
+< alemán
+< alemania
+< alergia
+< alergias
+< alertas
+< alexa
+< alfabético
+< alfonseca
+212d30
+< algoritmos
+213a32
+> algun
+215d33
+< algún
+219,240c37,39
+< alianza
+< alianzas
+< alicante
+< alimentación
+< alimentar
+< alimentarlos
+< alimentas
+< alimentos
+< alimón
+< allá
+< allí
+< alltheweb
+< alma
+< almacena
+< almacenada
+< almacenado
+< almacenan
+< almacenar
+< almacenarlas
+< almacenes
+< aló
+< alquimista
+---
+> alla
+> alli
+> alo
+243,247d41
+< altas
+< altavista
+< alternativa
+< alternativas
+< alternativo
+249,251d42
+< altos
+< alucina
+< alucino
+255,262d45
+< ambición
+< ambientado
+< ámbito
+< ámbitos
+< ambos
+< américa
+< americana
+< americanas
+264,265d46
+< americanos
+< amigacho
+268,292d48
+< amplia
+< amplía
+< ampliación
+< ampliada
+< ampliado
+< ampliar
+< ampliarlas
+< amplias
+< amplio
+< ana
+< añade
+< añadían
+< añadido
+< añadiendo
+< añadiéndole
+< añadir
+< añadirle
+< añadirlo
+< analgésico
+< análisis
+< analiza
+< analizador
+< analizamos
+< analizan
+< analizando
+295,298d50
+< analizarse
+< analysis
+< anda
+< andalucía
+301,307d52
+< anécdota
+< anécdotas
+< anexa
+< angloparlantes
+< anima
+< animaciones
+< animados
+309,311d53
+< animals
+< animase
+< animo
+313d54
+< anonimizarla
+315c56
+< anotación
+---
+> anotacion
+319d59
+< anotados
+320a61
+> anotation
+322,330d62
+< anselmo
+< answer
+< answering
+< ante
+< antecedentes
+< antemano
+< anterior
+< anteriores
+< anteriormente
+332,345c64
+< antibiótico
+< antibióticos
+< anticopia
+< anticuado
+< antiguamente
+< antiguo
+< antispam
+< antología
+< antonio
+< anual
+< anuales
+< anuarios
+< anunciar
+< apache
+---
+> antologia
+349d67
+< aparecerán
+351,352c69
+< aparecía
+< aparecían
+---
+> aparecian
+354d70
+< apareciendo
+356,360d71
+< aparezcan
+< apartado
+< aparte
+< apasionantes
+< apellido
+362,366d72
+< api
+< aplicable
+< aplicación
+< aplicaciones
+< aplicadas
+370,384d75
+< aplicar
+< aplicativos
+< aporta
+< aportábamos
+< aportación
+< aportaciones
+< aportado
+< aportados
+< aportan
+< aportando
+< aportar
+< aporte
+< aportó
+< apostado
+< apostando
+386,393d76
+< apoyada
+< apoyando
+< apoyar
+< apoyo
+< apoyos
+< application
+< apreciación
+< aprecie
+398,402d80
+< aprendes
+< aprendía
+< aprendido
+< aprendiendo
+< aprendieron
+406,422d83
+< apropiadamente
+< apropiadas
+< apropiado
+< apropiar
+< aprovechando
+< aprovechará
+< aprovechar
+< aprovecharlo
+< aproximación
+< aproximaciones
+< aproximadamente
+< aproximado
+< aproximados
+< aproximarlo
+< apuesta
+< apuesto
+< apunta
+424,435c85,87
+< apunte
+< apunto
+< aquel
+< aquella
+< aquellas
+< aquello
+< aquellos
+< aquí
+< arafat
+< arancha
+< árbol
+< árboles
+---
+> aqui
+> arbol
+> arboles
+437,445d88
+< archivo
+< archivos
+< arco
+< área
+< áreas
+< armario
+< armónica
+< armonizar
+< arquitecto
+447,452d89
+< arranca
+< arrancar
+< arrastramos
+< arrebatemos
+< arreglado
+< arreglamos
+454,456c91
+< arriesgadas
+< arriesgan
+< ars
+---
+> art
+459,460d93
+< artículo
+< artículos
+463d95
+< artístico
+465,487c97
+< asegura
+< asegurada
+< aseguro
+< asentados
+< asesoraba
+< asesor
+< asesores
+< asia
+< así
+< asiática
+< asiáticas
+< asiáticos
+< asignación
+< asirios
+< asistas
+< asistencia
+< asistencia
+< asistente
+< asistentes
+< asistida
+< asistir
+< asisto
+< ask
+---
+> asi
+489d98
+< asociada
+491d99
+< asociado
+493,496d100
+< aspecto
+< aspectos
+< aspirar
+< asume
+498,517c102,103
+< asumir
+< asumo
+< asunto
+< atención
+< atendemos
+< atender
+< atendidas
+< atendido
+< atendiendo
+< atienden
+< atípico
+< atípicos
+< atom
+< atos
+< atractiva
+< atractivo
+< atraer
+< atrapado
+< atrasado
+< atrás
+---
+> atencion
+> atras
+521,525d106
+< atrevía
+< atributo
+< atributos
+< audiencia
+< audiencias
+527,528d107
+< auge
+< aulas
+530c109
+< aumentábamos
+---
+> aumentabamos
+533,534d111
+< aun
+< aún
+536,556c113,115
+< ausencia
+< australia
+< australiano
+< austria
+< auténtica
+< auténtico
+< autoaprendizaje
+< auto
+< autoemplearnos
+< autoempleo
+< autofinancia
+< autofinanciamos
+< automática
+< automáticamente
+< automáticas
+< automático
+< automaticstrans
+< automatizase
+< autónoma
+< autónomas
+< autonomy
+---
+> automatica
+> automaticamente
+> automatico
+558,561d116
+< autores
+< autoría
+< auxilios
+< avanzada
+563,568d117
+< avanzado
+< avanzados
+< avanzando
+< avanzar
+< ave
+< aventura
+570,571d118
+< averiguar
+< axial
+573,578d119
+< ay
+< ayala
+< ayer
+< ayuda
+< ayudado
+< ayudándose
+580,589d120
+< ayudaron
+< ayudas
+< ayuden
+< ayúdenme
+< ayudo
+< ayudó
+< ayuntamiento
+< ayuntamientos
+< azafrán
+< azar
+591,594c122
+< backup
+< baeza
+< bag
+< bah
+---
+> bagging
+596,600d123
+< bajada
+< bajando
+< bajará
+< bajar
+< bajas
+602,604d124
+< bajos
+< balanceada
+< banco
+606d125
+< barcelona
+608,611d126
+< barra
+< barras
+< barrera
+< barreras
+615,616c130
+< basándonos
+< basándose
+---
+> basandose
+619,625c133,135
+< baseline
+< bases
+< básica
+< básicamente
+< básicas
+< básico
+< básicos
+---
+> based
+> basical
+> basicamente
+630,637d139
+< b
+< bbk
+< beatles
+< bebe
+< be
+< beca
+< becas
+< bender
+639,655c141
+< beneficiaria
+< beneficiarse
+< beneficio
+< beneficios
+< beneficioso
+< berga
+< berkeley
+< berrilan
+< bestial
+< bibliografía
+< bibliográfica
+< bibliometría
+< bibliométricos
+< biblioteca
+< bibliotecario
+< bibliotecas
+< bic
+---
+> beyond
+658,669d143
+< bigramas
+< bilingüe
+< binariamente
+< binario
+< bioamérica
+< bio
+< biología
+< biólogos
+< biology
+< biomedicina
+< biotecnología
+< bitext
+671,677d144
+< blog
+< blogs
+< bloques
+< boe
+< boecilla
+< bola
+< bolonia
+679,687c146
+< bolsillo
+< bomba
+< bonita
+< bonitas
+< bonito
+< booleana
+< booleanas
+< booleano
+< boom
+---
+> book
+689,690d147
+< borracha
+< borrador
+693d149
+< borroso
+695,696c151
+< bosquejo
+< botábamos
+---
+> botabamos
+699,711d153
+< botín
+< botones
+< brazos
+< brecha
+< brechas
+< breve
+< brevedad
+< brevemente
+< breves
+< broma
+< bronca
+< brutos
+< btob
+713d154
+< buenaga
+715,716d155
+< buen
+< buenísima
+719,727c158
+< buf
+< built
+< bullición
+< bulto
+< burbuja
+< bursátil
+< buscaba
+< buscábamos
+< buscaban
+---
+> building
+729,732c160
+< buscada
+< buscadas
+< buscador
+< buscadores
+---
+> buscabamos
+734d161
+< buscan
+736d162
+< buscara
+738,742c164
+< buscaré
+< buscaría
+< buscarse
+< buscarte
+< buscas
+---
+> buscare
+744,754c166
+< buscó
+< busque
+< búsqueda
+< búsquedas
+< busquen
+< cabecera
+< cabeceras
+< cabe
+< cabeza
+< cabo
+< cabría
+---
+> busqueda
+757,763c169
+< cadenas
+< café
+< caixa
+< caja
+< cajita
+< calculado
+< calcula
+---
+> cafe
+766,768c172,173
+< cálculo
+< cálculos
+< calibre
+---
+> calculo
+> calculos
+770,773d174
+< california
+< callcenter
+< callcenters
+< calle
+775,778c176
+< cámara
+< camareros
+< cambiaba
+< cambiado
+---
+> camara
+780d177
+< cambiando
+782,785d178
+< cambio
+< cambridge
+< camino
+< caminos
+787,804d179
+< cam
+< campaña
+< campañas
+< campo
+< campos
+< campusred
+< canadá
+< canadienses
+< canales
+< canalizando
+< cáncer
+< canciller
+< candidata
+< candidato
+< candidatos
+< cangrejo
+< cangrejos
+< cantidades
+806,824c181
+< caos
+< caótica
+< capaces
+< capacidad
+< capa
+< capaz
+< capita
+< cápita
+< capitalización
+< capital
+< captado
+< captar
+< captura
+< capturan
+< capturar
+< caracteres
+< característica
+< características
+< carácter
+---
+> car
+825a183
+> caracteristica
+827,830d184
+< cardiacas
+< carencias
+< cargar
+< cargas
+832d185
+< carrera
+836,837d188
+< cartas
+< cartel
+840,842d190
+< casar
+< casaron
+< casi
+845,847d192
+< castellano
+< castellanos
+< castellón
+849,881c194
+< casuística
+< catalana
+< catalanas
+< catalanes
+< catalanismo
+< catalán
+< catalanohablantes
+< catalogaciones
+< catalogación
+< catalogada
+< catalogadas
+< catalogado
+< catalogadores
+< catalogador
+< catalogados
+< catalogan
+< catalogar
+< catalogarla
+< catálogo
+< catálogos
+< cataluña
+< catastrófico
+< categoría
+< categorías
+< categorización
+< categoriza
+< categorizar
+< categorizarla
+< cat
+< catorce
+< causa
+< cd
+< c
+---
+> catherine
+883,886d195
+< cedo
+< celebramos
+< celebra
+< celebró
+888,892d196
+< centenas
+< centradas
+< centrada
+< centrado
+< centralista
+894,903d197
+< centramos
+< centrándose
+< centrando
+< centrarnos
+< centrarse
+< centrar
+< centra
+< centremos
+< centre
+< centros
+905,909d198
+< cercanas
+< cercana
+< cercanía
+< cercanos
+< cerca
+911,918c200
+< cerrábamos
+< cerrada
+< cerrados
+< cerrado
+< cerrar
+< certeza
+< cervantes
+< ce
+---
+> cerrabamos
+921,939d202
+< charlar
+< charlas
+< chato
+< chats
+< chavales
+< chico
+< chile
+< china
+< chinito
+< chino
+< chiquitita
+< chorrada
+< chulas
+< chulo
+< chusco
+< cia
+< cibermetría
+< cibernéticos
+< ciclo
+941,942d203
+< ciencias
+< ciencia
+944,947c205
+< científica
+< científicos
+< científico
+< cientos
+---
+> cientifica
+949,952d206
+< ciertamente
+< ciertas
+< cierta
+< ciertos
+954,955d207
+< cifras
+< cifra
+958,962d209
+< cindoc
+< circulación
+< circundan
+< circunde
+< citaros
+964,973d210
+< citas
+< citation
+< cita
+< ciudadanos
+< ciudadano
+< ciudad
+< clara
+< claramente
+< claras
+< clarísimamente
+975d211
+< claros
+978,985c214,215
+< clásica
+< clásico
+< clasificaciones
+< clasificación
+< clasificadas
+< clasificadores
+< clasificador
+< clasificados
+---
+> clasica
+> clasico
+987,988c217,219
+< clasificamos
+< clasifican
+---
+> clasificacion
+> clasificador
+> clasificadores
+990,994c221,222
+< clasificarlas
+< clavada
+< clave
+< claves
+< clavo
+---
+> classic
+> classifier
+996,1004d223
+< clicando
+< clickando
+< cliente
+< clientela
+< clientes
+< clima
+< clínica
+< clínicas
+< clínicos
+1006d224
+< cnn
+1008,1016c226
+< cobran
+< cobrar
+< cobrarla
+< cobrarlo
+< cobras
+< coca cola
+< coca
+< coche
+< coches
+---
+> cocacola
+1018,1059d227
+< código
+< códigos
+< coge
+< cogemos
+< cogerá
+< cogerán
+< coger
+< cogerla
+< cogerlo
+< coges
+< cogían
+< cogido
+< cogiendo
+< cognitivo
+< cogolla
+< coherente
+< cohn
+< coincide
+< coincidencia
+< coja
+< colaboración
+< colabora
+< colaboran
+< colaborar
+< colaboren
+< cola
+< colchón
+< colecciones
+< colección
+< colegas
+< colegio
+< colgado
+< colgamos
+< colocando
+< colocan
+< colocar
+< colocarlo
+< colombia
+< colón
+< coloquial
+< colores
+< colorines
+1061c229,230
+< columna
+---
+> colores
+> com
+1063,1068d231
+< comando
+< comandos
+< combatir
+< combinaba
+< combinaciones
+< combinación
+1070,1072d232
+< combinando
+< combinándolo
+< combinándolos
+1075,1092d234
+< comentaba
+< comentábamos
+< comentado
+< comenta
+< comentamos
+< comentando
+< comentarais
+< comentaré
+< comentario
+< comentarios
+< comentar
+< comento
+< comentó
+< comenzaré
+< comenzar
+< comenzó
+< comerciales
+< comercialización
+1094,1104c236
+< comercio
+< comer
+< cometido
+< cómicas
+< comiéndome
+< comienzo
+< comillas
+< comisión
+< comités
+< com
+< cómodo
+---
+> comerciales
+1106,1111c238,239
+< cómo
+< compañero
+< compañeros
+< compañía
+< compañías
+< comparables
+---
+> compañias
+> comparacion
+1113,1117d240
+< comparación
+< comparado
+< comparais
+< comparáis
+< compara
+1119,1121d241
+< comparando
+< comparándolo
+< comparan
+1123,1130c243
+< compararla
+< comparativa
+< comparativas
+< comparativo
+< comparen
+< compartir
+< compartís
+< competencia
+---
+> competicion
+1132,1148d244
+< competición
+< competidores
+< competir
+< competitiva
+< competitivo
+< compite
+< compitiendo
+< compleción
+< compleja
+< complejo
+< complejos
+< complementan
+< complementaria
+< complementario
+< complementar
+< complementarlos
+< complementos
+1151,1155d246
+< completan
+< completar
+< completarla
+< completaron
+< completas
+1157,1158d247
+< complicada
+< complicado
+1159a249
+> complicado
+1161,1164d250
+< complutense
+< compone
+< componente
+< componentes
+1167,1172d252
+< comportan
+< compraba
+< comprados
+< compra
+< cómprame
+< comprando
+1174,1190c254
+< comprar
+< compraron
+< compras
+< comprendan
+< comprender
+< compren
+< comprensión
+< comprimiéndose
+< comprobado
+< comprobamos
+< comprobar
+< compro
+< comprometen
+< comprometer
+< compromiso
+< computació
+< computacional
+---
+> comprimiendose
+1193,1198d256
+< comunicaciones
+< comunicación
+< comunicando
+< comunicar
+< comunicarse
+< comunidades
+1200,1203c258
+< común
+< concedan
+< concentrar
+< concentrarse
+---
+> con
+1206,1211c261
+< conciencia
+< concienciarnos
+< conciso
+< concluir
+< conclusiones
+< conclusión
+---
+> conclusion
+1213d262
+< concretas
+1215,1241d263
+< concretos
+< concurrencia
+< concurrir
+< concursan
+< concursar
+< concurso
+< concursos
+< condicionamiento
+< condiciones
+< conduce
+< conectada
+< conectarla
+< conectarse
+< conectores
+< conejos
+< conexión
+< conferencias
+< confiado
+< confianza
+< confías
+< confidenciales
+< configuración
+< configurar
+< confirmamos
+< confusa
+< congreso
+< congresos
+1243,1245d264
+< con
+< conocéis
+< conoce
+1248,1259d266
+< conocerán
+< conoceréis
+< conocer
+< conocerse
+< conocía
+< conocíamos
+< conocida
+< conocido
+< conocidos
+< conocimiento
+< conocimientos
+< conozcáis
+1261,1267d267
+< conquistar
+< conscientes
+< consecuencia
+< consecutivos
+< conseguía
+< conseguido
+< conseguí
+1270,1280d269
+< conseguirlo
+< conseguís
+< consejería
+< consejo
+< conservar
+< consideraba
+< considerable
+< considera
+< consideramos
+< considerando
+< consideran
+1283d271
+< consigo
+1286,1301d273
+< consigues
+< consiste
+< consistente
+< consolidados
+< consolidando
+< consolidarse
+< consorcio
+< consorcios
+< consta
+< constante
+< constituido
+< constituimos
+< constituye
+< constituyendo
+< construcción
+< construimos
+1303,1313d274
+< construyen
+< construyó
+< consulta
+< consultar
+< consultas
+< consultoras
+< consultores
+< consultoría
+< consultor
+< consumida
+< consumo
+1315,1321d275
+< contabilidad
+< contacto
+< contactos
+< contado
+< contaminado
+< contamos
+< contará
+1323,1338d276
+< contaros
+< contempla
+< contemplamos
+< contemplan
+< contemplarse
+< contengan
+< contenido
+< contenidos
+< contento
+< contestaban
+< contesta
+< contestando
+< contestan
+< contestara
+< contestar
+< contesté
+1340,1354c278
+< contextos
+< contextuales
+< contextual
+< contiene
+< contienen
+< continentes
+< contingencia
+< continuación
+< continua
+< continuamente
+< continuar
+< continuidad
+< contó
+< contradicción
+< contradictorio
+---
+> conto
+1356,1357d279
+< contrapartida
+< contrapuestos
+1359,1404c281
+< contraste
+< contrataciones
+< contratación
+< contratar
+< contrato
+< contratos
+< contreras
+< contribuciones
+< contribución
+< contribuía
+< controlada
+< controladas
+< controlado
+< controlar
+< control
+< convencido
+< convencidos
+< convencí
+< convencional
+< convendría
+< convenzan
+< conversión
+< convertían
+< convertido
+< convertir
+< convertirlo
+< convertirlos
+< convierte
+< convirtiendo
+< convirtió
+< convocatoria
+< convocatorias
+< cooperación
+< cooperan
+< coordinación
+< coordinador
+< coordinados
+< copa
+< copia
+< copias
+< copie
+< copien
+< corazón
+< corea
+< cores
+< corparables
+---
+> convenci
+1406,1410d282
+< corporativa
+< corporativas
+< corporativos
+< corpus
+< corrección
+1412d283
+< correctas
+1414,1415d284
+< correctores
+< corrector
+1418,1422d286
+< corregirme
+< correlación
+< correo
+< corresponda
+< corresponde
+1424,1427c288
+< corresponderá
+< correspondían
+< correspondiente
+< corroborar
+---
+> correspondian
+1429d289
+< corta
+1431,1433d290
+< corte
+< corto
+< corujo
+1436,1451d292
+< cosita
+< costado
+< costa
+< coste
+< costó
+< costosísima
+< costoso
+< crawler
+< crawlers
+< crawl
+< creación
+< creada
+< creadas
+< creado
+< creados
+< creáis
+1453,1454d293
+< creamos
+< creando
+1457,1472d295
+< crearse
+< creas
+< creativa
+< crece
+< crecen
+< crecer
+< creciendo
+< crecimiento
+< credibilidad
+< crédito
+< creéis
+< cree
+< creemos
+< creen
+< creer
+< crees
+1474,1478d296
+< creó
+< crezca
+< cría
+< criatura
+< crisis
+1480d297
+< cristóbal
+1482,1491d298
+< criterios
+< críticas
+< criticó
+< croacia
+< cross
+< cruzada
+< cruzar
+< csic
+< ct
+< cuadernillo
+1494d300
+< cuadrado
+1496d301
+< cuadrantes
+1499,1504d303
+< cua
+< cuales
+< cuáles
+< cualidades
+< cualitativamente
+< cualitativo
+1506,1507c305
+< cuál
+< cualquiera
+---
+> cuales
+1510d307
+< cuándo
+1512,1516d308
+< cuántas
+< cuantifica
+< cuantitativas
+< cuantitativo
+< cuantitativos
+1518d309
+< cuánto
+1520d310
+< cuántos
+1522,1524d311
+< cuarta
+< cuarto
+< cuatrocientos
+1526,1531c313
+< cuberto
+< cubierto
+< cubre
+< cubrir
+< cuelga
+< cuelgan
+---
+> cuatrocientos
+1533,1537d314
+< cuéntame
+< cuentan
+< cuentas
+< cuente
+< cuento
+1539d315
+< cuerpo
+1541,1577d316
+< cuestan
+< cuestionan
+< cuestionario
+< cuestionarios
+< cuestiones
+< cuestión
+< cuidado
+< cuidamos
+< cuidar
+< culpa
+< cultivo
+< cultura
+< culturales
+< cultural
+< cumple
+< cumplen
+< cumples
+< cumplimentar
+< cumplir
+< curiosa
+< curiosamente
+< curiosidades
+< curiosidad
+< curioso
+< currículum
+< curso
+< cursos
+< custodiar
+< cuya
+< cuyo
+< cybermetría
+< cybermétrico
+< cybermetrics
+< cytit
+< daba
+< dabais
+< dábamos
+1579,1580d317
+< dada
+< dadas
+1582,1584d318
+< daedalus
+< daedalus
+< dais
+1586,1591d319
+< dan
+< dando
+< dándole
+< dándoles
+< danone
+< dará
+1593,1594d320
+< daría
+< daríamos
+1597,1599d322
+< daros
+< darse
+< das
+1601,1602d323
+< dataset
+< dato
+1604,1608c325,326
+< d
+< dea
+< debajo
+< debate
+< debatirlo
+---
+> day
+> de
+1610,1618c328,330
+< debemos
+< deben
+< deberá
+< deberes
+< debería
+< deberíamos
+< deberían
+< debido
+< década
+---
+> deberia
+> deberiamos
+> deberian
+1620,1634c332,333
+< decentes
+< decía
+< decíamos
+< decían
+< decías
+< decidamos
+< decidan
+< decide
+< deciden
+< decides
+< decidido
+< decidiera
+< decidimos
+< decidir
+< decimal
+---
+> decia
+> deciamos
+1637d335
+< decirle
+1639,1643d336
+< decirlo
+< decirme
+< deciros
+< decirte
+< decís
+1645,1688c338
+< decisión
+< decisiones
+< declara
+< de
+< dé
+< dedicaarsela
+< dedicaban
+< dedicada
+< dedicadas
+< dedica
+< dedicado
+< dedicados
+< dedicáis
+< dedicamos
+< dedican
+< dedicar
+< dedicársela
+< dedique
+< dedo
+< deductivo
+< defecto
+< defectuosos
+< defender
+< defensa
+< defensor
+< defiendan
+< define
+< definen
+< definía
+< definían
+< definición
+< definiciones
+< definida
+< definido
+< definidos
+< definiendo
+< definieron
+< definimos
+< definir
+< definiré
+< definirlo
+< definiros
+< deformación
+< deforma
+---
+> deformacion
+1690,1694c340
+< deis
+< dejaba
+< deja
+< dejado
+< déjame
+---
+> dejame
+1696d341
+< dejando
+1698,1701c343
+< dejaron
+< dejé
+< dejo
+< delante
+---
+> deje
+1703,1719c345,347
+< deletree
+< deletréeme
+< delimitador
+< delimitadores
+< delimitar
+< demanda
+< demandado
+< demás
+< demasiadas
+< demasiado
+< demo
+< demografía
+< demográfica
+< demonios
+< demostración
+< demostrado
+< demostrándose
+---
+> delante
+> demas
+> demostracion
+1721,1731d348
+< demuestra
+< demuestran
+< demuestren
+< den
+< denegó
+< denomina
+< denominado
+< denominados
+< denominamos
+< denostada
+< denso
+1733,1734d349
+< departamento
+< departamentos
+1736,1737d350
+< depender
+< dependiendo
+1739,1741d351
+< deportes
+< deportistas
+< deprimente
+1745,1754c355
+< derechos
+< derivados
+< derroteros
+< desafío
+< desafortunadamente
+< desagregar
+< desambigua
+< desaparecían
+< desarrollada
+< desarrolla
+---
+> desafio
+1756,1767d356
+< desarrolladora
+< desarrolladores
+< desarrollados
+< desarrollamos
+< desarrollando
+< desarrollará
+< desarrollar
+< desarrollarla
+< desarrollarlo
+< desarrollarlos
+< desarrollarse
+< desarrollásemos
+1769,1778d357
+< desarrolló
+< desarrollos
+< desastre
+< desastrosa
+< descargarme
+< descartamos
+< descartan
+< descartar
+< descendemos
+< descender
+1781,1785d359
+< desconcertados
+< desconocida
+< desconocido
+< desconocidos
+< desconocimiento
+1787,1790c361
+< describen
+< describir
+< describiros
+< descripción
+---
+> descripcion
+1792,1793c363
+< descriptivos
+< descriptó
+---
+> descripto
+1795d364
+< descrito
+1798,1799d366
+< descubra
+< descubran
+1801d367
+< descubrió
+1804,1815d369
+< des
+< deseable
+< deseándolo
+< deseleccionar
+< desesperadamente
+< desesperados
+< desesperaran
+< desfavorecidos
+< desglose
+< desgraciadamente
+< desgracia
+< desgracias
+1817,1833c371
+< deslocalizando
+< desmayamos
+< desorden
+< despacho
+< despachos
+< despegando
+< despiertan
+< despistarte
+< despliegue
+< desprecia
+< despreciar
+< desprender
+< después
+< destacar
+< destiempo
+< destinada
+< destino
+---
+> despues
+1835,1837d372
+< detallado
+< detallados
+< detallar
+1840,1841c375
+< detección
+< detectada
+---
+> deteccion
+1845d378
+< detectando
+1847,1848c380
+< detecte
+< detectó
+---
+> detecto
+1851,1867c383
+< determinada
+< determinadas
+< determina
+< determinado
+< determinados
+< determinante
+< determinar
+< detrás
+< deutsche
+< devolviera
+< devuelto
+< devuelva
+< devuelve
+< devuelven
+< día
+< diagnóstico
+< diagnósticos
+---
+> dia
+1869,1886c385
+< diagrama
+< diagramas
+< dialnet
+< dialogar
+< diálogo
+< diapositiva
+< diapositivas
+< diaria
+< diariamente
+< diario
+< días
+< díaz
+< dibujada
+< dibujito
+< dibujitos
+< dibujo
+< dibujos
+< diccionario
+---
+> dias
+1891,1899c390
+< dices
+< dicha
+< dichas
+< dicho
+< dichos
+< diciendo
+< di
+< dieciocho
+< dieciséis
+---
+> dieciseis
+1901,1905d391
+< diera
+< dieron
+< dietterich
+< diez
+< diferenciación
+1907,1909d392
+< diferenciamos
+< diferenciarnos
+< diferenciarse
+1913,1921c396,397
+< difícil
+< difíciles
+< dificualtad
+< dificultad
+< dificultades
+< dificulta
+< difundáis
+< difundir
+< difusión
+---
+> dificil
+> dificiles
+1923d398
+< digáis
+1926,1930c401
+< díganme
+< digas
+< digital
+< digitales
+< digitalización
+---
+> diganme
+1932,1934d402
+< dije
+< dijéramos
+< dijeron
+1937,1943c405
+< dilatarlo
+< dilbert
+< dile
+< dimensionados
+< dimensionalidad
+< dimensionar
+< dimensión
+---
+> dimension
+1945,1955d406
+< dimos
+< dinámica
+< dinámico
+< dinero
+< dineros
+< dio
+< dios
+< diputación
+< dirección
+< direcciones
+< directa
+1957,1980d407
+< directas
+< directo
+< director
+< director
+< directores
+< directorio
+< directorios
+< directory
+< directos
+< diré
+< diría
+< dirías
+< dirigida
+< dirigimos
+< dirigir
+< dirigirnos
+< disciplina
+< disciplinar
+< disciplinas
+< disco
+< discográfica
+< discográficas
+< discordancia
+< discos
+1982,2015c409
+< disculpadme
+< disculpas
+< discusión
+< discusiones
+< discute
+< discuten
+< discutido
+< discutiendo
+< discutir
+< discutirlo
+< diseñada
+< diseña
+< diseñador
+< diseñados
+< diseñamos
+< diseñar
+< diseño
+< diseños
+< disgustaría
+< disminuya
+< disminuye
+< dispar
+< disparidad
+< dispersa
+< disponemos
+< disponen
+< disponer
+< disponibilidad
+< disponible
+< disponibles
+< disposición
+< dispuesta
+< dispuesto
+< disquete
+---
+> discusion
+2017,2035d410
+< distinguir
+< distinta
+< distintas
+< distinto
+< distintos
+< distribución
+< distribuido
+< distribuir
+< distribuya
+< distribuyen
+< diversa
+< diversas
+< dividido
+< dividir
+< divisiones
+< divorcio
+< dni
+< doble
+< doc
+2037,2038d411
+< docena
+< docencia
+2040,2048c413
+< doctoral
+< doctorales
+< doctor
+< doctores
+< documentación
+< documentados
+< documental
+< documentalistas
+< documentar
+---
+> documentacion
+2051,2053d415
+< domingo
+< dominio
+< dominios
+2055,2056d416
+< dónde
+< don
+2058c418
+< dormido
+---
+> dos
+2061,2062d420
+< dos
+< dotan
+2064,2067d421
+< dramática
+< duda
+< dudas
+< dudemos
+2069,2070d422
+< dulce
+< dura
+2073,2090d424
+< duras
+< duro
+< duros
+< ebay
+< echado
+< echamos
+< echaron
+< echen
+< ecológica
+< económica
+< económicamente
+< económicas
+< económico
+< económicos
+< economistas
+< ecuación
+< edición
+< edificio
+2092,2098d425
+< editar
+< educación
+< educared
+< educarle
+< educativo
+< edu
+< e
+2100d426
+< efectivo
+2103,2106d428
+< efectúa
+< efe
+< eficaces
+< eficacia
+2108,2115d429
+< eficiencia
+< eficiente
+< eh
+< eicstes
+< ejecuciones
+< ejecuta
+< ejemplares
+< ejemplar
+2118,2130c432,433
+< ejército
+< ejes
+< ejmeplo
+< elaborada
+< elaborado
+< elcano
+< electrónica
+< electrónicas
+< electrónico
+< electrónicos
+< elegante
+< elegantes
+< elegido
+---
+> ejercito
+> el
+2133,2140d435
+< eleka
+< el
+< él
+< elemento
+< elementos
+< elevada
+< elevados
+< elhuyar
+2142d436
+< eligiendo
+2144,2148d437
+< elijamos
+< eliminar
+< eliminarlas
+< elíseo
+< élite
+2150,2151d438
+< ellas
+< ello
+2153,2170d439
+< embargo
+< embargos
+< embrión
+< embutido
+< eme
+< emergiendo
+< emilio
+< emita
+< emocionaba
+< empacho
+< empalma
+< empecé
+< empecemos
+< empeñamos
+< empeñan
+< empezaba
+< empezaban
+< empezado
+2173d441
+< empezaré
+2175,2211c443
+< empezaron
+< empezó
+< empiece
+< empieza
+< empiezan
+< empiezas
+< empiezo
+< empleados
+< empleamos
+< emplear
+< empleo
+< empotrado
+< emprendedor
+< emprendedores
+< empresa
+< empresarial
+< empresariales
+< empresas
+< empujamos
+< empujar
+< enamorado
+< encabezada
+< encabezado
+< encabezados
+< encabezamientos
+< encantada
+< encantado
+< encanta
+< encarecería
+< encargadas
+< encargado
+< encarga
+< encargarse
+< encargó
+< encarguen
+< encender
+< enchufa
+---
+> en
+2213,2228d444
+< encomendado
+< encontraba
+< encontrabais
+< encontrábamos
+< encontraban
+< encontrabas
+< encontrado
+< encontramos
+< encontrando
+< encontrándose
+< encontrará
+< encontrar
+< encontraría
+< encontrarla
+< encontrarse
+< encontró
+2230,2277d445
+< encuéntrala
+< encuéntrame
+< encuentran
+< encuentras
+< encuentre
+< encuentren
+< encuentro
+< encuesta
+< encuestas
+< endesa
+< endtime
+< ene
+< enemigo
+< en
+< energía
+< enero
+< énfasis
+< enfermedades
+< enfermería
+< enfocado
+< enfocarnos
+< enfoques
+< enfrenta
+< enfrentamos
+< enfrentan
+< enfrentar
+< enfrentarnos
+< engañar
+< engañarme
+< engancha
+< enganchar
+< enganche
+< engañoso
+< engrescante
+< enlace
+< enlaces
+< enlazados
+< enlaza
+< enlazamos
+< enlazando
+< enlazan
+< enmarcados
+< enmarcar
+< enorme
+< enric
+< enriquecida
+< enriquecimiento
+< enrique
+2279,2291d446
+< enseñado
+< enseña
+< enseñan
+< enseñanza
+< enseñarán
+< enseñaré
+< enseñar
+< enseñaros
+< enseño
+< ensucia
+< ente
+< entendemos
+< entenderán
+2293,2304d447
+< entenderlo
+< entendían
+< entendido
+< entendiendo
+< entendiera
+< entendió
+< entero
+< entidad
+< entidades
+< entiende
+< entienden
+< entiendo
+2306,2310d448
+< entontrar
+< entorno
+< entornos
+< entrabais
+< entrada
+2312,2316d449
+< entrambasaguas
+< entrando
+< entran
+< entrantes
+< entraré
+2318,2319d450
+< entraríamos
+< entrasen
+2321,2322d451
+< entregan
+< entregar
+2324,2327d452
+< entrenado
+< entrenamiento
+< entrenamientos
+< entrenando
+2329,2346c454
+< entren
+< entretenido
+< entretenimiento
+< entrevista
+< entrevistaron
+< entro
+< entusiastas
+< envergadura
+< envía
+< enviamos
+< envuelto
+< eon
+< epidemiológicos
+< época
+< épocas
+< equilibrados
+< equilibran
+< equipo
+---
+> epfl
+2348,2349d455
+< equis
+< equivalente
+2353d458
+< equivocarme
+2355d459
+< equivoco
+2357c461
+< éramos
+---
+> eramos
+2359,2364d462
+< erasmus
+< eres
+< ericsson
+< erradicar
+< errático
+< erre
+2366a465
+> es
+2368,2370d466
+< ésa
+< esas
+< escalable
+2373,2375d468
+< escandinavos
+< escáneres
+< escaso
+2377,2386d469
+< escenarios
+< escocia
+< escoge
+< escolarización
+< escorial
+< escriba
+< escriban
+< escribe
+< escribes
+< escribiendo
+2389,2403d471
+< escritas
+< escrito
+< escritores
+< escritor
+< escritos
+< escuchaba
+< escuchado
+< escucháis
+< escuchamos
+< escuchando
+< escuchar
+< escuchas
+< escuché
+< escuchéis
+< escuderías
+2406,2411d473
+< ése
+< esencial
+< esenciales
+< es
+< esforcemos
+< esfuerzo
+2416,2423d477
+< espacios
+< espacios
+< espacio-temporales
+< espaciotemporales
+< españa
+< española
+< españolas
+< españoles
+2425,2427d478
+< especiales
+< especial
+< especialidades
+2429d479
+< especializadas
+2432d481
+< especializar
+2434,2441c483
+< especie
+< específica
+< específicamente
+< específicas
+< específico
+< específicos
+< espectacular
+< especulación
+---
+> especifica
+2443,2450d484
+< esperábamos
+< esperaban
+< espera
+< esperamos
+< esperar
+< esperaría
+< esperas
+< esperemos
+2452,2454d485
+< espiral
+< esquema
+< esquemas
+2455a487
+> esta
+2457,2469d488
+< estábamos
+< estaban
+< establecer
+< establecida
+< establecido
+< estableciendo
+< establezca
+< estacionalidad
+< estadística
+< estadísticamente
+< estadísticas
+< estadístico
+< estadísticos
+2471,2477d489
+< estados
+< estadounidenses
+< esta
+< ésta
+< está
+< estáis
+< estallido
+2479,2489c491
+< estancia
+< estancias
+< estanco
+< estándares
+< estándar
+< estandarización
+< estando
+< están
+< estará
+< estarán
+< estaré
+---
+> estan
+2491,2494d492
+< estaría
+< estaríais
+< estaríamos
+< estarían
+2496,2505d493
+< éstas
+< estás
+< estatales
+< estatal
+< estáticas
+< estático
+< estáticos
+< estatua
+< estatua
+< estatus
+2507,2515d494
+< éste
+< esté
+< estemos
+< estén
+< estés
+< estilo
+< estimación
+< estimado
+< estimular
+2518,2528d496
+< éstos
+< estoy
+< estrategia
+< estrategias
+< estratégica
+< estrella
+< estrictamente
+< estructuración
+< estructurada
+< estructurado
+< estructurados
+2530,2533d497
+< estructuramos
+< estructurar
+< estructuras
+< estudiadas
+2535,2536d498
+< estudiamos
+< estudiando
+2539,2541d500
+< estudiar
+< estudiarlos
+< estudie
+2544,2552d502
+< estupenda
+< estupendo
+< estúpida
+< estuviera
+< estuvieran
+< estuvieron
+< estuviese
+< estuvimos
+< estuvo
+2554,2559c504
+< etapas
+< etcétera
+< etiquetado
+< etiquetas
+< euro
+< europa
+---
+> etcetera
+2561d505
+< europeas
+2563d506
+< europeos
+2565,2571d507
+< euskaltel
+< euskera
+< evaluaba
+< evaluación
+< evaluaciones
+< evaluadas
+< evaluadores
+2573,2580d508
+< evaluation
+< eventualmente
+< everybody
+< evidencia
+< evidente
+< evidentemente
+< evidentes
+< evil
+2582,2585d509
+< evolucionando
+< evolucionan
+< evolución
+< exacta
+2587,2590d510
+< exactas
+< exactitud
+< exacto
+< exactos
+2592d511
+< exalead
+2595,2606d513
+< excepción
+< excepciones
+< excepto
+< excesiva
+< excesivamente
+< excluidos
+< exclusiva
+< exclusivamente
+< exercise
+< exige
+< exigía
+< exista
+2609,2621d515
+< existentes
+< existiría
+< éxito
+< éxitos
+< expandir
+< expansión
+< expedientes
+< experiencia
+< experiencias
+< experimentación
+< experimentados
+< experimentales
+< experimentar
+2624,2629d517
+< experto
+< expertos
+< explicado
+< explícale
+< explicando
+< explicaré
+2632,2642c520
+< explicároslo
+< explicarte
+< explicativo
+< explico
+< expliqué
+< explora
+< exploramos
+< explorar
+< exploratorio
+< explotación
+< explotar
+---
+> explique
+2644,2653d521
+< exponencialmente
+< exponer
+< exposición
+< exposiciones
+< expresa
+< expresamente
+< expresión
+< expresiones
+< exprimiendo
+< exprimir
+2655,2667d522
+< extenderlo
+< extendida
+< extendidas
+< extensa
+< extenso
+< exterior
+< externalizado
+< externas
+< externos
+< extiende
+< extracción
+< extractor
+< extrae
+2669,2672d523
+< extraídas
+< extraído
+< extranjeras
+< extranjero
+2674,2676d524
+< extraordinario
+< extremadamente
+< extrema
+2678,2713c526
+< fab
+< fabricantes
+< fabuloso
+< fáciles
+< fácil
+< facilidades
+< facilidad
+< facilitado
+< facilita
+< facilitando
+< facilitan
+< facilitar
+< facilitarle
+< faciliten
+< facilito
+< fácilmente
+< facto
+< factores
+< factor
+< facturaciones
+< facturación
+< factura
+< facturar
+< facultades
+< facultad
+< fallando
+< fallar
+< fallas
+< fallo
+< fallos
+< falso
+< FALSO
+< falsos
+< falta
+< faltar
+< faltarían
+---
+> facil
+2715,2720d527
+< familiar
+< famosa
+< famosas
+< famoso
+< fans
+< fantástico
+2722,2739c529,530
+< fase
+< fases
+< fastidiaba
+< fastidiado
+< fastidiar
+< fastidiarme
+< fastidies
+< fatal
+< favorable
+< favor
+< favorita
+< favoritos
+< feature
+< fecha
+< fechas
+< feedback
+< felicitar
+< felisa
+---
+> fast
+> features
+2742,2750d532
+< fenomenal
+< fenómenos
+< fermín
+< festivales
+< fiabilidad
+< fiable
+< ficha
+< fichas
+< fichero
+2752,2756d533
+< fichó
+< fiel
+< figura
+< figuran
+< fijado
+2758c535
+< fijáis
+---
+> fijado
+2760,2762d536
+< fijando
+< fijan
+< fijaos
+2764d537
+< fijarlo
+2767d539
+< fijas
+2769,2776c541
+< fíjense
+< fijo
+< filetype
+< filólogo
+< filólogos
+< filosofal
+< filosofía
+< filter
+---
+> fijense
+2780,2781c545
+< filtros
+< finales
+---
+> fin
+2783,2786d546
+< finalizar
+< finalmente
+< financiación
+< financiado
+2788,2806d547
+< financiamos
+< financiando
+< financiar
+< financieras
+< financiero
+< fines
+< fin
+< fino
+< firma
+< firme
+< firmes
+< fiscal
+< física
+< físicos
+< flash
+< flebitis
+< flicker
+< flickr
+< flores
+2808c549,550
+< flujo
+---
+> flores
+> flower
+2810,2811d551
+< focalizadas
+< focalizados
+2816d555
+< fomentar
+2818,2826d556
+< fondos
+< foral
+< formación
+< formado
+< forma
+< formal
+< formamos
+< forman
+< formarían
+2828,2839d557
+< formateo
+< formato
+< formatos
+< formula
+< formulario
+< formularios
+< fórmulas
+< foro
+< foros
+< forrar
+< fortalecer
+< fortaleza
+2841d558
+< forum
+2843,2856c560
+< fotografía
+< fotografías
+< fotos
+< four
+< fox
+< fracasa
+< fracción
+< franca
+< francamente
+< franceses
+< francés
+< francia
+< francisco
+< francófono
+---
+> fotografia
+2858,2860d561
+< frases
+< frecuencia
+< frecuencias
+2862,2867d562
+< frecuentes
+< frecuentísima
+< frenar
+< freno
+< frente
+< from
+2869,2871d563
+< frontera
+< frustración
+< fruto
+2873,2877d564
+< fuenlabrada
+< fuente
+< fuentes
+< fuera
+< fueran
+2879,2880d565
+< fuerte
+< fuerza
+2882,2889c567
+< fuesen
+< fuimos
+< fulanito
+< fulano
+< fulgurante
+< fullmetal
+< funcionaba
+< funcionaban
+---
+> full
+2891,2895c569
+< funcionalidades
+< funcionalidad
+< funcionamiento
+< funcionamos
+< funcionando
+---
+> funcionaban
+2897,2898c571
+< funcionará
+< funcionaran
+---
+> funcionando
+2900d572
+< funcionario
+2902,2925c574,575
+< funcionó
+< fundaciones
+< fundación
+< fundadas
+< fundador
+< fundamentales
+< fundamental
+< fundamentalmente
+< fundetec
+< fundó
+< fusionamos
+< fusiones
+< futuras
+< futuristas
+< futuro
+< galaxia
+< gales
+< galicia
+< gallego
+< ganaban
+< ganado
+< gana
+< ganamos
+< ganando
+---
+> funciono
+> galery
+2927,2929d576
+< ganarlos
+< ganaron
+< ganas
+2931,2954c578,579
+< garantías
+< garantiza
+< garantizar
+< garcía
+< garete
+< garner
+< garzón
+< gas
+< gasolina
+< gastan
+< gastar
+< gastaron
+< gastarse
+< gasto
+< gaudí
+< generaciones
+< generación
+< generadas
+< generada
+< generados
+< generado
+< generales
+< generalitat
+< generalización
+---
+> general
+> generalizacion
+2957,2969d581
+< generalmente
+< general
+< generamos
+< generando
+< generan
+< generar
+< genera
+< generen
+< genere
+< genéricas
+< genérica
+< genéricos
+< genérico
+2972,2995d583
+< geográficas
+< geográfica
+< geográfico
+< geología
+< geometrías
+< geopolítico
+< geoposicionar
+< gerencia
+< gerentes
+< gerente
+< gestionar
+< gestiona
+< gestiones
+< gestion
+< gestión
+< gestores
+< ge
+< gialle
+< gigablast
+< gigantesca
+< gigante
+< girar
+< give
+< globales
+2998,3000d585
+< gmail
+< gobierno
+< gómez
+3002,3008c587,589
+< gordas
+< gordo
+< gozamos
+< grábame
+< grabando
+< grabar
+< gracia
+---
+> goverment
+> gphone
+> gps
+3011,3012c592
+< gráfica
+< gráfico
+---
+> grafico
+3014,3016c594
+< gramaticales
+< gramatical
+< granada
+---
+> gran
+3019,3026c597
+< grandillas
+< gran
+< grano
+< gratuita
+< gratuito
+< grave
+< gravísimo
+< grueso
+---
+> grass
+3029,3032d599
+< guapa
+< guapo
+< guarda
+< guardar
+3034,3035d600
+< guiada
+< guiado
+3037,3038d601
+< guipúzcoa
+< guitarra
+3040,3045d602
+< gusta
+< gustan
+< gustaría
+< gustos
+< h1
+< h2
+3047d603
+< habéis
+3049,3062c605,607
+< haberla
+< haberlo
+< habernos
+< había
+< habíamos
+< habían
+< habido
+< habiendo
+< habilidad
+< habilidades
+< habitual
+< habitualmente
+< habla
+< hablábamos
+---
+> habia
+> habiamos
+> habian
+3064,3066d608
+< hablabas
+< hablado
+< habláis
+3068d609
+< hablan
+3070d610
+< hablantes
+3072,3074d611
+< hablarais
+< hablaré
+< hablaremos
+3076,3088c613,615
+< hablarlo
+< hablarme
+< hablaros
+< hablas
+< hable
+< hablé
+< hablemos
+< hablen
+< hablo
+< habló
+< habrá
+< habrán
+< habría
+---
+> habra
+> habran
+> habria
+3093d619
+< hacerla
+3095,3097d620
+< hacerse
+< hacerte
+< haces
+3099,3103c622
+< hacía
+< hacíais
+< hacíamos
+< hacían
+< hacías
+---
+> haciamos
+3105,3110d623
+< haciéndole
+< haciéndolo
+< haga
+< hagáis
+< hagamos
+< hagan
+3112,3114d624
+< hala
+< hallazgos
+< hambre
+3116,3124d625
+< handicap
+< harán
+< hardware
+< haremos
+< haría
+< harry
+< harto
+< harvard
+< has
+3126d626
+< haya
+3128,3134d627
+< hayamos
+< hayan
+< haz
+< hecha
+< hechas
+< hecho
+< hechos
+3135a629
+> hecho
+3137,3142c631
+< henares
+< heroico
+< herramienta
+< herramientas
+< heterogéneos
+< heurística
+---
+> heuristica
+3144,3148d632
+< hiciera
+< hiciéramos
+< hicieran
+< hicieron
+< hiciese
+3152,3161c636
+< hijo
+< hilos
+< hindúes
+< hipertextuales
+< hipertextual
+< hipervínculos
+< hipótesis
+< hispana
+< hispánica
+< hispanohablantes
+---
+> hipotesis
+3163,3168d637
+< histogramas
+< historia
+< historiales
+< historial
+< historias
+< hits
+3170,3184d638
+< hl7
+< hoc
+< hoja
+< hojas
+< holanda
+< holandés
+< hola
+< hollies
+< hombre
+< homer
+< homogénea
+< homogeneizar
+< homologadas
+< homologados
+< homologan
+3186d639
+< honor
+3188,3189d640
+< horario
+< horas
+3191,3196d641
+< horizonte
+< horrorosa
+< hospitales
+< hospital
+< hostilidad
+< hoteles
+3198,3205c643
+< hpux
+< html
+< http
+< hubieramos
+< hubiéramos
+< hubieran
+< hubiera
+< hubiesen
+---
+> hp
+3207,3212c645
+< hubo
+< hueco
+< huelva
+< humanas
+< humanidades
+< humanísticos
+---
+> hubiesen
+3214,3217c647
+< humano
+< hundirá
+< húngaros
+< huy
+---
+> hungaros
+3219,3226c649
+< íbamos
+< ibérica
+< iberoamericanas
+< ibm
+< ibn
+< iclef
+< icono
+< iconos
+---
+> ibamos
+3230,3249d652
+< idénticas
+< idéntico
+< idénticos
+< identificable
+< identificado
+< identifica
+< identificar
+< identificarse
+< id
+< idilio
+< idioma
+< idiomas
+< idiomático
+< idiomáticos
+< ido
+< idomas
+< iglesias
+< ignorando
+< igualación
+< iguales
+3251,3258c654
+< igualmente
+< i
+< iii
+< ikea
+< ilegal
+< iluminación
+< ilustraciones
+< ilustrar
+---
+> iluminacion
+3260d655
+< imágenes
+3261a657
+> imagenes
+3263,3269c659
+< imaginais
+< imagináis
+< imaginaos
+< imaginar
+< imaginaros
+< imagínate
+< imagínense
+---
+> imaginense
+3271,3293d660
+< imbricación
+< impacto
+< imparte
+< impepinable
+< imperio
+< impide
+< impiden
+< implantación
+< implantar
+< implementación
+< implementado
+< implementamos
+< implicación
+< implicada
+< implicadas
+< implicados
+< implica
+< implicaría
+< implicar
+< implicase
+< implique
+< imponderables
+< imponiendo
+3295d661
+< importancia
+3297,3300c663
+< importantes
+< importantísimo
+< imposibilidad
+< imposible
+---
+> impresion
+3302,3360d664
+< impresión
+< impreso
+< imprimir
+< improvisara
+< impuestos
+< impulsando
+< impulsar
+< inaccesible
+< iñaki
+< incapacidad
+< incentivar
+< inciativa
+< incidencias
+< incidiendo
+< incidir
+< incluido
+< incluidos
+< incluimos
+< incluir
+< incluso
+< incluyan
+< incluye
+< incluyendo
+< incluyera
+< incoherencia
+< incompleta
+< incontrolado
+< inconveniente
+< inconvenientes
+< incorporación
+< incorporado
+< incorpora
+< incorporamos
+< incorporando
+< incorporar
+< incorporarlo
+< incorporas
+< incorporen
+< incorrecta
+< incorrectas
+< increíble
+< increíblemente
+< incrementa
+< incrementan
+< incrementar
+< incrementen
+< incremento
+< incubadora
+< incursiones
+< indagar
+< independiente
+< independientemente
+< independientes
+< indexaciones
+< indexación
+< indexado
+< indexadores
+< indexador
+< indexados
+3362,3396c666,668
+< indexando
+< indexan
+< indexar
+< index
+< india
+< indicaba
+< indicación
+< indicadores
+< indicador
+< indica
+< indicamos
+< indicando
+< indican
+< indicar
+< índice
+< índices
+< indico
+< indirecta
+< indirectamente
+< indirectos
+< indiscutible
+< individual
+< indización
+< indizada
+< indizados
+< indizar
+< indra
+< industria
+< industrial
+< inesperado
+< inevitable
+< inexplorados
+< infantil
+< infarto
+< infecciones
+---
+> indexacion
+> indexaciones
+> indexing
+3398,3400c670
+< influir
+< influye
+< info
+---
+> informacion
+3402,3424c672
+< información
+< informada
+< informado
+< informal
+< informática
+< informáticas
+< informático
+< informáticos
+< information
+< informe
+< informes
+< infraestructuras
+< infumable
+< ingeniería
+< ingeniero
+< ingenieros
+< inglaterra
+< inglesa
+< ingleses
+< inglés
+< ingresos
+< inherentemente
+< iniciales
+---
+> ingles
+3426,3441c674
+< inicialmente
+< iniciativa
+< iniciativas
+< inmadurez
+< inmediatamente
+< inmensa
+< innovación
+< innovadores
+< innovador
+< innovar
+< inside
+< insisto
+< instalable
+< instalación
+< instala
+< instalamos
+---
+> instalacion
+3443,3463d675
+< instalarlo
+< instanciando
+< instancian
+< instantáneo
+< institucionales
+< institucional
+< instituciones
+< institución
+< instituto
+< institutos
+< instrumento
+< instrumentos
+< intangibles
+< integración
+< integrado
+< integrados
+< integramos
+< integrar
+< integrarlo
+< intelectual
+< inteligencia
+3465,3490d676
+< inteligentes
+< intención
+< intensiva
+< intentad
+< intenta
+< intentamos
+< intentando
+< intentan
+< intentaré
+< intentaremos
+< intentar
+< intentaron
+< intentas
+< interaccionar
+< interacciones
+< interacción
+< interactiva
+< interactivo
+< interactivos
+< intercambiar
+< intercambio
+< interceptadas
+< interesaba
+< interesada
+< interesadas
+< interesados
+3492c678
+< interesando
+---
+> interesaba
+3496,3498d681
+< interesaría
+< interesar
+< interesarte
+3500,3502d682
+< intereses
+< interés
+< interesó
+3504,3507d683
+< interfaces
+< interfaz
+< intermediación
+< intermediarios
+3509,3515d684
+< internacionales
+< internacional
+< internacionalizándose
+< internacionalmente
+< interna
+< internauta
+< internautas
+3517d685
+< interpretación
+3519,3541d686
+< interpretar
+< interrelacionadas
+< interrelacionado
+< interrelaciona
+< interrogantes
+< interrogar
+< interroguemos
+< interrumpimos
+< intersección
+< intervalo
+< intervalos
+< intervención
+< intervenir
+< introducción
+< introducido
+< introduciendo
+< introducir
+< introduzca
+< introduzcan
+< intuición
+< intuir
+< inútiles
+< inútil
+3544,3555c689
+< inversa
+< inversión
+< inversores
+< invertido
+< invertir
+< investigaciones
+< investigación
+< investigadora
+< investigadores
+< investigador
+< investiga
+< investigando
+---
+> investigacion
+3557,3574d690
+< investigarlo
+< inviable
+< invierte
+< invierten
+< invisible
+< invitado
+< invita
+< invitarme
+< invitarnos
+< invite
+< invito
+< involucrada
+< involucradas
+< involucrados
+< ipod
+< irazabalbeitia
+< iremos
+< iría
+3576,3578d691
+< irlanda
+< irlos
+< irrelevante
+3580,3590d692
+< isabel
+< isidro
+< isoco
+< israel
+< italia
+< italiana
+< italiano
+< italianos
+< iteraciones
+< iterativo
+< ixa
+3593,3629c695
+< jaldún
+< japonesas
+< japoneses
+< japonés
+< japón
+< javascript
+< java
+< jazztel
+< jefe
+< jerarquías
+< jerarquía
+< jerárquica
+< jerarquizadas
+< jesús
+< je
+< joder
+< jodido
+< jope
+< jornadas
+< jornada
+< jose
+< josé
+< jóvenes
+< joven
+< jubilación
+< juegan
+< juegos
+< juego
+< jugador
+< jugando
+< jugarse
+< jugar
+< juicios
+< juicio
+< julio
+< juntas
+< juntos
+---
+> jerarquica
+3631d696
+< jurado
+3633d697
+< justificación
+3635,3636d698
+< justo
+< keyword
+3638,3646c700
+< killer
+< kilómetros
+< kutxa
+< la2
+< laberinto
+< lab
+< laboratorio
+< laborda
+< labor
+---
+> la
+3648d701
+< ladrones
+3650,3652d702
+< la
+< lamadas
+< lamentablemente
+3654,3658d703
+< lanza
+< lanzamiento
+< lanzan
+< lanzar
+< lanzarlas
+3660d704
+< largamente
+3662,3663d705
+< larguísima
+< larry
+3665,3669c707,708
+< lastre
+< latina
+< latinoamérica
+< latinoamericano
+< latino
+---
+> le
+> leader
+3671,3673d709
+< lecciones
+< lectores
+< leerla
+3675,3683d710
+< leernos
+< legales
+< leía
+< leído
+< leitmotiv
+< lejana
+< lejos
+< le
+< lemas
+3685,3686d711
+< lengua
+< lenguas
+3689d713
+< león
+3691,3710d714
+< letra
+< letrero
+< levantad
+< levanta
+< léxica
+< léxico
+< leyendo
+< leyes
+< ley
+< liberado
+< liberalizó
+< liberar
+< liberas
+< libertad
+< lib
+< library
+< libre
+< librería
+< librerías
+< libres
+3712,3735c716,717
+< libros
+< licenciados
+< licenciarlo
+< líderes
+< líder
+< lidiar
+< ligadas
+< ligado
+< ligeramente
+< limitaciones
+< limitación
+< limitados
+< límite
+< limpiando
+< linca
+< línea
+< líneas
+< lingüista
+< lingüistas
+< lingüística
+< lingüísticas
+< lingüístico
+< lingüísticos
+< linka
+---
+> lingüistica
+> lingüisticas
+3737,3740d718
+< links
+< linux
+< listado
+< listados
+3742,3758d719
+< listo
+< listos
+< literal
+< live
+< llamaba
+< llamadas
+< llamada
+< llamado
+< llamamos
+< llamando
+< llaman
+< llamarla
+< llamarlo
+< llamaron
+< llamar
+< llamas
+< llamativos
+3760c721
+< llame
+---
+> llaman
+3762,3769d722
+< llavecita
+< llegaba
+< llegada
+< llegado
+< llegamos
+< llegando
+< llegan
+< llegar
+3770a724
+> llegado
+3772,3795c726
+< llegué
+< llenarlo
+< llenguatge
+< lleno
+< llevado
+< llevamos
+< llevando
+< llevan
+< llevar
+< llevas
+< lleva
+< lleven
+< llevo
+< lobotomizar
+< locales
+< localidad
+< localizaciones
+< localización
+< localizada
+< localizador
+< localizados
+< localizar
+< localizarse
+< localizas
+---
+> lo
+3797,3809c728,729
+< locos
+< logarítmico
+< lógica
+< lógicamente
+< lógicas
+< lógico
+< login
+< logo
+< logotipo
+< logrado
+< logrando
+< logran
+< lograr
+---
+> logica
+> logico
+3812,3816d731
+< logs
+< lo
+< londres
+< longitud
+< long
+3819,3821d733
+< lucha
+< luchar
+< luego
+3823,3825c735
+< lugar
+< luis
+< luz
+---
+> machine
+3827,3845c737
+< madre
+< madrid
+< madurado
+< madura
+< madurar
+< madurez
+< maduro
+< ma
+< magallanes
+< mágica
+< mágicos
+< magnífica
+< magnífico
+< magnitud
+< magos
+< málaga
+< mala
+< malas
+< maldito
+---
+> magica
+3847,3849c739,740
+< malo
+< malos
+< mamá
+---
+> mala
+> mama
+3852,3853d742
+< manda
+< mandamos
+3855,3858d743
+< manden
+< maneja
+< manejan
+< manejar
+3861,3864d745
+< manfred
+< manifiesta
+< mann
+< manolo
+3866,3875d746
+< manos
+< mantenerlo
+< mantenerlos
+< mantener
+< mantenido
+< manteniendo
+< manteniéndonos
+< mantenimiento
+< mantiene
+< mantienen
+3878,3880d748
+< manuel
+< mapeado
+< mapita
+3883,3904d750
+< máquina
+< maraña
+< maravillosamente
+< maravilloso
+< marcabas
+< marcado
+< marca
+< marcamos
+< marcando
+< marcar
+< marcas
+< marcelino
+< marcha
+< marchamo
+< marcin
+< marco
+< marcos
+< margen
+< marginales
+< maría
+< marido
+< marketing
+3906,3938c752,757
+< marruecos
+< martínez
+< marxista
+< marzo
+< más
+< master
+< máster
+< matar
+< matching
+< matemática
+< matemático
+< matemáticos
+< materiales
+< materializar
+< material
+< materia
+< materias
+< matiz
+< matrimoniales
+< matriz
+< mavir
+< máxima
+< maximizar
+< máximo
+< mayores
+< mayoría
+< mayoritario
+< mayor
+< mba
+< mbas
+< mccann
+< mecanismo
+< mecanismos
+---
+> marcos
+> marriage
+> mas
+> match
+> mayoria
+> me
+3940d758
+< mediante
+3942,3955d759
+< mediáticos
+< médica
+< medicamentos
+< médicas
+< medicina
+< médico
+< médicos
+< medida
+< medidas
+< medido
+< medioambiente
+< mediodía
+< medio
+< medios
+3957,3958c761
+< méjico
+< mejoraba
+---
+> mejor
+3960c763
+< mejoramiento
+---
+> mejoraba
+3962,3963d764
+< mejorarlo
+< mejorarlos
+3965,3966c766
+< mejoras
+< mejoren
+---
+> mejorarlo
+3968,3971c768
+< mejor
+< mejoró
+< melbourne
+< me
+---
+> mejoro
+3973,3980d769
+< mencionaba
+< mencionaban
+< mencionado
+< mencionarlo
+< mencionar
+< mención
+< menores
+< menor
+3982,3987d770
+< mensaje
+< mensuales
+< mensual
+< mentalidad
+< mente
+< mentira
+3989d771
+< meramente
+3991,4001d772
+< mercados
+< mercurio
+< merece
+< merecía
+< mesa
+< meses
+< mes
+< metabuscadores
+< metabuscador
+< metadatos
+< metainformación
+4004,4013c775
+< meterse
+< metes
+< metíamos
+< metido
+< metiendo
+< metodología
+< metodológicamente
+< metodológica
+< método
+< métodos
+---
+> metiamos
+4015,4016c777,779
+< métrica
+< mexicanos
+---
+> metodo
+> metodos
+> metrica
+4018,4020c781
+< mezclamos
+< mezclan
+< micrófono
+---
+> mi
+4022,4028d782
+< microsoft
+< mide
+< miden
+< midiendo
+< miedo
+< mienta
+< miento
+4030,4038d783
+< mierda
+< migajas
+< miga
+< miguel
+< miles
+< millán
+< millonarios
+< millones
+< millón
+4040,4054c785
+< mimbres
+< mi
+< mí
+< minería
+< minimizar
+< mínimo
+< mining
+< ministerio
+< ministerios
+< ministro
+< minuto
+< minutos
+< miocardio
+< mío
+< mirad
+---
+> miles
+4056,4062d786
+< miramos
+< mirar
+< miras
+< miren
+< miro
+< misiones
+< misión
+4065d788
+< mis
+4067,4070c790
+< mismos
+< mitad
+< mit
+< mix
+---
+> mobile
+4071a792
+> model
+4073,4076c794
+< modelos
+< moderar
+< modesta
+< modestia
+---
+> modifica
+4079d796
+< modifica
+4081,4086d797
+< modo
+< modos
+< modular
+< módulo
+< módulos
+< modus
+4089,4099d799
+< momentos
+< monitorizados
+< monolingüe
+< montaña
+< montan
+< montáramos
+< montar
+< monto
+< montones
+< montón
+< monumentos
+4101,4104d800
+< morcilla
+< moreno
+< morfosintáctico
+< mortalidad
+4107c803
+< mostrando
+---
+> mostrar
+4111,4116d806
+< mostrar
+< motivaciones
+< motivación
+< motivante
+< motivar
+< motores
+4118,4123c808,811
+< mover
+< movernos
+< moviendo
+< móviles
+< móvil
+< movimiento
+---
+> mountain
+> mouse
+> movil
+> moviles
+4126,4129d813
+< muchísima
+< muchísimas
+< muchísimo
+< muchísimos
+4132,4133d815
+< muerto
+< muestral
+4135,4136d816
+< muestran
+< muestreo
+4138,4145d817
+< muevo
+< multa
+< multilingualidad
+< multilingüe
+< multilingües
+< multilingüismo
+< multimedia
+< multimodal
+4147,4151c819
+< múltiples
+< multiplica
+< multitud
+< mundial
+< mundillo
+---
+> multimedia
+4153,4154d820
+< mundos
+< muro
+4157,4158d822
+< música
+< mutua
+4160,4164c824
+< mysql
+< nace
+< nacimiento
+< nacional
+< nació
+---
+> mystic
+4167d826
+< na
+4169,4173d827
+< nativa
+< nativo
+< nativos
+< naturalmail
+< naturalmente
+4175,4189c829
+< navegacional
+< navegación
+< navegador
+< navegando
+< navegar
+< navegas
+< navidades
+< necesariamente
+< necesaria
+< necesario
+< necesidades
+< necesidad
+< necesitábamos
+< necesitaban
+< necesitamos
+---
+> naturalmente
+4192,4198d831
+< necesitaríamos
+< necesitas
+< necesite
+< necesites
+< necesito
+< negativa
+< negativo
+4200,4206d832
+< negociaciones
+< negociación
+< negociar
+< negocio
+< negocios
+< negrita
+< negritas
+4208,4213c834
+< negros
+< net
+< nevera
+< nichos
+< nick
+< nietzsche
+---
+> neighbour
+4214a836
+> ningun
+4216,4221d837
+< ningún
+< ninguno
+< ni
+< niño
+< niños
+< niveles
+4223,4224c839,840
+< nobel
+< noche
+---
+> no
+> nocion
+4226,4227d841
+< noción
+< nombradas
+4230,4236d843
+< nómina
+< nóminas
+< no
+< nórdicas
+< normalización
+< normalizar
+< normalmente
+4238,4242d844
+< norma
+< norteamericanas
+< norteamérica
+< norteamericanos
+< norte
+4245,4256c847
+< nostradamus
+< notablemente
+< nota
+< notario
+< notar
+< noticia
+< noticias
+< novecientas
+< novecientos
+< novedad
+< novedosa
+< novela
+---
+> not
+4258,4263d848
+< noviembre
+< ntcs
+< ntsc
+< nubes
+< nuestra
+< nuestras
+4265,4266d849
+< nuestros
+< nuevamente
+4268c851
+< nuevas
+---
+> nuevamente
+4271,4277c854,857
+< nuevos
+< numérica
+< numéricas
+< numérico
+< numéricos
+< número
+< números
+---
+> numerica
+> numerico
+> numero
+> numeros
+4280,4282c860
+< objetiva
+< objetivo
+< objetivos
+---
+> o
+4284,4290d861
+< objetos
+< obligan
+< obliga
+< obligas
+< obra
+< obras
+< observacional
+4292,4294d862
+< observando
+< observa
+< observarles
+4296,4297d863
+< observatorio
+< obstante
+4299d864
+< obtenerlo
+4301,4321d865
+< obteníamos
+< obtenían
+< obtenía
+< obtenías
+< obtenida
+< obtenido
+< obtenidos
+< obteniendo
+< obtienen
+< obtiene
+< obtuviera
+< obtuvimos
+< obviamente
+< obvia
+< obvio
+< ocasiones
+< ocasión
+< occidentales
+< ochenta
+< ochocientas
+< ochocientos
+4323,4342c867
+< ocio
+< octubre
+< oculta
+< ocultarle
+< ocultos
+< ocupado
+< ocupa
+< ocupará
+< ocurren
+< ocurre
+< ocurrido
+< ocurriendo
+< ocurrió
+< ocurrir
+< ofertando
+< oferta
+< ofertas
+< offline
+< oficiales
+< oficina
+---
+> ochocientas
+4344,4353c869,870
+< ofrecemos
+< ofrecen
+< ofrece
+< ofrecer
+< ofreciera
+< ofreciese
+< ofreció
+< oído
+< oiga
+< oímos
+---
+> oficina
+> oimos
+4355,4360d871
+< olimpiadas
+< olvidaba
+< olvidado
+< olvidar
+< once
+< once
+4362d872
+< ong
+4364,4383d873
+< on-line / online
+< ontiveros
+< ontología
+< ontologías
+< o
+< opa
+< opciones
+< opción
+< open
+< opentrad
+< operaciones
+< operadores
+< operador
+< operandi
+< operar
+< operativo
+< opinan
+< opinión
+< oportunas
+< oportunidades
+4385,4419c875
+< óptica
+< óptima
+< óptimo
+< oráculo
+< ordenación
+< ordenado
+< ordenadores
+< ordenador
+< ordenados
+< ordenar
+< órdenes
+< orden
+< organismo
+< organismos
+< organizaciones
+< organización
+< organizado
+< organizadores
+< organizar
+< organizó
+< org
+< orgullosísimos
+< orientación
+< orientadas
+< orientado
+< orientados
+< orientándose
+< origen
+< originalmente
+< original
+< originurlextension
+< oro
+< ortográfica
+< ortográfico
+< ortográficos
+---
+> organizo
+4421,4430d876
+< os
+< otaedor
+< oteador
+< otorgaban
+< otorgadas
+< otorgado
+< otorgados
+< otorgan
+< otorga
+< otorgar
+4435,4452c881
+< outsourcing
+< oxford
+< oyendo
+< oye
+< pablo
+< paciente
+< pacientes
+< pacífico
+< padre
+< pagado
+< pagados
+< pagamos
+< pagando
+< pagan
+< pagarlos
+< pagar
+< page
+< pagerank
+---
+> ottovonguericke
+4454,4461c883,884
+< página
+< páginas
+< pago
+< pagos
+< países
+< país
+< pájaro
+< pajas
+---
+> painting
+> pajaro
+4464,4470d886
+< palmario
+< paloma
+< pal
+< pana
+< paneles
+< panelistas
+< panhispánico
+4472,4480c888
+< papá
+< papelería
+< papeles
+< papel
+< paquete
+< parada
+< paralelo
+< parámetro
+< parámetros
+---
+> papa
+4482c890
+< parar
+---
+> parada
+4484,4485d891
+< parcialmente
+< parecen
+4487c893
+< parecería
+---
+> parecen
+4489,4491d894
+< parecía
+< parecida
+< parecidas
+4493,4504c896
+< parecidos
+< parecieron
+< pareció
+< pareja
+< pares
+< parezca
+< parís
+< park
+< parlamento
+< parlamentos
+< par
+< parque
+---
+> paris
+4506,4507d897
+< partes
+< participaban
+4509,4517d898
+< participación
+< participado
+< participamos
+< participando
+< participan
+< participante
+< participantes
+< participa
+< participaron
+4519d899
+< particulares
+4521,4526d900
+< partida
+< partidario
+< partido
+< partiendo
+< partimos
+< partipantes
+4528,4530c902
+< pasaba
+< pasada
+< pasado
+---
+> pasa
+4532d903
+< pasando
+4534,4540c905
+< pasa
+< pasaporte
+< pasará
+< pasaré
+< pasaría
+< pasarlo
+< pasaron
+---
+> pasando
+4542,4544c907
+< pasas
+< paseas
+< pasemos
+---
+> pasarlo
+4546,4549d908
+< pases
+< pasiva
+< pasivo
+< pasivos
+4551d909
+< pasó
+4553,4564c911
+< patagonia
+< pata
+< patente
+< patentes
+< patrimonio
+< patrocinadoras
+< patrocinio
+< patrocinios
+< patrones
+< patrón
+< pattern
+< paulatinamente
+---
+> patches
+4566,4579d912
+< paupérrimo
+< paz
+< pdf
+< pdfs
+< peculiaridad
+< pederastia
+< pedían
+< pedía
+< pedidito
+< pedido
+< pedimos
+< pedirá
+< pediría
+< pedirme
+4581d913
+< peer
+4583,4602d914
+< pegan
+< pegar
+< pelados
+< pelearais
+< peliagudo
+< peligroso
+< pena
+< penas
+< peñas
+< penetración
+< península
+< penosa
+< pensábamos
+< pensaban
+< pensadlo
+< pensado
+< pensad
+< pensáis
+< pensamos
+< pensando
+4604,4611c916
+< pensárselo
+< pensé
+< pensiones
+< pensó
+< penúltimo
+< peor
+< pepinazo
+< pepsi
+---
+> pense
+4614d918
+< pequeñita
+4617d920
+< percepción
+4619,4625c922,923
+< perdía
+< perdido
+< perdiendo
+< perdonad
+< perdón
+< perecer
+< perfeccionando
+---
+> perdia
+> perdon
+4627,4628d924
+< perfecta
+< perfectas
+4631,4636d926
+< perfiladas
+< perfilado
+< perfilamos
+< perfilar
+< perfiles
+< perfil
+4638,4648d927
+< periódicamente
+< periodismo
+< periodista
+< periodista
+< periodo
+< período
+< periodos
+< perl
+< permisos
+< permítanme
+< permitan
+4650d928
+< permiten
+4652,4656c930
+< permitía
+< permitidas
+< permitido
+< permitidos
+< permitiera
+---
+> permiten
+4658,4659d931
+< perniciosos
+< perogrullada
+4661d932
+< per
+4663,4665c934
+< perseverancia
+< persiana
+< persigue
+---
+> persona
+4668,4674c937
+< personales
+< personalidad
+< personalización
+< personalizada
+< personalmente
+< personal
+< persona
+---
+> personalizacion
+4677d939
+< perspectiva
+4680,4683d941
+< pertenecer
+< perteneciente
+< pertenencia
+< pertinente
+4685,4686d942
+< perú
+< pesada
+4688d943
+< peseta
+4690,4705c945
+< pesos
+< peticiones
+< petición
+< php
+< pib
+< picaban
+< picasso
+< pico
+< pida
+< piden
+< pide
+< pides
+< pidiendo
+< pido
+< piedra
+< piensan
+---
+> photo
+4707,4708d946
+< piensen
+< piense
+4710,4713d947
+< pierdas
+< pierde
+< pierdes
+< pieza
+4715,4725d948
+< pilas
+< pillado
+< piloto
+< pilotos
+< pinchabas
+< pinchando
+< pincha
+< pinchar
+< pinche
+< pintado
+< pinto
+4728d950
+< pionero
+4730,4738c952
+< piratea
+< piratear
+< piscina
+< pista
+< pistas
+< píxel
+< planes
+< planificar
+< plano
+---
+> pixel
+4740,4761c954
+< plantáramos
+< plantas
+< planteábamos
+< planteaba
+< planteado
+< planteamiento
+< planteamos
+< planteando
+< planteándose
+< plantean
+< plantea
+< plantearon
+< plantear
+< plantearse
+< planteas
+< planteó
+< plantilla
+< plasmarlas
+< plastificado
+< plataforma
+< playa
+< player
+---
+> plano
+4763,4771c956,958
+< plaza
+< plazo
+< plena
+< plm
+< plural
+< pluriño
+< plusvalía
+< poblacionales
+< población
+---
+> playa
+> pnl
+> poblacion
+4773d959
+< pocas
+4776,4778d961
+< podamos
+< podeis
+< podéis
+4780d962
+< poderle
+4782,4785c964
+< podíamos
+< podían
+< podía
+< podías
+---
+> poderle
+4787,4805c966,969
+< podrán
+< podrá
+< podremos
+< podríamos
+< podrían
+< podría
+< politécnica
+< política
+< políticas
+< político
+< políticos
+< ponderación
+< ponderar
+< pondrán
+< pondremos
+< ponéis
+< ponemos
+< ponen
+< ponentes
+---
+> podria
+> podriamos
+> police
+> politecnica
+4807,4811c971
+< ponerle
+< ponerlo
+< ponerlos
+< ponernos
+< poneros
+---
+> ponen
+4813,4820d972
+< ponerse
+< pones
+< póngalo
+< póngalos
+< pongamos
+< pongan
+< ponga
+< pongas
+4822,4831d973
+< ponían
+< ponía
+< poniendo
+< pon
+< ponte
+< pop
+< populares
+< popularidad
+< poquitas
+< poquitín
+4833c975
+< poquitos
+---
+> por
+4836,4838d977
+< pornografía
+< pornográficas
+< por
+4840,4841d978
+< porqué
+< porrada
+4843,4849d979
+< portales
+< portal
+< porter
+< portugal
+< portugueses
+< portugués
+< posgrado
+4851,4852d980
+< posibilidad
+< posiblemente
+4854,4859c982
+< posibles
+< posicionamiento
+< posicionar
+< posicionarse
+< posiciones
+< posición
+---
+> posicion
+4861,4862d983
+< positiva
+< positivo
+4864,4871d984
+< poso
+< postcript
+< posteriori
+< posteriormente
+< posterior
+< postgrado
+< postlicenciatura
+< post
+4873,4890d985
+< postscript
+< posts
+< potenciales
+< potencial
+< potencia
+< potenciar
+< potente
+< potentes
+< potter
+< powerpoint
+< poyada
+< prácticamente
+< practican
+< práctica
+< prácticas
+< práctico
+< precatalogada
+< precaución
+4892,4896d986
+< preciosa
+< precioso
+< precios
+< precipitadamente
+< precisamente
+4899,4914d988
+< precisión
+< predicen
+< prediciendo
+< predilecto
+< predominante
+< preeminente
+< preferiblemente
+< preferido
+< prefiere
+< prefiero
+< prefijada
+< preguntaban
+< preguntabas
+< preguntamos
+< preguntando
+< preguntan
+4916,4917d989
+< preguntaros
+< preguntar
+4920,4942d991
+< preguntó
+< preinscripción
+< premio
+< premios
+< prensa
+< preocupación
+< preocupado
+< preocupamos
+< preocupan
+< preocupante
+< preocupa
+< preocupar
+< preparado
+< preparados
+< preparamos
+< preparando
+< prepara
+< preparar
+< preponderante
+< preseleccionados
+< presencia
+< presencias
+< presentaban
+4944,4945c993
+< presentaciones
+< presentación
+---
+> presentacion
+4947d994
+< presentados
+4949,4954c996
+< presentándolo
+< presentando
+< presentándose
+< presentan
+< presenta
+< presentaremos
+---
+> presentar
+4957,4959d998
+< presentar
+< presentéis
+< presenten
+4961,4962d999
+< presenté
+< presentes
+4964,4966d1000
+< presentó
+< presidencia
+< presidente
+4968,4985c1002
+< prestigio
+< prestigiosas
+< presupuesto
+< presupuestos
+< pretendemos
+< pretenden
+< pretendía
+< pretendo
+< pretratamiento
+< previamente
+< previa
+< previo
+< previos
+< previsible
+< previsiones
+< previstas
+< previsto
+< primavera
+---
+> primer
+4990,4994d1006
+< primer
+< primo
+< principales
+< principalmente
+< principal
+4996,5006d1007
+< principios
+< prioridad
+< priori
+< prioritaria
+< priorizar
+< privada
+< privadas
+< privado
+< privatizado
+< privilegiadas
+< privilegiado
+5010,5011d1010
+< probable
+< probador
+5013,5015d1011
+< probarlo
+< probar
+< probé
+5018,5020c1014
+< problemática
+< probó
+< procedimientos
+---
+> probo
+5023,5038c1017
+< procesamientos
+< procesarán
+< procesar
+< proceso
+< proceso
+< procesos
+< procurado
+< procuren
+< producción
+< producen
+< produce
+< producido
+< produciendo
+< producimos
+< producirlo
+< producir
+---
+> processing
+5040d1018
+< productores
+5042,5058c1020
+< produjo
+< produzcan
+< profesionales
+< profesional
+< profesión
+< profesoras
+< profesores
+< profesor
+< profeta
+< profit
+< profunda
+< profundas
+< profundidad
+< profundizando
+< profundizar
+< programaciones
+< programación
+---
+> programacion
+5060,5061d1021
+< programadores
+< programa
+5063,5065d1022
+< programas
+< prohibido
+< prolongadas
+5067,5081c1024
+< prometedores
+< prometían
+< prometido
+< promocionamos
+< promocionen
+< promoción
+< promovámoslo
+< promover
+< pronuncia
+< propiamente
+< propia
+< propias
+< propiedades
+< propiedad
+< propietario
+---
+> prometian
+5084,5086d1026
+< propondré
+< proponemos
+< proponen
+5087a1028
+> proponemos
+5089d1029
+< propongáis
+5091,5095c1031
+< proponíamos
+< proponían
+< proponía
+< proponiendo
+< proporcionalmente
+---
+> proporcion
+5097,5107c1033
+< proporcionamos
+< proporcionando
+< proporcionan
+< proporciona
+< proporcionar
+< proporción
+< proposición
+< propósito
+< pro
+< propuesta
+< propuestas
+---
+> proposicion
+5111,5116d1036
+< protagonismo
+< protección
+< protege
+< protegerlo
+< proteger
+< protegidos
+5118,5127c1038
+< prototipos
+< provecho
+< proveedores
+< proveedor
+< provienen
+< proviene
+< provincia
+< provino
+< próximo
+< próximos
+---
+> proximos
+5130,5155d1040
+< prueba
+< pruebas
+< psicológico
+< psicólogos
+< publicaciones
+< publicación
+< publicada
+< publicado
+< públicamente
+< publicamos
+< publicando
+< publican
+< publica
+< pública
+< publicarán
+< publicar
+< públicas
+< publicidad
+< publicista
+< publicistas
+< publicitaria
+< publicitario
+< público
+< públicos
+< publiquen
+< publique
+5157,5160d1041
+< pudiéramos
+< pudieran
+< pudiera
+< pudimos
+5162,5163d1042
+< pueblo
+< puedan
+5165,5166d1043
+< puedas
+< pueden
+5168c1045
+< puedes
+---
+> pueden
+5170d1046
+< puerta
+5172,5173d1047
+< puesta
+< puestas
+5175,5176d1048
+< puf
+< pulmón
+5179,5184d1050
+< puntuación
+< puntuales
+< puntual
+< puramente
+< pura
+< puras
+5187,5188d1052
+< pusiéramos
+< pusimos
+5190,5196c1054
+< pyme
+< quebrábamos
+< quebrar
+< quedaba
+< quedábamos
+< quedaban
+< quedado
+---
+> que
+5198,5206d1055
+< quedamos
+< quedan
+< quedar
+< quedarme
+< quedarnos
+< quedaron
+< quedarse
+< quédate
+< quede
+5209,5214d1057
+< quedó
+< que
+< qué
+< queráis
+< queramos
+< queréis
+5217,5228c1060,1063
+< queresmos
+< queríais
+< quería
+< queríamos
+< querían
+< querías
+< querido
+< querría
+< questionanswering
+< question
+< quevedo
+< quiénes
+---
+> queria
+> queriamos
+> querian
+> query
+5230d1064
+< quién
+5233d1066
+< quieras
+5236d1068
+< quieres
+5238,5239d1069
+< quince
+< quinientas
+5241,5243d1070
+< quinto
+< quirófanos
+< quirúrgicas
+5245,5261d1071
+< quisiéramos
+< quisieras
+< quisimos
+< quitamos
+< quitando
+< quitaran
+< quitarnos
+< quitásemos
+< quizá
+< quizás
+< radicalmente
+< radiografía
+< radiografías
+< radio
+< radique
+< raíz
+< ralentizado
+5264,5270c1074,1076
+< ranking
+< rankings
+< rápidamente
+< rápida
+< rápido
+< rápidos
+< raramente
+---
+> rapida
+> rapidamente
+> rapido
+5274,5285c1080
+< rastreabilidad
+< rastreable
+< rastreables
+< rastreada
+< rastrear
+< ratio
+< ratios
+< ratón
+< rato
+< razonablemente
+< razonable
+< razonables
+---
+> razon
+5287,5289d1081
+< razones
+< razón
+< reales
+5291d1082
+< realimentación
+5293,5310c1084
+< realistas
+< realizado
+< realizados
+< realizamos
+< realizando
+< realizan
+< realiza
+< realizaré
+< realizar
+< realmente
+< real
+< rebajar
+< rebajas
+< rebatido
+< recado
+< recados
+< recapitulación
+< receptiva
+---
+> recall
+5312,5340d1085
+< recetaros
+< recetar
+< reciba
+< reciben
+< recibe
+< recibidas
+< recibido
+< recibidos
+< recibiendo
+< recibieron
+< recibiría
+< recibir
+< reciclar
+< recientemente
+< reciente
+< recientes
+< reclutábamos
+< reclutamiento
+< reclutar
+< recogen
+< recoge
+< recogida
+< recogidas
+< recogido
+< recogidos
+< recojan
+< recolección
+< recolectar
+< recomendaría
+5342,5345d1086
+< reconocedores
+< reconocemos
+< reconoce
+< reconocerlo
+5347,5380c1088
+< reconocidas
+< reconocidos
+< reconociendo
+< reconocimiento
+< recopila
+< recordaba
+< recordará
+< recordar
+< recorre
+< recorrer
+< recorrido
+< recreaciones
+< rectángulos
+< recuerdo
+< recuperacion
+< recuperación
+< recuperados
+< recuperan
+< recupera
+< recuperarla
+< recuperar
+< recurrentemente
+< recurrente
+< recurrimos
+< recurrir
+< recurso
+< recursos
+< redes
+< redirecciona
+< redonda
+< redondas
+< red
+< reducía
+< reducido
+---
+> rectangulos
+5382d1089
+< reestructuración
+5384,5396d1090
+< referente
+< refería
+< refieran
+< refieren
+< refiero
+< refinamiento
+< refinar
+< refinas
+< refiriendo
+< reflejadas
+< reflejan
+< refleja
+< reflejar
+5398,5404d1091
+< reformulación
+< reformular
+< regalara
+< regionales
+< regional
+< regiones
+< región
+5406d1092
+< registrado
+5408,5414d1093
+< registraran
+< registrarlo
+< registro
+< registros
+< regla
+< reglas
+< regresan
+5415a1095
+> regresan
+5417,5419c1097
+< regresión
+< regulación
+< regulado
+---
+> regular
+5421d1098
+< regularización
+5423,5429c1100
+< regular
+< rehacerlo
+< reino
+< reís
+< relacionadas
+< relacionado
+< relacionados
+---
+> relacion
+5431,5432d1101
+< relación
+< relativamente
+5434,5438c1103
+< relativas
+< relativo
+< relevance
+< relevancia
+< relevante
+---
+> relevant
+5440,5460d1104
+< rellenaba
+< rellenar
+< relleno
+< remedio
+< remota
+< remotos
+< rencor
+< rendía
+< rendimiento
+< renfe
+< renovando
+< renovará
+< rentabilidad
+< rentable
+< renunciar
+< reorganización
+< reorientamos
+< repartidos
+< reparto
+< repasar
+< repaso
+5462,5463c1106
+< repetición
+< repetimos
+---
+> repeticion
+5466d1108
+< repiten
+5468,5471c1110
+< replantear
+< repositorio
+< repositorios
+< repositor
+---
+> repiten
+5473,5475c1112
+< representación
+< representados
+< representando
+---
+> representacion
+5477d1113
+< representa
+5479,5494c1115
+< representatividad
+< representativo
+< represento
+< reproductor
+< repsol
+< requerida
+< requeriría
+< requerir
+< requiere
+< requisitos
+< reservadas
+< reservado
+< resetear
+< residencia
+< resistencias
+< resistir
+---
+> resolucion
+5496,5499d1116
+< resolución
+< resolverla
+< resolverlo
+< resolvérosla
+5501,5509d1117
+< resolvérselo
+< resolviendo
+< respaldar
+< respaldo
+< respectaba
+< respecta
+< respecto
+< respetan
+< respetos
+5511,5522d1118
+< respondedor
+< responde
+< responder
+< respondido
+< respondiendo
+< responsabilidad
+< respuesta
+< respuestas
+< restaurantes
+< resto
+< restricción
+< restringido
+5524,5525d1119
+< resuelven
+< resuelve
+5527,5529d1120
+< resuerve
+< resultaban
+< resultaba
+5532,5543d1122
+< resulta
+< resultar
+< resulte
+< resúmenes
+< resumen
+< resumir
+< retirada
+< retomar
+< reto
+< retos
+< retrasada
+< retraso
+5545,5577c1124,1125
+< retroalimentación
+< reunido
+< reunimos
+< reuniones
+< reunión
+< reutilizable
+< review
+< revisada
+< revisadas
+< revisado
+< revisar
+< revisión
+< revisores
+< revista
+< revistas
+< reyes
+< ricardo
+< rica
+< ricas
+< rico
+< ricos
+< riesgo
+< riguroso
+< rigurosos
+< rinden
+< rindes
+< rindo
+< rioja
+< río
+< ritmo
+< ritmos
+< robot
+< robots
+---
+> road
+> roads
+5580,5582d1127
+< rodean
+< rodrigo
+< roja
+5585,5598d1129
+< rolling
+< rompa
+< rompiendo
+< rosa
+< rotando
+< rotondas
+< roto
+< rotos
+< rótulo
+< rozas
+< rssatom
+< rss
+< rte
+< rueda
+5600,5603c1131,1133
+< ruidosas
+< ruptura
+< ruta
+< sabéis
+---
+> run
+> s
+> sabe
+5607,5612d1136
+< sabe
+< sabes
+< sabíamos
+< sabían
+< sabía
+< sabido
+5614c1138
+< sacábamos
+---
+> sacabamos
+5616,5617d1139
+< sacado
+< sacad
+5619,5624d1140
+< sacando
+< sacan
+< sacaremos
+< sacarla
+< sacarle
+< sacarlo
+5625a1142
+> sacarle
+5627,5635c1144
+< sacó
+< sacrificarse
+< sacrificio
+< sa
+< salamanca
+< salarios
+< salas
+< saldrá
+< salen
+---
+> saint
+5637,5647d1145
+< salga
+< salían
+< salida
+< salido
+< salientes
+< salío
+< salió
+< salir
+< salsa
+< saltaba
+< saltado
+5649,5650d1146
+< salta
+< saltes
+5653,5670c1149,1151
+< saltos
+< salud
+< salvo
+< sánchez
+< sanitaria
+< san
+< santiago
+< sarkozy
+< satélites
+< satisfacción
+< satisfecho
+< saturado
+< scholar
+< screw
+< sdk
+< seáis
+< seamos
+< sean
+---
+> save
+> screen
+> se
+5672,5685c1153,1157
+< secciones
+< sección
+< secretaria
+< secreto
+< sectores
+< sector
+< secuencias
+< secundariamente
+< secundaria
+< secundario
+< secundarios
+< sede
+< sedes
+< segmentación
+---
+> seal
+> seals
+> search
+> security
+> segmentacion
+5687d1158
+< segmentarla
+5689,5694c1160,1161
+< segmentó
+< segmentos
+< seguíamos
+< seguía
+< seguido
+< seguimiento
+---
+> segmentarla
+> segmento
+5700,5702d1166
+< según
+< seguramente
+< seguridad
+5704a1169
+> seis
+5707,5709d1171
+< seis
+< seleccionadas
+< seleccionar
+5711,5712d1172
+< selección
+< sellos
+5715,5719d1174
+< semánticamente
+< semántica
+< semánticas
+< semántico
+< semánticos
+5721,5723c1176,1178
+< semejante
+< semejantes
+< semiautomática
+---
+> semantica
+> semanticamente
+> semantico
+5726,5730d1180
+< seminario
+< señalado
+< señalando
+< señalar
+< señalo
+5732,5738d1181
+< sencillamente
+< sencilla
+< sencillas
+< sencillísimo
+< sencillo
+< sencillos
+< señores
+5740,5743d1182
+< sensibilidad
+< sensible
+< sentábamos
+< sentaban
+5745,5746d1183
+< sentamos
+< sentarte
+5748d1184
+< sentidos
+5750,5753d1185
+< seo
+< sepáis
+< sepamos
+< separación
+5755d1186
+< separando
+5757,5767d1187
+< sepa
+< septiembre
+< será
+< serbia
+< seremos
+< seres
+< sería
+< serie
+< serio
+< serios
+< serrano
+5769,5771c1189,1190
+< servicio
+< servicios
+< servidores
+---
+> seres
+> seria
+5773,5778d1191
+< servirán
+< servirá
+< servirnos
+< servir
+< se
+< sé
+5780,5784d1192
+< sesgo
+< sesgos
+< sesiones
+< sesión
+< setecientos
+5786,5788c1194
+< sevilla
+< sexo
+< sgae
+---
+> ship
+5789a1196
+> si
+5792,5795d1198
+< siendo
+< sientan
+< sientas
+< siente
+5797,5800d1199
+< sigamos
+< siglo
+< significaba
+< significación
+5802,5809d1200
+< significan
+< significar
+< significa
+< significativamente
+< significativa
+< significativas
+< significativo
+< signifique
+5811,5821d1201
+< sigue
+< siguiendo
+< siguiente
+< siguientes
+< siguiera
+< siguieron
+< silencio
+< similares
+< similar
+< similitud
+< simplemente
+5822a1203
+> simplemente
+5824d1204
+< simplificando
+5826,5836d1205
+< simpson
+< simultáneamente
+< simultánea
+< sinamed
+< sinceramente
+< sinergias
+< singulares
+< singular
+< sinónimo
+< sinónimos
+< sino
+5838,5843c1207,1209
+< sintáctica
+< sintaxis
+< síntesis
+< siquiera
+< sirva
+< sirven
+---
+> sino
+> sinonimo
+> sinonimos
+5845,5846d1210
+< si
+< sí
+5849,5865c1213,1214
+< sistemáticamente
+< sistemáticas
+< site
+< sitio
+< sitios
+< situaciones
+< situación
+< situado
+< situar
+< sitúa
+< skype
+< sl
+< sms
+< snippet
+< snomed
+< sobreajuste
+< sobrepasarlo
+---
+> skip
+> sky
+5867,5878d1215
+< sobrevive
+< sociales
+< socialmente
+< social
+< sociedades
+< sociedad
+< sociocultural
+< socio
+< sofisticadas
+< sofisticado
+< software
+< sois
+5880,5887d1216
+< solapamiento
+< solares
+< sola
+< solemos
+< solicitada
+< solicitan
+< solicita
+< sólida
+5889,5896c1218
+< sólo
+< solos
+< sol
+< solucionado
+< solucionarlo
+< solucionar
+< soluciones
+< solución
+---
+> solucion
+5898,5903d1219
+< someter
+< sometidos
+< somos
+< sonar
+< sonido
+< sonología
+5905,5913c1221
+< sopa
+< soportada
+< soportadas
+< soportado
+< soportar
+< soporta
+< soporte
+< sorprendente
+< sorprender
+---
+> sonido
+5915,5918c1223
+< sorprendió
+< sorpresa
+< sostengo
+< soulseek
+---
+> sorprender
+5920,5964c1225,1229
+< spain
+< spam
+< spin-off
+< spinoff
+< spot
+< stanford
+< stem
+< stemmers
+< stones
+< strathclyde
+< strauss
+< study
+< subasta
+< subconjunto
+< subdirectorios
+< subdominios
+< subdominio
+< sube
+< subida
+< subiendo
+< subirlas
+< subjetiva
+< submisión
+< subrayar
+< subsanado
+< subtítulos
+< subunidades
+< subvencionados
+< subvencionado
+< subvencionando
+< subvenciones
+< sucios
+< sudamérica
+< sudando
+< sudán
+< suecia
+< suecos
+< sueco
+< suegra
+< sueldos
+< sueldo
+< suelen
+< suele
+< sueltas
+< suena
+---
+> speed
+> straight
+> su
+> submision
+> subtitulos
+5966,5980d1230
+< suficientemente
+< suficientes
+< suficiente
+< sufre
+< sugerencias
+< sugiere
+< sugiráis
+< suite
+< sujetos
+< suma
+< suministran
+< superarlo
+< superar
+< supera
+< supere
+5982d1231
+< superiores
+5984d1232
+< supermercados
+5985a1234
+> supermercados
+5987,6011d1235
+< suponen
+< suponer
+< supone
+< supongo
+< suponiendo
+< supuestamente
+< supuesto
+< surge
+< surgido
+< surgiendo
+< surgió
+< sur
+< suscripción
+< sus
+< sustanciales
+< sustancialmente
+< sustancial
+< sustituir
+< sustituyan
+< sustituyes
+< su
+< suv
+< suya
+< suyos
+< suyo
+6013,6016d1236
+< tablas
+< tabla
+< táctica
+< tacto
+6018,6021d1237
+< taiwán
+< tajo
+< talento
+< taller
+6023d1238
+< tamaños
+6025c1240,1241
+< también
+---
+> tamaños
+> tambien
+6027d1242
+< tanques
+6029,6031d1243
+< tantas
+< tanta
+< tantos
+6033d1244
+< tardado
+6035,6038d1245
+< tardas
+< tardebn
+< tarden
+< tardes
+6040,6073c1247,1254
+< tareas
+< tarea
+< tarjeta
+< tasa
+< taxis
+< teatro
+< teclas
+< tecleada
+< técnicamente
+< técnicas
+< técnica
+< técnicos
+< técnico
+< tecnologías
+< tecnología
+< tecnológicamente
+< tecnológicas
+< tecnológica
+< tecnológicos
+< tecnológico
+< tecnólogos
+< tejido
+< tela
+< telecom
+< telecomunicaciones
+< telefónica
+< telefónicos
+< telefónico
+< teléfonos
+< teléfono
+< telegate
+< televisión
+< televisiva
+< temas
+---
+> te
+> tecnica
+> tecnicas
+> tecnicos
+> telefonica
+> telefono
+> telefonos
+> teller
+6075,6082d1255
+< temáticas
+< temática
+< temes
+< temor
+< temo
+< temporales
+< temporal
+< tendencias
+6084,6091d1256
+< tendía
+< tendrá
+< tendremos
+< tendré
+< tendríamos
+< tendrían
+< tendría
+< tenéis
+6093,6094d1257
+< tenerla
+< tenerlo
+6096,6100d1258
+< tengáis
+< tengamos
+< tengan
+< tengas
+< tenga
+6102,6106c1260,1262
+< teníamos
+< tenían
+< tenías
+< tenía
+< tenido
+---
+> tenia
+> teniamos
+> tenian
+6108,6113d1263
+< tensiones
+< tensión
+< teorías
+< teoría
+< teórico
+< terceras
+6115d1264
+< terceros
+6117,6123d1265
+< tercer
+< tercio
+< terminación
+< terminado
+< terminando
+< terminaré
+< terminaría
+6125,6130d1266
+< terminología
+< terminológico
+< terminos
+< términos
+< termino
+< término
+6132,6136d1267
+< terrible
+< territorio
+< tesauro
+< tesis
+< tests
+6138,6139c1269,1272
+< te
+< textos
+---
+> tests
+> text
+> textbased
+> textbesed
+6141c1274
+< textuales
+---
+> textos
+6144d1276
+< that
+6146,6148d1277
+< thera
+< things
+< tic
+6150,6152d1278
+< tiendas
+< tienen
+< tienes
+6154,6162c1280,1282
+< tien
+< tierra
+< tinta
+< tíos
+< tío
+< típicas
+< típica
+< típico
+< tipos
+---
+> tienen
+> tipica
+> tipico
+6164,6171c1284,1285
+< tiraron
+< tirar
+< tiras
+< tires
+< ti
+< titulados
+< títulos
+< título
+---
+> tipos
+> titulo
+6173,6174d1286
+< toca
+< todas
+6176,6177c1288,1289
+< todavía
+< todos
+---
+> todas
+> todavia
+6179,6184c1291
+< tomábamos
+< tomadas
+< tomamos
+< tomando
+< tomará
+< tomar
+---
+> todos
+6186,6199c1293,1295
+< tonta
+< tonterías
+< tontería
+< tonto
+< topa
+< top
+< toquéis
+< torno
+< torpes
+< torponas
+< torrejón
+< torres
+< toshiba
+< totalmente
+---
+> tomar
+> topic
+> topics
+6201,6206c1297
+< to
+< tpi
+< tp
+< trabajaban
+< trabajaba
+< trabajadores
+---
+> trabaja
+6209d1299
+< trabajando
+6211,6219c1301
+< trabajáramos
+< trabajarlo
+< trabajar
+< trabajas
+< trabaja
+< trabajen
+< trabaje
+< trabajoso
+< trabajos
+---
+> trabajando
+6221,6231c1303,1304
+< trabas
+< tradicionalmente
+< tradicional
+< tradición
+< traducciones
+< traducción
+< traduces
+< traduce
+< traducido
+< traducir
+< traductores
+---
+> trabajos
+> traduccion
+6233d1305
+< traen
+6235,6243d1306
+< trae
+< tráfico
+< trámite
+< trampas
+< trampa
+< tramposo
+< transferencia
+< transferido
+< transferirlas
+6245,6247c1308
+< transfiriendo
+< transformábamos
+< transformación
+---
+> transformabamos
+6250,6270c1311,1312
+< transgénicos
+< transición
+< translingüe
+< transmisible
+< transmite
+< transmitiros
+< transmitir
+< transparencias
+< transparencia
+< trascendía
+< trascripción
+< trasladado
+< trasladaron
+< trasladar
+< traslingüe
+< trasnacionales
+< traspaso
+< tras
+< tratado
+< tratamientos
+< tratamiento
+---
+> trascripcion
+> trata
+6273,6275d1314
+< tratan
+< tratarlos
+< tratarlo
+6277,6278c1316
+< trata
+< trate
+---
+> tratarlo
+6280,6282c1318,1320
+< través
+< trece
+< trec
+---
+> tree
+> trees
+> trèfle
+6284,6288d1321
+< tremendamente
+< tremendo
+< tremento
+< trescientas
+< trescientos
+6290,6295c1323
+< tribunal
+< trigramas
+< trimestral
+< triplicar
+< triste
+< triunfado
+---
+> trescientos
+6297d1324
+< trucos
+6299,6303d1325
+< tsystems
+< tumores
+< tunas
+< turing
+< turismo
+6305,6309d1326
+< turística
+< tus
+< tu
+< tú
+< tuviera
+6311,6322c1328,1329
+< tuvo
+< tuya
+< tuyo
+< twist
+< ubicada
+< ubicarte
+< ubicar
+< últimas
+< última
+< últimos
+< último
+< unas
+---
+> ultimos
+> un
+6324d1330
+< unedes
+6326,6334c1332,1333
+< unesco
+< únicamente
+< única
+< únicos
+< único
+< unidades
+< unidad
+< unidos
+< unido
+---
+> unica
+> unico
+6336d1334
+< uniformemente
+6338,6343c1336,1337
+< unimos
+< unión
+< uni
+< universalidad
+< universal
+< universidades
+---
+> uniformemente
+> union
+6345,6351d1338
+< universitarias
+< universitarias
+< universitaria
+< universitarios
+< universitario
+< universo
+< unos
+6353,6354c1340
+< un
+< uoc
+---
+> unos
+6356,6363c1342
+< urinarias
+< urls
+< url
+< usábamos
+< usaban
+< usaba
+< usado
+< usáis
+---
+> usa
+6366,6375d1344
+< usan
+< usarán
+< usarlo
+< usar
+< usas
+< usa
+< usb
+< user
+< users
+< usos
+6377d1345
+< ustedes
+6379,6387c1347
+< usuarios
+< usuario
+< útiles
+< utilícenlo
+< utilicen
+< utilice
+< utilidad
+< utilísimo
+< utilizábamos
+---
+> ustedes
+6389,6391c1349,1350
+< utilizable
+< utilización
+< utilizador
+---
+> utilizabamos
+> utilizacion
+6392a1352
+> utilizador
+6394d1353
+< utilizando
+6396,6400c1355
+< utilizaremos
+< utilizaría
+< utilizarlas
+< utilizarla
+< utilizarlo
+---
+> utilizando
+6402,6403c1357,1358
+< utilizas
+< utiliza
+---
+> utilizaria
+> utilizarlo
+6405,6408d1359
+< utilizó
+< útil
+< u
+< uve
+6410d1360
+< vá
+6413,6436c1363
+< vacíos
+< vacunar
+< vais
+< valderrábanos
+< vale
+< valemos
+< valencia
+< valga
+< valía
+< válida
+< validación
+< validaciones
+< validado
+< validados
+< validando
+< validar
+< validation
+< validez
+< valioso
+< valium
+< valladolid
+< valoración
+< valoran
+< valorarían
+---
+> valia
+6438d1364
+< valores
+6441,6442d1366
+< variaban
+< varía
+6444,6448d1367
+< variación
+< variaciones
+< variadas
+< variante
+< variar
+6450d1368
+< variedad
+6452,6456c1370
+< vas
+< vasca
+< vasco
+< vaya
+< vayamos
+---
+> ve
+6458d1371
+< veáis
+6460,6461d1372
+< veas
+< ve
+6463d1373
+< vecindario
+6466d1375
+< vectores
+6468,6471d1376
+< vehículo
+< vehículos
+< veíamos
+< veías
+6473,6476d1377
+< veinticinco
+< veinticuatro
+< veintidós
+< veintinueve
+6478,6485c1379
+< veintiséis
+< veintisiete
+< veintitantos
+< veintiún
+< veintiuno
+< veis
+< veis
+< velocidad
+---
+> veintiun
+6489d1382
+< vendemos
+6491,6506d1383
+< venderán
+< vender
+< venderla
+< venderle
+< venderles
+< venderlo
+< vendérselo
+< vendes
+< vendía
+< vendíamos
+< vendido
+< vendiendo
+< vendiéndolo
+< vendiera
+< vendo
+< vendrán
+6508,6513d1384
+< venga
+< vengan
+< vengo
+< venía
+< veníamos
+< venido
+6516,6518d1386
+< ventaja
+< ventajas
+< ventana
+6520,6523d1387
+< veracidad
+< verán
+< verano
+< verás
+6524a1389
+> veran
+6528d1392
+< veréis
+6530,6532c1394
+< verity
+< verlo
+< versión
+---
+> version
+6534,6536d1395
+< vertical
+< verticales
+< ves
+6538d1396
+< vete
+6540,6549c1398
+< vía
+< viabilidad
+< viable
+< viajar
+< viajes
+< vías
+< vi
+< vicente
+< viceversa
+< víctor
+---
+> vias
+6552d1400
+< vídeo
+6554d1401
+< vieja
+6558,6561d1404
+< vigilancia
+< vigilar
+< vigilen
+< vigor
+6563,6573d1405
+< vinculación
+< vinculados
+< viniera
+< vinieron
+< vino
+< vio
+< violencia
+< violín
+< virtual
+< virtuales
+< visibilidad
+6575,6589d1406
+< visibles
+< visión
+< visiones
+< visita
+< visitada
+< visitadas
+< visitan
+< visitando
+< visitante
+< visitantes
+< visitar
+< visitarnos
+< visitas
+< visiten
+< visito
+6591,6592d1407
+< vistas
+< vistazo
+6596,6602d1410
+< visualización
+< viva
+< vive
+< viven
+< vivido
+< viviendo
+< vivimos
+6604d1411
+< vivís
+6606d1412
+< vocablos
+6608,6612d1413
+< vocabularios
+< vocación
+< volcado
+< volcarlas
+< volcarnos
+6614,6624d1414
+< volumen
+< volúmenes
+< voluntad
+< voluntariado
+< voluntarios
+< volvemos
+< volver
+< volveremos
+< volverla
+< volvía
+< vosotros
+6627,6641c1417
+< voz
+< vuelta
+< vueltas
+< vuelto
+< vuelva
+< vuelvas
+< vuelve
+< vuelven
+< vuelvo
+< vuestra
+< vuestras
+< vuestro
+< vuestros
+< wap
+< way
+---
+> water
+6643,6649c1419
+< webmaster
+< webometras
+< webometría
+< webometrics
+< webs
+< webtrends
+< wikipedia
+---
+> will
+6652,6659d1421
+< wordperfect
+< words
+< workflow
+< yahoo
+< yasir
+< ya
+< yell
+< yendo
+6661,6662c1423
+< york
+< youtube
+---
+> ya
+6664,6668c1425
+< zagreb
+< zapaterías
+< zapatería
+< zapatos
+< zaragoza
+---
+> york
+6670,6671d1426
+< zurich
+< 
